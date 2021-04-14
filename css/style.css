@@ -177,7 +177,7 @@ header {
     z-index: 100;
     max-width: 700px;
     align-content: flex-end;
-    border: #B6F29D 10px solid;
+    border: #B6F29D 1px solid;
     border-right: none;
 
     transform: translate(100%);
