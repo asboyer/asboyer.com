@@ -667,6 +667,7 @@ header {
     color: var(--clr-light);
     text-align: center;
     padding: 2em 2em;
+    margin-bottom: 50px;
 }
 
 .section__subtitle--blog {
@@ -888,8 +889,11 @@ header {
 
 .section__title--blogpost {
     
-
 } 
+
+.section__subtitle--blogpost {
+    text-align: center;
+}
 
 .blogpost h1 {
     font-weight: var(--fw-reg);
