@@ -554,6 +554,7 @@ header {
 .about-me {
     max-width: 1050px;
     padding: 50px;
+    padding-bottom: 150px;
     margin: 0 auto;
     background-color: var(--clr-dark);
     background-image: url(../img/backgrounds/code/code.jpg);
