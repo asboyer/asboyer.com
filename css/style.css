@@ -906,7 +906,6 @@ header {
 /* blog post */
 
 .blogpost {
-    border: #B6F29D 5px solid;
     background-size: cover;
     background-blend-mode: multiply;
     background-color: var(--clr-dark);
