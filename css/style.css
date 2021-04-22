@@ -933,11 +933,9 @@ header {
     content: '';
     display: block;
     width: 50%;
-    height: 15px;
-    border: #111 5px solid;
+    height: 10px;
     margin: 0.5em auto 0.25em;
-    background: var(--clr-accent);
-    opacity: 0.5;
+    background: #B6F29D;
 }
 
 .section__subtitle--blogpost {
@@ -955,7 +953,8 @@ header {
 
 .section-header {
     color: var(--clr-accent);
-    font-size: 50px;
+    font-size: 40px;
+    text-decoration: overline;
     padding-bottom: 10px;
 }
 
