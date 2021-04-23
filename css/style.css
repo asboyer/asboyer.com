@@ -978,3 +978,32 @@ header {
     border: #B6F29D 5px solid;
 
 }
+
+/* code block styling */
+
+.code-block {
+  font-family: monospace;
+  background: var(--clr-dark);
+  border-radius: 25px;
+  padding: 10px;
+  font-size: 20px;
+  line-height: 150%;
+  padding-left: 25px;
+  color: white;
+}
+
+.blue {
+    color: #67D8EF;
+}
+
+.yellow {
+    color: #E7DB74;
+}
+
+.comment {
+    color: #74705D;
+}
+
+.red {
+    color: #EA246B;
+}
