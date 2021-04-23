@@ -976,8 +976,20 @@ header {
     float: right;
     margin: 25px;
     border: #B6F29D 5px solid;
-
 }
+
+.blogpost__img__center {
+    box-shadow: var(--bs);
+    justify-content: center;
+    display: block;
+    margin: 25px;
+    border: #B6F29D 5px solid;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
 
 /* code block styling */
 
@@ -1000,10 +1012,6 @@ header {
     color: #E7DB74;
 }
 
-.comment {
-    color: #74705D;
-}
-
 .red {
     color: #EA246B;
 }
@@ -1016,16 +1024,12 @@ header {
     color: #FD9622;
 }
 
-.blogpost__img__center {
-    box-shadow: var(--bs);
-    justify-content: center;
-    display: block;
-    margin: 25px;
-    border: #B6F29D 5px solid;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
+.white {
+    color: white;
+}
+
+.comment {
+    color: #74705D;
 }
 
 .inline {
@@ -1033,6 +1037,13 @@ header {
     border-radius: 25px;
     padding: 5px;
     color: var(--clr-accent);
+}
+
+.inline-custom {
+    background: var(--clr-dark);
+    border-radius: 25px;
+    padding: 5px;
+    color: white;
 }
 
 .indent-0 {
@@ -1045,4 +1056,10 @@ header {
 
 .indent-2 {
     margin-left: 60px;
+}
+
+.term {
+    font-family: var(--ff-secondary);
+    font-weight: var(--fw-bold);
+    color: var(--clr-accent);
 }

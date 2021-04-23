@@ -113,7 +113,7 @@
                 <h2 class="section-header">Your first Java program</h2>
 
                 <p>
-                Like any other programming language, our first program in Java <em>must</em> be to print <code class="inline">Hello World!</code> It's tradition. 
+                Like any other programming language, our first program in Java <em>must</em> be to print <code class="inline">Hello World!</code> It's just tradition. 
                 </p>
 
                 <div class="code-block">
@@ -127,15 +127,20 @@
                         <br>
 
                         <span class="indent-1">
-                            <span class="red">public static</span> <span class="blue"><em>void</em></span> <span class="green">main</span>(<span class="blue"><em>String</em></span><span class="red">[] </span><span class="orange"><em>args</em></span>) {
+                            <span class="red">public static</span> 
+                            <span class="blue"><em>void</em></span> 
+                            <span class="green">main</span>(<span class="blue"><em>String</em></span><span class="red">[] </span>
+                            <span class="orange"><em>args</em></span>) {
                         </span>
                         
+                        <br>
                         <br>
 
                         <span class="indent-2">
                             <span class="blue"><em>System</em></span>.out.<span class="blue">println</span>(<span class="yellow">"Hello World!"</span>);
                         </span>
 
+                        <br>
                         <br>
                         
                         <span class="indent-2">    
@@ -146,6 +151,19 @@
                         
                         <span class="indent-2">
                             <span class="comment">// by the way, this is a comment</span>
+                        </span>
+
+                        <br>
+                        <br>
+
+                        <span class="indent-2">    
+                            <span class="comment">/* this is a multi-line</span>
+                        </span>
+                        
+                        <br>
+                        
+                        <span class="indent-2">
+                            <span class="comment">comment, written by Andrew Boyer */</span>
                         </span>
 
                         <br>
@@ -166,22 +184,51 @@
                 <p class="break"></p>
 
                 <p>
-                Let's break down everything going on here. As it appears, it takes a bit more effort to get a Java program up and going, especially if you are coming from a scripting language like Python, where all you need is <code class="inline">print('Hello World!')</code>. For those following along, you can run this program in your terminal like this:
+                Let's break down everything going on here. As it appears, it takes a bit more effort to get a Java program up and going, especially if you are coming from a scripting language like Python, where all you need is 
+                
+                <code class="inline"><span class="blue">print</span><span class="white">(</span><span class="yellow">"Hello World!"</span><span class="white">)</span></code>. 
+
+                For those following along, you can run this program in your terminal like this:
                 </p>
 
                 <p class="break"></p>
 
                 <code class="inline">$ javac HelloWorld.java && java HelloWorld</code>
-                </p>
 
                 <p>
-                This code will of course then print <code>Hello World!</code> to the console. Please not that the name of your file must be <code class="inline">HelloWorld.java</code> if you're class name is <code class="inline">HelloWorld</code>. In other words, the name of your file <em>must</em> be the name of your class.
+                This code will, of course, print <code class="inline">Hello World!</code> to the console. Please note that the name of your file must be <code class="inline">HelloWorld.java</code> if you're class name is <code class="inline">HelloWorld</code>. In other words, the name of your file <em>must</em> be the name of your class.
                 </p>
 
                 <p class="break"></p>
 
                 <p>
+                Okay, now we can get into what is really going on here, starting with 
+                <code class="inline-custom"><span class="blue"><em>class</em></span> <span class="green">HelloWorld</span></code>. This line is called a <span class="term">class definition</span>. The line uses the keyword <span class="term">class</span> to declare that a new class is being defined. A Class in Java is like an object constructor, which is the basis for everything in Java, because Java is an object-oriented programming language. The contents of the class is everything in between the corresponding curly braces <code class="inline-custom">{ }</code>. <code class="inline-custom"><span class="green">HelloWorld</span></code> is an identifier that is the name of the class.
+                </p>
+
+                <p class="break"></p>
+
+                <p>
+                The next line of code in our program is called the <span class="term">main method</span>. In Java, every program must contain this method. The main method is the "entry point" for the program, and this is the code that actually "runs" when we run the program. Code outside of the main method will not execute unless it is being called from inside the main method. But, this main method is a pretty complicated line of code:
+                </p>
+
+                <p class="break"></p>
+
+                <code class="inline-custom">
+                    <span class="red">public static</span> 
+                    <span class="blue"><em>void</em></span> 
+                    <span class="green">main</span>(<span class="blue"><em>String</em></span><span class="red">[] </span>
+                    <span class="orange"><em>args</em></span>)
+                </code>
                 
+                <p>
+                Let's go from left to right. The <code class="inline-custom"><span class="red">public</span></code> is so that the <span class="term">Java Virtual Machine</span> (JVM) can execute the method from anywhere. The specifics behind the JVM and how is works is enough for an entirely different blog post, so I will skip on the details for that. Next, we have <code class="inline-custom"><span class="red">static</span></code>, which is there so that the main method can be called without an object. The <code class="inline-custom"><span class="blue">void</span></code> is there to specify that the method doesn't return anything. We have the <code class="inline-custom"><span class="green">main</span>()</code> because that is the name configured in the JVM, and <code class="inline-custom"><span class="blue"><em>String</em></span><span class="red">[] </span> <span class="orange"><em>args</em></span></code> is there because the main method accepts a single argument: an array of elements of type String (the name of the array is "args").
+                </p>
+
+                <p class="break"></p>
+
+                <p>
+                So, now we know what a <span class="term">Class Declaration</span> is and why we need a <span class="term">Main Method</span>. Let's move onto analyzing the actual code that is running.                                                                                                      
                 </p>
 
             </div>
