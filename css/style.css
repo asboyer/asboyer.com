@@ -986,7 +986,7 @@ header {
   background: var(--clr-dark);
   border-radius: 25px;
   padding: 10px;
-  font-size: 20px;
+  font-size: 15px;
   line-height: 150%;
   padding-left: 25px;
   color: white;
@@ -1008,6 +1008,14 @@ header {
     color: #EA246B;
 }
 
+.green {
+    color: #A6E22B;
+}
+
+.orange {
+    color: #FD9622;
+}
+
 .blogpost__img__center {
     box-shadow: var(--bs);
     justify-content: center;
@@ -1025,4 +1033,16 @@ header {
     border-radius: 25px;
     padding: 5px;
     color: var(--clr-accent);
+}
+
+.indent-0 {
+
+}
+
+.indent-1 {
+    margin-left: 30px;
+}
+
+.indent-2 {
+    margin-left: 60px;
 }
