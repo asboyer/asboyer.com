@@ -1110,6 +1110,8 @@ header {
 .album__container {
     position: relative;
     border: #111 5px solid;
+    max-width: 500px;
+    min-width: 400px;
 }
 
 
@@ -1159,6 +1161,32 @@ header {
 
 }
 
+.tracks {
+    font-weight: var(--fw-bold);
+    font-size: 20px;
+    text-decoration: underline;
+    margin-bottom: 5px;
+}
+
+.tracklist {
+    list-style: none;
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    align-items: center;
+    padding-right: 40px;
+    font-family: var(--ff-secondary);
+    letter-spacing: 0.1em;
+    font-weight: var(--fw-reg);
+    font-size: 15px;
+    white-space: nowrap;
+}
+
+/*.the-tracks {
+    outline: #B6F29D 5px solid;
+    padding: 5px;
+}
+*/
 /* music choices */
 
 .my-music-choices {
