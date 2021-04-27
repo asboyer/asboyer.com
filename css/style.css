@@ -1071,7 +1071,8 @@ header {
     color: var(--clr-light);
     text-align: center;
     padding: 2em 2em;
-    margin-bottom: 50px;
+    padding-bottom: 100px;
+    
 }
 
 .section__title--albums {
@@ -1245,5 +1246,16 @@ header {
     transform: translate(-50%, -50%);
     text-align: center;
     font-weight: var(--fw-bold);
+
+}
+
+/* songs */
+.my-songs {
+    background-color: var(--clr-accent);
+    color: var(--clr-light);
+    text-align: center;
+    padding: 2em 2em;
+    padding-bottom: 100px;
+    border-top: #111 50px solid;
 
 }
