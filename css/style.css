@@ -1265,7 +1265,7 @@ header {
 .songs {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    max-width: 1800px;
+    /*max-width: 1800px;*/
     gap: 20px;
     margin: 0 auto;
     margin-left: auto;
