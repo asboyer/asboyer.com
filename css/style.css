@@ -572,6 +572,7 @@ header {
     margin-bottom: 50px;
     box-shadow: var(--bs);
     border: #B6F29D 2px solid;
+    min-width: 200px;
     transition: transform 250ms ease-in-out;
 
 }
