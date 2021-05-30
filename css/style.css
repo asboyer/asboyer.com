@@ -806,8 +806,8 @@ header {
     background-size: cover;
     background-blend-mode: multiply;
     text-align: center;
-    padding-right: 50px;
-    padding-left: 50px;
+/*    padding-right: 100px;
+    padding-left: 100px;*/
 }
 
 .section__title--tools {
@@ -828,21 +828,21 @@ header {
 }
 
 .tools {
-    margin-bottom: 5em;
-    max-width: 2000px;
+    margin-bottom: 3em;
+    max-width: 2500px;
 
 
 }
 
 .tool {
-    max-width: 350px;
+    max-width: 300px;
     margin: 0 auto;
     font-family: var(--ff-secondary);
     border: #111 10px solid;
     background: #282923;
     transition: transform 250ms ease-in-out;
-    margin: 40px;
-    margin-bottom: 10px;
+    margin: 0 auto;
+    margin-bottom: 25px;
 
 }
 
@@ -868,7 +868,7 @@ header {
         grid-gap: 1em;
         margin-left: auto;
         margin-right: auto;
-        grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 
 
     }
