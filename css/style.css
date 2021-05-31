@@ -88,6 +88,31 @@ html {
     transform: scale(1.25);
 }
 
+
+.special_btn {
+    margin: 0;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    padding: .5em 1.5em;
+    background: var(--clr-dark);
+    font-weight: var(--fw-bold);
+    border-color: var(--clr-accent);
+    text-decoration: none;
+    color: var(--clr-accent);
+    cursor: pointer;
+    font-size: .8rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    transition: transform 250ms ease-in-out;
+    border-radius: 5px;
+}
+
+.special_btn:hover {
+    transform: scale(1.1);
+}
+
+
 /* Typography */
 
 strong {
