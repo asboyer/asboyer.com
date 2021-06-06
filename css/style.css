@@ -1288,6 +1288,16 @@ header {
 
 }
 
+.all-my-songs {
+    background-color: var(--clr-accent);
+    color: var(--clr-light);
+    text-align: center;
+    padding: 2em 2em;
+    /*padding-bottom: 100px;*/
+    border-top: #111 50px solid;
+
+}
+
 .songs {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -1351,14 +1361,14 @@ header {
     color: var(--clr-light);
     text-align: center;
     padding: 2em 2em;
-    padding-bottom: 100px;
+    /*padding-bottom: 100px;*/
     
 }
 
 .all-albums {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    /*max-width: px;*/
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    max-width: 2000px;
     gap: 25px;
     margin: 0 auto;
 }
