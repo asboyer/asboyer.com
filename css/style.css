@@ -1128,9 +1128,9 @@ header {
 
 .albums {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
     max-width: 1500px;
-    gap: 90px;
+    gap: 50px;
     margin: 0 auto;
 }
 
@@ -1331,6 +1331,68 @@ header {
 }
 
 .song__container:hover .song_overlay {
+    opacity: 1;
+}
+
+.album-text {
+    color: var(--clr-accent);
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.all-my-albums {
+    background-color: var(--clr-accent);
+    color: var(--clr-light);
+    text-align: center;
+    padding: 2em 2em;
+    padding-bottom: 100px;
+    
+}
+
+.all-albums {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    /*max-width: px;*/
+    gap: 25px;
+    margin: 0 auto;
+}
+
+.all-album__container {
+    position: relative;
+    border: #111 5px solid;
+    max-width: 300px;
+    min-width: 300px;
+    margin: 0 auto;
+
+}
+
+
+.album__item {
+    display: block;
+    width: 100%
+    height: auto;
+}
+
+.album_overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: 0.75s ease-in-out;
+    background-color: var(--clr-darker);
+}
+
+.all-album__container:hover .album_overlay {
     opacity: 1;
 }
 
