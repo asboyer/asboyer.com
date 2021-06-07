@@ -1417,3 +1417,39 @@ header {
     transform: translate(-50%, -50%);
     text-align: center;
 }
+
+/* movies  */
+.my-movies {
+    background-color: var(--clr-darker);
+    border: #B6F29D 1px solid;
+    color: var(--clr-light);
+    text-align: center;
+    padding: 2em 2em;
+    /*padding-bottom: 100px;*/
+    
+}
+
+.section__title--movies {
+    color: var(--clr-accent);
+}
+
+.section__subtitle--movies {
+    color: var(--clr-accent);
+    font-weight: var(--fw-bold);
+    margin-bottom: 2em;
+}
+
+.section__subtitle--movies strong {
+    -webkit-text-stroke: 2px var(--clr-dark);
+
+}
+
+.section__title--movies::after {
+    content: '';
+    display: block;
+    width: 25%;
+    height: 10px;
+    margin: 0.5em auto 0.5em;
+    background: var(--clr-accent);
+    opacity: 0.5;
+}
