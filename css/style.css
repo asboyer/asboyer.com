@@ -1453,3 +1453,43 @@ header {
     background: var(--clr-accent);
     opacity: 0.5;
 }
+
+.movies {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+    max-width: 1500px;
+    gap: 50px;
+    margin: 0 auto;
+}
+
+.movie__container {
+    position: relative;
+    border: #B6F29D 5px solid;
+    max-width: 500px;
+    min-width: 400px;
+    margin: 0 auto;
+
+}
+
+.movie__item {
+    display: block;
+    width: 100%
+    height: auto;
+}
+
+.movie_overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: 0.75s ease-in-out;
+    background-color: var(--clr-darker);
+}
+
+.movie__container:hover .movie_overlay {
+    opacity: 1;
+}
