@@ -1523,7 +1523,7 @@ header {
 .book-choices {
     display: grid;
     grid-template-columns: repeat(3, 2fr);
-    max-width: 10000px;
+    max-width: 1600px;
     gap: 50px;
     margin: 0 auto;
 }
