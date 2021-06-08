@@ -1265,7 +1265,8 @@ header {
 
 .choice-text {
     color: var(--clr-accent);
-    font-size: 50px;
+    font-size: 50px; 
+    /* possible bug: text not resizing */
     position: absolute;
     top: 50%;
     left: 50%;
