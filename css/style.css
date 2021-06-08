@@ -1511,3 +1511,64 @@ header {
     font-weight: var(--fw-bold)
 
 }
+
+/* books */
+.my-books {
+    background-color: var(--clr-dark);
+    color: var(--clr-light);
+    border: #111 5px solid;
+    text-align: center;
+}
+
+.book-choices {
+    display: grid;
+    grid-template-columns: repeat(3, 2fr);
+    max-width: 10000px;
+    gap: 50px;
+    margin: 0 auto;
+}
+
+
+.book-choice__container {
+    position: relative;
+    border: #111 5px solid;
+    background-color: var(--clr-darker);
+
+
+}
+
+.book-choice__container:hover .book-choice_overlay {
+    opacity: 1;
+}
+
+.book-choice__item {
+    color: var(--clr-darker);
+
+}
+
+.book-choice_overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: 0.75s ease-in-out;
+    background-color: var(--clr-darker);
+}
+
+.book-choice-text {
+    color: var(--clr-accent);
+    font-size: 50px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-weight: var(--fw-bold);
+
+}
