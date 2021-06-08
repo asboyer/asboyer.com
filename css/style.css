@@ -1226,7 +1226,7 @@ header {
 
 .choices {
     display: grid;
-    grid-template-columns: repeat(2, 2fr);
+    grid-template-columns: repeat(auto-fit, minmax(330px, 1fr));
     max-width: 1000px;
     gap: 50px;
     margin: 0 auto;
@@ -1236,6 +1236,7 @@ header {
 .choice__container {
     position: relative;
     border: #111 5px solid;
+    max-width: 500px;
     background-color: var(--clr-accent);
 
 
@@ -1266,7 +1267,6 @@ header {
 .choice-text {
     color: var(--clr-accent);
     font-size: 50px; 
-    /* possible bug: text not resizing */
     position: absolute;
     top: 50%;
     left: 50%;
@@ -1523,7 +1523,7 @@ header {
 
 .book-choices {
     display: grid;
-    grid-template-columns: repeat(3, 2fr);
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
     max-width: 1600px;
     gap: 50px;
     margin: 0 auto;
@@ -1572,4 +1572,31 @@ header {
     text-align: center;
     font-weight: var(--fw-bold);
 
+}
+
+/* library */
+.h2-library {
+    color: var(--clr-accent);
+}
+
+.p-library {
+    color: var(--clr-accent);
+    margin-bottom: 2em;
+
+}
+
+.p-library strong {
+    -webkit-text-stroke: 2px var(--clr-dark);
+    font-size: 25px;
+
+}
+
+.h2-library::after {
+    content: '';
+    display: block;
+    width: 25%;
+    height: 10px;
+    margin: 0.5em auto 0.5em;
+    background: var(--clr-accent);
+    opacity: 0.5;
 }
