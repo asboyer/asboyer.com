@@ -1572,3 +1572,32 @@ header {
     font-weight: var(--fw-bold);
 
 }
+
+/* library */
+.h2-library {
+    color: var(--clr-accent);
+}
+
+.p-library {
+    color: var(--clr-accent);
+    margin-bottom: 2em;
+}
+
+.p-library-instructions{
+    color: var(--clr-light);
+}
+
+.section__subtitle--library strong {
+    -webkit-text-stroke: 2px var(--clr-dark);
+
+}
+
+.h2-library::after {
+    content: '';
+    display: block;
+    width: 25%;
+    height: 10px;
+    margin: 0.5em auto 0.5em;
+    background: var(--clr-accent);
+    opacity: 0.5;
+}
