@@ -1226,7 +1226,7 @@ header {
 
 .choices {
     display: grid;
-    grid-template-columns: repeat(2, 2fr);
+    grid-template-columns: repeat(auto-fit, minmax(330px, 1fr));
     max-width: 1000px;
     gap: 50px;
     margin: 0 auto;
@@ -1236,6 +1236,7 @@ header {
 .choice__container {
     position: relative;
     border: #111 5px solid;
+    max-width: 500px;
     background-color: var(--clr-accent);
 
 
@@ -1266,7 +1267,6 @@ header {
 .choice-text {
     color: var(--clr-accent);
     font-size: 50px; 
-    /* possible bug: text not resizing */
     position: absolute;
     top: 50%;
     left: 50%;
