@@ -1128,7 +1128,7 @@ header {
 
 .albums {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(430px, 1fr));
     max-width: 1500px;
     gap: 50px;
     margin: 0 auto;
@@ -1137,7 +1137,7 @@ header {
 .album__container {
     position: relative;
     border: #111 5px solid;
-    max-width: 500px;
+    /*max-width: 475px;*/
     min-width: 450px;
     margin: 0 auto;
 
