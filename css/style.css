@@ -1718,14 +1718,22 @@ header {
 }
 
 /* notes  */
-.notes {
+
+.notes{
     background-color: var(--clr-dark);
     border: #111 5px solid;
     color: var(--clr-light);
     text-align: center;
     padding: 2em 2em;
+    margin: 0 auto;
+
+
+}
+
+.notes-body {
     display: flex;
-    align-items: center;
+    margin: auto;
+    width: 50%;
 }
 
 .notes__book__container {
@@ -1795,4 +1803,32 @@ header {
     line-height: 200%;
     word-spacing: 1.5px;
     border-radius: 25px;
+}
+
+.notes-title {
+    font-size: 25px;
+    max-width: 800px;
+    background: var(--clr-darker);
+    padding: 20px;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 25px;
+    font-weight: var(--fw-bold);
+    border: #B6F29D 2.5px solid;
+    margin-bottom: 10px;
+    color: var(--clr-accent);
+}
+
+.notes-title::after {
+    content: '';
+    display: block;
+    width: 50%;
+    height: 10px;
+    margin: 0.5em auto 0.25em;
+    background: #B6F29D;
+}
+
+.notes-text-section {
+    margin-left: 50px;
+    vertical-align: text-top;
 }
