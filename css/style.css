@@ -1639,7 +1639,7 @@ header {
 .books {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    max-width: 2500px;
+    max-width: 1500px;
     gap: 50px;
     margin: 0 auto;
 }
@@ -1711,7 +1711,7 @@ header {
     font-family: var(--ff-secondary);
     font-weight: var(--fw-bold);
     color: var(--clr-dark);
-    margin-bottom: 1em;
+    margin-top: 3em;
     padding: 0.5em;
     border-radius: 5px;
     display: inline-block;
