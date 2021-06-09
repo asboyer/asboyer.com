@@ -1802,12 +1802,14 @@ header {
     background: var(--clr-darker);
     border: #B6F29D 2.5px solid;
     /*max-width: 800px;*/
-    font-size: 15px;
+    font-size: 18px;
     font-family: var(--ff-secondary);
-    line-height: 200%;
-    word-spacing: 1.5px;
+    /*line-height: 200%;*/
+    word-spacing: 0.1px;
     border-radius: 5px;
     margin: 0 auto;
+    font-family: monospace;
+
     /*min-width: 1000px;*/
 }
 
@@ -1856,7 +1858,7 @@ header {
     font-weight: var(--fw-bold);
 }
 
-@media (min-width: 1750px) {
+@media (min-width: 1550px) {
 
     .notes-body {
         display: flex;
@@ -1868,11 +1870,13 @@ header {
         background: var(--clr-darker);
         border: #B6F29D 2.5px solid;
         /*max-width: 800px;*/
-        font-size: 15px;
+        font-size: 18px;
         font-family: var(--ff-secondary);
-        line-height: 200%;
-        word-spacing: 1.5px;
+        /*line-height: 200%;*/
+        word-spacing: 0.1px;
+
         border-radius: 5px;
+        font-family: monospace;
         margin: 0 auto;
         min-width: 700px;
     }
