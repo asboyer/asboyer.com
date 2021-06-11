@@ -765,14 +765,20 @@ header {
     text-align: center;
 }
 
-.subject {
-    font-size: 15px;
+.date {
+    font-size: 20px;
 
 }
 
 .title {
-    font-size: 25px;
+    font-size: 40px;
     font-weight: var(--fw-bold)
+}
+
+.subject {
+    font-size: 15px;
+    font-style:  italic;
+
 }
 
 .soon {
@@ -921,6 +927,7 @@ header {
 .section__subtitle--soon {
     text-align: center;
     font-weight: var(--fw-reg);
+    font-family: monospace;
 }
 
 .soon h1 {
@@ -1014,6 +1021,10 @@ header {
     margin-left: auto;
     margin-right: auto;
     width: 100%;
+}
+
+.inline-link {
+    color: var(--clr-accent);
 }
 
 
