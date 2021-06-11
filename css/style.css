@@ -106,6 +106,7 @@ html {
     letter-spacing: 2px;
     transition: transform 250ms ease-in-out;
     border-radius: 5px;
+    max-width: 200px;
 }
 
 .special_btn:hover {
