@@ -1991,11 +1991,15 @@ header {
 }
 
 
-.title {
+.news-title {
     font-size: 20px;
     font-weight: var(--fw-bold)
 }
 
 .publication {
     font-size: 15px;
+}
+
+.news-date {
+    font-size: 12.5px;
 }
