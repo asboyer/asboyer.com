@@ -9,7 +9,6 @@
 # Andrew Boyer's Personal Website
 > *blocked at Wayland High School for some reason, currently working on getting it approved on the network*
 
-> *also working on buying asboyer.com and boyer.com*
 
 ## Sections:
 * [Home](https://andrewsboyer.com/#home)
@@ -81,8 +80,6 @@
 > - [ ] Consistently add notes on books I'm reading to the bookshelf notes
 > - [ ] Rework entire `about` section, it could look better
 > - [ ] Make the website more responsive overall, especially for mobile users (use Bootstrap or Django possibly?) 
-> - [ ] Get asboyer.com
-> - [ ] Get boyer.com
 
 ***
 
