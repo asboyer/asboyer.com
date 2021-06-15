@@ -57,26 +57,26 @@
 
 
 > ### Working on:
-> [ ] Predicting NBA with Python blog post
-> [ ] All time books section
-> [ ] Reading list section
-> [ ] Awards and honors section
-> [ ] Podcast section
-> [ ] Adding physical articles into "in the news" section
+> - [ ] Predicting NBA with Python blog post
+> - [ ] All time books section
+> - [ ] Reading list section
+> - [ ] Awards and honors section
+> - [ ] Podcast section
+> - [ ] Adding physical articles into "in the news" section
 
 > ### Ideas:
-> [ ] Add language I am learning in technologies section
-> [ ] Favorite Spotify playlists music section
-> [ ] Mixes available for download music section 
-> [ ] Need more interactive user features
+> - [ ] Add language I am learning in technologies section
+> - [ ] Favorite Spotify playlists music section
+> - [ ] Mixes available for download music section 
+> - [ ] Need more interactive user features
 
 > ### Long term goals for the site:
-> [ ] Make for easier domain navigation, so rather than typing andrewsboyer.com/#about, type andrewsboyer.com/about or rather than typing andrewsboyer.com/music.html, just type andrewsboyer.com/music *need to learn how to do this*
-> [ ] Create some kind of consistency around blog posts and optimize that workflow
-> [ ] Consistently add notes on books I'm reading to the bookshelf notes
-> [ ] Rework entire `about` section, it could look better
-> [ ] Make the website more responsive overall, especially for mobile users (use Bootstrap or Django possibly?) 
-> [ ] Get asboyer.com
-> [ ] Get boyer.com
+> - [ ] Make for easier domain navigation, so rather than typing andrewsboyer.com/#about, type andrewsboyer.com/about or rather than typing andrewsboyer.com/music.html, just type andrewsboyer.com/music *need to learn how to do this*
+> - [ ] Create some kind of consistency around blog posts and optimize that workflow
+> - [ ] Consistently add notes on books I'm reading to the bookshelf notes
+> - [ ] Rework entire `about` section, it could look better
+> - [ ] Make the website more responsive overall, especially for mobile users (use Bootstrap or Django possibly?) 
+> - [ ] Get asboyer.com
+> - [ ] Get boyer.com
 
 > *I created this website with the intention of building a website from absolute scratch to learn the basics of HTML and CSS. I will be now trying to add as much JavaScript to the site as possible, as I am focusing on improving my fronted development skills*
