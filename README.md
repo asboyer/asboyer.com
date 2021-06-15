@@ -24,6 +24,8 @@
     * I see the most potential here, yet I haven't made a single blog post
     * Possible blog post ideas:
         * How GoatGrade predicted the NBA MVP *(in the works)*
+        * Resources for self-leaning programming *(I like this idea)*
+        * What I will be trying to learn over the summer *(I like this idea)*
         * Prepping for the AP Computer Science Exam *(shelved for now)*
         * Tutorials *(maybe a guide through some cool projects for beginners?)*
         * Historical accuracy of *Saving Private Ryan* *(history paper but I could post it on the blog)*
@@ -66,6 +68,8 @@
 > - [ ] Adding physical articles into "in the news" section
 
 ### Ideas:
+> - [ ] Self learning computer science resources
+> - [ ] What I am trying to learn this summer and resources I am using
 > - [ ] Add language I am learning in technologies section
 > - [ ] Favorite Spotify playlists music section
 > - [ ] Mixes available for download music section 
