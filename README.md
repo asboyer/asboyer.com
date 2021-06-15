@@ -8,6 +8,7 @@
 
 # Andrew Boyer's Personal Website
 > *blocked at Wayland High School for some reason, currently working on getting it approved on the network*
+
 > *also working on buying asboyer.com and boyer.com*
 
 ## Sections:
