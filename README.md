@@ -65,6 +65,8 @@
 > - [ ] Awards and honors section
 > - [ ] Podcast section
 > - [ ] Adding physical articles into "in the news" section
+> - [ ] Need to organize CSS (getting too large of a file)
+> - [ ] Page organization
 
 ### Ideas:
 > - [ ] Self learning computer science resources
