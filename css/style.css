@@ -106,11 +106,11 @@ html {
     letter-spacing: 2px;
     transition: transform 250ms ease-in-out;
     border-radius: 5px;
-    max-width: 200px;
+    max-width: 250px;
 }
 
 .special_btn:hover {
-    transform: scale(1.1);
+    transform: scale(1.01);
 }
 
 
@@ -679,13 +679,110 @@ header {
         position: relative;
         padding-left: 10px;
     }
+    #button2, #button3 {
+        margin-left:  15px;
+    }
+
+    .special_btn:hover {
+        transform: scale(1.1);
+    }
+
+}
+
+@media (min-width: 1253px){
+    .about-me {
+        display: grid;
+        grid-template-columns: 1fr 250px;
+        grid-template-areas:
+            "title img"
+            "subtitle img"
+            "text img";
+
+        grid-column-gap: 0em;
+
+    }
+    .section__title--about {
+        font-size: 125px;
+        margin-top: 150px;
+        grid-area: title;
+    }
+
+    .images {
+        margin-top: 125px;
+        display: block;
+        max-width: 300px;
+        grid-area: img;
+
+        justify-content: center;
+        position: relative;
+    }
+
+    .section__subtitle--about {
+        max-width: 650px;
+        grid-row: 2;
+        align-self: start;
+        position: relative;
+        padding-left: 10px;
+    }
 
 
 }
+
+@media (max-width: 950px) {
+    #button1, #button2, #button3 {
+        display:inline-block;
+
+    }
+    #button2, #button3 {
+        margin-top:  15px;
+    }
+
+}
+
+/*@media(max-width: 1255px){
+    #button2 {
+    }
+    .extra-info {
+        margin-left:  200px;
+    } 
+    #button1 , #button2 {
+        display:inline-block;
+
+    }
+}
+
+@media(max-width: 1200px){
+    #button2 {
+        margin-top: 20px;
+    }
+    .extra-info {
+        margin-left:  300px;
+    }
+}
+
+@media(max-width: 1120px){
+    .extra-info {
+        margin: 0 auto;
+    }
+
+}*/
+
+
+#button1, #button2, #button3 {
+    display:inline-block;
+
+}
+
+
+
 
 .more-button {
     text-align: center;
 }
+
+
+
+
 
 /* Blog */
 
@@ -1991,11 +2088,15 @@ header {
 }
 
 
-.title {
+.news-title {
     font-size: 20px;
     font-weight: var(--fw-bold)
 }
 
 .publication {
     font-size: 15px;
+}
+
+.news-date {
+    font-size: 12.5px;
 }
