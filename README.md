@@ -37,7 +37,7 @@
 * [About](https://asboyer.com/#about)
     * A little blurb about myself, who I am, and what I believe
     * Buttons with links to articles I've been in, awards I've won, and my podcasts
-        * [In the news](https://asboyer.com/news.html)
+        * [In the news](https://asboyer.com/news)
         * Awards and honors *coming soon*
         * Podcasts *coming soon*
     * Buttons with links to all my favorite things
