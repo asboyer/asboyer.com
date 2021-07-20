@@ -33,3 +33,28 @@ def music_current():
 @app.route("/music/all-time")
 def music_all():
     return render_template("favorites/music/all-time.html")
+
+# movies
+@app.route("/movies")
+def movies():
+    return render_template("favorites/movies/movies.html")
+
+# books
+@app.route("/books")
+def books():
+    return render_template("favorites/books/books.html")
+
+@app.route("/books/shelf")
+def books_shelf():
+    return render_template("favorites/books/bookshelf.html")
+
+# shelf
+
+@app.route("/books/shelf/atomic-habits")
+def books_shelf_atomic_habits():
+    return render_template("favorites/books/shelf/atomic-habits.html")
+
+@app.route("/books/library")
+def books_library():
+    return render_template("favorites/books/library.html")
+

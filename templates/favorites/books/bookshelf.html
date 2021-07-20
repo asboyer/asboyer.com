@@ -1,139 +1,53 @@
-<!DOCTYPE html>
+{% extends "layout.html" %}
 
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Andrew Boyer</title>
-        <link rel="shortcut icon" href="./img/alt-logo.png"/>
+{% block content %}
+<section class="my-current-books" id="current-books">
 
+    <div class="books">
 
-        <!-- Font awesome -->
-        <script src="https://kit.fontawesome.com/222493b4df.js" crossorigin="anonymous"></script>
-
-        <!-- For other browser behavior -->
-        <link rel="stylesheet" href="https://cdns.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css">
-
-        <!-- Google fonts -->
-        <link rel="preconnect" href="https://fonts.gstatic.com">
-        <!-- Source Code Pro -->
-        <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:400,900|Source+Sans+Pro:300,900&display=swap" rel="stylesheet">
-        <!-- Noto Sans HK -->
-        <link rel="preconnect" href="https://fonts.gstatic.com">
-        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+HK&display=swap" rel="stylesheet">
-        <link rel="preconnect" href="https://fonts.gstatic.com">
-        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+HK:wght@900&display=swap" rel="stylesheet">
-
-        <!-- CSS -->
-        <link rel="stylesheet" type="text/css" href="css/style.css">
-
-    </head>
-
-    <body>
-        <header>
-            <div class="logo">
-                <a href="index.html">
-                <img src="./img/alt-logo.png" alt="">
+        <div class="book__container">
+            <a href="/books/shelf/atomic-habits" class="book__item">
+                <img src="/static/img/books/covers/atomic.jpg" alt="Atomic Habits" class="portfolio__img">
+            <div class="book_overlay">
+                <div class="book-text">
+                    <p class="book-title">Atomic Habits</p>
+                    <p class="author">James Clear</p>
+                </div>
+            </div>
             </a>
-            </div>
-            <button class="nav-toggle" aria-label="toggle navigation">
-                <span class="hamburger"></span>
-            </button>
+        </div>
 
-
-            <nav class="nav">
-                <ul class="nav__list">
-                    <li class="nav__itm"><a href="index.html#home" class="nav__link">Home <i class="fas fa-home"></i></a></li>
-                    <li class="nav__itm"><a href="index.html#projects" class="nav__link">Projects <i class="fas fa-file-code"></i></a></li>
-                    <li class="nav__itm"><a href="index.html#work" class="nav__link">Experience <i class="fas fa-briefcase"></i></a></li>
-                    <li class="nav__itm"><a href="index.html#services" class="nav__link">Services <i class="fas fa-address-book"></i></a></li>
-                    <li class="nav__itm"><a href="index.html#blog" class="nav__link">Blog <i class="fas fa-book"></i></a></li>
-                    <li class="nav__itm"><a href="index.html#tools" class="nav__link">Tools <i class="fas fa-laptop-code"></i></a></li>
-                    <li class="nav__itm"><a href="index.html#about" class="nav__link">About <i class="fas fa-address-card"></i></a></li>
-                </ul>
-            </nav>
-
-        </header>
-
-
-
-        <section class="my-current-books" id="current-books">
-
-            <div class="books">
-
-                <div class="book__container">
-                    <a href="atomic_habits.html" class="book__item">
-                        <img src="./img/books/covers/atomic.jpg" alt="Atomic Habits" class="portfolio__img">
-                    <div class="book_overlay">
-                        <div class="book-text">
-                            <p class="book-title">Atomic Habits</p>
-                            <p class="author">James Clear</p>
-                        </div>
-                    </div>
-                    </a>
+        <div class="book__container">
+            <a href="/soon" class="book__item">
+                <img src="/static/img/books/covers/deep_work.jpg" alt="Deep Work" class="portfolio__img">
+            <div class="book_overlay">
+                <div class="book-text">
+                    <p class="book-title">Deep Work</p>
+                    <p class="author">Cal Newport</p>
                 </div>
-
-                <div class="book__container">
-                    <a href="soon.html" class="book__item">
-                        <img src="./img/books/covers/deep_work.jpg" alt="Deep Work" class="portfolio__img">
-                    <div class="book_overlay">
-                        <div class="book-text">
-                            <p class="book-title">Deep Work</p>
-                            <p class="author">Cal Newport</p>
-                        </div>
-                    </div>
-                    </a>
-                </div>
-
-                <div class="book__container">
-                    <a href="soon.html" class="book__item">
-                        <img src="./img/books/covers/hurt_me.jpg" alt="Can't hurt me " class="portfolio__img">
-                    <div class="book_overlay">
-                        <div class="book-text">
-                            <p class="book-title">Can't Hurt Me</p>
-                            <p class="author">David Goggins</p>
-                        </div>
-                    </div>
-                    </a>
-                </div>
-
-        
             </div>
+            </a>
+        </div>
 
-            <div class="title-book">
-                <p class="section__subtitle section__subtitle--books">CURRENTLY READING</p>
+        <div class="book__container">
+            <a href="/soon" class="book__item">
+                <img src="/static/img/books/covers/hurt_me.jpg" alt="Can't hurt me " class="portfolio__img">
+            <div class="book_overlay">
+                <div class="book-text">
+                    <p class="book-title">Can't Hurt Me</p>
+                    <p class="author">David Goggins</p>
+                </div>
             </div>
+            </a>
+        </div>
 
-        
-        </section>
 
-        <!-- Blog -->
+    </div>
 
-        <footer class="footer">
-            <ul class="social-list">
-                <li class="social-list__item">
-                    <a class="social-list__link" href="https://github.com/asboyer" target="_blank"><i class="fab fa-github"></i></a>
-                </li>
-                <li class="social-list__item">
-                    <a class="social-list__link" href="https://www.youtube.com/channel/UCFOqd7pJ9y1j1VfJAgtRlkg" target="_blank"><i class="fab fa-youtube"></i></a>
-                </li>
-                <li class="social-list__item">
-                    <a class="social-list__link" href="https://open.spotify.com/user/uuzdbyuye92sxqjltw955qm9n?si=rPFH2WO_TQOwm8TH_PPzVQ" target="_blank"><i class="fab fa-spotify"></i></a>
-                </li>
-                <li class="social-list__item">
-                    <a class="social-list__link" href="https://www.linkedin.com/in/asboyer/" target="_blank"><i class="fab fa-linkedin"></i></a>
-                </li>
-<!--                 <li class="social-list__item">
-                    <a class="social-list__link" href="https://discord.gg/HaGpN3AeHz" target="_blank"><i class="fab fa-discord"></i></a>
-                </li> -->
-                <li class="social-list__item">
-                    <a class="social-list__link" href="https://twitter.com/asboyer_" target="_blank"><i class="fab fa-twitter"></i></a>
-                </li>
-            </ul>
-        </footer>
-        <!-- Footer -->
+    <div class="title-book">
+        <p class="section__subtitle section__subtitle--books">CURRENTLY READING</p>
+    </div>
 
-        <script src="js/index.js"></script>
 
-    </body>    
-</html>
+</section>
+{% endblock %}
