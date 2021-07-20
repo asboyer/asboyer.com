@@ -1022,6 +1022,12 @@ header {
     
 } 
 
+.soon-div {
+    margin: auto;
+    margin-top: 30px;
+    max-width: 1000px;
+}
+
 .section__subtitle--soon {
     text-align: center;
     font-weight: var(--fw-reg);

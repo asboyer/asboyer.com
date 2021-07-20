@@ -1,0 +1,49 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<section class="my-books" id="books">
+     <div class="book-choices">
+
+
+        <div class="book-choice__container">
+            <a href="/soon" class="book-choice__item">
+                <img src="/static/img/books/list.png" alt="internet blog post" class="portfolio__img">
+                    
+            <div class="book-choice_overlay">
+                <div class="book-choice-text">
+                    <p>Reading list</p>
+                </div>
+            </div>
+            </a>
+
+        </div>
+
+        <div class="book-choice__container">
+            <a href="/books/shelf" class="book-choice__item">
+                <img src="/static/img/books/shelf.png" alt="internet blog post" class="portfolio__img">
+                    
+            <div class="book-choice_overlay">
+                <div class="book-choice-text">
+                    <p>Bookshelf</p>
+                </div>
+            </div>
+            </a>
+
+        </div>
+
+        <div class="book-choice__container">
+            <a href="books/library" class="book-choice__item">
+                <img src="/static/img/books/face.png" alt="internet blog post" class="portfolio__img">
+                    
+            <div class="book-choice_overlay">
+                <div class="book-choice-text">
+                    <p>Library</p>
+                </div>
+            </div>
+            </a>
+
+        </div>
+
+    
+</section>
+{% endblock %}

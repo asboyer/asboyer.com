@@ -1,0 +1,34 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<section class="my-music-choices" id="music-choices">
+     <div class="choices">
+
+        <div class="choice__container">
+            <a href="/music/current" class="choice__item">
+                <img src="/static/img/music/record.png" alt="at the moment" class="portfolio__img">
+                    
+            <div class="choice_overlay">
+                <div class="choice-text">
+                    <p>CURRENT FAVORITES</p>
+                </div>
+            </div>
+            </a>
+
+        </div>
+
+        <div class="choice__container">
+            <a href="/music/all-time" class="choice__item">
+                <img src="/static/img/music/record.png" alt="all time" class="portfolio__img">
+                    
+            <div class="choice_overlay">
+                <div class="choice-text">
+                    <p>ALL TIME FAVORITES</p>
+                </div>
+            </div>
+            </a>
+
+        </div>
+
+</section>
+{% endblock %}

@@ -1,0 +1,51 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<section class="my-books" id="books">
+
+
+    <h2 class="h2-library">The Library</h2>
+    <p class="p-library"><strong>"</strong>An archive of all my favorite books<strong>"</strong></p>
+    
+     <div class="book-choices">
+
+        <div class="book-choice__container">
+            <a href="/soon" class="book-choice__item">
+                <img src="/static/img/books/non.png" alt="internet blog post" class="portfolio__img">
+                    
+            <div class="book-choice_overlay">
+                <div class="book-choice-text">
+                    <p>Non-fiction</p>
+                </div>
+            </div>
+            </a>
+
+        </div>
+
+        <div class="book-choice__container">
+            <a href="/soon" class="book-choice__item">
+                <img src="/static/img/books/series.png" alt="internet blog post" class="portfolio__img">
+                    
+            <div class="book-choice_overlay">
+                <div class="book-choice-text">
+                    <p>Series</p>
+                </div>
+            </div>
+            </a>
+
+        </div>
+
+        <div class="book-choice__container">
+            <a href="/soon" class="book-choice__item">
+                <img src="/static/img/books/fic.png" alt="internet blog post" class="portfolio__img">
+                    
+            <div class="book-choice_overlay">
+                <div class="book-choice-text">
+                    <p>Fiction</p>
+                </div>
+            </div>
+            </a>
+
+        </div> 
+</section>
+{% endblock %}
