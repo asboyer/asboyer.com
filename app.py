@@ -15,8 +15,13 @@ def news():
     return render_template("about/news.html")
 
 # blogs
-@app.route("/blog/goatgrade")
+
+@app.route("/blog")
 def blog():
+    return render_template("blog/blog.html")
+
+@app.route("/blog/0")
+def blog_0():
     return render_template("blog/goatgrade.html")
 
 # favorites
