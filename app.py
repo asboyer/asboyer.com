@@ -63,3 +63,11 @@ def books_shelf_atomic_habits():
 def books_library():
     return render_template("favorites/books/library.html")
 
+#SEO
+@app.route("/robots.txt")
+def se1():
+    return send_from_directory(app.root_path, "robots.txt")
+
+@app.route("/sitemap.xml")
+def se2():
+    return send_from_directory(app.root_path, "sitemap.xml")
