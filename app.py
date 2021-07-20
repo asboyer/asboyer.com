@@ -15,6 +15,10 @@ def soon():
 def news():
     return render_template("about/news.html")
 
+@app.route("/egg")
+def egg():
+    return render_template("egg.html")
+
 # blogs
 
 @app.route("/blog")
