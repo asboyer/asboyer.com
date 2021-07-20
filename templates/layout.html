@@ -4,9 +4,20 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Andrew Boyer's personal website.">
+        <meta name="keywords" content="Andrew Boyer, Andrew S Boyer, Andrew, Boyer, Boyer Wayland">
+        <meta name="author" content="Andrew Boyer">
+        
+        <meta property="og:url" content="https://www.asboyer.com">
+        <meta property="og:description" content="Andrew Boyer's personal website.">
+        <meta property="og:image" content="https://asboyer.com/static/img/alt-logo.png">
+        <meta name="twitter:card" content="summary">
+        
+        { % block title %}
         <title>Andrew Boyer</title>
-        <link rel="shortcut icon" href="./img/alt-logo.png"/>
+        { % endblock %}
 
+        <link rel="shortcut icon" href="/img/alt-logo.png"/>
 
         <!-- Font awesome -->
         <script src="https://kit.fontawesome.com/222493b4df.js" crossorigin="anonymous"></script>
@@ -25,46 +36,42 @@
         <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+HK:wght@900&display=swap" rel="stylesheet">
 
         <!-- CSS -->
-        <link rel="stylesheet" type="text/css" href="css/style.css">
+        <link rel="stylesheet" type="text/css" href="/static/css/style.css">
+        
+        {% block styles %}
+        {% endblock %}
 
     </head>
 
     <body>
         <header>
             <div class="logo">
-                <a href="index.html">
-                <img src="./img/alt-logo.png" alt="">
+                <a href="/#home">
+                <img src="/static/img/alt-logo.png" alt="">
             </a>
             </div>
             <button class="nav-toggle" aria-label="toggle navigation">
                 <span class="hamburger"></span>
             </button>
 
-
             <nav class="nav">
                 <ul class="nav__list">
-                    <li class="nav__itm"><a href="index.html#home" class="nav__link">Home <i class="fas fa-home"></i></a></li>
-                    <li class="nav__itm"><a href="index.html#projects" class="nav__link">Projects <i class="fas fa-file-code"></i></a></li>
-                    <li class="nav__itm"><a href="index.html#work" class="nav__link">Experience <i class="fas fa-briefcase"></i></a></li>
-                    <li class="nav__itm"><a href="index.html#services" class="nav__link">Services <i class="fas fa-address-book"></i></a></li>
-                    <li class="nav__itm"><a href="index.html#blog" class="nav__link">Blog <i class="fas fa-book"></i></a></li>
-                    <li class="nav__itm"><a href="index.html#tools" class="nav__link">Tools <i class="fas fa-laptop-code"></i></a></li>
-                    <li class="nav__itm"><a href="index.html#about" class="nav__link">About <i class="fas fa-address-card"></i></a></li>
+                    <li class="nav__itm"><a href="/#home" class="nav__link">Home <i class="fas fa-home"></i></a></li>
+                    <li class="nav__itm"><a href="/#projects" class="nav__link">Projects <i class="fas fa-file-code"></i></a></li>
+                    <li class="nav__itm"><a href="/#work" class="nav__link">Experience <i class="fas fa-briefcase"></i></a></li>
+                    <li class="nav__itm"><a href="/#services" class="nav__link">Skills <i class="fas fa-address-book"></i></a></li>
+                    <li class="nav__itm"><a href="/#blog" class="nav__link">Blog <i class="fas fa-book"></i></a></li>
+                    <li class="nav__itm"><a href="/#tools" class="nav__link">Tools <i class="fas fa-laptop-code"></i></a></li>
+                    <li class="nav__itm"><a href="/#about" class="nav__link">About <i class="fas fa-address-card"></i></a></li>
                 </ul>
             </nav>
 
         </header>
+        
+        {% block content %}
+        {% endblock %}
 
-        <!-- Introduction -->
-        <section class="soon" style="background: #111; padding: 250px">
-            <h1 class="section__title section__title--soon">
-                Coming <strong>Soon</strong>
-            </h1>
-            <p class="section__subtitle section__subtitle--soon">Hi! I am currently writing this blog post, and it will hopefully be ready by Monday, July 11th. Come back then!</p>
-            <p class="break"></p>
-            <p class="section__subtitle section__subtitle--soon">This post will describe the interworkings of <a class="inline-link" href="https://www.goatgrade.com/" target="_blank">Goat Grade</a>, a project I started with a friend in February. We scraped basketball statistics from <a class="inline-link" href="https://www.basketball-reference.com/" target="_blank">Basketball reference</a> and ranked all players by their statistical rankings in all categories. While the list is nowhere near perfect, we predicted the top two MVP candidates, and the ultimate winner. Check it out while you wait for the whole story!</p>
-        </section>
-        <!-- Footer -->
+        <!-- BEGIN FOOTER -->
         <footer class="footer">
             <ul class="social-list">
                 <li class="social-list__item">
@@ -79,17 +86,16 @@
                 <li class="social-list__item">
                     <a class="social-list__link" href="https://www.linkedin.com/in/asboyer/" target="_blank"><i class="fab fa-linkedin"></i></a>
                 </li>
-<!--                 <li class="social-list__item">
-                    <a class="social-list__link" href="https://discord.gg/HaGpN3AeHz" target="_blank"><i class="fab fa-discord"></i></a>
-                </li> -->
                 <li class="social-list__item">
                     <a class="social-list__link" href="https://twitter.com/asboyer_" target="_blank"><i class="fab fa-twitter"></i></a>
                 </li>
             </ul>
         </footer>
-        <!-- Footer -->
+        <!-- END FOOTER -->
 
-        <script src="js/index.js"></script>
+        <script src="/static/js/index.js"></script>
+        {% block scripts %}
+        {% endblock %}
 
     </body>    
 </html>
