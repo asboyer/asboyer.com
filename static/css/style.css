@@ -2107,6 +2107,13 @@ header {
     font-size: 12.5px;
 }
 
-.my-test {
-    color:  green;
+.egg-text {
+    text-align: center;
+    font-size:  50px;
+    font-family: monospace;
+}
+
+.egg-link {
+    color: var(--clr-accent);
+    text-decoration: none;
 }
