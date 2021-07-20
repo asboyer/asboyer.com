@@ -18,3 +18,18 @@ def news():
 @app.route("/blog/goatgrade")
 def blog():
     return render_template("blog/goatgrade.html")
+
+# favorites
+
+# music
+@app.route("/music")
+def music():
+    return render_template("favorites/music/music.html")
+
+@app.route("/music/current")
+def music_current():
+    return render_template("favorites/music/current.html")
+
+@app.route("/music/all-time")
+def music_all():
+    return render_template("favorites/music/all-time.html")
