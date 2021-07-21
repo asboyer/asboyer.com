@@ -889,8 +889,9 @@ header {
     background: var(--clr-dark);
     color: var(--clr-accent);
     text-align: center;
-    margin-right: 300px;
-    margin-left: 300px;
+/*    margin-right: 300px;
+    margin-left: 300px;*/
+    box-sizing: border-box;
 }
 
 .footer a {
@@ -924,7 +925,7 @@ header {
 }
 
 .social-list__link {
-    font-size: 40px;
+    font-size: 35px;
     padding: .5em;
 }
 
@@ -1250,7 +1251,7 @@ header {
 
 .album__container {
     position: relative;
-    border: #111 5px solid;
+    border: #111 10px solid;
     /*max-width: 475px;*/
     min-width: 400px;
     margin: 0 auto;
@@ -1331,7 +1332,6 @@ header {
 
 @media (max-width: 1400px) {
     .my-albums {
-        background-color: green;
         color: var(--clr-light);
         text-align: center;
         padding: 2em 2em;
@@ -1348,7 +1348,7 @@ header {
 
     .album__container {
         position: relative;
-        border: #111 5px solid;
+        border: #111 10px solid;
         max-width: 475px;
         min-width: 200px;
         margin: 0 auto;
@@ -1392,7 +1392,6 @@ header {
 
 @media (max-width: 1340px) {
     .my-albums {
-        background-color: blue;
         color: var(--clr-light);
         text-align: center;
         padding: 2em 2em;
@@ -1403,7 +1402,7 @@ header {
 
     .album__container {
         position: relative;
-        border: #111 5px solid;
+        border: #111 10px solid;
         max-width: 475px;
         min-width: 100px;
         margin: 0 auto;
@@ -1469,7 +1468,7 @@ header {
 
 .choice__container {
     position: relative;
-    border: #111 5px solid;
+    border: #111 10px solid;
     max-width: 500px;
     background-color: var(--clr-accent);
 
@@ -1554,7 +1553,7 @@ header {
 
 .song__container {
     position: relative;
-    border: #111 5px solid;
+    border: #111 10px solid;
     max-height: 300px;
     max-width: 300px;
     margin: 0 auto;
