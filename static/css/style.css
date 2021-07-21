@@ -1323,7 +1323,7 @@ header {
     font-family: var(--ff-secondary);
     letter-spacing: 0.1em;
     font-weight: var(--fw-reg);
-    font-size: 15px;
+    font-size: 13px;
     white-space: nowrap;
 }
 
