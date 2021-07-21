@@ -1,4 +1,5 @@
 from flask import Flask, render_template, send_from_directory
+import os
 
 app = Flask(__name__)
 
@@ -14,15 +15,23 @@ def soon():
 def news():
     return render_template("about/news.html")
 
+@app.route("/egg")
+def egg():
+    return render_template("egg.html")
+
 # blogs
 
 @app.route("/blog")
 def blog():
     return render_template("blog/blog.html")
 
-@app.route("/blog/0")
-def blog_0():
-    return render_template("blog/goatgrade.html")
+@app.route("/blog/<name>")
+def blog_post(name):
+    if os.path.exists(f'templates/blog/{name}.html'):
+        return render_template(f"blog/{name}.html")
+    else:
+        # make error page
+        return render_template("blog/blog.html")
 
 # favorites
 

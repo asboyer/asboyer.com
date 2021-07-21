@@ -2106,3 +2106,14 @@ header {
 .news-date {
     font-size: 12.5px;
 }
+
+.egg-text {
+    text-align: center;
+    font-size:  50px;
+    font-family: monospace;
+}
+
+.egg-link {
+    color: var(--clr-accent);
+    text-decoration: none;
+}
