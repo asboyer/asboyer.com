@@ -1302,7 +1302,9 @@ header {
 
 .title {
     font-size: 25px;
-    font-weight: var(--fw-bold)
+    font-weight: var(--fw-bold);
+    white-space: nowrap
+    
 
 }
 
