@@ -1212,7 +1212,6 @@ header {
     color: var(--clr-light);
     text-align: center;
     padding: 2em 2em;
-    padding-bottom: 100px;
     
 }
 
@@ -1304,7 +1303,7 @@ header {
     font-size: 25px;
     font-weight: var(--fw-bold);
     white-space: nowrap
-    
+
 
 }
 
@@ -1336,7 +1335,6 @@ header {
         color: var(--clr-light);
         text-align: center;
         padding: 2em 2em;
-        padding-bottom: 100px;
         
     }
 
@@ -1398,7 +1396,6 @@ header {
         color: var(--clr-light);
         text-align: center;
         padding: 2em 2em;
-        padding-bottom: 100px;
 
         
     }
@@ -1521,7 +1518,6 @@ header {
     color: var(--clr-light);
     text-align: center;
     padding: 2em 2em;
-    padding-bottom: 100px;
     border-top: #111 50px solid;
 
 }
