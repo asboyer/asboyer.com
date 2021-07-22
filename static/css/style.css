@@ -2402,7 +2402,7 @@ header {
     }
 
     strong {
-        -webkit-text-stroke: 3px var(--clr-border);
+        -webkit-text-stroke: 0px var(--clr-border);
         font-weight: var(--fw-bold);
         color: var(--clr-accent);
     }
