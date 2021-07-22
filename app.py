@@ -12,7 +12,7 @@ def main_page(page):
     if os.path.exists(f'templates/{page}.html'):
         return render_template(f'{page}.html')
     else:
-        return render_template("soon.html")
+        return render_template("error.html")
 
 @app.route("/soon")
 def soon():
@@ -38,7 +38,7 @@ def blog_post(name):
         return render_template(f"blog/{name}.html")
     else:
         # make error page
-        return render_template("blog/blog.html")
+        return render_template("error.html")
 
 # favorites
 
