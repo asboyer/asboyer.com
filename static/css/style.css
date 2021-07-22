@@ -861,10 +861,10 @@ header {
     grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
     max-width: 1500px;
     gap: 50px;
-    margin: 0 auto;
 }
 
 .blog__container {
+    margin:  0 auto;
     position: relative;
 }
 
@@ -873,6 +873,11 @@ header {
     display: block;
     width: 100%
     height: auto;
+}
+
+.blog__img {
+    margin: 0 auto;
+    padding:  0px;
 }
 
 .overlay {
@@ -923,6 +928,12 @@ header {
 .soon {
     font-weight: var(--fw-bold)
 }
+
+/*@media (max-width:  500px) {
+    .overlay {
+        display:  none;
+    }
+}*/
 
 /* footer */
 
@@ -1344,7 +1355,6 @@ header {
 .title {
     font-size: 25px;
     font-weight: var(--fw-bold);
-    white-space: nowrap
 
 
 }
