@@ -2481,7 +2481,7 @@ header {
     }
 
     .who {
-        padding: 20px;
+        padding: 30px;
         margin-top: 0;
         padding-top:  10;
     }
@@ -2521,8 +2521,6 @@ header {
 
 
 }
-
-
 
 @media (max-width: 250px) {
     .social-list__link {
