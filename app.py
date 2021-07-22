@@ -7,6 +7,13 @@ app = Flask(__name__)
 def index():
     return render_template("index.html")
 
+@app.route("/<page>")
+def main_page(page):
+    if os.path.exists(f'templates/{page}.html'):
+        return render_template(f'{page}.html')
+    else:
+        return render_template("soon.html")
+
 @app.route("/soon")
 def soon():
     return render_template("soon.html")
