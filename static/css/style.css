@@ -2442,6 +2442,9 @@ header {
         background-blend-mode: multiply;
     }
 
+
+
+
     .more-btn {
         margin:  10px;
         padding-right:  20px;
@@ -2459,7 +2462,7 @@ header {
     }
 
     strong {
-        -webkit-text-stroke: 0px var(--clr-border);
+        -webkit-text-stroke: 0.5px var(--clr-border);
         font-weight: var(--fw-bold);
         color: var(--clr-accent);
     }
@@ -2483,3 +2486,20 @@ header {
     }
 
 }
+
+@media (max-width: 800px) {
+    strong {
+        -webkit-text-stroke: 0.75px var(--clr-border);
+        font-weight: var(--fw-bold);
+        color: var(--clr-accent);
+    }
+
+    .section__title {
+        margin-top: 0em;
+        margin-bottom: .25em;
+
+        position: relative;
+    }
+
+}
+
