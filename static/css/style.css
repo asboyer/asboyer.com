@@ -88,6 +88,28 @@ html {
     transform: scale(1.25);
 }
 
+.more-btn {
+    display: inline-block;
+    padding: .5em 1.5em;
+    background: var(--clr-accent);
+    font-weight: var(--fw-bold);
+    text-decoration: none;
+    color: var(--clr-darker);
+    cursor: pointer;
+    font-size: .8rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    transition: transform 250ms ease-in-out;
+    border-radius: 25px;
+    padding-left: 50px;
+    padding-right:  50px;
+    margin:  20px;
+}
+
+.more-btn:hover {
+    transform: scale(1.25);
+}
+
 
 .special_btn {
     margin: 0;
@@ -113,6 +135,29 @@ html {
     transform: scale(1.01);
 }
 
+.special_btn1 {
+    display: none;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    padding: .5em 1.5em;
+    background: var(--clr-dark);
+    font-weight: var(--fw-bold);
+    border-color: var(--clr-accent);
+    text-decoration: none;
+    color: var(--clr-accent);
+    cursor: pointer;
+    font-size: .8rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    transition: transform 250ms ease-in-out;
+    border-radius: 5px;
+    max-width: 250px;
+}
+
+.special_btn1:hover {
+    transform: scale(1.01);
+}
 
 /* Typography */
 
@@ -780,12 +825,6 @@ header {
 
 }
 
-@media (max-width: 500px) {
-    .who {
-        display: none;
-    }
-
-}
 
 /*@media(max-width: 1255px){
     #button2 {
@@ -822,6 +861,11 @@ header {
 }
 
 
+
+.more-buttonz {
+    text-align: center;
+    display: none;
+}
 
 
 .more-button {
@@ -2315,4 +2359,58 @@ header {
     .section__title--tools {
         font-size:  25px;
     }
+}
+
+
+@media (max-width: 500px) {
+    .images, .about-me__body, .section__title--about, .section__subtitle--about, .more-button{
+        display: none;
+    }
+
+    .special_btn1 {
+        display: flex;
+        margin:  0 auto;
+    }
+
+    .about-me {
+        max-width: 1050px;
+        padding: 0px;
+        padding-bottom: 0px;
+        margin: 0 auto;
+        background-color: var(--clr-dark);
+        background-image: url(../img/backgrounds/code/code.jpg);
+        color: var(--clr-light);
+        background-size: cover;
+        background-blend-mode: multiply;
+    }
+
+    .more-btn {
+        margin:  10px;
+        padding-right:  20px;
+        padding-left: 20px;
+    }
+
+    .more-buttonz {
+        display: block;
+    }
+
+    .who {
+        padding: 20px;
+        margin-top: 0;
+        padding-top:  10;
+    }
+
+
+}
+
+@media (max-width: 250px) {
+    .social-list__link {
+        font-size: 15px;
+        padding: .5em;
+    } 
+
+    .intro__img {
+        max-width:  150px;
+    }
+
 }
