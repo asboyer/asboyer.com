@@ -346,6 +346,7 @@ header {
 .section__title--intro {
     font-weight: var(--fw-reg);
     text-align: center;
+
 }
 
 .section__title--intro strong {
@@ -2345,7 +2346,7 @@ header {
 
 @media (max-width: 500px) {
     .social-list__link {
-        font-size: 25px;
+        font-size: 32px;
         padding: .5em;
     }
 }
@@ -2398,6 +2399,17 @@ header {
         padding: 20px;
         margin-top: 0;
         padding-top:  10;
+    }
+
+    strong {
+        -webkit-text-stroke: 3px var(--clr-border);
+        font-weight: var(--fw-bold);
+        color: var(--clr-accent);
+    }
+
+    .section__title--intro {
+        margin-bottom:  15px;
+
     }
 
 
