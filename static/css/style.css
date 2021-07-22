@@ -2489,14 +2489,14 @@ header {
 
 @media (max-width: 800px) {
     strong {
-        -webkit-text-stroke: 0.75px var(--clr-border);
+        -webkit-text-stroke: 1.5px var(--clr-border);
         font-weight: var(--fw-bold);
         color: var(--clr-accent);
     }
 
     .section__title {
         margin-top: 0em;
-        margin-bottom: .5em;
+        margin-bottom: .4em;
 
         position: relative;
     }
