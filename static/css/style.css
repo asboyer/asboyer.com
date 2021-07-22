@@ -1425,6 +1425,13 @@ header {
     margin-bottom: 5px;
 }
 
+.tracks-long {
+    font-weight: var(--fw-bold);
+    font-size: 12px;
+    text-decoration: underline;
+    margin-bottom: 5px;
+}
+
 .tracklist {
     list-style: none;
     display: flex;
@@ -1435,7 +1442,21 @@ header {
     font-family: var(--ff-secondary);
     letter-spacing: 0.1em;
     font-weight: var(--fw-reg);
-    font-size: 13px;
+    font-size: 12px;
+    white-space: nowrap;
+}
+
+.tracklist-long {
+    list-style: none;
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    align-items: center;
+    padding-right: 40px;
+    font-family: var(--ff-secondary);
+    letter-spacing: 0.1em;
+    font-weight: var(--fw-reg);
+    font-size: 10px;
     white-space: nowrap;
 }
 
@@ -1472,6 +1493,13 @@ header {
         margin-bottom: 5px;
     }
 
+    .tracks-long {
+        font-weight: var(--fw-bold);
+        font-size: 12px;
+        text-decoration: underline;
+        margin-bottom: 5px;
+    }
+
     .tracklist {
         list-style: none;
         display: flex;
@@ -1482,7 +1510,21 @@ header {
         font-family: var(--ff-secondary);
         letter-spacing: 0.1em;
         font-weight: var(--fw-reg);
-        font-size: 12.5px;
+        font-size: 12px;
+        white-space: nowrap;
+    }
+
+    .tracklist-long {
+        list-style: none;
+        display: flex;
+        height: 100%;
+        flex-direction: column;
+        align-items: center;
+        padding-right: 40px;
+        font-family: var(--ff-secondary);
+        letter-spacing: 0.1em;
+        font-weight: var(--fw-reg);
+        font-size: 9px;
         white-space: nowrap;
     }
 
@@ -1519,8 +1561,9 @@ header {
 
     }
     .tracks {
+        /*display: none;*/
         font-weight: var(--fw-bold);
-        font-size: 12.5px;
+        font-size: 12px;
         text-decoration: underline;
         margin-bottom: 5px;
     }
@@ -1536,6 +1579,20 @@ header {
         letter-spacing: 0.1em;
         font-weight: var(--fw-reg);
         font-size: 10px;
+        white-space: nowrap;
+    }
+
+    .tracklist-long {
+        list-style: none;
+        display: flex;
+        height: 100%;
+        flex-direction: column;
+        align-items: center;
+        padding-right: 40px;
+        font-family: var(--ff-secondary);
+        letter-spacing: 0.1em;
+        font-weight: var(--fw-reg);
+        font-size: 8px;
         white-space: nowrap;
     }
 
@@ -2385,6 +2442,9 @@ header {
         background-blend-mode: multiply;
     }
 
+
+
+
     .more-btn {
         margin:  10px;
         padding-right:  20px;
@@ -2402,7 +2462,7 @@ header {
     }
 
     strong {
-        -webkit-text-stroke: 0px var(--clr-border);
+        -webkit-text-stroke: 0.5px var(--clr-border);
         font-weight: var(--fw-bold);
         color: var(--clr-accent);
     }
@@ -2426,3 +2486,20 @@ header {
     }
 
 }
+
+@media (max-width: 800px) {
+    strong {
+        -webkit-text-stroke: 0.75px var(--clr-border);
+        font-weight: var(--fw-bold);
+        color: var(--clr-accent);
+    }
+
+    .section__title {
+        margin-top: 0em;
+        margin-bottom: .5em;
+
+        position: relative;
+    }
+
+}
+
