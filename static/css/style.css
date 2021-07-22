@@ -383,6 +383,13 @@ header {
         margin-top: 30px;
 
     }
+
+}
+
+@media (max-width:  350px) {
+    .intro__img {
+        max-width: 200px
+    }
 }
 
 /* Services section */
@@ -929,11 +936,18 @@ header {
     font-weight: var(--fw-bold)
 }
 
-/*@media (max-width:  500px) {
+@media (max-width:  500px) {
+    .posts {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    }   
+}
+
+@media (max-width:  300px) {
     .overlay {
-        display:  none;
+        display: none;
     }
-}*/
+}
 
 /* footer */
 
@@ -977,7 +991,7 @@ header {
 }
 
 .social-list__link {
-    font-size: 35px;
+    font-size: 40px;
     padding: .5em;
 }
 
@@ -2284,3 +2298,21 @@ header {
     }
 
 }*/
+
+@media (max-width: 500px) {
+    .social-list__link {
+        font-size: 25px;
+        padding: .5em;
+    }
+}
+
+@media (max-width: 400px) {
+    .social-list__link {
+        font-size: 19px;
+        padding: .5em;
+    }
+
+    .section__title--tools {
+        font-size:  25px;
+    }
+}
