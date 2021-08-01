@@ -2112,6 +2112,18 @@ header {
     display: inline-block;
 }
 
+.title-music {
+    background: #111;
+    margin bottom: 1em;
+    font-family: var(--ff-secondary);
+    font-weight: var(--fw-bold);
+    color: var(--clr-dark);
+    margin-bottom: 2em;
+    padding: 0.5em;
+    border-radius: 5px;
+    display: inline-block;
+}
+
 /* notes  */
 
 .notes{

@@ -56,10 +56,13 @@ def music_all():
     return render_template("favorites/music/all-time.html")
 
 # archives
-@app.route("/archive/music/april-june-2021")
+@app.route("/archive/music/0")
 def music_archive_0():
     return render_template("archive/music/april-june-2021.html")
 
+@app.route("/archive/music/1")
+def music_archive_1():
+    return render_template("archive/music/july-2021.html")
 # movies
 @app.route("/movies")
 def movies():
