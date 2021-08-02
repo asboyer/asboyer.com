@@ -1089,7 +1089,8 @@ header {
     background: #282923;
     transition: transform 250ms ease-in-out;
     margin: 0 auto;
-    margin-bottom: 5px;
+    margin-bottom: 30px;
+    margin-top: 30px;
 
 }
 
@@ -1100,7 +1101,8 @@ header {
 }
 
 .tool:hover {
-    transform: scale(1.1);
+
+    transform: scale(1.075);
 }
 
 .tool__img {
@@ -1112,12 +1114,21 @@ header {
 @media (min-width: 800px) {
     .tools {
         display: grid;
-        grid-gap: 1em;
+        grid-gap: 2em;
         margin-left: auto;
         margin-right: auto;
         grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 
 
+    }
+
+    .tool:hover {
+        transform: scale(1.1);
+    }
+
+    .tool {
+        margin-bottom: 0px;
+        margin-top:  0px;
     }
 
 }
