@@ -2365,19 +2365,17 @@ header {
 
 .all-news {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
     max-width: 1500px;
     gap: 50px;
     margin: 0 auto;
-    margin-top:  50px; 
 }
 
 .news__container {
-    position: relative;
     border: #111 5px solid;
-    max-width: 400px;
-    min-width: 400px;
-    margin: 0 auto;
+    margin:  0 auto;
+    position: relative;
+
 
 }
 
@@ -2419,16 +2417,42 @@ header {
 
 
 .news-title {
-    font-size: 20px;
+    font-size: 15px;
     font-weight: var(--fw-bold)
 }
 
 .publication {
-    font-size: 15px;
+    font-size: 13px;
 }
 
 .news-date {
-    font-size: 12.5px;
+    font-size: 12px;
+}
+
+@media (max-width:  500px) {
+    .all-news {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    }
+
+    .news-title {
+        font-size: 14px;
+        font-weight: var(--fw-bold)
+    }
+
+    .publication {
+        font-size: 10px;
+    }
+
+    .news-date {
+        font-size: 8px;
+    }
+}
+
+@media (max-width:  300px) {
+    .news_overlay {
+        display: none;
+    }
 }
 
 .egg-text {
