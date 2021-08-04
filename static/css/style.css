@@ -1003,7 +1003,8 @@ header {
 }
 
 .soon {
-    font-weight: var(--fw-bold)
+    font-weight: var(--fw-bold);
+    background: #111
 }
 
 @media (max-width:  500px) {
@@ -2449,7 +2450,7 @@ header {
 
 }*/
 
-@media (max-width: 500px) {
+@media (max-width: 550px) {
     .social-list__link {
         font-size: 32px;
         padding: .5em;
@@ -2539,7 +2540,7 @@ header {
     }
 
     strong {
-        -webkit-text-stroke: 1px var(--clr-border);
+        -webkit-text-stroke: 2px var(--clr-border);
         font-weight: var(--fw-bold);
         color: var(--clr-accent);
     }
