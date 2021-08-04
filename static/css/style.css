@@ -527,7 +527,8 @@ header {
 }
 
 .work {
-    margin-bottom: 2.5em;
+    margin-bottom: 2.5em;        
+
 
 }
 
@@ -552,24 +553,41 @@ header {
     display: flex;
 }
 
-@media (min-width: 800px) {
-    .work {
-        display: flex;
-        max-width: 1250px;
-        margin-left: auto;
-        margin-right: auto;
-
-    }
-
-    .job + .job {
-        margin-left: 5em;
-
-    }
-
-}
 
 .job__description {
     position: relative;
+}
+
+@media (min-width: 800px) {
+    .work {
+        display: grid;
+        grid-template-columns:repeat(3, 2fr);
+        grid-gap: 2em;
+        max-width: 1200px;
+        margin: 0 auto;
+        margin-bottom: 2.5em;        
+
+
+    }
+
+    .project__row1 {
+        display: grid;
+        grid-template-columns:repeat(3, 2fr);
+        grid-gap: 1em;
+        padding-bottom: 50px;
+    }
+
+    .projects__row2 {
+        display: grid;
+        grid-template-columns:repeat(3, 2fr);
+        grid-gap: 1em;
+        padding-bottom: 50px;
+      /*if row has two elements        */
+/*        padding-left: 175px;
+        padding-right: 175px;*/
+
+    }
+
 }
 
 /* Projects */
