@@ -14,17 +14,9 @@ def main_page(page):
     else:
         return render_template("error.html")
 
-@app.route("/soon")
-def soon():
-    return render_template("soon.html")
-
 @app.route("/press")
-def news():
+def press():
     return render_template("about/news.html")
-
-@app.route("/egg")
-def egg():
-    return render_template("egg.html")
 
 # blogs
 
@@ -47,15 +39,23 @@ def blog_post(name):
 def music():
     return render_template("favorites/music/music.html")
 
-@app.route("/music/current")
-def music_current():
-    return render_template("favorites/music/current.html")
+@app.route("/music/<name>")
+def music_path(name):
+    if os.path.exists(f'templates/favorites/music/{name}.html'):
+        return render_template(f"favorites/music/{name}.html")
+    else:
+        # make error page
+        return render_template("error.html")
 
-@app.route("/music/all-time")
-def music_all():
-    return render_template("favorites/music/all-time.html")
+
+# movies
+@app.route("/movies")
+def movies():
+    return render_template("favorites/movies/movies.html")
 
 # archives
+
+
 @app.route("/archive/music/0")
 def music_archive_0():
     return render_template("archive/music/april-june-2021.html")
@@ -63,29 +63,44 @@ def music_archive_0():
 @app.route("/archive/music/1")
 def music_archive_1():
     return render_template("archive/music/july-2021.html")
-# movies
-@app.route("/movies")
-def movies():
-    return render_template("favorites/movies/movies.html")
 
-# books
-@app.route("/books")
-def books():
-    return render_template("favorites/books/books.html")
+@app.route("/archive/music/<name>")
+def archive_music_path(name):
+    if os.path.exists(f'templates/archive/music/{name}.html'):
+        return render_template(f"archive/blog/{name}.html")
+    else:
+        # make error page
+        return render_template("error.html")
 
-@app.route("/books/shelf")
-def books_shelf():
-    return render_template("favorites/books/bookshelf.html")
+# @app.route("/books")
+# def books():
+#     return render_template("favorites/books/books.html")
 
-# shelf
+# @app.route("/books/<name>")
+# def book_path(name):
+#     if os.path.exists(f'templates/favorites/books/{name}.html'):
+#         return render_template(f"favorites/books/{name}.html")
+#     else:
+#         # make error page
+#         return render_template("error.html")
 
-@app.route("/books/shelf/atomic-habits")
-def books_shelf_atomic_habits():
-    return render_template("favorites/books/shelf/atomic-habits.html")
+# @app.route("/books/shelf")
+# def books_shelf():
+#     return render_template("favorites/books/bookshelf.html")
 
-@app.route("/books/library")
-def books_library():
-    return render_template("favorites/books/library.html")
+# # shelf
+
+# @app.route("/books/shelf/<name>")
+# def book_shelf_path(name):
+#     if os.path.exists(f'templates/favorites/books/shelf/{name}.html'):
+#         return render_template(f"favorites/books/shelf/{name}.html")
+#     else:
+#         # make error page
+#         return render_template("error.html")
+
+# @app.route("/books/library")
+# def books_library():
+#     return render_template("favorites/books/library.html")
 
 #SEO
 @app.route("/robots.txt")
