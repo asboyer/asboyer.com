@@ -1,7 +1,7 @@
 *,
 *::before,
 *::after {
-    box-sizing: border-box;
+    box-sizing: -border-box;
 }
 
 /* Custom Properties */
@@ -918,6 +918,8 @@ header {
     grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
     max-width: 1500px;
     gap: 50px;
+    margin: 0 auto;
+
 }
 
 .blog__container {
