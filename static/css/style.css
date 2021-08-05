@@ -514,6 +514,7 @@ header {
 .section__title--work {
     color: var(--clr-light);
     position: relative;
+    margin-bottom: 20px;
 }
 
 .section__title--work::after {
@@ -521,7 +522,7 @@ header {
     display: block;
     width: 25%;
     height: 1px;
-    margin: 0.5em auto 1em;
+    margin: 0.5em auto 0em;
     background: var(--clr-accent);
     opacity: 0.5;
 }
