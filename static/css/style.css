@@ -1986,6 +1986,12 @@ header {
     margin: 0 auto;
 }
 
+@media (max-width: 715px) {
+    .movies {
+        gap: 20px;
+    }
+}
+
 .movie__container {
     position: relative;
     border: #B6F29D 5px solid;
@@ -2031,8 +2037,8 @@ header {
 }
 
 .movie-title {
-    font-size: 40px;
-    font-weight: var(--fw-bold)
+    font-size: 20px;
+    font-weight: var(--fw-bold);
 
 }
 
