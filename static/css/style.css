@@ -688,7 +688,7 @@ header {
 .about-me {
     max-width: 1050px;
     padding: 50px;
-    padding-bottom: 150px;
+    /*padding-bottom: 150px;*/
     margin: 0 auto;
     background-color: var(--clr-dark);
     background-image: url(../img/backgrounds/code/code.jpg);
@@ -748,7 +748,15 @@ header {
     margin-right: auto;
 }
 
-@media (min-width: 1200px) {
+.about-line {
+  padding: 5px; 
+  background-color: var(--clr-accent); 
+  margin-top: 30px; 
+  margin-bottom: 30px  
+}
+
+
+@media (min-width: 1245px) {
     .about-me {
         display: grid;
         grid-template-columns: 1fr 250px;
@@ -758,6 +766,8 @@ header {
             "text img";
 
         grid-column-gap: 0em;
+        padding-bottom: 150px;
+
 
     }
     .section__title--about {
@@ -789,6 +799,10 @@ header {
 
     .special_btn:hover {
         transform: scale(1.1);
+    }
+
+    .about-line {
+        display: none;
     }
 
 }
@@ -827,6 +841,14 @@ header {
         align-self: start;
         position: relative;
         padding-left: 10px;
+    }
+
+
+}
+
+@media (max-width: 1245px) {
+    .images {
+        display: none;
     }
 
 
@@ -2516,8 +2538,10 @@ header {
 
 }
 
+
+
 @media (max-width: 500px) {
-    .images, .about-me__body, .section__title--about, .section__subtitle--about, .more-button{
+    .images, .about-me__body, .about-line, .section__title--about, .section__subtitle--about, .more-button{
         display: none;
     }
 
