@@ -558,38 +558,6 @@ header {
     position: relative;
 }
 
-@media (min-width: 800px) {
-    .work {
-        display: grid;
-        grid-template-columns:repeat(3, 2fr);
-        grid-gap: 2em;
-        max-width: 1200px;
-        margin: 0 auto;
-        margin-bottom: 2.5em;        
-
-
-    }
-
-    .project__row1 {
-        display: grid;
-        grid-template-columns:repeat(3, 2fr);
-        grid-gap: 1em;
-        padding-bottom: 50px;
-    }
-
-    .projects__row2 {
-        display: grid;
-        grid-template-columns:repeat(3, 2fr);
-        grid-gap: 1em;
-        padding-bottom: 50px;
-      /*if row has two elements        */
-/*        padding-left: 175px;
-        padding-right: 175px;*/
-
-    }
-
-}
-
 /* Projects */
 .my-projects {
     background-color: var(--clr-dark);
@@ -628,7 +596,7 @@ header {
     border: #B6F29D 1px solid;
     background: black;
     transition: transform 250ms ease-in-out;
-    margin-bottom: 25px;
+    margin-bottom: 50px;
 
 
 }
@@ -649,40 +617,66 @@ header {
     display: flex;
 }
 
+
+.project__description {
+    position: relative;
+}
+
+
 @media (min-width: 800px) {
+    .work {
+        display: grid;
+        grid-template-columns:repeat(3, 2fr);
+        grid-gap: 1em;
+        max-width: 1200px;
+        margin: 0 auto;
+        margin-bottom: 2.5em;        
+
+
+    }
+
     .projects {
+        display: grid;
+        grid-template-columns:repeat(3, 2fr);
+        grid-gap: 3em;
+        padding-bottom: 50px;
+        /*background-color: blue;*/
+        max-width: 1000px;
+        margin: 0 auto;
+    }
+
+/*    .projects__row2 {
+        display: grid;
+        grid-template-columns:repeat(3, 2fr);
+        grid-gap: 1em;
+        padding-bottom: 50px;*/
+      /*if row has two elements        */
+/*        padding-left: 175px;
+        padding-right: 175px;*/
+
+
+
+    .project {
+        margin: 0px;
+
+    }
+
+/*    .projects {
         display: grid;
         grid-gap: 1em;
         max-width: 1250px;
         margin-left: auto;
         margin-right: auto;
-        grid-gap: 20px 50px;
+        grid-gap: 20px
+    }*/
 
-    }
-
-    .project__row1 {
-        display: grid;
-        grid-template-columns:repeat(3, 2fr);
-        grid-gap: 1em;
-        padding-bottom: 50px;
-    }
-
-    .projects__row2 {
-        display: grid;
-        grid-template-columns:repeat(3, 2fr);
-        grid-gap: 1em;
-        padding-bottom: 50px;
-      /*if row has two elements        */
-/*        padding-left: 175px;
-        padding-right: 175px;*/
-
-    }
 
 }
 
-.project__description {
-    position: relative;
+@media (max-width: 1320px) {
+
 }
+
 
 /* About me */
 
