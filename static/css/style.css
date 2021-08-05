@@ -558,38 +558,6 @@ header {
     position: relative;
 }
 
-@media (min-width: 800px) {
-    .work {
-        display: grid;
-        grid-template-columns:repeat(3, 2fr);
-        grid-gap: 2em;
-        max-width: 1200px;
-        margin: 0 auto;
-        margin-bottom: 2.5em;        
-
-
-    }
-
-    .project__row1 {
-        display: grid;
-        grid-template-columns:repeat(3, 2fr);
-        grid-gap: 1em;
-        padding-bottom: 50px;
-    }
-
-    .projects__row2 {
-        display: grid;
-        grid-template-columns:repeat(3, 2fr);
-        grid-gap: 1em;
-        padding-bottom: 50px;
-      /*if row has two elements        */
-/*        padding-left: 175px;
-        padding-right: 175px;*/
-
-    }
-
-}
-
 /* Projects */
 .my-projects {
     background-color: var(--clr-dark);
@@ -628,7 +596,7 @@ header {
     border: #B6F29D 1px solid;
     background: black;
     transition: transform 250ms ease-in-out;
-    margin-bottom: 25px;
+    margin-bottom: 50px;
 
 
 }
@@ -649,40 +617,66 @@ header {
     display: flex;
 }
 
+
+.project__description {
+    position: relative;
+}
+
+
 @media (min-width: 800px) {
+    .work {
+        display: grid;
+        grid-template-columns:repeat(3, 2fr);
+        grid-gap: 1em;
+        max-width: 1200px;
+        margin: 0 auto;
+        margin-bottom: 2.5em;        
+
+
+    }
+
     .projects {
+        display: grid;
+        grid-template-columns:repeat(3, 2fr);
+        grid-gap: 3em;
+        padding-bottom: 50px;
+        /*background-color: blue;*/
+        max-width: 1000px;
+        margin: 0 auto;
+    }
+
+/*    .projects__row2 {
+        display: grid;
+        grid-template-columns:repeat(3, 2fr);
+        grid-gap: 1em;
+        padding-bottom: 50px;*/
+      /*if row has two elements        */
+/*        padding-left: 175px;
+        padding-right: 175px;*/
+
+
+
+    .project {
+        margin: 0px;
+
+    }
+
+/*    .projects {
         display: grid;
         grid-gap: 1em;
         max-width: 1250px;
         margin-left: auto;
         margin-right: auto;
-        grid-gap: 20px 50px;
+        grid-gap: 20px
+    }*/
 
-    }
-
-    .project__row1 {
-        display: grid;
-        grid-template-columns:repeat(3, 2fr);
-        grid-gap: 1em;
-        padding-bottom: 50px;
-    }
-
-    .projects__row2 {
-        display: grid;
-        grid-template-columns:repeat(3, 2fr);
-        grid-gap: 1em;
-        padding-bottom: 50px;
-      /*if row has two elements        */
-/*        padding-left: 175px;
-        padding-right: 175px;*/
-
-    }
 
 }
 
-.project__description {
-    position: relative;
+@media (max-width: 1320px) {
+
 }
+
 
 /* About me */
 
@@ -1003,7 +997,8 @@ header {
 }
 
 .soon {
-    font-weight: var(--fw-bold)
+    font-weight: var(--fw-bold);
+    background: #111
 }
 
 @media (max-width:  500px) {
@@ -2364,19 +2359,17 @@ header {
 
 .all-news {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
     max-width: 1500px;
     gap: 50px;
     margin: 0 auto;
-    margin-top:  50px; 
 }
 
 .news__container {
-    position: relative;
     border: #111 5px solid;
-    max-width: 400px;
-    min-width: 400px;
-    margin: 0 auto;
+    margin:  0 auto;
+    position: relative;
+
 
 }
 
@@ -2418,16 +2411,42 @@ header {
 
 
 .news-title {
-    font-size: 20px;
+    font-size: 15px;
     font-weight: var(--fw-bold)
 }
 
 .publication {
-    font-size: 15px;
+    font-size: 13px;
 }
 
 .news-date {
-    font-size: 12.5px;
+    font-size: 12px;
+}
+
+@media (max-width:  500px) {
+    .all-news {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    }
+
+    .news-title {
+        font-size: 14px;
+        font-weight: var(--fw-bold)
+    }
+
+    .publication {
+        font-size: 10px;
+    }
+
+    .news-date {
+        font-size: 8px;
+    }
+}
+
+@media (max-width:  300px) {
+    .news_overlay {
+        display: none;
+    }
 }
 
 .egg-text {
@@ -2449,7 +2468,7 @@ header {
 
 }*/
 
-@media (max-width: 500px) {
+@media (max-width: 550px) {
     .social-list__link {
         font-size: 32px;
         padding: .5em;
@@ -2539,7 +2558,7 @@ header {
     }
 
     strong {
-        -webkit-text-stroke: 1px var(--clr-border);
+        -webkit-text-stroke: 2px var(--clr-border);
         font-weight: var(--fw-bold);
         color: var(--clr-accent);
     }
