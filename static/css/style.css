@@ -2770,13 +2770,13 @@ header {
     font-family: monospace;
     line-height: 2;
     margin: 0 auto;
-    padding-right: 100px;
-    padding-left: 100px;
+    padding-right: 50px;
+    padding-left: 50px;
     font-size: 12px;
 }
 
 .post-line {
-    padding: 2px; 
+    padding: 1px; 
     background-color: var(--clr-accent); 
     margin: 30px;
     margin-right: 100px;
@@ -2832,11 +2832,12 @@ header {
     margin-bottom: 10px;
     text-align: center;
     color: var(--clr-accent);
-    text-decoration: underline;
+    text-decoration: none;
+    font-size: 18px
 }
 
 .plain {
-    border: #B6F29D 5px solid;
+    border: #B6F29D 1px solid;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -2845,7 +2846,7 @@ header {
 }
 
 .post-link {
-    border: #B6F29D 5px solid;
+    border: #B6F29D 1px solid;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -2877,16 +2878,30 @@ header {
 }
 
 .post-link-special {
-    /*border: #B6F29D 1px solid;*/
+    border: #B6F29D 1px solid;
     display: block;
     width: 100%;
     height: auto;
 }
 
+
+
 @media (max-width: 690px) {
     .post-link-special {
         width: 150px;
         margin: 0 auto;
+    }
+
+
+}
+
+@media (max-width: 500px) {
+    .post-row {
+        display: inline;
+    }
+
+    .post-column {
+        margin-bottom: 20px;
     }
 }
 
@@ -2896,3 +2911,55 @@ header {
         margin: 0 auto;
     }
 }
+
+
+.code-block {
+  font-family: monospace;
+  background: var(--clr-dark);
+  border-radius: 25px;
+  padding: 10px;
+  font-size: 15px;
+  line-height: 150%;
+  padding-left: 25px;
+  color: white;
+}
+
+.blue {
+    color: #67D8EF;
+}
+
+.yellow {
+    color: #E7DB74;
+}
+
+.red {
+    color: #EA246B;
+}
+
+.green {
+    color: #A6E22B;
+}
+
+.orange {
+    color: #FD9622;
+}
+
+.white {
+    color: white;
+}
+
+.comment {
+    color: #74705D;
+}
+
+.inline {
+    background: var(--clr-dark);
+    border-radius: 25px;
+    padding: 5px;
+    color: var(--clr-accent);
+}
+
+code {
+    background: var(--clr-dark);
+}
+
