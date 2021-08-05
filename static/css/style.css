@@ -1675,11 +1675,12 @@ header {
     background-color: var(--clr-accent);
     color: var(--clr-light);
     text-align: center;
+
 }
 
 .choices {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(330px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
     max-width: 1000px;
     gap: 50px;
     margin: 0 auto;
@@ -1687,11 +1688,11 @@ header {
 
 
 .choice__container {
+    margin:  0 auto;
     position: relative;
-    border: #111 10px solid;
-    max-width: 500px;
     background-color: var(--clr-accent);
 
+    border: #111 10px solid;
 
 }
 
@@ -1701,8 +1702,13 @@ header {
 
 .choice__item {
     color: var(--clr-darker);
+    display: block;
+    width: 100%
+    height: auto;
 
 }
+
+
 
 .choice_overlay {
     position: absolute;
@@ -1729,6 +1735,26 @@ header {
     text-align: center;
     font-weight: var(--fw-bold);
 
+}
+
+@media (max-width: 450px) {
+
+    .my-music-choices {
+        padding: 50px;
+    }
+
+    .choices {
+        display: initial;
+    }
+
+    .choice__container {
+        margin-bottom: 40px;
+    }
+
+    .choice-text {
+        font-size: 30px;
+    }
+    
 }
 
 /* songs */
@@ -1816,6 +1842,7 @@ header {
     text-align: center;
 }
 
+
 .all-my-albums {
     background-color: var(--clr-accent);
     color: var(--clr-light);
@@ -1827,19 +1854,59 @@ header {
 
 .all-albums {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    max-width: 2000px;
+    grid-template-columns: repeat(auto-fit, minmax(315px, 1fr));
+    max-width: 2100px;
     gap: 25px;
+
     margin: 0 auto;
 }
 
 .all-album__container {
     position: relative;
     border: #111 10px solid;
-    max-width: 300px;
+    /*max-width: 300px;*/
     min-width: 300px;
     margin: 0 auto;
 
+}
+
+@media (max-width: 750px) {
+    .all-album__container {
+        max-width: 400px;
+    }
+}
+
+@media (max-width: 400px) {
+    .all-my-albums {
+        color: var(--clr-light);
+        text-align: center;
+        padding: 2em 2em;
+
+        
+    }
+
+    .all-albums {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        max-width: 1500px;
+        gap: 20px;
+        margin: 0 auto;
+    }
+
+    .albums {
+        gap: 20px;
+    }
+
+
+
+    .all-album__container {
+        position: relative;
+        border: #111 10px solid;
+        max-width: 475px;
+        min-width: 100px;
+        margin: 0 auto;
+
+    }
 }
 
 
@@ -1862,6 +1929,19 @@ header {
     text-align: center;
 }
 
+/*@media (max-width: 400px) {
+    .all-album__container {
+        border: none;
+        outline: #111 10px solid;
+        margin-bottom: 20px;
+    }
+
+    .all-album__container {
+        max-width: 300px;
+    }
+
+}
+*/
 /* movies  */
 .my-movies {
     background-color: var(--clr-darker);
