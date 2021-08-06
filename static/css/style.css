@@ -2665,7 +2665,7 @@ header {
     }
 
     strong {
-        -webkit-text-stroke: 2px var(--clr-border);
+        -webkit-text-stroke: 2.2px var(--clr-border);
         font-weight: var(--fw-bold);
         color: var(--clr-accent);
     }
@@ -2691,6 +2691,7 @@ header {
         border-radius: 5px;
         font-size: 12.5px;
         padding-bottom: 0.2em;
+        padding-top: 0.2em;
     }
 
     .section__subtitle--intro {
