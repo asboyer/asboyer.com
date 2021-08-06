@@ -4,21 +4,48 @@
 {% endblock %}
 
 {% block content %}
-<section class="soon">
-
-    <h1 class="section__title section__title--soon">
-        Coming <strong>Soon</strong>
-    </h1>
+<section class="post">
+    <div class="post-header">
     
-    <p class="section__subtitle section__subtitle--soon">Hi! I am currently writing this blog post.</p>
-    
-    <p class="break"></p>
+        <h2 class="post-title">
+            <strong>Predicting the MVP with Python</strong>
+        </h2>
 
-    <div class="soon-div">
-        <p class="section__subtitle section__subtitle--soon">This post will describe the interworkings of <a class="inline-link" href="https://www.goatgrade.com/" target="_blank">Goat Grade</a>, a project I started with a friend in February. We scraped basketball statistics from <a class="inline-link" href="https://www.basketball-reference.com/" target="_blank">Basketball reference</a> and ranked all players by their statistical rankings in all categories. While the list is nowhere near perfect, we predicted the top two MVP candidates, and the ultimate winner. Check it out while you wait for the whole story!</p>
+        <h3 class="post-author">
+            Andrew Boyer
+        </h3>  
+
+        <h3 class="post-date">
+            8.9.21
+        </h3>  
+        
     </div>
 
-</section>
+    <div class="post-content">
+
+        <h3 class="section-heading">
+            Introduction
+        </h3>
+
+        <p class="post-text-intro">
+            During February of 2021, I created a website called <a href="https://goatgrade.com" target="_blank">Goat Grade</a>. It used Python, HTML (no CSS because I was lazy), and data from <a href="https://www.basketball-reference.com/" target="_blank">Basketball Reference</a> to rank NBA players based on their in-game stats and display my rankings online. After I uploaded it to the internet, I didn't think too much of it. A few months later, the NBA MVP finalists were announced. To my surprise, my algorithm predicted the top <a href="https://www.nba.com/news/kia-mvp-ladder-nikola-jokic-finishes-no-1-among-pack-of-contenders" target="_blank">two front runners</a> in the race for most valuable player. After <a href="https://www.nba.com/kia-mvp/2021-nikola-jokic" target="_blank">Nikola Jokic</a> was announced the league MVP, it was official: a program I wrote in a weekend had predicted which player was going to win MVP months before the finalists were even announced. This is the story of how I built <a href="https://goatgrade.com" target="_blank">Goat Grade</a>, my current plans to improve it, and why my prediction may have actually been a total fluke after all.
+        </p>
+
+        <div class="post-line"></div>
+
+        <p class="post-text">
+            <span class="tab"></span>The inspiration behind this project came in a variety of ways. I had just wrapped up the first half of my junior year of high school, blah, blah, blah. Here is some code:
+            
+            <br>
+            <img class="plain" src="/static/img/tools/python.png">
+            <figcaption>Python</figcaption>
+        </p>
+
+    </div>
+
+
+
+</section> 
 {% endblock %}
 
 {% block scripts %}
