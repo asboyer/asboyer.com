@@ -7,8 +7,7 @@
 {% block content %}
 <section class="post">
     <div class="post-header">
-    
-        <h2 class="post-title">
+        <h2 class="post-title" id="title">
             <strong>Predicting the MVP with Python</strong>
         </h2>
 
@@ -22,20 +21,19 @@
         
     </div>
 
-    <div class="post-content">
+<div class="post-content">
+<p class="post-text-intro" id="preface">
+During February of 2021, I created a website called <a href="https://goatgrade.com" target="_blank">Goat Grade</a>. It used Python, HTML (no CSS because I was lazy), and data from <a href="https://www.basketball-reference.com/" target="_blank">Basketball Reference</a> to rank NBA players based on their in-game stats and display my rankings online. After I uploaded it to the internet, I didn't think too much of it. A few months later, the NBA MVP finalists were announced. To my surprise, my algorithm predicted the top <a href="https://www.nba.com/news/kia-mvp-ladder-nikola-jokic-finishes-no-1-among-pack-of-contenders" target="_blank">two front runners</a> in the race for most valuable player. After <a href="https://www.nba.com/kia-mvp/2021-nikola-jokic" target="_blank">Nikola Jokic</a> was announced the league MVP, it was official: a program I wrote in a weekend had predicted which player was going to win MVP months before the finalists were even announced. This is the story of how I built <a href="https://goatgrade.com" target="_blank">Goat Grade</a>, my current plans to improve it, and why my prediction may have actually been a total fluke after all.
+</p>
 
-        <h3 class="section-heading">
-            Introduction
-        </h3>
+<div class="post-line"></div>
 
-        <p class="post-text-intro">
-            During February of 2021, I created a website called <a href="https://goatgrade.com" target="_blank">Goat Grade</a>. It used Python, HTML (no CSS because I was lazy), and data from <a href="https://www.basketball-reference.com/" target="_blank">Basketball Reference</a> to rank NBA players based on their in-game stats and display my rankings online. After I uploaded it to the internet, I didn't think too much of it. A few months later, the NBA MVP finalists were announced. To my surprise, my algorithm predicted the top <a href="https://www.nba.com/news/kia-mvp-ladder-nikola-jokic-finishes-no-1-among-pack-of-contenders" target="_blank">two front runners</a> in the race for most valuable player. After <a href="https://www.nba.com/kia-mvp/2021-nikola-jokic" target="_blank">Nikola Jokic</a> was announced the league MVP, it was official: a program I wrote in a weekend had predicted which player was going to win MVP months before the finalists were even announced. This is the story of how I built <a href="https://goatgrade.com" target="_blank">Goat Grade</a>, my current plans to improve it, and why my prediction may have actually been a total fluke after all.
-        </p>
+<h3 class="post-text-header" id="intro">Introduction</h3>
 
-        <div class="post-line"></div>
+<p class="post-text">
+    <!-- <span class="tab"></span> -->The inspiration behind this project came in a variety of ways. I had just wrapped up the first half of my junior year of high school, blah, blah, blah. Here is some code:
+</p>
 
-        <p class="post-text">
-            <span class="tab"></span>The inspiration behind this project came in a variety of ways. I had just wrapped up the first half of my junior year of high school, blah, blah, blah. Here is some code:
 <div class="code-block">
 <pre><code class="language-python">import json, os
 
@@ -46,70 +44,38 @@ def rank(stats, category, rankings):
     rank = sorted(rank, key=lambda x: x[1])
     rank.reverse()
 
+    # adding some comments
+
     add_to_dict(rank, rankings, category)
-
-def add_to_dict(rank, rankings, category):
-    for i in range(len(rank)):
-        name = rank[i][0]
-        value = rank[i][1]
-        rankings[name][f'{category} Rank'] = i + 1
-        rankings[name][category] = value
-
-def make_dict(stats):
-    rankings = {}
-    for player in stats:
-        rankings[player] = {}
-
-    return rankings
-
-def print_rank(rankings, category):
-    order = []
-    for player in rankings:
-        order.append([player, rankings[player][f'{category} Rank'], rankings[player][category]])
-    order = sorted(order, key=lambda x: x[1])
-    for player in order:
-        print(f"{player[1]}. {player[0]} ({player[2]})")
-
-def total(rankings, categories, file):
-    totals = []
-    for player in rankings:
-        total = []
-        total.append(player)
-        total.append(0)
-        for category in categories:
-            total[1] += rankings[player][f'{category} Rank']
-        totals.append(total)
-    order = []
-    order = sorted(totals, key=lambda x: x[1])
-    for i in range(len(order)):
-        file.write(f"{i + 1}. {order[i][0]} (Total: {order[i][1]} [")
-        for j in range(len(categories)):
-            file.write(f"{categories[j]} rank: {rankings[order[i][0]][f'{categories[j]} Rank']}")
-            if j != len(categories) - 1:
-                file.write(", ")
-        file.write("])\n")
-with open('../stats/stats.json', 'r', encoding='utf8') as file:
-    print()
-    cats = ['PTS', 'AST']
-    stats = json.load(file)
-    ranks = make_dict(stats)
-    for cat in cats:
-        rank(stats, cat, ranks)
-    with open('../ranks/ranks.txt', 'w+', encoding='utf8') as text: 
-        total(ranks, cats, text)
 </code></pre>
 </div>
 
-        <br>
-            <img class="plain" src="/static/img/tools/python.png">
-            <figcaption>Python</figcaption>
-        </p>
+<p class="post-text">
+Running the code in your terminal:
+</p>
 
-        <br>
+<div class="code-block">
+<pre><code class="language-shell">#!/bin/bash
 
+for (( i=0;i<$ELEMENTS;i++)); do
+    echo ${ARRAY[${i}]}
+done
+while read LINE; do
+    ARRAY[$count]=$LINE
+    ((count++))
+done
+if [ -d $directory ]; then
+    echo "Directory exists"
+else
+    echo "Directory does not exists"
+fi</code></pre>
+</div>
 
+<!-- <br>
+<img class="plain" src="/static/img/tools/python.png">
+<figcaption>Python</figcaption> -->
 
-    </div>
+</div>
 
 
 
