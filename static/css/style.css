@@ -1302,16 +1302,7 @@ header {
 
 /* code block styling */
 
-.code-block {
-  font-family: monospace;
-  background: var(--clr-dark);
-  border-radius: 25px;
-  padding: 10px;
-  font-size: 15px;
-  line-height: 150%;
-  padding-left: 25px;
-  color: white;
-}
+
 
 .blue {
     color: #67D8EF;
@@ -2928,19 +2919,39 @@ header {
 }
 
 
-.code-block {
-  font-family: monospace;
-  background: var(--clr-dark);
-  border-radius: 25px;
-  padding: 10px;
-  font-size: 15px;
-  line-height: 150%;
-  padding-left: 25px;
-  color: white;
+.lang-python .hljs-function .hljs-keyword{
+    color: #67D8EF; 
+    /* blue  */
 }
 
-.blue {
-    color: #67D8EF;
+.lang-python .hljs-function .hljs-title{
+    color: #A6E22B;
+    /* green */
+}
+
+.lang-python .hljs-function .hljs-params { 
+    color: #FD9622;
+    /* orange */
+}
+
+.lang-python .hljs-keyword {
+    color: #EA246B;
+    /* red  */
+}
+
+.hljs-comment {
+    color: #74705D;
+    /* grey */
+}
+
+.lang-python .hljs-literal {
+    color: #AC80F0;
+    /* purple */
+}
+
+.lang-python .hljs-string {
+    color: #E7DB74;
+    /* yellow  */
 }
 
 .yellow {
@@ -2978,3 +2989,27 @@ code {
     background: var(--clr-dark);
 }
 
+.code-block {
+    font-family: monospace;
+    background: var(--clr-dark);
+    border-radius: 5px;
+    font-size: 15px;
+    line-height: 150%;
+    color: white;
+    margin: 50px;
+    margin-top: 30px;
+}
+
+@media (max-width: 800px) {
+    .code-block {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 600px) {
+    .code-block {
+        font-size: 12px;
+        margin-right: 30px;
+        margin-left: 30px;
+    }
+}
