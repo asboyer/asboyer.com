@@ -87,4 +87,4 @@
 
 *I created this website with the intention of building a website from absolute scratch to learn the basics of HTML and CSS. I will be now trying to add as much JavaScript to the site as possible, as I am focusing on improving my fronted development skills*
 
-*You can also find this website using [andrewsboyer.com](https://andrewsboyer.com), [asboyer.tech](https://asboyer.tech) and [asboyer.me](https://asboyer.me)* 
+*You can also find this website using [andrewsboyer.com](https://andrewsboyer.com), [asboyer.tech](https://asboyer.tech) and [asboyer.me](http://asboyer.me)* 
