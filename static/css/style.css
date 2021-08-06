@@ -232,7 +232,9 @@ header {
     justify-content: space-evenly;
     align-items: center;
     margin: 0;
-    padding-right: 80px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 0px;
 }
 
 .nav__link {
@@ -2763,7 +2765,7 @@ header {
 
     font-family: 'Open Sans', sans-serif;
     font-size: 1.1rem;
-    line-height: 1.9em;
+    line-height: 1.95em;
     
     margin: 0 auto;
     padding-right: 50px;
@@ -2789,6 +2791,12 @@ header {
 
 }
 
+@media (max-width: 800px) {
+    .post-text {
+        font-size: 14px;
+    }
+}
+
 @media (max-width: 600px) {
     .post-text {
         font-size: 12px;
@@ -2805,7 +2813,7 @@ header {
     }
 
     .post-content {
-        padding: 0px;
+        /*padding: 0px;*/
         padding-right: 0px;
         padding-left: 0px;
     }
@@ -2873,7 +2881,7 @@ header {
     margin: 0 auto;
     margin-right: 20px;
     margin-left: 20px;
-    margin-top: 30px
+    margin-top: 50px
 }
 
 .post-column {
