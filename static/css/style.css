@@ -962,6 +962,8 @@ header {
 .blog__container {
     margin:  0 auto;
     position: relative;
+    border: #111 5px solid;
+
 }
 
 
@@ -2628,6 +2630,7 @@ header {
     .special_btn1 {
         display: flex;
         margin:  0 auto;
+        margin-top: 30px;
     }
 
     .about-me {
@@ -2761,6 +2764,8 @@ header {
     margin: 0 auto;
     padding-right: 50px;
     padding-left: 50px;
+
+    /*color: white;*/
 }
 
 .post-section {
@@ -2789,6 +2794,7 @@ header {
     padding-right: 50px;
     padding-left: 50px;
     font-size: 12px;
+    /*color: white;*/
 }
 
 .post-line {
