@@ -26,16 +26,14 @@
 During February of 2021, I created a website called <a href="https://goatgrade.com" target="_blank">Goat Grade</a>. It used Python, HTML (no CSS because I was lazy), and data from <a href="https://www.basketball-reference.com/" target="_blank">Basketball Reference</a> to rank NBA players based on their in-game statistics and display my rankings online. After I uploaded it to the internet, I didn't think too much of it. A few months later, the NBA MVP finalists were announced. To my surprise, my algorithm predicted the top <a href="https://www.nba.com/news/kia-mvp-ladder-nikola-jokic-finishes-no-1-among-pack-of-contenders" target="_blank">two front runners</a> in the race for most valuable player. After <a href="https://www.nba.com/kia-mvp/2021-nikola-jokic" target="_blank">Nikola Jokic</a> was announced the league MVP, it became official: a program I wrote in a weekend had predicted which player was going to win MVP months before the finalists were even announced. This is the story of how I built <a href="https://goatgrade.com" target="_blank">Goat Grade</a>, my current plans to improve it, and why my prediction may have actually been a total fluke after all.
 </p>
 
-<div class="post-line"></div>
+<div class="post-line" style="margin-bottom: 20px"></div>
 
 <h3 class="post-text-header" id="beginnings">Beginnings</h3>
 
 <p class="post-text">
-    <span class="tab"></span>The inspiration behind this project came in multiple ways. I had just finished the first half of my junior year of high school, and was looking for a cool project to work on. 
+    <!-- <span class="tab"></span> -->The inspiration behind this project came in multiple ways. I had just finished the first half of my junior year of high school, and was looking for a cool project to work on. 
     <br>
-    <span class="tab"></span>In November of that same year, I officially released <a href="https://github.com/asboyer/reporty" target="_blank">Reporty</a>, a Python library designed for organizing and distributing visual data. The library takes data sets or figures that you pass in to it and generates an HTML page with those figures. You also have the option to send that page in an email, and even send it in an embedded email <a class="footnote-link" href="#footnote1" id="footlink1">[1]</a>.
-    <br>
-    <span class="tab"></span>
+    <!-- <span class="tab"></span> -->In November of that same year, I officially released <a href="https://github.com/asboyer/reporty" target="_blank">Reporty</a>, a Python library designed for organizing and distributing visual data. The library takes data sets or figures that you pass in to it and generates an HTML page with those figures. You also have the option to send that page in an email, and even send it in an embedded email <a class="footnote-link" href="#footnote1" id="footlink1">[1]</a>. After things were slowing down for this project, I wanted to get started something on new. Building <a href="https://github.com/asboyer/reporty" target="_blank">Reporty</a>, with the help of a close friend and mentor <a class="footnote-link" href="#footnote2" id="footlink2">[2]</a>, had given me a solid introduction into the world of <a href="https://en.wikipedia.org/wiki/Data_science#:~:text=Data%20science%20is%20an%20interdisciplinary,broad%20range%20of%20application%20domains." target="_blank">data science</a>. Still, I hadn't quite undertaken a project where I actually organized, cleaned, and modeled data from a real data set. <a href="https://github.com/asboyer/reporty" target="_blank">Reporty</a> was about taking figures that were already made with existing (or even fake) data and organizing them into a nice web page that our library generated <a class="footnote-link" href="#footnote3" id="footlink3">[3]</a>.
 </p>
 
 <div class="code-block">
@@ -114,6 +112,18 @@ fi</code></pre>
 
 <p class="footnote" id="footnote1">
 <a class="footnote-link" href="#footlink1">[1]</a> I am still currently working on Reporty. There may or not be a blog post in the near future explaining how I built it and what my plans are for the future of the library. Check out our <a href="https://github.com/asboyer/reporty" target="_blank">GitHub</a>, and fork the repository if you would like to contribute!
+</p>
+
+<br>
+
+<p class="footnote" id="footnote2">
+<a class="footnote-link" href="#footlink2">[2]</a> <a href="https://github.com/btengels" target="_blank">btengels</a>
+</p>
+
+<br>
+
+<p class="footnote" id="footnote3">
+<a class="footnote-link" href="#footlink3">[3]</a> That being said, building <a href="https://github.com/asboyer/reporty" target="_blank">Reporty</a> taught me a lot about Python modules, image encoding, sending automated emails, and much more. Again, blog post on this project is most likely on the way.
 </p>
 
 </div>

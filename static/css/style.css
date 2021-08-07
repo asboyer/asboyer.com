@@ -329,7 +329,7 @@ header {
 
 .intro__img {
     box-shadow: var(--bs);
-    max-width: 400px;
+    /*max-width: 400px;*/
     justify-content: center;
     display: block;
     margin-left: auto;
@@ -2598,7 +2598,7 @@ header {
 
 @media (max-width: 799px) {
     strong {
-        -webkit-text-stroke: 3px var(--clr-border);
+        -webkit-text-stroke: 2.5px var(--clr-border);
         font-weight: var(--fw-bold);
         color: var(--clr-accent);
     }
@@ -2730,7 +2730,7 @@ header {
 
 /* blog post */
 .post {
-    background-color: #111;
+    background-color: var(--clr-darker);
     border: #B6F29D 1px solid;
 }
 
@@ -2739,6 +2739,7 @@ header {
     padding: 30px;
     border: #B6F29D 1px solid;
     max-width: 500px;
+    background-color: var(--clr-darker);
     margin-bottom: 50px;
 
 }
@@ -2767,6 +2768,8 @@ header {
     padding: 30px;
     border: #B6F29D 1px solid;
     max-width: 800px;
+    background-color: var(--clr-darker);
+
 }
 
 .post-text {
@@ -2836,6 +2839,7 @@ header {
 .footnote-link {
     text-decoration: none;
 }
+
 
 
 
@@ -2918,6 +2922,7 @@ header {
     margin-right: auto;
     width: 50%;
     padding: 0;
+    margin-top: 30px;
 }
 
 .post-link {
@@ -2927,6 +2932,8 @@ header {
     margin-right: auto;
     width: 50%;
     padding: 0; 
+    margin-top: 30px;
+
 }
 
 .post-content figcaption {
@@ -2958,6 +2965,7 @@ header {
     display: block;
     width: 100%;
     height: auto;
+
 }
 
 
