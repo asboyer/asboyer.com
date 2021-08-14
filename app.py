@@ -26,7 +26,9 @@ def blog():
 
 @app.route("/blog/<name>")
 def blog_post(name):
-    if os.path.exists(f'templates/blog/{name}.html'):
+    if name == "1":
+        return render_template("soon.html")
+    elif os.path.exists(f'templates/blog/{name}.html'):
         return render_template(f"blog/{name}.html")
     else:
         # make error page
