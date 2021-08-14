@@ -27,8 +27,7 @@ def blog():
 @app.route("/blog/<name>")
 def blog_post(name):
     if os.path.exists(f'templates/blog/{name}.html'):
-        # return render_template(f"blog/{name}.html")
-        return render_template(f"soon.html")
+        return render_template(f"blog/{name}.html")
     else:
         # make error page
         return render_template("error.html")
