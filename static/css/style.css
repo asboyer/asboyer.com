@@ -262,6 +262,12 @@ header {
     z-index: 1000;
 }
 
+@media (max-width: 500px) {
+    .nav-toggle {
+        position: absolute;
+    }
+}
+
 .nav-open .nav{
     transform: translateX(0);
 }
