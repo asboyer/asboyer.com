@@ -262,7 +262,7 @@ header {
     z-index: 1000;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 700px) {
     .nav-toggle {
         position: absolute;
     }
