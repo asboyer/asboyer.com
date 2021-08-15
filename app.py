@@ -1,9 +1,6 @@
 from flask import Flask, render_template, send_from_directory
 import os, json
 
-import movie_backend
-
-movie_backend.update_movie_database()
 
 app = Flask(__name__)
 
