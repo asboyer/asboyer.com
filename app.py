@@ -1,9 +1,9 @@
 from flask import Flask, render_template, send_from_directory
-import os
+import os, json
 
-# import movie_backend
+import movie_backend
 
-# print(movie_backend.get_movie_url("Tron: Legacy"))
+movie_backend.update_movie_database()
 
 app = Flask(__name__)
 
@@ -116,3 +116,17 @@ def se1():
 @app.route("/sitemap.xml")
 def se2():
     return send_from_directory(app.root_path, "sitemap.xml")
+
+
+
+@app.route("/tests/movies")
+def result():
+    return render_template('/tests/movie_test.html')
+
+
+@app.route("/data/movies.json")
+def movies_json():
+    f = open('data/movies.json')
+    data = json.load(f)
+    return data
+
