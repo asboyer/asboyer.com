@@ -58,7 +58,6 @@ def movies():
 
 # archives
 
-
 @app.route("/archive/music/0")
 def music_archive_0():
     return render_template("archive/music/april-june-2021.html")
@@ -74,6 +73,23 @@ def archive_music_path(name):
     else:
         # make error page
         return render_template("error.html")
+
+#SEO
+@app.route("/robots.txt")
+def se1():
+    return send_from_directory(app.root_path, "robots.txt")
+
+@app.route("/sitemap.xml")
+def se2():
+    return send_from_directory(app.root_path, "sitemap.xml")
+
+@app.route("/data/movies.json")
+def movies_json():
+    f = open('data/movies.json')
+    data = json.load(f)
+    return data
+
+
 
 # @app.route("/books")
 # def books():
@@ -104,26 +120,4 @@ def archive_music_path(name):
 # @app.route("/books/library")
 # def books_library():
 #     return render_template("favorites/books/library.html")
-
-#SEO
-@app.route("/robots.txt")
-def se1():
-    return send_from_directory(app.root_path, "robots.txt")
-
-@app.route("/sitemap.xml")
-def se2():
-    return send_from_directory(app.root_path, "sitemap.xml")
-
-
-
-@app.route("/tests/movies")
-def result():
-    return render_template('/tests/movie_test.html')
-
-
-@app.route("/data/movies.json")
-def movies_json():
-    f = open('data/movies.json')
-    data = json.load(f)
-    return data
 

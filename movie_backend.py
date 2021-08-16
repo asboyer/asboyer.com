@@ -77,7 +77,7 @@ def update_movie_database():
     with open('data/movies.json', 'w') as json_file: 
         json.dump(data, json_file, indent=4)
 
-    print('DATA BASE UPDATED')
+    print('DATABASE UPDATED')
 
         
 
