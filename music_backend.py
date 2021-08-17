@@ -79,20 +79,3 @@ def update_database(spec):
                     )), json_file, indent=4)
 
 update_database('all_time')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
