@@ -1,1 +1,13 @@
-{}
+{
+    "ye": {
+        "artists": "Kanye West",
+        "genres": [],
+        "id": "2Ek1q2haOnxVqhvVKqMvJe",
+        "name": "ye",
+        "popularity": 76,
+        "release_date": "2018-06-01",
+        "total_tracks": 7,
+        "uri": "spotify:album:2Ek1q2haOnxVqhvVKqMvJe",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2"
+    }
+}
