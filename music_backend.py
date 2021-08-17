@@ -56,6 +56,7 @@ def clean_result(result):
 def build_database(uri_list):
     final = {}
     for uri in uri_list:
+        print(uri)
         album_data = clean_result(sp.album(uri))
         final[album_data['name']] = album_data
     return final
