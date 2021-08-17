@@ -10,6 +10,13 @@ from api_keys import client_id, client_secret
 client_credentials_manager = SpotifyClientCredentials(client_id, client_secret)
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
+special_imgs = [
+                ['Boston', '/static/img/music/albums/boston.png'],
+                ['In Between Dreams', '/static/img/music/albums/dreams.png'],
+                ['Late Registration', '/static/img/music/albums/late.png'],
+                ['The Piano Guys', '/static/img/music/albums/piano_guys.png']
+               ]
+
 bad_data = ['available_markets', 'album_type', 'album_group', 'type', 
             'external_urls', 'external_ids', 'tracks', 'copyrights',
             'label', 'release_date_precision', 'href']
@@ -58,6 +65,9 @@ def build_database(uri_list):
     for uri in uri_list:
         print(uri)
         album_data = clean_result(sp.album(uri))
+        for special in special_imgs:
+            if album_data['name'] == special[0]:
+                album_data['image'] = special[1]
         final[album_data['name']] = album_data
     return final
 

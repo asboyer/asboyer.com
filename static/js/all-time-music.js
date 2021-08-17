@@ -13,7 +13,7 @@ $(document).ready(function(){
             }
 
             if(title == "Future & Juice WRLD Present... WRLD ON DRUGS") {
-                styles = "font-size: 20px;"
+                styles = "font-size: 20px"
             }
 
             var album_div = 
@@ -23,7 +23,7 @@ $(document).ready(function(){
                 <img src="${values.image}" alt="${title}" class="portfolio__img">
             <div class="album_overlay">
                 <div class="album-text">
-                    <p class="title" style="${styles}">${title.replace("(Deluxe)", "")}</p>
+                    <p class="title" style="${styles}">${title.replace("(Deluxe)", "").replace("(Remastered)", "")}</p>
                     <p class="artist">${values.artists}</p>
                 </div>
             </div>

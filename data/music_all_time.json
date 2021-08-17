@@ -74,7 +74,7 @@
         "release_date": "2013-01-18",
         "total_tracks": 16,
         "uri": "spotify:album:6P2EwTc87RwLx2ANZVr1JY",
-        "image": "https://i.scdn.co/image/ab67616d0000b273fce4efbd8537db577aa683d7"
+        "image": "/static/img/music/albums/piano_guys.png"
     },
     "T R A P S O U L": {
         "artists": "Bryson Tiller",
@@ -481,7 +481,7 @@
         "release_date": "2005-08-30",
         "total_tracks": 21,
         "uri": "spotify:album:5ll74bqtkcXlKE7wwkMq4g",
-        "image": "https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2"
+        "image": "/static/img/music/albums/late.png"
     },
     "?": {
         "artists": "XXXTENTACION",
@@ -558,7 +558,7 @@
         "release_date": "1976",
         "total_tracks": 8,
         "uri": "spotify:album:2QLp07RO6anZHmtcKTEvSC",
-        "image": "https://i.scdn.co/image/ab67616d0000b27390ef9760e57fafd8f966d17a"
+        "image": "/static/img/music/albums/boston.png"
     },
     "The Piano Guys 2": {
         "artists": "The Piano Guys",
@@ -734,7 +734,7 @@
         "release_date": "2005-01-01",
         "total_tracks": 14,
         "uri": "spotify:album:7tTc46dNdE6GGuiQsssWxo",
-        "image": "https://i.scdn.co/image/ab67616d0000b27306b42768ebe736eec21336ea"
+        "image": "/static/img/music/albums/dreams.png"
     },
     "Wonders": {
         "artists": "The Piano Guys",
