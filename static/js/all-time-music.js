@@ -23,7 +23,7 @@ $(document).ready(function(){
                 <img src="${values.image}" alt="${title}" class="portfolio__img">
             <div class="album_overlay">
                 <div class="album-text">
-                    <p class="title" style="${styles}">${title.replace("(Deluxe)", "").replace("(Remastered)", "")}</p>
+                    <p class="title" style="${styles}">${title.replace("(Deluxe)", "").replace("(Remastered)", "").replace("(Original Motion Picture Soundtrack)", "").replace("(Legacy Edition)", "")}</p>
                     <p class="artist">${values.artists}</p>
                 </div>
             </div>

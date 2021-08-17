@@ -757,5 +757,16 @@
         "total_tracks": 10,
         "uri": "spotify:album:2ZytN2cY4Zjrr9ukb2rqTP",
         "image": "https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac"
+    },
+    "TRON: Legacy - The Complete Edition (Original Motion Picture Soundtrack)": {
+        "artists": "Daft Punk",
+        "genres": [],
+        "id": "3AMXFnwHWXCvNr5NCCpLZI",
+        "name": "TRON: Legacy - The Complete Edition (Original Motion Picture Soundtrack)",
+        "popularity": 58,
+        "release_date": "2010-12-03",
+        "total_tracks": 31,
+        "uri": "spotify:album:3AMXFnwHWXCvNr5NCCpLZI",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738323143296ff7b2801e32789"
     }
 }
