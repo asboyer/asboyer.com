@@ -89,6 +89,15 @@ def movies_json():
     data = json.load(f)
     return data
 
+@app.route("/data/music_all_time.json")
+def music_json():
+    f = open('data/music_all_time.json')
+    data = json.load(f)
+    return data
+
+@app.route('/tests/music')
+def test_music():
+    return render_template('tests/music.html')
 
 
 # @app.route("/books")

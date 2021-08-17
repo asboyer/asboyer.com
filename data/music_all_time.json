@@ -9,5 +9,60 @@
         "total_tracks": 7,
         "uri": "spotify:album:2Ek1q2haOnxVqhvVKqMvJe",
         "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2"
+    },
+    "Illmatic": {
+        "artists": "Nas",
+        "genres": [],
+        "id": "3kEtdS2pH6hKcMU9Wioob1",
+        "name": "Illmatic",
+        "popularity": 66,
+        "release_date": "1994-04-19",
+        "total_tracks": 10,
+        "uri": "spotify:album:3kEtdS2pH6hKcMU9Wioob1",
+        "image": "https://i.scdn.co/image/ab67616d0000b273045fc920ecf4f8094888ec26"
+    },
+    "The Low End Theory": {
+        "artists": "A Tribe Called Quest",
+        "genres": [],
+        "id": "1p12OAWwudgMqfMzjMvl2a",
+        "name": "The Low End Theory",
+        "popularity": 63,
+        "release_date": "1991-09-24",
+        "total_tracks": 14,
+        "uri": "spotify:album:1p12OAWwudgMqfMzjMvl2a",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7"
+    },
+    "KIDS SEE GHOSTS": {
+        "artists": "KIDS SEE GHOSTS, Kanye West, Kid Cudi",
+        "genres": [],
+        "id": "6pwuKxMUkNg673KETsXPUV",
+        "name": "KIDS SEE GHOSTS",
+        "popularity": 70,
+        "release_date": "2018-06-08",
+        "total_tracks": 7,
+        "uri": "spotify:album:6pwuKxMUkNg673KETsXPUV",
+        "image": "https://i.scdn.co/image/ab67616d0000b273013c00ee367dd85396f79c82"
+    },
+    "Eternal Atake": {
+        "artists": "Lil Uzi Vert",
+        "genres": [],
+        "id": "7IyoGB8J31fvQDwGtHAq9m",
+        "name": "Eternal Atake",
+        "popularity": 75,
+        "release_date": "2020-03-06",
+        "total_tracks": 18,
+        "uri": "spotify:album:7IyoGB8J31fvQDwGtHAq9m",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d5f1bbe527fa685633339add"
+    },
+    "Night Visions (Deluxe)": {
+        "artists": "Imagine Dragons",
+        "genres": [],
+        "id": "1rzDtYMpZDhRgKNigB467r",
+        "name": "Night Visions (Deluxe)",
+        "popularity": 64,
+        "release_date": "2012-09-04",
+        "total_tracks": 16,
+        "uri": "spotify:album:1rzDtYMpZDhRgKNigB467r",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a8f95e7f840c11edfa6cc3bd"
     }
 }
