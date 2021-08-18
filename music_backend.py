@@ -21,6 +21,10 @@ bad_data = ['available_markets', 'album_type', 'album_group', 'type',
             'external_urls', 'external_ids', 'tracks', 'copyrights',
             'label', 'release_date_precision', 'href']
 
+# TO DO:
+# need to figure out how to do top current albums, and top tracks
+# need to also write backend for top songs
+
 def read_music_data_from_file(spec):
     with open(f'data/music_{spec}_uris.txt', 'r') as f:
         file_albums = f.readlines()
