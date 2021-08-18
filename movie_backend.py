@@ -1,4 +1,7 @@
-import sys, requests, urllib, imdb, json
+import sys
+import requests
+import imdb 
+import json
 
 sys.path.append('secret')
 from api_keys import tmdb_key as KEY
