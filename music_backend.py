@@ -16,6 +16,7 @@ bad_data = ['available_markets', 'album_type', 'album_group', 'type',
 
 # TO DO:
 # need to figure out how to do top current albums, and top tracks
+# add top tracks field
 # need to also write backend for top songs
 
 def read_music_data_from_file(spec):
