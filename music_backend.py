@@ -10,23 +10,16 @@ from api_keys import client_id, client_secret
 client_credentials_manager = SpotifyClientCredentials(client_id, client_secret)
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
-special_imgs = [
-                ['Boston', '/static/img/music/albums/boston.png'],
-                ['In Between Dreams', '/static/img/music/albums/dreams.png'],
-                ['Late Registration', '/static/img/music/albums/late.png'],
-                ['The Piano Guys', '/static/img/music/albums/piano_guys.png']
-               ]
-
 bad_data = ['available_markets', 'album_type', 'album_group', 'type', 
             'external_urls', 'external_ids', 'tracks', 'copyrights',
-            'label', 'release_date_precision', 'href']
+            'label', 'release_date_precision', 'href', 'genres']
 
 # TO DO:
 # need to figure out how to do top current albums, and top tracks
 # need to also write backend for top songs
 
 def read_music_data_from_file(spec):
-    with open(f'data/music_{spec}_uris.txt', 'r') as f:
+    with open(f'data/add_uris_music_{spec}.txt', 'r') as f:
         file_albums = f.readlines()
         albums = []
         for album in file_albums:
@@ -61,6 +54,7 @@ def clean_result(result):
             best_image_url = image['url']
     del result['images']
     result['image'] = best_image_url
+    result['top_tracks'] = []
 
     return result
 
@@ -69,17 +63,32 @@ def build_database(uri_list):
     for uri in uri_list:
         print(uri)
         album_data = clean_result(sp.album(uri))
-        for special in special_imgs:
-            if album_data['name'] == special[0]:
-                album_data['image'] = special[1]
         final[album_data['name']] = album_data
     return final
 
 def update_database(spec):
+    with open(f'data/music_{spec}.json', 'r') as json_file: 
+        data = json.load(json_file)
+    data.update(build_database(
+                extract_uri(
+                read_music_data_from_file(spec)
+                )
+                )
+                )
     with open(f'data/music_{spec}.json', 'w') as json_file: 
-        json.dump(build_database(
-                    extract_uri(
-                    read_music_data_from_file(spec)
-                    )), json_file, indent=4)
+        json.dump(data, json_file, indent=4)
 
-update_database('all_time')
+def data_base_clean():
+    with open('data/music_all_time.json', 'r') as json_file:
+        data = json.load(json_file)
+
+    # data operation
+    for album in data:
+        data[album]['top_tracks'] = []
+        del data[album]['top_traks']
+
+    with open('data/music_all_time.json', 'w') as json_file:
+        json.dump(data, json_file, indent=4)
+
+# update_database('all_time')
+new_update()
