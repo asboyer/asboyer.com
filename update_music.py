@@ -15,7 +15,7 @@ if __name__ == "__main__":
 
     if type(spec) == str:
         if spec == 'songs' or spec == 'tracks':
-            music.backend.update_songs_database()
+            music_backend.update_songs_database()
         else:
             update_music(spec)
     elif type(spec) == list:

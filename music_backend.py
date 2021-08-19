@@ -12,7 +12,7 @@ sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
 bad_data = ['available_markets', 'album_type', 'album_group', 'type', 
             'external_urls', 'external_ids', 'tracks', 'copyrights',
-            'label', 'release_date_precision', 'href', 'genres']
+            'label', 'release_date_precision', 'href', 'genres', 'is_local', 'disc_number']
 
 # TO DO:
 # need to test top albums, top tracks
@@ -38,7 +38,7 @@ def read_music_data_from_file(spec):
 def extract_uri(albums):
     uri_list = []
     for i in albums:
-        uri_list.append(i[0].replace('spotify:album:', ''))
+        uri_list.append(i)
     return uri_list
 
 def clean_result(result):
@@ -101,12 +101,11 @@ def clean_song(result):
             artists_string += f'{artist_list[i]}, '
     result['artists'] = artists_string
     best_image_url = ''
-    for image in result['images']:
+    for image in result['album']['images']:
         if image['height'] == 640:
             best_image_url = image['url']
-    del result['images']
     result['image'] = best_image_url
-
+    del result['album']
     return result
 
 def build_songs_database(uri_list):
