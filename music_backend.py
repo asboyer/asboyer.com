@@ -15,7 +15,6 @@ bad_data = ['available_markets', 'album_type', 'album_group', 'type',
             'label', 'release_date_precision', 'href', 'genres', 'is_local', 'disc_number']
 
 # TO DO:
-# need to test top albums, top tracks
 # need to write js for top albums, top tracks
     # figure out how to loop though the list of top tracks in jquery
 # loop through albums and find top tracks
