@@ -46,44 +46,35 @@ def get_movie_url(movie_title):
     return url
 
 def update_movie_database():
-
-    print('reading text file...')
-    with open('data/movies.txt', 'r') as f:
+    with open('add/movies.txt', 'r') as f:
         movies = f.readlines()
+    
+    f = open(f'add/movies.txt', 'w+')
+    f.close()
 
-    print('reading current database...')
+    for i in range(len(movies)):
+        movies[i] = imdb_title_from_search(movies[i])
+
     with open('data/movies.json', 'r') as json_file:
         data = json.load(json_file)
 
-        current_movies = list(data.keys())
+        new_movies = {}
 
-        print('getting titles...')
-        for i in range(len(movies)):
-            movies[i] = imdb_title_from_search(movies[i])
-
-        print('looping through movies...')
         for movie in movies:
-            if movie not in current_movies:
-                print(f'adding \'{movie}\'...') 
-                # movie is in the list, but not present in the dictionary
-                data[movie] = {}
-                data[movie]['id'] = imdb_id_from_title(movie)
-                data[movie]['image'] = get_movie_url(movie)
+            print(f'adding \'{movie}\'...') 
+            # movie is in the list, but not present in the dictionary
+            new_movies[movie] = {}
+            new_movies[movie]['id'] = imdb_id_from_title(movie)
+            new_movies[movie]['image'] = get_movie_url(movie)
 
-        print('checking titles for removed movies...')
-        for movie_title in current_movies:
-            if movie_title not in movies:
-                print(f'removing \'{movie}\'...')
-                data.pop(movie_title)
+    data.update(new_movies)        
 
-    print('saving database...')
     with open('data/movies.json', 'w') as json_file: 
         json.dump(data, json_file, indent=4)
-
-    print('DATABASE UPDATED')
-
         
-
+if __name__ == "__main__":
+    print('testing...')
+    update_movie_database()
 # EXTRA:
 
 # DOWNLOADING IMG
