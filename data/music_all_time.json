@@ -1,7 +1,6 @@
 {
     "ye": {
         "artists": "Kanye West",
-        "genres": [],
         "id": "2Ek1q2haOnxVqhvVKqMvJe",
         "name": "ye",
         "popularity": 76,
@@ -13,7 +12,6 @@
     },
     "Illmatic": {
         "artists": "Nas",
-        "genres": [],
         "id": "3kEtdS2pH6hKcMU9Wioob1",
         "name": "Illmatic",
         "popularity": 66,
@@ -25,7 +23,6 @@
     },
     "The Low End Theory": {
         "artists": "A Tribe Called Quest",
-        "genres": [],
         "id": "1p12OAWwudgMqfMzjMvl2a",
         "name": "The Low End Theory",
         "popularity": 63,
@@ -37,7 +34,6 @@
     },
     "KIDS SEE GHOSTS": {
         "artists": "KIDS SEE GHOSTS, Kanye West, Kid Cudi",
-        "genres": [],
         "id": "6pwuKxMUkNg673KETsXPUV",
         "name": "KIDS SEE GHOSTS",
         "popularity": 70,
@@ -49,7 +45,6 @@
     },
     "Eternal Atake": {
         "artists": "Lil Uzi Vert",
-        "genres": [],
         "id": "7IyoGB8J31fvQDwGtHAq9m",
         "name": "Eternal Atake",
         "popularity": 75,
@@ -61,7 +56,6 @@
     },
     "Night Visions (Deluxe)": {
         "artists": "Imagine Dragons",
-        "genres": [],
         "id": "1rzDtYMpZDhRgKNigB467r",
         "name": "Night Visions (Deluxe)",
         "popularity": 64,
@@ -73,7 +67,6 @@
     },
     "The Piano Guys": {
         "artists": "The Piano Guys",
-        "genres": [],
         "id": "6P2EwTc87RwLx2ANZVr1JY",
         "name": "The Piano Guys",
         "popularity": 59,
@@ -85,7 +78,6 @@
     },
     "T R A P S O U L": {
         "artists": "Bryson Tiller",
-        "genres": [],
         "id": "6eZdwrhB97A3EYx9QppGfl",
         "name": "T R A P S O U L",
         "popularity": 75,
@@ -97,7 +89,6 @@
     },
     "Future & Juice WRLD Present... WRLD ON DRUGS": {
         "artists": "Future, Juice WRLD",
-        "genres": [],
         "id": "6P9PZjWXoCRF5b66BafPKY",
         "name": "Future & Juice WRLD Present... WRLD ON DRUGS",
         "popularity": 73,
@@ -109,7 +100,6 @@
     },
     "The Search": {
         "artists": "NF",
-        "genres": [],
         "id": "46xdC4Qcvscfs3Ai2RIHcv",
         "name": "The Search",
         "popularity": 78,
@@ -121,7 +111,6 @@
     },
     "F*CK LOVE (SAVAGE)": {
         "artists": "The Kid LAROI",
-        "genres": [],
         "id": "3YjfdLdpQcVI72uKhooZst",
         "name": "F*CK LOVE (SAVAGE)",
         "popularity": 83,
@@ -133,7 +122,6 @@
     },
     "Don't Look Back": {
         "artists": "Boston",
-        "genres": [],
         "id": "2bJalk1WMed8Z2CZca2zKp",
         "name": "Don't Look Back",
         "popularity": 53,
@@ -145,7 +133,6 @@
     },
     "Graduation": {
         "artists": "Kanye West",
-        "genres": [],
         "id": "5fPglEDz9YEwRgbLRvhCZy",
         "name": "Graduation",
         "popularity": 82,
@@ -157,7 +144,6 @@
     },
     "Death Race For Love": {
         "artists": "Juice WRLD",
-        "genres": [],
         "id": "1GYVNOzwhx1nMcIJDogSNp",
         "name": "Death Race For Love",
         "popularity": 83,
@@ -169,7 +155,6 @@
     },
     "If You're Reading This It's Too Late": {
         "artists": "Drake",
-        "genres": [],
         "id": "0ptlfJfwGTy0Yvrk14JK1I",
         "name": "If You're Reading This It's Too Late",
         "popularity": 75,
@@ -181,7 +166,6 @@
     },
     "good kid, m.A.A.d city": {
         "artists": "Kendrick Lamar",
-        "genres": [],
         "id": "6PBZN8cbwkqm1ERj2BGXJ1",
         "name": "good kid, m.A.A.d city",
         "popularity": 70,
@@ -193,7 +177,6 @@
     },
     "True 2 Myself": {
         "artists": "Lil Tjay",
-        "genres": [],
         "id": "1bCBZ8LedqwVYOLDLrRbbY",
         "name": "True 2 Myself",
         "popularity": 79,
@@ -205,7 +188,6 @@
     },
     "CLOUDS (THE MIXTAPE)": {
         "artists": "NF",
-        "genres": [],
         "id": "7eQGtkzCgrIWDOe76E9F8t",
         "name": "CLOUDS (THE MIXTAPE)",
         "popularity": 75,
@@ -217,7 +199,6 @@
     },
     "Because the Internet": {
         "artists": "Childish Gambino",
-        "genres": [],
         "id": "4GNIhgEGXzWGAefgN5qjdU",
         "name": "Because the Internet",
         "popularity": 73,
@@ -229,7 +210,6 @@
     },
     "Yeezus": {
         "artists": "Kanye West",
-        "genres": [],
         "id": "7D2NdGvBHIavgLhmcwhluK",
         "name": "Yeezus",
         "popularity": 77,
@@ -241,7 +221,6 @@
     },
     "Gentle Boy": {
         "artists": "Elijah Who",
-        "genres": [],
         "id": "2Ap5vMlN2HZQjTyohlapPA",
         "name": "Gentle Boy",
         "popularity": 62,
@@ -253,7 +232,6 @@
     },
     "The Lost Boy": {
         "artists": "Cordae",
-        "genres": [],
         "id": "6Pb7PMZtW0fuEM1lCGvCDu",
         "name": "The Lost Boy",
         "popularity": 67,
@@ -265,7 +243,6 @@
     },
     "No Pressure": {
         "artists": "Logic",
-        "genres": [],
         "id": "5pF05wJrbrIvqunE41vWP8",
         "name": "No Pressure",
         "popularity": 68,
@@ -277,7 +254,6 @@
     },
     "F*CK LOVE": {
         "artists": "The Kid LAROI",
-        "genres": [],
         "id": "6RuwGwQcAureaOraKJNFQG",
         "name": "F*CK LOVE",
         "popularity": 76,
@@ -289,7 +265,6 @@
     },
     "Confetti": {
         "artists": "Jack Harlow",
-        "genres": [],
         "id": "7xfcihbsBamUi6sezd0oOG",
         "name": "Confetti",
         "popularity": 64,
@@ -301,7 +276,6 @@
     },
     "Smoke + Mirrors": {
         "artists": "Imagine Dragons",
-        "genres": [],
         "id": "0gmsXcmrcnxdZBrD5EyJEL",
         "name": "Smoke + Mirrors",
         "popularity": 61,
@@ -313,7 +287,6 @@
     },
     "Industry Plant": {
         "artists": "iann dior",
-        "genres": [],
         "id": "5UuzudgFxwLkxC1LFajC5e",
         "name": "Industry Plant",
         "popularity": 68,
@@ -325,7 +298,6 @@
     },
     "Thriller": {
         "artists": "Michael Jackson",
-        "genres": [],
         "id": "2ANVost0y2y52ema1E9xAZ",
         "name": "Thriller",
         "popularity": 64,
@@ -337,7 +309,6 @@
     },
     "4 Your Eyez Only": {
         "artists": "J. Cole",
-        "genres": [],
         "id": "3CCnGldVQ90c26aFATC1PW",
         "name": "4 Your Eyez Only",
         "popularity": 71,
@@ -349,7 +320,6 @@
     },
     "The College Dropout": {
         "artists": "Kanye West",
-        "genres": [],
         "id": "4Uv86qWpGTxf7fU7lG5X6F",
         "name": "The College Dropout",
         "popularity": 75,
@@ -361,7 +331,6 @@
     },
     "Limitless": {
         "artists": "The Piano Guys",
-        "genres": [],
         "id": "4PPZ216h9xlTOsjXPUMlPw",
         "name": "Limitless",
         "popularity": 55,
@@ -373,7 +342,6 @@
     },
     "Evolve": {
         "artists": "Imagine Dragons",
-        "genres": [],
         "id": "33pt9HBdGlAbRGBHQgsZsU",
         "name": "Evolve",
         "popularity": 83,
@@ -385,7 +353,6 @@
     },
     "The Life Of Pablo": {
         "artists": "Kanye West",
-        "genres": [],
         "id": "7gsWAHLeT0w7es6FofOXk1",
         "name": "The Life Of Pablo",
         "popularity": 81,
@@ -397,7 +364,6 @@
     },
     "Summer Solstice": {
         "artists": "Apollo1027",
-        "genres": [],
         "id": "1O5iE0FwzZqagBkI5QThWm",
         "name": "Summer Solstice",
         "popularity": 10,
@@ -409,7 +375,6 @@
     },
     "Subluxe": {
         "artists": "Healy",
-        "genres": [],
         "id": "2UvJlbWPpItxxSrlQGrXAt",
         "name": "Subluxe",
         "popularity": 58,
@@ -421,7 +386,6 @@
     },
     "Heaven Or Hell": {
         "artists": "Don Toliver",
-        "genres": [],
         "id": "7z4GhRfLqfSkqrj5F3Yt2B",
         "name": "Heaven Or Hell",
         "popularity": 78,
@@ -433,7 +397,6 @@
     },
     "ASTROWORLD": {
         "artists": "Travis Scott",
-        "genres": [],
         "id": "41GuZcammIkupMPKH2OJ6I",
         "name": "ASTROWORLD",
         "popularity": 85,
@@ -445,7 +408,6 @@
     },
     "Birds In The Trap Sing McKnight": {
         "artists": "Travis Scott",
-        "genres": [],
         "id": "42WVQWuf1teDysXiOupIZt",
         "name": "Birds In The Trap Sing McKnight",
         "popularity": 80,
@@ -457,7 +419,6 @@
     },
     "Rodeo (Expanded Edition)": {
         "artists": "Travis Scott",
-        "genres": [],
         "id": "4PWBTB6NYSKQwfo79I3prg",
         "name": "Rodeo (Expanded Edition)",
         "popularity": 75,
@@ -469,7 +430,6 @@
     },
     "JESUS IS KING": {
         "artists": "Kanye West",
-        "genres": [],
         "id": "0FgZKfoU2Br5sHOfvZKTI9",
         "name": "JESUS IS KING",
         "popularity": 73,
@@ -481,7 +441,6 @@
     },
     "Scorpion": {
         "artists": "Drake",
-        "genres": [],
         "id": "1ATL5GLyefJaxhQzSPVrLX",
         "name": "Scorpion",
         "popularity": 83,
@@ -493,7 +452,6 @@
     },
     "Sensational": {
         "artists": "Yung Gravy",
-        "genres": [],
         "id": "6xd9phTkcEIsi1JWhbxZM3",
         "name": "Sensational",
         "popularity": 66,
@@ -505,7 +463,6 @@
     },
     "Therapy Session": {
         "artists": "NF",
-        "genres": [],
         "id": "75fT8UQEDnekHNhRnbdpNI",
         "name": "Therapy Session",
         "popularity": 70,
@@ -517,7 +474,6 @@
     },
     "Late Registration": {
         "artists": "Kanye West",
-        "genres": [],
         "id": "5ll74bqtkcXlKE7wwkMq4g",
         "name": "Late Registration",
         "popularity": 74,
@@ -529,7 +485,6 @@
     },
     "?": {
         "artists": "XXXTENTACION",
-        "genres": [],
         "id": "2Ti79nwTsont5ZHfdxIzAm",
         "name": "?",
         "popularity": 86,
@@ -541,7 +496,6 @@
     },
     "Bad (Remastered)": {
         "artists": "Michael Jackson",
-        "genres": [],
         "id": "3Us57CjssWnHjTUIXBuIeH",
         "name": "Bad (Remastered)",
         "popularity": 55,
@@ -553,7 +507,6 @@
     },
     "Coloring Book": {
         "artists": "Chance the Rapper",
-        "genres": [],
         "id": "71QyofYesSsRMwFOTafnhB",
         "name": "Coloring Book",
         "popularity": 70,
@@ -565,7 +518,6 @@
     },
     "1027": {
         "artists": "Apollo1027",
-        "genres": [],
         "id": "5rE1s0kdPddRUVwTY6eWMw",
         "name": "1027",
         "popularity": 15,
@@ -577,7 +529,6 @@
     },
     "SAVAGE MODE II": {
         "artists": "21 Savage, Metro Boomin",
-        "genres": [],
         "id": "6wTyGUWGCilBFZ837k5aRi",
         "name": "SAVAGE MODE II",
         "popularity": 77,
@@ -589,7 +540,6 @@
     },
     "So Much Fun": {
         "artists": "Young Thug",
-        "genres": [],
         "id": "1bnHPO4dKK7IjvgrtVBcQh",
         "name": "So Much Fun",
         "popularity": 72,
@@ -601,7 +551,6 @@
     },
     "Boston": {
         "artists": "Boston",
-        "genres": [],
         "id": "2QLp07RO6anZHmtcKTEvSC",
         "name": "Boston",
         "popularity": 72,
@@ -613,7 +562,6 @@
     },
     "The Piano Guys 2": {
         "artists": "The Piano Guys",
-        "genres": [],
         "id": "5iCNAC5zJYnO90r0dcXq4u",
         "name": "The Piano Guys 2",
         "popularity": 54,
@@ -625,7 +573,6 @@
     },
     "Kind Of Blue (Legacy Edition)": {
         "artists": "Miles Davis",
-        "genres": [],
         "id": "4sb0eMpDn3upAFfyi4q2rw",
         "name": "Kind Of Blue (Legacy Edition)",
         "popularity": 61,
@@ -637,7 +584,6 @@
     },
     "A Love Letter To You 3": {
         "artists": "Trippie Redd",
-        "genres": [],
         "id": "6qRbGZqJ3aQY8N8bcHc1ug",
         "name": "A Love Letter To You 3",
         "popularity": 72,
@@ -649,7 +595,6 @@
     },
     "Uncharted": {
         "artists": "The Piano Guys",
-        "genres": [],
         "id": "6nNCnm0zCnx2CF033KpEVd",
         "name": "Uncharted",
         "popularity": 53,
@@ -661,7 +606,6 @@
     },
     "808s & Heartbreak": {
         "artists": "Kanye West",
-        "genres": [],
         "id": "3WFTGIO6E3Xh4paEOBY9OU",
         "name": "808s & Heartbreak",
         "popularity": 75,
@@ -673,7 +617,6 @@
     },
     "After Hours": {
         "artists": "The Weeknd",
-        "genres": [],
         "id": "4yP0hdKOZPNshxUOjY0cZj",
         "name": "After Hours",
         "popularity": 89,
@@ -685,7 +628,6 @@
     },
     "LoVE me NOw (ReLoAdeD)": {
         "artists": "Tory Lanez",
-        "genres": [],
         "id": "0RK6vpJWuCZpNWNdRJ8rpY",
         "name": "LoVE me NOw (ReLoAdeD)",
         "popularity": 65,
@@ -697,7 +639,6 @@
     },
     "Blonde": {
         "artists": "Frank Ocean",
-        "genres": [],
         "id": "3mH6qwIy9crq0I9YQbOuDf",
         "name": "Blonde",
         "popularity": 81,
@@ -709,7 +650,6 @@
     },
     "Luv Is Rage 2": {
         "artists": "Lil Uzi Vert",
-        "genres": [],
         "id": "733e1ZfktLSwj96X5rsMeE",
         "name": "Luv Is Rage 2",
         "popularity": 79,
@@ -721,7 +661,6 @@
     },
     "Perception": {
         "artists": "NF",
-        "genres": [],
         "id": "1KOmHyNLuOe5YrPhD3Juuf",
         "name": "Perception",
         "popularity": 79,
@@ -733,7 +672,6 @@
     },
     "American Teen": {
         "artists": "Khalid",
-        "genres": [],
         "id": "6kf46HbnYCZzP6rjvQHYzg",
         "name": "American Teen",
         "popularity": 80,
@@ -745,7 +683,6 @@
     },
     "My Beautiful Dark Twisted Fantasy": {
         "artists": "Kanye West",
-        "genres": [],
         "id": "20r762YmB5HeofjMCiPMLv",
         "name": "My Beautiful Dark Twisted Fantasy",
         "popularity": 80,
@@ -757,7 +694,6 @@
     },
     "I'm Gone": {
         "artists": "iann dior",
-        "genres": [],
         "id": "4Wb5bU9FkmZ84WkkL37rKA",
         "name": "I'm Gone",
         "popularity": 71,
@@ -769,7 +705,6 @@
     },
     "Goodbye & Good Riddance": {
         "artists": "Juice WRLD",
-        "genres": [],
         "id": "6tkjU4Umpo79wwkgPMV3nZ",
         "name": "Goodbye & Good Riddance",
         "popularity": 85,
@@ -781,7 +716,6 @@
     },
     "Happy Endings": {
         "artists": "Old Dominion",
-        "genres": [],
         "id": "66Y5XaoFSoa0A4P0u56s8V",
         "name": "Happy Endings",
         "popularity": 66,
@@ -793,7 +727,6 @@
     },
     "In Between Dreams": {
         "artists": "Jack Johnson",
-        "genres": [],
         "id": "7tTc46dNdE6GGuiQsssWxo",
         "name": "In Between Dreams",
         "popularity": 69,
@@ -805,7 +738,6 @@
     },
     "Wonders": {
         "artists": "The Piano Guys",
-        "genres": [],
         "id": "1ezYUAyMAoiOnAu80UVzcS",
         "name": "Wonders",
         "popularity": 53,
@@ -817,7 +749,6 @@
     },
     "Off the Wall": {
         "artists": "Michael Jackson",
-        "genres": [],
         "id": "2ZytN2cY4Zjrr9ukb2rqTP",
         "name": "Off the Wall",
         "popularity": 72,
