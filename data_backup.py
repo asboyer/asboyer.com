@@ -10,4 +10,5 @@ Need to add tv shows under section, perhaps under film
 Need to figure out how to write site backup data constantly
 Need to figure out how to update the website on launch
 Need to write GUI for adding an album, or movie to respective databases
+need to write landing page for film, with shows and movies
 """
