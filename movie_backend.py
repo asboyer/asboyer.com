@@ -21,13 +21,11 @@ def imdb_id_from_title(title):
 
     return search[0].movieID
 
-def get_movie_url(movie_title):
+def get_movie_url(imdb_id, spec):
     CONFIG_PATTERN = 'http://api.themoviedb.org/3/configuration?api_key={key}'
     
     def size_str_to_int(x):
         return float("inf") if x == 'original' else int(x[1:])
-
-    imdb_id = imdb_id_from_title(imdb_title_from_search(movie_title))
 
     url = CONFIG_PATTERN.format(key=KEY)
     r = requests.get(url)
@@ -41,35 +39,38 @@ def get_movie_url(movie_title):
 
     r = requests.get(IMG_PATTERN.format(key=KEY,imdbid=imdb_id))
     api_response = r.json()
-    rel_path = api_response['movie_results'][0]['poster_path']
+    if spec == 'shows':
+        rel_path = api_response['tv_results'][0]['poster_path']
+    else:    
+        rel_path = api_response['movie_results'][0]['poster_path']
     url = "{0}{1}{2}".format(base_url, max_size, rel_path)
     return url
 
-def update_movie_database():
-    with open('add/movies.txt', 'r') as f:
+def update_movie_database(spec):
+    with open(f'add/{spec}.txt', 'r') as f:
         movies = f.readlines()
-    
-    f = open(f'add/movies.txt', 'w+')
+
+    f = open(f'add/{spec}.txt', 'w+')
     f.close()
 
     for i in range(len(movies)):
+        print(f'adding \'{movies[i]}\'...'.replace("\n", "")) 
         movies[i] = imdb_title_from_search(movies[i])
 
-    with open('data/movies.json', 'r') as json_file:
+    with open(f'data/{spec}.json', 'r') as json_file:
         data = json.load(json_file)
 
         new_movies = {}
 
         for movie in movies:
-            print(f'adding \'{movie}\'...') 
             # movie is in the list, but not present in the dictionary
             new_movies[movie] = {}
             new_movies[movie]['id'] = imdb_id_from_title(movie)
-            new_movies[movie]['image'] = get_movie_url(movie)
+            new_movies[movie]['image'] = get_movie_url(new_movies[movie]['id'], spec)
 
     data.update(new_movies)        
 
-    with open('data/movies.json', 'w') as json_file: 
+    with open(f'data/{spec}.json', 'w') as json_file: 
         json.dump(data, json_file, indent=4)
         
 if __name__ == "__main__":

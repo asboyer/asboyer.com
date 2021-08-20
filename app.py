@@ -56,6 +56,10 @@ def music_path(name):
 def movies():
     return render_template("favorites/movies/movies.html")
 
+@app.route("/shows")
+def shows():
+    return render_template("favorites/shows/shows.html")
+
 # archives
 
 @app.route("/archive/music/0")
@@ -104,6 +108,12 @@ def music_json_current_albums():
 @app.route("/data/music_current_songs.json")
 def music_json_current_tracks():
     f = open('data/music_current_songs.json')
+    data = json.load(f)
+    return data
+
+@app.route("/data/shows.json")
+def load_shows():
+    f = open('data/shows.json')
     data = json.load(f)
     return data
 
