@@ -17,7 +17,8 @@ bad_data = ['available_markets', 'album_type', 'album_group', 'type',
 # TO DO:
 # need to write js for top albums, top tracks
     # figure out how to loop though the list of top tracks in jquery
-# loop through albums and find top tracks
+    
+# loop through albums and find top tracks, set up top tracks
     # maybe pass top tracks as string arg in original text file
 
 
