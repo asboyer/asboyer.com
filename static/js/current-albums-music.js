@@ -1,12 +1,15 @@
 $(document).ready(function(){
 
     var music_div = `
-    <div class="all-albums">
+    <div class="albums">
     `
-    $.getJSON("/data/music_all_time.json", function(json) {
+    $.getJSON("/data/music_current.json", function(json) {
         $.each(json, function(title, values){
-
+            var tracklist = ""
             var styles = ""
+            if(title == "From Me To You") {
+                tracklist += '-long'
+            }
             // make an array of these albums for nowarp, same with small font
 
             var album_div = 
@@ -15,16 +18,16 @@ $(document).ready(function(){
                 <img src="${values.image}" alt="${title}" class="portfolio__img">
             <div class="album_overlay">
                 <div class="album-text">
-                    <p class="title" style="${styles}">${title.replace("(Deluxe)", "").replace("(Remastered)", "").replace("(Original Motion Picture Soundtrack)", "").replace("(Legacy Edition)", "").replace(" (Platinum VIP Edition)", "")}</p>
+                    <p class="title" style="${styles}">${title.replace("(Deluxe)", "").replace("(Remastered)", "").replace("(Original Motion Picture Soundtrack)", "").replace("(Legacy Edition)", "").replace(" (Platinum VIP Edition)", "").replace(" [Deluxe Edition]", "")}</p>
                     <p class="artist">${values.artists}</p>
                     <div class="the-tracks">
-                        <ul class="tracklist">
-                        <li class="tracks">Top Tracks:</li>
+                        <ul class="tracklist${tracklist}">
+                        <li class="tracks${tracklist}">Top Tracks:</li>
             `
             var track_list = ''
-            for (int i = 0; i < values.top_tracks.length; i++) {
+            for (let i = 0; i < values.top_tracks.length; i++) {
                 track_list += `
-                            <li>${valus.top_tracks[i]}</li>
+                            <li>${values.top_tracks[i]}</li>
                             `
             }
             var album_div_end = `
