@@ -95,6 +95,18 @@ def music_json():
     data = json.load(f)
     return data
 
+@app.route("/data/music_current.json")
+def music_json_current_albums():
+    f = open('data/music_current.json')
+    data = json.load(f)
+    return data
+
+@app.route("/data/music_current_songs.json")
+def music_json_current_tracks():
+    f = open('data/music_current_songs.json')
+    data = json.load(f)
+    return data
+
 @app.route('/tests/music')
 def test_music():
     return render_template('tests/music.html')
