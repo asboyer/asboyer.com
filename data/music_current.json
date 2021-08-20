@@ -8,7 +8,21 @@
         "total_tracks": 18,
         "uri": "spotify:album:6USIVqn1qiNAsRYtWo2CSa",
         "image": "https://i.scdn.co/image/ab67616d0000b27342bd0f416ad3a6c9f0f28c3e",
-        "top_tracks": []
+        "top_tracks": ["Sisyphus",
+                        "Candles on Fire!",
+                        "Shades of Us",
+                        "Smiling at the Ground",
+                        "Can't You See?",
+                        "Maybe Another Day...",
+                        "Alone Together",
+                        "Burnin Bridges / Long Day",
+                        "Work!",
+                        "People Pleaser",
+                        "Swallowed the Key (Interlude)",
+                        "It's All a Game",
+                        "Where'd You Go?",
+                        "Summit, Pt. 1"
+                        ]
     },
     "All Over The Place (Platinum VIP Edition)": {
         "artists": "KSI",
@@ -19,7 +33,13 @@
         "total_tracks": 16,
         "uri": "spotify:album:3WgAFg6y9jmNYLdC4xzHBF",
         "image": "https://i.scdn.co/image/ab67616d0000b273a931e451af18a162c5fb59b8",
-        "top_tracks": []
+        "top_tracks": ["The Moment",
+                        "Number 2",
+                        "Patience",
+                        "You",
+                        "Gang Gang",
+                        "Silly",
+                        "No Time"]
     },
     "DAYTONA": {
         "artists": "Pusha T",
@@ -30,7 +50,11 @@
         "total_tracks": 7,
         "uri": "spotify:album:07bIdDDe3I3hhWpxU6tuBp",
         "image": "https://i.scdn.co/image/ab67616d0000b273263555eebbe2b375593aa31e",
-        "top_tracks": []
+        "top_tracks": ["If You Know You Know",
+                        "Hard Piano",
+                        "Come Back Baby",
+                        "What Would Meek Do?",
+                        "Infared"]
     },
     "Tenet (Original Motion Picture Soundtrack) [Deluxe Edition]": {
         "artists": "Ludwig Goransson",
@@ -41,6 +65,10 @@
         "total_tracks": 20,
         "uri": "spotify:album:3XVZnD9SKNPcN3YJvho9Y7",
         "image": "https://i.scdn.co/image/ab67616d0000b27390e0df2bbc53b15ea320e30e",
-        "top_tracks": []
+        "top_tracks": ["FREEPORT",
+                        "POSTERITY",
+                        "747",
+                        "THE ALGORITHM",
+                        "INVERSION"]
     }
 }
