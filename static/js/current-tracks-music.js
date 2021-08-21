@@ -1,10 +1,10 @@
-var data_file = document.currentScript.getAttribute('data_file0');
+var data_file0 = document.currentScript.getAttribute('data_file0');
 $(document).ready(function(){
-
+    console.log(data_file0)
     var music_div = `
     <div class="songs">
     `
-    $.getJSON(data_file, function(json) {
+    $.getJSON(data_file0, function(json) {
         $.each(json, function(title, values){
             var style = ""
             // make an array of these albums for nowarp, same with small font

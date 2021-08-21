@@ -152,7 +152,6 @@ def test_music():
 # @app.route("/books/library")
 # def books_library():
 #     return render_template("favorites/books/library.html")
-
     
 @app.route("/data/archive/music_current_8212021.json")
 def load_music_current_8212021():
