@@ -115,8 +115,10 @@ def music_archive_{date_string}():
     f.close()
 
 def update_all_data():
-    # update all data here
-    pass
+    update_moives()
+    update_music()
+    update_tracks()
+    update_shows()
 
 if __name__ == "__main__":
     backup_current_music_data()
