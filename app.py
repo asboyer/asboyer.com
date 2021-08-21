@@ -1,13 +1,24 @@
+import os
+import json
+import inflect
 from flask import Flask, render_template, send_from_directory
-import os, json
+from datetime import date
+ 
+def calculateAge(birthDate):
+    today = date.today()
+    age = today.year - birthDate.year - ((today.month, today.day) < (birthDate.month, birthDate.day))
+ 
+    return age
 
+birthday = date(2003, 9, 21)
+p = inflect.engine()
 
 app = Flask(__name__)
 app.debug = True
 
 @app.route("/")
 def index():
-    return render_template("index.html")
+    return render_template("index.html", age=p.number_to_words(calculateAge(birthday)))
 
 @app.route("/<page>")
 def main_page(page):
