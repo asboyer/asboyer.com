@@ -1,9 +1,9 @@
+var data_file = document.currentScript.getAttribute('data_file');
 $(document).ready(function(){
-
     var music_div = `
     <div class="all-albums">
     `
-    $.getJSON("/data/music_all_time.json", function(json) {
+    $.getJSON(data_file, function(json) {
         $.each(json, function(title, values){
 
             var styles = ""

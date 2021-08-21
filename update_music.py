@@ -2,7 +2,12 @@ import sys
 import music_backend
 
 def update_music(spec):
-    music_backend.update_database(spec)
+    if spec == 'all':
+        specs = ['all_time', 'current']
+        for spc in specs:
+            music_backend.update_database(spc)
+    else:
+        music_backend.update_database(spec)
 
 def update_tracks():
     music_backend.update_songs_database()
@@ -10,17 +15,18 @@ def update_tracks():
 if __name__ == "__main__":
     try:
         spec = sys.argv[1]
+        if spec == 'all':
+            spec = ['all_time', 'current']
     except IndexError:
-        specs = ['all_time', 'current']
-
+        spec = []
     if type(spec) == str:
         if spec == 'songs' or spec == 'tracks':
             music_backend.update_songs_database()
         else:
             update_music(spec)
-    elif type(spec) == list:
-        for spec in specs:
-            update_music(spec)
+    if type(spec) == list:
+        for sp in spec:
+            update_music(sp)
         music_backend.update_songs_database()
     else:
         print('invalid arg')

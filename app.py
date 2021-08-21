@@ -3,6 +3,7 @@ import os, json
 
 
 app = Flask(__name__)
+app.debug = True
 
 @app.route("/")
 def index():
@@ -120,35 +121,20 @@ def load_shows():
 @app.route('/tests/music')
 def test_music():
     return render_template('tests/music.html')
-
-
-# @app.route("/books")
-# def books():
-#     return render_template("favorites/books/books.html")
-
-# @app.route("/books/<name>")
-# def book_path(name):
-#     if os.path.exists(f'templates/favorites/books/{name}.html'):
-#         return render_template(f"favorites/books/{name}.html")
-#     else:
-#         # make error page
-#         return render_template("error.html")
-
-# @app.route("/books/shelf")
-# def books_shelf():
-#     return render_template("favorites/books/bookshelf.html")
-
-# # shelf
-
-# @app.route("/books/shelf/<name>")
-# def book_shelf_path(name):
-#     if os.path.exists(f'templates/favorites/books/shelf/{name}.html'):
-#         return render_template(f"favorites/books/shelf/{name}.html")
-#     else:
-#         # make error page
-#         return render_template("error.html")
-
-# @app.route("/books/library")
-# def books_library():
-#     return render_template("favorites/books/library.html")
-
+    
+@app.route("/data/archive/music_current_8212021.json")
+def load_music_current_8212021():
+    f = open('data_backup/music_current_8212021.json')
+    data = json.load(f)
+    return data
+        
+@app.route("/data/archive/music_current_songs_8212021.json")
+def load_music_current_songs_8212021():
+    f = open('data_backup/music_current_songs_8212021.json')
+    data = json.load(f)
+    return data
+        
+@app.route("/archive/music/8212021")
+def music_archive_8212021():
+    return render_template("archive/music/8212021.html")
+    
