@@ -3,6 +3,7 @@ import os, json
 
 
 app = Flask(__name__)
+app.debug = True
 
 @app.route("/")
 def index():
@@ -152,3 +153,20 @@ def test_music():
 # def books_library():
 #     return render_template("favorites/books/library.html")
 
+    
+@app.route("/data/archive/music_current_8212021.json")
+def load_music_current_8212021():
+    f = open('data_backup/music_current_8212021.json')
+    data = json.load(f)
+    return data
+        
+@app.route("/data/archive/music_current_songs_8212021.json")
+def load_music_current_songs_8212021():
+    f = open('data_backup/music_current_songs_8212021.json')
+    data = json.load(f)
+    return data
+        
+@app.route("/archive/music/8212021")
+def music_archive_8212021():
+    return render_template("archive/music/8212021.html")
+    

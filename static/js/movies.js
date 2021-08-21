@@ -1,9 +1,10 @@
+var data_file = document.currentScript.getAttribute('data_file');
 $(document).ready(function(){
 
     var movies_div = `
     <div class="movies">
     `
-    $.getJSON("/data/movies.json", function(json) {
+    $.getJSON(data_file, function(json) {
         $.each(json, function(title, values){
             var movie_div = 
             `

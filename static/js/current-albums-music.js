@@ -1,10 +1,12 @@
+var data_file = document.currentScript.getAttribute('data_file');
+console.log(data_file)
 $(document).ready(function(){
-
     var music_div = `
     <div class="albums">
     `
-    $.getJSON("/data/music_current.json", function(json) {
+    $.getJSON(data_file, function(json) {
         $.each(json, function(title, values){
+            console.log(title)
             var tracklist = ""
             var styles = ""
             if(title == "From Me To You") {

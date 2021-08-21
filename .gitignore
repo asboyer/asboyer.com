@@ -1,6 +1,5 @@
 .ipynb_checkpoints
 .cache
-tests
 secret
 venv
 *.DS_Store
