@@ -235,7 +235,7 @@
     },
     "Whiplash": {
         "id": "2582802",
-        "image": "http://image.tmdb.org/t/p/original/oPxnRhyAIzJKGUEdSiwTJQBa3NM.jpg",
+        "image": "/static/img/movies/whiplash.jpg",
         "rating": 8.5,
         "title": "Whiplash"
     },
