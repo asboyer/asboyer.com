@@ -195,7 +195,16 @@
         "total_tracks": 11,
         "uri": "spotify:album:7eQGtkzCgrIWDOe76E9F8t",
         "image": "https://i.scdn.co/image/ab67616d0000b273e0783b9378aa3857b8a9d24d",
-        "top_tracks": []
+        "top_tracks": [
+            "CLOUDS",
+            "THAT'S A JOKE",
+            "JUST LIKE YOU",
+            "PRIDEFUL",
+            "LOST",
+            "LAYERS",
+            "TRUST",
+            "PAID MY DUES"
+        ]
     },
     "Because the Internet": {
         "artists": "Childish Gambino",
@@ -206,7 +215,15 @@
         "total_tracks": 19,
         "uri": "spotify:album:4GNIhgEGXzWGAefgN5qjdU",
         "image": "https://i.scdn.co/image/ab67616d0000b273fce23dadb51975ebf2e9d75c",
-        "top_tracks": []
+        "top_tracks": [
+            "I.Crawl",
+            "I.The Worst Guys",
+            "II. Shadows",
+            "III. Telegraph Ave. (\"Oakland\" by Lloyd)",
+            "IV. Sweatpants",
+            "3005",
+            "I. Pink Toes"
+        ]
     },
     "Yeezus": {
         "artists": "Kanye West",
@@ -239,7 +256,16 @@
         "total_tracks": 15,
         "uri": "spotify:album:6Pb7PMZtW0fuEM1lCGvCDu",
         "image": "https://i.scdn.co/image/ab67616d0000b273e6d6d392a66a7f9172fe57c8",
-        "top_tracks": []
+        "top_tracks": [
+            "Wintertime",
+            "Have Mercy",
+            "Bad Idea",
+            "Thanksgiving",
+            "RNP",
+            "Thousand Words",
+            "Way Back Home",
+            "Been Around"
+        ]
     },
     "No Pressure": {
         "artists": "Logic",
@@ -250,7 +276,17 @@
         "total_tracks": 15,
         "uri": "spotify:album:5pF05wJrbrIvqunE41vWP8",
         "image": "https://i.scdn.co/image/ab67616d0000b2731c76e29153f29cc1e1b2b434",
-        "top_tracks": []
+        "top_tracks": [
+            "No Pressure Intro",
+            "Hit My Line",
+            "Open Mic\\Aquarius III",
+            "Soul Food II",
+            "Perfect",
+            "man i is",
+            "DadBod",
+            "5 Hooks",
+            "Heard Em Say"
+        ]
     },
     "F*CK LOVE": {
         "artists": "The Kid LAROI",
@@ -272,7 +308,16 @@
         "total_tracks": 12,
         "uri": "spotify:album:7xfcihbsBamUi6sezd0oOG",
         "image": "https://i.scdn.co/image/ab67616d0000b27357c38b379fbaa7bfef03934d",
-        "top_tracks": []
+        "top_tracks": [
+            "GHOST",
+            "WARSAW",
+            "BIG CHILLIN",
+            "THRU THE NIGHT",
+            "WALK IN THE PARK",
+            "RAIN",
+            "HEAVY HITTER",
+            "RIVER ROAD"
+        ]
     },
     "Smoke + Mirrors": {
         "artists": "Imagine Dragons",
@@ -283,7 +328,19 @@
         "total_tracks": 13,
         "uri": "spotify:album:0gmsXcmrcnxdZBrD5EyJEL",
         "image": "https://i.scdn.co/image/ab67616d0000b2736a6a889eef62af7b190ec713",
-        "top_tracks": []
+        "top_tracks": [
+            "Shots",
+            "Gold",
+            "Smoke And Mirrors",
+            "I'm So Sorry",
+            "Polaroid",
+            "Friction",
+            "It Comes Back To You",
+            "Dream",
+            "Trouble",
+            "Summer",
+            "Hopeless Opus"
+        ]
     },
     "Industry Plant": {
         "artists": "iann dior",
@@ -327,7 +384,21 @@
         "total_tracks": 21,
         "uri": "spotify:album:4Uv86qWpGTxf7fU7lG5X6F",
         "image": "https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78",
-        "top_tracks": []
+        "top_tracks": [
+            "We Don't Care",
+            "All Falls Down",
+            "Spaceship",
+            "Jesus Walks",
+            "Never Let Me Down",
+            "The New Workout Plan",
+            "Spaceship",
+            "Slow Jamz",
+            "School Spirit",
+            "Two Words",
+            "Through The Wire",
+            "Family Business",
+            "Last Call"
+        ]
     },
     "Limitless": {
         "artists": "The Piano Guys",
