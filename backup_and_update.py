@@ -96,7 +96,7 @@ def load_{file_name}():
         app =  open('app.py', 'a')
         app.write(display_data_function)
 
-    if last_date_list[0] == today.month:
+    if int(last_date_list[0]) == today.month:
         date_range_string = f'{calendar.month_name[today.month]} {today.year}'
     elif int(last_date_list[2]) != today.year:
         date_range_string = f'{calendar.month_name[int(last_date_list[0])]} {last_date_list[2]} - {calendar.month_name[today.month]} {today.year}'
