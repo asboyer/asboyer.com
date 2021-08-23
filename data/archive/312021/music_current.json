@@ -1,0 +1,125 @@
+{
+    "CLOUDS (THE MIXTAPE)": {
+        "artists": "NF",
+        "id": "7eQGtkzCgrIWDOe76E9F8t",
+        "name": "CLOUDS (THE MIXTAPE)",
+        "popularity": 75,
+        "release_date": "2021-03-26",
+        "total_tracks": 11,
+        "uri": "spotify:album:7eQGtkzCgrIWDOe76E9F8t",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e0783b9378aa3857b8a9d24d",
+        "top_tracks": [
+            "CLOUDS",
+            "THAT'S A JOKE",
+            "JUST LIKE YOU",
+            "PRIDEFUL",
+            "LOST",
+            "LAYERS",
+            "TRUST",
+            "PAID MY DUES"
+        ]
+    },
+    "Because the Internet": {
+        "artists": "Childish Gambino",
+        "id": "4GNIhgEGXzWGAefgN5qjdU",
+        "name": "Because the Internet",
+        "popularity": 73,
+        "release_date": "2013-12-10",
+        "total_tracks": 19,
+        "uri": "spotify:album:4GNIhgEGXzWGAefgN5qjdU",
+        "image": "https://i.scdn.co/image/ab67616d0000b273fce23dadb51975ebf2e9d75c",
+        "top_tracks": [
+            "I.Crawl",
+            "I.The Worst Guys",
+            "II. Shadows",
+            "III. Telegraph Ave. (\"Oakland\" by Lloyd)",
+            "IV. Sweatpants",
+            "3005",
+            "I. Pink Toes"
+        ]
+    },
+    "The Lost Boy": {
+        "artists": "Cordae",
+        "id": "6Pb7PMZtW0fuEM1lCGvCDu",
+        "name": "The Lost Boy",
+        "popularity": 67,
+        "release_date": "2019-07-26",
+        "total_tracks": 15,
+        "uri": "spotify:album:6Pb7PMZtW0fuEM1lCGvCDu",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e6d6d392a66a7f9172fe57c8",
+        "top_tracks": [
+            "Wintertime",
+            "Have Mercy",
+            "Bad Idea",
+            "Thanksgiving",
+            "RNP",
+            "Thousand Words",
+            "Way Back Home",
+            "Been Around"
+        ]
+    },
+    "Confetti": {
+        "artists": "Jack Harlow",
+        "id": "7xfcihbsBamUi6sezd0oOG",
+        "name": "Confetti",
+        "popularity": 64,
+        "release_date": "2019-09-20",
+        "total_tracks": 12,
+        "uri": "spotify:album:7xfcihbsBamUi6sezd0oOG",
+        "image": "https://i.scdn.co/image/ab67616d0000b27357c38b379fbaa7bfef03934d",
+        "top_tracks": [
+            "GHOST",
+            "WARSAW",
+            "BIG CHILLIN",
+            "THRU THE NIGHT",
+            "WALK IN THE PARK",
+            "RAIN",
+            "HEAVY HITTER",
+            "RIVER ROAD"
+        ]
+    },
+    "No Pressure": {
+        "artists": "Logic",
+        "id": "5pF05wJrbrIvqunE41vWP8",
+        "name": "No Pressure",
+        "popularity": 68,
+        "release_date": "2020-07-24",
+        "total_tracks": 15,
+        "uri": "spotify:album:5pF05wJrbrIvqunE41vWP8",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731c76e29153f29cc1e1b2b434",
+        "top_tracks": [
+            "No Pressure Intro",
+            "Hit My Line",
+            "Open Mic\\Aquarius III",
+            "Soul Food II",
+            "Perfect",
+            "man i is",
+            "DadBod",
+            "5 Hooks",
+            "Heard Em Say"
+        ]
+    },
+    "Smoke + Mirrors": {
+        "artists": "Imagine Dragons",
+        "id": "0gmsXcmrcnxdZBrD5EyJEL",
+        "name": "Smoke + Mirrors",
+        "popularity": 62,
+        "release_date": "2014-09-18",
+        "total_tracks": 13,
+        "uri": "spotify:album:0gmsXcmrcnxdZBrD5EyJEL",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736a6a889eef62af7b190ec713",
+        "top_tracks": [
+            "Shots",
+            "Gold",
+            "Smoke And Mirrors",
+            "I'm So Sorry",
+            "Polaroid",
+            "Friction",
+            "It Comes Back To You",
+            "Dream",
+            "Trouble",
+            "Summer",
+            "Hopeless Opus"
+        ]
+    }
+}

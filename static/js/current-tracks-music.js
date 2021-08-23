@@ -8,7 +8,7 @@ $(document).ready(function(){
         $.each(json, function(title, values){
             var style = ""
             // make an array of these albums for nowarp, same with small font
-
+            // check length of title and then add special css
             var album_div = 
             ` 
             <div class="song__container">
@@ -16,18 +16,21 @@ $(document).ready(function(){
                     <img src="${values.image}" alt="${title}" class="portfolio__img">
                 <div class="song_overlay">
                     <div class="album-text">
-                        <p class="song-title" style="${style}">${title}</p>
+                        <p class="song-title" style="${style}">${title.split(' (feat')[0].split(' (with')[0].split(' (Main')[0]}</p>
                         <p class="song-artist">${values.artists}</p>
                     </div>
                 </div>
                 </a>
             </div>
-        </div>
         `
+
         music_div += album_div
-        $('#songs').append(music_div)
 
         });
+        music_div += `
+        </div>
+        `
+        $('#songs').append(music_div)
 
         });
 });

@@ -12,7 +12,7 @@
             "Sisyphus",
             "Candles on Fire!",
             "Shades of Us",
-            "Smiling at the Ground",
+            "Smiling at the Groud",
             "Can't You See?",
             "Maybe Another Day...",
             "Alone Together",
@@ -55,7 +55,7 @@
         "release_date": "2005-08-30",
         "total_tracks": 21,
         "uri": "spotify:album:5ll74bqtkcXlKE7wwkMq4g",
-        "image": "https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2",
+        "image": "/static/img/music/albums/late.png",
         "top_tracks": []
     },
     "ye": {
@@ -68,5 +68,26 @@
         "uri": "spotify:album:2Ek1q2haOnxVqhvVKqMvJe",
         "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
         "top_tracks": []
+    },
+    "F*CK LOVE 3+: OVER YOU": {
+        "artists": "The Kid LAROI",
+        "id": "576UTio7xgY7YUxrHMzxeI",
+        "name": "F*CK LOVE 3+: OVER YOU",
+        "popularity": 80,
+        "release_date": "2021-07-27",
+        "total_tracks": 35,
+        "uri": "spotify:album:576UTio7xgY7YUxrHMzxeI",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b4d59e6fa7e5e7cbc57ac33a",
+        "top_tracks": [
+            "OVER YOU",
+            "STAY",
+            "SAME ENERGY",
+            "BAD NEWS",
+            "STILL CHOSE YOU",
+            "I DON'T KNOW",
+            "ABOUT YOU",
+            "LONELY AND F*CKED UP",
+            "ATTENTION"
+        ]
     }
 }
