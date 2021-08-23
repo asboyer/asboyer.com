@@ -1,166 +1,254 @@
 {
     "The Departed": {
         "id": "0407887",
-        "image": "http://image.tmdb.org/t/p/original/kWWAt2FMRbqLFFy8o5R4Zr8cMAb.jpg"
+        "image": "http://image.tmdb.org/t/p/original/kWWAt2FMRbqLFFy8o5R4Zr8cMAb.jpg",
+        "rating": 8.5,
+        "title": "The Departed"
     },
     "Dead Poets Society": {
         "id": "0097165",
-        "image": "http://image.tmdb.org/t/p/original/ai40gM7SUaGA6fthvsd87o8IQq4.jpg"
+        "image": "http://image.tmdb.org/t/p/original/ai40gM7SUaGA6fthvsd87o8IQq4.jpg",
+        "rating": 8.1,
+        "title": "Dead Poets Society"
     },
     "Indiana Jones and the Raiders of the Lost Ark": {
         "id": "0082971",
-        "image": "http://image.tmdb.org/t/p/original/awUGN7ZCNq2EUTdpVaHDX23anOZ.jpg"
+        "image": "http://image.tmdb.org/t/p/original/awUGN7ZCNq2EUTdpVaHDX23anOZ.jpg",
+        "rating": 8.4,
+        "title": "Indiana Jones and the Raiders of the Lost Ark"
     },
     "Catch Me If You Can": {
         "id": "0264464",
-        "image": "http://image.tmdb.org/t/p/original/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg"
+        "image": "http://image.tmdb.org/t/p/original/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+        "rating": 8.1,
+        "title": "Catch Me If You Can"
     },
     "Pulp Fiction": {
         "id": "0110912",
-        "image": "http://image.tmdb.org/t/p/original/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg"
+        "image": "http://image.tmdb.org/t/p/original/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+        "rating": 8.9,
+        "title": "Pulp Fiction"
     },
     "Good Will Hunting": {
         "id": "0119217",
-        "image": "http://image.tmdb.org/t/p/original/bABCBKYBK7A5G1x0FzoeoNfuj2.jpg"
+        "image": "http://image.tmdb.org/t/p/original/bABCBKYBK7A5G1x0FzoeoNfuj2.jpg",
+        "rating": 8.3,
+        "title": "Good Will Hunting"
     },
     "The Social Network": {
         "id": "1285016",
-        "image": "http://image.tmdb.org/t/p/original/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg"
+        "image": "http://image.tmdb.org/t/p/original/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+        "rating": 7.7,
+        "title": "The Social Network"
     },
     "The Shawshank Redemption": {
         "id": "0111161",
-        "image": "http://image.tmdb.org/t/p/original/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg"
+        "image": "http://image.tmdb.org/t/p/original/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+        "rating": 9.3,
+        "title": "The Shawshank Redemption"
     },
     "Se7en": {
         "id": "0114369",
-        "image": "http://image.tmdb.org/t/p/original/69Sns8WoET6CfaYlIkHbla4l7nC.jpg"
+        "image": "http://image.tmdb.org/t/p/original/69Sns8WoET6CfaYlIkHbla4l7nC.jpg",
+        "rating": 8.6,
+        "title": "Se7en"
     },
     "The Dark Knight": {
         "id": "0468569",
-        "image": "http://image.tmdb.org/t/p/original/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+        "image": "http://image.tmdb.org/t/p/original/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+        "rating": 9.0,
+        "title": "The Dark Knight"
     },
     "The Dark Knight Rises": {
         "id": "1345836",
-        "image": "http://image.tmdb.org/t/p/original/vzvKcPQ4o7TjWeGIn0aGC9FeVNu.jpg"
+        "image": "http://image.tmdb.org/t/p/original/vzvKcPQ4o7TjWeGIn0aGC9FeVNu.jpg",
+        "rating": 8.4,
+        "title": "The Dark Knight Rises"
     },
     "La La Land": {
         "id": "3783958",
-        "image": "http://image.tmdb.org/t/p/original/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg"
+        "image": "http://image.tmdb.org/t/p/original/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+        "rating": 8.0,
+        "title": "La La Land"
     },
     "TRON: Legacy": {
         "id": "1104001",
-        "image": "http://image.tmdb.org/t/p/original/vuifSABRpSnxCAOxEnWpNbZSXpp.jpg"
+        "image": "http://image.tmdb.org/t/p/original/vuifSABRpSnxCAOxEnWpNbZSXpp.jpg",
+        "rating": 6.8,
+        "title": "TRON: Legacy"
     },
     "WarGames": {
         "id": "0086567",
-        "image": "http://image.tmdb.org/t/p/original/ndORBCvw8TJaQYvBgkYGg0IWrRM.jpg"
+        "image": "http://image.tmdb.org/t/p/original/ndORBCvw8TJaQYvBgkYGg0IWrRM.jpg",
+        "rating": 7.1,
+        "title": "WarGames"
     },
     "The Pursuit of Happyness": {
         "id": "0454921",
-        "image": "http://image.tmdb.org/t/p/original/lBYOKAMcxIvuk9s9hMuecB9dPBV.jpg"
+        "image": "http://image.tmdb.org/t/p/original/lBYOKAMcxIvuk9s9hMuecB9dPBV.jpg",
+        "rating": 8.0,
+        "title": "The Pursuit of Happyness"
     },
     "Limitless": {
         "id": "1219289",
-        "image": "http://image.tmdb.org/t/p/original/hv5JMCrMVLvV6HKPf9FcBuyk2MG.jpg"
+        "image": "http://image.tmdb.org/t/p/original/hv5JMCrMVLvV6HKPf9FcBuyk2MG.jpg",
+        "rating": 7.4,
+        "title": "Limitless"
     },
     "Interstellar": {
         "id": "0816692",
-        "image": "http://image.tmdb.org/t/p/original/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
+        "image": "http://image.tmdb.org/t/p/original/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+        "rating": 8.6,
+        "title": "Interstellar"
     },
     "The Matrix": {
         "id": "0133093",
-        "image": "http://image.tmdb.org/t/p/original/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg"
+        "image": "http://image.tmdb.org/t/p/original/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+        "rating": 8.7,
+        "title": "The Matrix"
     },
     "Ocean's Eleven": {
         "id": "0240772",
-        "image": "http://image.tmdb.org/t/p/original/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg"
+        "image": "http://image.tmdb.org/t/p/original/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+        "rating": 7.7,
+        "title": "Ocean's Eleven"
     },
     "Ocean's Twelve": {
         "id": "0349903",
-        "image": "http://image.tmdb.org/t/p/original/4y8WH1lIpXp0qxUWkYmObhuMRIU.jpg"
+        "image": "http://image.tmdb.org/t/p/original/4y8WH1lIpXp0qxUWkYmObhuMRIU.jpg",
+        "rating": 6.5,
+        "title": "Ocean's Twelve"
     },
     "Ocean's Thirteen": {
         "id": "0496806",
-        "image": "http://image.tmdb.org/t/p/original/5Hjp3pOvvO4DBAId3dxUsuIpfEm.jpg"
+        "image": "http://image.tmdb.org/t/p/original/5Hjp3pOvvO4DBAId3dxUsuIpfEm.jpg",
+        "rating": 6.9,
+        "title": "Ocean's Thirteen"
     },
     "Star Wars: Episode V - The Empire Strikes Back": {
         "id": "0080684",
-        "image": "http://image.tmdb.org/t/p/original/7BuH8itoSrLExs2YZSsM01Qk2no.jpg"
+        "image": "http://image.tmdb.org/t/p/original/7BuH8itoSrLExs2YZSsM01Qk2no.jpg",
+        "rating": 8.7,
+        "title": "Star Wars: Episode V - The Empire Strikes Back"
     },
     "Star Wars: Episode IV - A New Hope": {
         "id": "0076759",
-        "image": "http://image.tmdb.org/t/p/original/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg"
+        "image": "http://image.tmdb.org/t/p/original/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+        "rating": 8.6,
+        "title": "Star Wars: Episode IV - A New Hope"
     },
     "Star Wars: Episode III - Revenge of the Sith": {
         "id": "0121766",
-        "image": "http://image.tmdb.org/t/p/original/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg"
+        "image": "http://image.tmdb.org/t/p/original/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
+        "rating": 7.5,
+        "title": "Star Wars: Episode III - Revenge of the Sith"
     },
     "Rogue One: A Star Wars Story": {
         "id": "3748528",
-        "image": "http://image.tmdb.org/t/p/original/5jX3p0apUG5bkMHtnKZch0xpkBS.jpg"
+        "image": "http://image.tmdb.org/t/p/original/5jX3p0apUG5bkMHtnKZch0xpkBS.jpg",
+        "rating": 7.8,
+        "title": "Rogue One: A Star Wars Story"
     },
     "Avengers: Infinity War": {
         "id": "4154756",
-        "image": "http://image.tmdb.org/t/p/original/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg"
+        "image": "http://image.tmdb.org/t/p/original/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+        "rating": 8.4,
+        "title": "Avengers: Infinity War"
     },
     "Captain America: The Winter Soldier": {
         "id": "1843866",
-        "image": "http://image.tmdb.org/t/p/original/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg"
+        "image": "http://image.tmdb.org/t/p/original/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+        "rating": 7.7,
+        "title": "Captain America: The Winter Soldier"
     },
     "Spider-Man: Into the Spider-Verse": {
         "id": "4633694",
-        "image": "http://image.tmdb.org/t/p/original/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
+        "image": "http://image.tmdb.org/t/p/original/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+        "rating": 8.4,
+        "title": "Spider-Man: Into the Spider-Verse"
     },
     "The Amazing Spider-Man 2": {
         "id": "1872181",
-        "image": "http://image.tmdb.org/t/p/original/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg"
+        "image": "http://image.tmdb.org/t/p/original/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg",
+        "rating": 6.6,
+        "title": "The Amazing Spider-Man 2"
     },
     "The Lord of the Rings: The Fellowship of the Ring": {
         "id": "0120737",
-        "image": "http://image.tmdb.org/t/p/original/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg"
+        "image": "http://image.tmdb.org/t/p/original/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+        "rating": 8.8,
+        "title": "The Lord of the Rings: The Fellowship of the Ring"
     },
     "The Lord of the Rings: The Two Towers": {
         "id": "0167261",
-        "image": "http://image.tmdb.org/t/p/original/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg"
+        "image": "http://image.tmdb.org/t/p/original/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+        "rating": 8.7,
+        "title": "The Lord of the Rings: The Two Towers"
     },
     "The Lord of the Rings: The Return of the King": {
         "id": "0167260",
-        "image": "http://image.tmdb.org/t/p/original/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg"
+        "image": "http://image.tmdb.org/t/p/original/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+        "rating": 8.9,
+        "title": "The Lord of the Rings: The Return of the King"
     },
     "Back to the Future": {
         "id": "0088763",
-        "image": "http://image.tmdb.org/t/p/original/7lyBcpYB0Qt8gYhXYaEZUNlNQAv.jpg"
+        "image": "http://image.tmdb.org/t/p/original/7lyBcpYB0Qt8gYhXYaEZUNlNQAv.jpg",
+        "rating": 8.5,
+        "title": "Back to the Future"
     },
     "Back to the Future Part III": {
         "id": "0099088",
-        "image": "http://image.tmdb.org/t/p/original/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg"
+        "image": "http://image.tmdb.org/t/p/original/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
+        "rating": 7.4,
+        "title": "Back to the Future Part III"
     },
     "Home Alone": {
         "id": "0099785",
-        "image": "http://image.tmdb.org/t/p/original/9wSbe4CwObACCQvaUVhWQyLR5Vz.jpg"
+        "image": "http://image.tmdb.org/t/p/original/9wSbe4CwObACCQvaUVhWQyLR5Vz.jpg",
+        "rating": 7.6,
+        "title": "Home Alone"
     },
     "Monsters University": {
         "id": "1453405",
-        "image": "http://image.tmdb.org/t/p/original/upaMBEonGeZGQc3xtUVZOfe1lGl.jpg"
+        "image": "http://image.tmdb.org/t/p/original/upaMBEonGeZGQc3xtUVZOfe1lGl.jpg",
+        "rating": 7.2,
+        "title": "Monsters University"
     },
     "Cars": {
         "id": "0317219",
-        "image": "http://image.tmdb.org/t/p/original/abW5AzHDaIK1n9C36VdAeOwORRA.jpg"
+        "image": "http://image.tmdb.org/t/p/original/abW5AzHDaIK1n9C36VdAeOwORRA.jpg",
+        "rating": 7.1,
+        "title": "Cars"
     },
     "Cars 2": {
         "id": "1216475",
-        "image": "http://image.tmdb.org/t/p/original/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg"
+        "image": "http://image.tmdb.org/t/p/original/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg",
+        "rating": 6.1,
+        "title": "Cars 2"
     },
     "21": {
         "id": "0478087",
-        "image": "http://image.tmdb.org/t/p/original/efG8Po57alqSlhqHU1lXJ3duG6t.jpg"
+        "image": "http://image.tmdb.org/t/p/original/efG8Po57alqSlhqHU1lXJ3duG6t.jpg",
+        "rating": 6.8,
+        "title": "21"
     },
     "Whiplash": {
         "id": "2582802",
-        "image": "http://image.tmdb.org/t/p/original/oPxnRhyAIzJKGUEdSiwTJQBa3NM.jpg"
+        "image": "http://image.tmdb.org/t/p/original/oPxnRhyAIzJKGUEdSiwTJQBa3NM.jpg",
+        "rating": 8.5,
+        "title": "Whiplash"
     },
     "Saving Private Ryan": {
         "id": "0120815",
-        "image": "http://image.tmdb.org/t/p/original/1wY4psJ5NVEhCuOYROwLH2XExM2.jpg"
+        "image": "http://image.tmdb.org/t/p/original/1wY4psJ5NVEhCuOYROwLH2XExM2.jpg",
+        "rating": 8.6,
+        "title": "Saving Private Ryan"
+    },
+    "Inception": {
+        "id": "1375666",
+        "image": "http://image.tmdb.org/t/p/original/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+        "rating": 8.8,
+        "title": "Inception"
     }
 }

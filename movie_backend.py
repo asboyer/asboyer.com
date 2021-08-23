@@ -61,12 +61,15 @@ def update_movie_database(spec):
         data = json.load(json_file)
 
         new_movies = {}
+        ia = imdb.IMDb()
 
         for movie in movies:
             # movie is in the list, but not present in the dictionary
             new_movies[movie] = {}
             new_movies[movie]['id'] = imdb_id_from_title(movie)
+            new_movies[movie]['title'] = movie
             new_movies[movie]['image'] = get_movie_url(new_movies[movie]['id'], spec)
+            new_movies[movie]['rating'] = ia.get_movie(new_movies[movie]['id']).data['rating']
 
     data.update(new_movies)        
 
