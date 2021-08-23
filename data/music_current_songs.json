@@ -214,5 +214,29 @@
         "track_number": 14,
         "uri": "spotify:track:30eW6IlBK3wCwcB8TsPXua",
         "image": "https://i.scdn.co/image/ab67616d0000b2732f8cef8f1be1d821e7488e96"
+    },
+    "Big Brother": {
+        "artists": "Kanye West",
+        "duration_ms": 287573,
+        "explicit": true,
+        "id": "1x6jHJGczTBitBy06hIWgx",
+        "name": "Big Brother",
+        "popularity": 59,
+        "preview_url": null,
+        "track_number": 13,
+        "uri": "spotify:track:1x6jHJGczTBitBy06hIWgx",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739bbd79106e510d13a9a5ec33"
+    },
+    "All Of The Lights": {
+        "artists": "Kanye West",
+        "duration_ms": 299613,
+        "explicit": true,
+        "id": "22L7bfCiAkJo5xGSQgmiIO",
+        "name": "All Of The Lights",
+        "popularity": 76,
+        "preview_url": null,
+        "track_number": 5,
+        "uri": "spotify:track:22L7bfCiAkJo5xGSQgmiIO",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f"
     }
 }
