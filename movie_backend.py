@@ -67,6 +67,7 @@ def update_movie_database(spec):
             # movie is in the list, but not present in the dictionary
             new_movies[movie] = {}
             new_movies[movie]['id'] = imdb_id_from_title(movie)
+            new_movies[movie]['title'] = movie
             new_movies[movie]['image'] = get_movie_url(new_movies[movie]['id'], spec)
             new_movies[movie]['rating'] = ia.get_movie(new_movies[movie]['id']).data['rating']
 

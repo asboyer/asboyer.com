@@ -1,22 +1,32 @@
 {
     "Limitless": {
         "id": "4422836",
-        "image": "http://image.tmdb.org/t/p/original/l5BERaKn3ozRTLhoylIiNwMDvax.jpg"
+        "image": "http://image.tmdb.org/t/p/original/l5BERaKn3ozRTLhoylIiNwMDvax.jpg",
+        "rating": 7.7,
+        "title": "Limitless"
     },
     "Cobra Kai": {
         "id": "7221388",
-        "image": "http://image.tmdb.org/t/p/original/4CkQvdUAtoLW3qkjWi7t1MTnW7R.jpg"
+        "image": "http://image.tmdb.org/t/p/original/4CkQvdUAtoLW3qkjWi7t1MTnW7R.jpg",
+        "rating": 8.6,
+        "title": "Cobra Kai"
     },
     "Silicon Valley": {
         "id": "2575988",
-        "image": "http://image.tmdb.org/t/p/original/a154rIMzbTyefodNp4NY8qjOEfC.jpg"
+        "image": "http://image.tmdb.org/t/p/original/a154rIMzbTyefodNp4NY8qjOEfC.jpg",
+        "rating": 8.5,
+        "title": "Silicon Valley"
     },
     "Psych": {
         "id": "0491738",
-        "image": "http://image.tmdb.org/t/p/original/fDI15gTVbtW5Sbv5QenqecRxWKJ.jpg"
+        "image": "http://image.tmdb.org/t/p/original/fDI15gTVbtW5Sbv5QenqecRxWKJ.jpg",
+        "rating": 8.3,
+        "title": "Psych"
     },
     "Mr. Robot": {
         "id": "4158110",
-        "image": "http://image.tmdb.org/t/p/original/oKIBhzZzDX07SoE2bOLhq2EE8rf.jpg"
+        "image": "http://image.tmdb.org/t/p/original/oKIBhzZzDX07SoE2bOLhq2EE8rf.jpg",
+        "rating": 8.5,
+        "title": "Mr. Robot"
     }
 }
