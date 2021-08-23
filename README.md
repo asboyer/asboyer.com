@@ -66,7 +66,7 @@
 > - [ ] Podcast section
 > - [ ] Adding physical articles into "in the news" section
 > - [ ] Need to organize CSS (getting too large of a file)
-> - [ ] Page organization
+> - [x] Page organization
 
 ### Ideas:
 > - [ ] Self learning computer science resources
@@ -77,11 +77,11 @@
 > - [ ] Need more interactive user features
 
 ### Long term goals for the site:
-> - [ ] Make for easier domain navigation, so rather than typing asboyer.com/#about, type asboyer.com/about or rather than typing asboyer.com/music.html, just type asboyer.com/music *need to learn how to do this*
-> - [ ] Create some kind of consistency around blog posts and optimize that workflow
+> - [x] Make for easier domain navigation, so rather than typing asboyer.com/#about, type asboyer.com/about or rather than typing asboyer.com/music.html, just type asboyer.com/music *need to learn how to do this*
+> - [x] Create some kind of consistency around blog posts and optimize that workflow
 > - [ ] Consistently add notes on books I'm reading to the bookshelf notes
 > - [ ] Rework entire `about` section, it could look better
-> - [ ] Make the website more responsive overall, especially for mobile users (use Bootstrap or Django possibly?) 
+> - [x] Make the website more responsive overall, especially for mobile users (use Bootstrap or Django possibly?) 
 
 ***
 
