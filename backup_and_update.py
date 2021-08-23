@@ -56,7 +56,7 @@ def backup_current_music_data():
         data = json.load(current_file)
         current_file.close()
         # writing file name
-        file_name = f'{data_name}_{date_string}'
+        file_name = f'{data_name}_{ate_string}'
 
         # writing to backup file
         print(f'# [loading data to {file_name}.json]')
