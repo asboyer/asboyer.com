@@ -166,5 +166,5 @@ def update_and_backup():
     update_all_data()
 
 if __name__ == "__main__":
-    # update_all_data()
     backup_current_music_data()
+    update_all_data()

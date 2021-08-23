@@ -12,6 +12,9 @@ def update_music(spec):
 def update_tracks():
     music_backend.update_songs_database()
 
+def import_from_all_time():
+    music_backend.bring_album_from_all_to_current()
+
 if __name__ == "__main__":
     try:
         spec = sys.argv[1]

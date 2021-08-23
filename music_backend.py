@@ -65,6 +65,37 @@ def clean_result(result):
 
     return result
 
+def bring_album_from_all_to_current():
+    with open(f'add/bring_album_from_all_time_to_current.txt', 'r') as f:
+        file_albums = f.readlines()
+        albums = []
+        for album in file_albums:
+            new_album = album.strip('\n')
+            albums.append(new_album)
+    f = open(f'add/bring_album_from_all_time_to_current.txt', 'w+')
+    f.close()  
+
+    uri_list = extract_uri(albums)
+
+    names = []
+
+    for uri in uri_list:
+        print(uri)
+        album_data = clean_result(sp.album(uri))
+        names.append(album_data['name'])
+
+    with open(f'data/music_current.json', 'r') as json_file: 
+        current_data = json.load(json_file)
+
+    with open(f'data/music_all_time.json', 'r') as json_file: 
+        all_time_data = json.load(json_file)
+
+    for name in names:
+        current_data[name] = all_time_data[name]
+
+    with open(f'data/music_current.json', 'w') as json_file: 
+        json.dump(current_data, json_file, indent=4)
+
 def build_database(uri_list):
     final = {}
     for uri in uri_list:

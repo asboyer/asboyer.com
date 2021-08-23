@@ -8,6 +8,35 @@
         "total_tracks": 7,
         "uri": "spotify:album:2Ek1q2haOnxVqhvVKqMvJe",
         "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+        "top_tracks": [
+            "I Thought About Killing You",
+            "Yikes",
+            "Wouldn't Leave",
+            "No Mistakes",
+            "Ghost Town",
+            "Violent Crimes"
+        ]
+    },
+    "Tenet (Original Motion Picture Soundtrack) [Deluxe Edition]": {
+        "artists": "Ludwig Goransson",
+        "id": "3XVZnD9SKNPcN3YJvho9Y7",
+        "name": "Tenet (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "popularity": 57,
+        "release_date": "2020-09-02",
+        "total_tracks": 20,
+        "uri": "spotify:album:3XVZnD9SKNPcN3YJvho9Y7",
+        "image": "https://i.scdn.co/image/ab67616d0000b27390e0df2bbc53b15ea320e30e",
+        "top_tracks": []
+    },
+    "Mr. Robot, Vol. 1 (Original Television Series Soundtrack)": {
+        "artists": "Mac Quayle",
+        "id": "012oKUlmu9qA84z4kYrOAj",
+        "name": "Mr. Robot, Vol. 1 (Original Television Series Soundtrack)",
+        "popularity": 46,
+        "release_date": "2016-06-03",
+        "total_tracks": 29,
+        "uri": "spotify:album:012oKUlmu9qA84z4kYrOAj",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733f7642827e423f57b5bfc723",
         "top_tracks": []
     },
     "Illmatic": {
@@ -19,7 +48,18 @@
         "total_tracks": 10,
         "uri": "spotify:album:3kEtdS2pH6hKcMU9Wioob1",
         "image": "https://i.scdn.co/image/ab67616d0000b273045fc920ecf4f8094888ec26",
-        "top_tracks": []
+        "top_tracks": [
+            "The Genesis",
+            "N.Y. State of Mind",
+            "Life's a Bitch",
+            "The World Is Yours",
+            "Halftime",
+            "Memory Lane (Sittin' in da Park)",
+            "One Love",
+            "One Time 4 Your Mind",
+            "Represent",
+            "It Ain't Hard to Tell"
+        ]
     },
     "The Low End Theory": {
         "artists": "A Tribe Called Quest",
@@ -552,7 +592,19 @@
         "total_tracks": 21,
         "uri": "spotify:album:5ll74bqtkcXlKE7wwkMq4g",
         "image": "/static/img/music/albums/late.png",
-        "top_tracks": []
+        "top_tracks": [
+            "Heard 'Em Say",
+            "Touch The Sky",
+            "Gold Digger",
+            "My Way Home",
+            "Roses",
+            "Bring Me Down",
+            "Addiction",
+            "Diamonds From Sierra Leone - Remix",
+            "We Major",
+            "Hey Mama",
+            "Late"
+        ]
     },
     "?": {
         "artists": "XXXTENTACION",
@@ -839,5 +891,31 @@
         "uri": "spotify:album:3AMXFnwHWXCvNr5NCCpLZI",
         "image": "https://i.scdn.co/image/ab67616d0000b2738323143296ff7b2801e32789",
         "top_tracks": []
+    },
+    "From Me To You": {
+        "artists": "Quadeca",
+        "id": "6USIVqn1qiNAsRYtWo2CSa",
+        "name": "From Me To You",
+        "popularity": 57,
+        "release_date": "2021-03-30",
+        "total_tracks": 18,
+        "uri": "spotify:album:6USIVqn1qiNAsRYtWo2CSa",
+        "image": "https://i.scdn.co/image/ab67616d0000b27342bd0f416ad3a6c9f0f28c3e",
+        "top_tracks": [
+            "Sisyphus",
+            "Candles on Fire!",
+            "Shades of Us",
+            "Smiling at the Groud",
+            "Can't You See?",
+            "Maybe Another Day...",
+            "Alone Together",
+            "Burnin Bridges / Long Day",
+            "Work!",
+            "People Pleaser",
+            "Swallowed the Key (Interlude)",
+            "It's All a Game",
+            "Where'd You Go?",
+            "Summit, Pt. 1"
+        ]
     }
 }
