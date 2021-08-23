@@ -120,6 +120,9 @@ def update_all_data():
     update_tracks()
     update_shows()
 
-if __name__ == "__main__":
+def update_and_backup():
     backup_current_music_data()
     update_all_data()
+
+if __name__ == "__main__":
+    update_and_backup()
