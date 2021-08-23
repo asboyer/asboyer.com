@@ -1,14 +1,38 @@
 {
-    "Ain't Livin Right (feat. Gunna)": {
-        "artists": "Future, Juice WRLD, Gunna",
-        "duration_ms": 230533,
-        "explicit": true,
-        "id": "0JR7iZZ6Ql79sXW3rbiS3F",
-        "name": "Ain't Livin Right (feat. Gunna)",
-        "popularity": 60,
-        "preview_url": "https://p.scdn.co/mp3-preview/da8816d05b81af496352b960b1f95bc5874625a4?cid=cd0e3cb02aee4de099b024ac33ba782e",
-        "track_number": 14,
-        "uri": "spotify:track:0JR7iZZ6Ql79sXW3rbiS3F",
-        "image": "https://i.scdn.co/image/ab67616d0000b273644c510e8d4c02ae69028297"
+    "CHALLENGER": {
+        "artists": "MIKE DEAN",
+        "duration_ms": 292967,
+        "explicit": false,
+        "id": "6I3MjyNV18x3nHEPDDsboi",
+        "name": "CHALLENGER",
+        "popularity": 22,
+        "preview_url": "https://p.scdn.co/mp3-preview/eb8cfcfefeb0f74937bc33f92d938be92c37424a?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 25,
+        "uri": "spotify:track:6I3MjyNV18x3nHEPDDsboi",
+        "image": "https://i.scdn.co/image/ab67616d0000b273be20c6a0a2287cfaaefe9497"
+    },
+    "Welcome To Heartbreak": {
+        "artists": "Kanye West, Kid Cudi",
+        "duration_ms": 262933,
+        "explicit": false,
+        "id": "3F18I7LhWKxlf1PytSoTBH",
+        "name": "Welcome To Heartbreak",
+        "popularity": 61,
+        "preview_url": null,
+        "track_number": 2,
+        "uri": "spotify:track:3F18I7LhWKxlf1PytSoTBH",
+        "image": "https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18"
+    },
+    "Stretch Your Face (Main Title Theme from \"Silicon Valley\")": {
+        "artists": "Coded Channel",
+        "duration_ms": 166071,
+        "explicit": false,
+        "id": "6h0vOTakE9h0XWKgVTlerT",
+        "name": "Stretch Your Face (Main Title Theme from \"Silicon Valley\")",
+        "popularity": 2,
+        "preview_url": "https://p.scdn.co/mp3-preview/99a2d9024f48406439e89d4d9c8eea2155330344?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 4,
+        "uri": "spotify:track:6h0vOTakE9h0XWKgVTlerT",
+        "image": "https://i.scdn.co/image/ab67616d0000b273211b1acec3f2f7fa682489c2"
     }
 }

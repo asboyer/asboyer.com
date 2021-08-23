@@ -20,7 +20,7 @@ $(document).ready(function(){
                 <img src="${values.image}" alt="${title}" class="portfolio__img">
             <div class="album_overlay">
                 <div class="album-text">
-                    <p class="title" style="${styles}">${title.replace("(Deluxe)", "").replace("(Remastered)", "").replace("(Original Motion Picture Soundtrack)", "").replace("(Legacy Edition)", "").replace(" (Platinum VIP Edition)", "").replace(" [Deluxe Edition]", "")}</p>
+                    <p class="title" style="${styles}">${title.replace("(Deluxe)", "").replace("(Remastered)", "").replace("(Original Motion Picture Soundtrack)", "").replace("(Legacy Edition)", "").replace(" (Platinum VIP Edition)", "").replace(" (Original Television Series Soundtrack)", "")replace(" [Deluxe Edition]", "")}</p>
                     <p class="artist">${values.artists}</p>
                     <div class="the-tracks">
                         <ul class="tracklist${tracklist}">

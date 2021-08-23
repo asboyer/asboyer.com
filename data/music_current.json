@@ -25,42 +25,6 @@
             "Summit, Pt. 1"
         ]
     },
-    "All Over The Place (Platinum VIP Edition)": {
-        "artists": "KSI",
-        "id": "3WgAFg6y9jmNYLdC4xzHBF",
-        "name": "All Over The Place (Platinum VIP Edition)",
-        "popularity": 80,
-        "release_date": "2021-07-16",
-        "total_tracks": 16,
-        "uri": "spotify:album:3WgAFg6y9jmNYLdC4xzHBF",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a931e451af18a162c5fb59b8",
-        "top_tracks": [
-            "The Moment",
-            "Number 2",
-            "Patience",
-            "You",
-            "Gang Gang",
-            "Silly",
-            "No Time"
-        ]
-    },
-    "DAYTONA": {
-        "artists": "Pusha T",
-        "id": "07bIdDDe3I3hhWpxU6tuBp",
-        "name": "DAYTONA",
-        "popularity": 61,
-        "release_date": "2018-05-25",
-        "total_tracks": 7,
-        "uri": "spotify:album:07bIdDDe3I3hhWpxU6tuBp",
-        "image": "https://i.scdn.co/image/ab67616d0000b273263555eebbe2b375593aa31e",
-        "top_tracks": [
-            "If You Know You Know",
-            "Hard Piano",
-            "Come Back Baby",
-            "What Would Meek Do?",
-            "Infared"
-        ]
-    },
     "Tenet (Original Motion Picture Soundtrack) [Deluxe Edition]": {
         "artists": "Ludwig Goransson",
         "id": "3XVZnD9SKNPcN3YJvho9Y7",
@@ -70,12 +34,39 @@
         "total_tracks": 20,
         "uri": "spotify:album:3XVZnD9SKNPcN3YJvho9Y7",
         "image": "https://i.scdn.co/image/ab67616d0000b27390e0df2bbc53b15ea320e30e",
-        "top_tracks": [
-            "FREEPORT",
-            "POSTERITY",
-            "747",
-            "THE ALGORITHM",
-            "INVERSION"
-        ]
+        "top_tracks": []
+    },
+    "Mr. Robot, Vol. 1 (Original Television Series Soundtrack)": {
+        "artists": "Mac Quayle",
+        "id": "012oKUlmu9qA84z4kYrOAj",
+        "name": "Mr. Robot, Vol. 1 (Original Television Series Soundtrack)",
+        "popularity": 46,
+        "release_date": "2016-06-03",
+        "total_tracks": 29,
+        "uri": "spotify:album:012oKUlmu9qA84z4kYrOAj",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733f7642827e423f57b5bfc723",
+        "top_tracks": []
+    },
+    "Late Registration": {
+        "artists": "Kanye West",
+        "id": "5ll74bqtkcXlKE7wwkMq4g",
+        "name": "Late Registration",
+        "popularity": 74,
+        "release_date": "2005-08-30",
+        "total_tracks": 21,
+        "uri": "spotify:album:5ll74bqtkcXlKE7wwkMq4g",
+        "image": "https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2",
+        "top_tracks": []
+    },
+    "ye": {
+        "artists": "Kanye West",
+        "id": "2Ek1q2haOnxVqhvVKqMvJe",
+        "name": "ye",
+        "popularity": 76,
+        "release_date": "2018-06-01",
+        "total_tracks": 7,
+        "uri": "spotify:album:2Ek1q2haOnxVqhvVKqMvJe",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+        "top_tracks": []
     }
 }
