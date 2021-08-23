@@ -149,4 +149,3 @@ def load_music_current_songs_712021():
 @app.route("/archive/music/1")
 def music_archive_712021():
     return render_template("archive/music/712021.html")
-    

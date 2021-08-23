@@ -25,50 +25,6 @@
             "Summit, Pt. 1"
         ]
     },
-    "The College Dropout": {
-        "artists": "Kanye West",
-        "id": "4Uv86qWpGTxf7fU7lG5X6F",
-        "name": "The College Dropout",
-        "popularity": 75,
-        "release_date": "2004-02-10",
-        "total_tracks": 21,
-        "uri": "spotify:album:4Uv86qWpGTxf7fU7lG5X6F",
-        "image": "https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78",
-        "top_tracks": [
-            "We Don't Care",
-            "All Falls Down",
-            "Spaceship",
-            "Jesus Walks",
-            "Never Let Me Down",
-            "The New Workout Plan",
-            "Spaceship",
-            "Slow Jamz",
-            "School Spirit",
-            "Two Words",
-            "Through The Wire",
-            "Family Business",
-            "Last Call"
-        ]
-    },
-    "All Over The Place (Platinum VIP Edition)": {
-        "artists": "KSI",
-        "id": "3WgAFg6y9jmNYLdC4xzHBF",
-        "name": "All Over The Place (Platinum VIP Edition)",
-        "popularity": 80,
-        "release_date": "2021-07-16",
-        "total_tracks": 16,
-        "uri": "spotify:album:3WgAFg6y9jmNYLdC4xzHBF",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a931e451af18a162c5fb59b8",
-        "top_tracks": [
-            "The Moment",
-            "Number 2",
-            "Patience",
-            "You",
-            "Gang Gang",
-            "Silly",
-            "No Time"
-        ]
-    },
     "F*CK LOVE 3+: OVER YOU": {
         "artists": "The Kid LAROI",
         "id": "576UTio7xgY7YUxrHMzxeI",
@@ -88,43 +44,6 @@
             "ABOUT YOU",
             "LONELY AND F*CKED UP",
             "ATTENTION"
-        ]
-    },
-    "DAYTONA": {
-        "artists": "Pusha T",
-        "id": "07bIdDDe3I3hhWpxU6tuBp",
-        "name": "DAYTONA",
-        "popularity": 61,
-        "release_date": "2018-05-25",
-        "total_tracks": 7,
-        "uri": "spotify:album:07bIdDDe3I3hhWpxU6tuBp",
-        "image": "https://i.scdn.co/image/ab67616d0000b273263555eebbe2b375593aa31e",
-        "top_tracks": [
-            "If You Know You Know",
-            "Hard Piano",
-            "Come Back Baby",
-            "What Would Meek Do?",
-            "Infared"
-        ]
-    },
-    "Bobby Tarantino III": {
-        "artists": "Logic",
-        "id": "5gJDUpoOlZxxgk2SDsTa6h",
-        "name": "Bobby Tarantino III",
-        "popularity": 74,
-        "release_date": "2021-07-30",
-        "total_tracks": 12,
-        "uri": "spotify:album:5gJDUpoOlZxxgk2SDsTa6h",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732bae728759d1d51e672b2637",
-        "top_tracks": [
-            "Vaccine",
-            "Get Up",
-            "My Way",
-            "Call Me",
-            "Inside",
-            "Flawless",
-            "God Might Judge",
-            "untitled"
         ]
     }
 }
