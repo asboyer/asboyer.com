@@ -9,7 +9,7 @@ $(document).ready(function(){
             console.log(title)
             var tracklist = ""
             var styles = ""
-            if(title == "From Me To You") {
+            if(title == "From Me To You" || title == "The College Dropout") {
                 tracklist += '-long'
             }
             // make an array of these albums for nowarp, same with small font

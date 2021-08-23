@@ -89,7 +89,7 @@ def load_{file_name}():
     f = open('data/archive/{date_string}/{file_name}.json')
     data = json.load(f)
     return data
-        """
+"""
 
         # writing that function to app
         print(f'# [writing func to host {file_name}.json to app.py]')
@@ -111,11 +111,11 @@ def load_{file_name}():
 <script type="text/javascript" src="/static/js/current-albums-music.js" data_file="/data/archive/{date_string}/music_current.json"></script>
 <script type="text/javascript" src="/static/js/current-tracks-music.js" data_file0="/data/archive/{date_string}/music_current_songs.json"></script>
 
+
+<section class="my-albums" id="albums">
 <div class="title-music">
     <p class="section__subtitle section__subtitle--books">{date_range_string}</p>
 </div>
-
-<section class="my-albums" id="albums">
 </section>
 
 <section class="my-songs" id="songs">
@@ -166,4 +166,5 @@ def update_and_backup():
     update_all_data()
 
 if __name__ == "__main__":
+    # update_all_data()
     backup_current_music_data()

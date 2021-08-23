@@ -12,7 +12,7 @@
             "Sisyphus",
             "Candles on Fire!",
             "Shades of Us",
-            "Smiling at the Ground",
+            "Smiling at the Groud",
             "Can't You See?",
             "Maybe Another Day...",
             "Alone Together",
@@ -25,57 +25,25 @@
             "Summit, Pt. 1"
         ]
     },
-    "All Over The Place (Platinum VIP Edition)": {
-        "artists": "KSI",
-        "id": "3WgAFg6y9jmNYLdC4xzHBF",
-        "name": "All Over The Place (Platinum VIP Edition)",
+    "F*CK LOVE 3+: OVER YOU": {
+        "artists": "The Kid LAROI",
+        "id": "576UTio7xgY7YUxrHMzxeI",
+        "name": "F*CK LOVE 3+: OVER YOU",
         "popularity": 80,
-        "release_date": "2021-07-16",
-        "total_tracks": 16,
-        "uri": "spotify:album:3WgAFg6y9jmNYLdC4xzHBF",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a931e451af18a162c5fb59b8",
+        "release_date": "2021-07-27",
+        "total_tracks": 35,
+        "uri": "spotify:album:576UTio7xgY7YUxrHMzxeI",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b4d59e6fa7e5e7cbc57ac33a",
         "top_tracks": [
-            "The Moment",
-            "Number 2",
-            "Patience",
-            "You",
-            "Gang Gang",
-            "Silly",
-            "No Time"
-        ]
-    },
-    "DAYTONA": {
-        "artists": "Pusha T",
-        "id": "07bIdDDe3I3hhWpxU6tuBp",
-        "name": "DAYTONA",
-        "popularity": 61,
-        "release_date": "2018-05-25",
-        "total_tracks": 7,
-        "uri": "spotify:album:07bIdDDe3I3hhWpxU6tuBp",
-        "image": "https://i.scdn.co/image/ab67616d0000b273263555eebbe2b375593aa31e",
-        "top_tracks": [
-            "If You Know You Know",
-            "Hard Piano",
-            "Come Back Baby",
-            "What Would Meek Do?",
-            "Infared"
-        ]
-    },
-    "Tenet (Original Motion Picture Soundtrack) [Deluxe Edition]": {
-        "artists": "Ludwig Goransson",
-        "id": "3XVZnD9SKNPcN3YJvho9Y7",
-        "name": "Tenet (Original Motion Picture Soundtrack) [Deluxe Edition]",
-        "popularity": 57,
-        "release_date": "2020-09-02",
-        "total_tracks": 20,
-        "uri": "spotify:album:3XVZnD9SKNPcN3YJvho9Y7",
-        "image": "https://i.scdn.co/image/ab67616d0000b27390e0df2bbc53b15ea320e30e",
-        "top_tracks": [
-            "FREEPORT",
-            "POSTERITY",
-            "747",
-            "THE ALGORITHM",
-            "INVERSION"
+            "OVER YOU",
+            "STAY",
+            "SAME ENERGY",
+            "BAD NEWS",
+            "STILL CHOSE YOU",
+            "I DON'T KNOW",
+            "ABOUT YOU",
+            "LONELY AND F*CKED UP",
+            "ATTENTION"
         ]
     }
 }
