@@ -250,5 +250,17 @@
         "image": "http://image.tmdb.org/t/p/original/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
         "rating": 8.8,
         "title": "Inception"
+    },
+    "The Martian": {
+        "id": "3659388",
+        "title": "The Martian",
+        "image": "http://image.tmdb.org/t/p/original/5BHuvQ6p9kfc091Z8RiFNhCwL4b.jpg",
+        "rating": 8.0
+    },
+    "Kung Fu Panda 2": {
+        "id": "1302011",
+        "title": "Kung Fu Panda 2",
+        "image": "http://image.tmdb.org/t/p/original/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg",
+        "rating": 7.2
     }
 }
