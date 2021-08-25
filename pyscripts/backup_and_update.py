@@ -16,6 +16,7 @@ from datetime import datetime
 # for file in data
 data_names = ['music_current', 'music_current_songs']
 
+
 today = datetime.today()
 date_string = f'{today.month}{today.day}{today.year}'
 date_string_string = f'{today.month}/{today.day}/{today.year}'
@@ -43,7 +44,7 @@ def backup_current_music_data():
         data = json.load(current_file)
         current_file.close()
         if last_date != '':
-            current_file = open(f'./data/archive/music/{last_date}/{data_name}.json')
+            current_file = open(f'./data/archive/music/{last_date}/{data_name}.json', 'r')
             old_data = json.load(current_file)
             if data == old_data:
                 unique_dbs -= 1

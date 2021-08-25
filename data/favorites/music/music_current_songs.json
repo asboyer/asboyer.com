@@ -250,5 +250,17 @@
         "track_number": 1,
         "uri": "spotify:track:1gtVhxDDvZ4g8NJewAqAHJ",
         "image": "https://i.scdn.co/image/ab67616d0000b273fe6b21f560324ed40679ae6f"
+    },
+    "Exogenesis": {
+        "artists": "Rogue",
+        "duration_ms": 305643,
+        "explicit": false,
+        "id": "4BUogKU7YKeoaecMbPF1ik",
+        "name": "Exogenesis",
+        "popularity": 5,
+        "preview_url": "https://p.scdn.co/mp3-preview/4b185aa5876e2379df020366d598131f767f9877?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 2,
+        "uri": "spotify:track:4BUogKU7YKeoaecMbPF1ik",
+        "image": "https://i.scdn.co/image/ab67616d0000b273df279c2df30f1629452be988"
     }
 }
