@@ -4,7 +4,7 @@ import sys
 import os
 from spotipy.oauth2 import SpotifyClientCredentials
 
-sys.path.append('../secret/')
+sys.path.append('./secret/')
 from api_keys import client_id, client_secret
 
 client_credentials_manager = SpotifyClientCredentials(client_id, client_secret)
@@ -25,13 +25,13 @@ bad_data = ['available_markets', 'album_type', 'album_group', 'type',
 ############################################################################
 
 def read_music_data_from_file(spec):
-    with open(f'../data/add/add_uris_music_{spec}.txt', 'r') as f:
+    with open(f'./data/add/add_uris_music_{spec}.txt', 'r') as f:
         file_albums = f.readlines()
         albums = []
         for album in file_albums:
             new_album = album.strip('\n')
             albums.append(new_album)
-    f = open(f'../data/add/add_uris_music_{spec}.txt', 'w+')
+    f = open(f'./data/add/add_uris_music_{spec}.txt', 'w+')
     f.close()
     return albums
 
@@ -66,13 +66,13 @@ def clean_result(result):
     return result
 
 def bring_album_from_all_to_current():
-    with open(f'../data/add/bring_album_from_all_time_to_current.txt', 'r') as f:
+    with open(f'./data/add/bring_album_from_all_time_to_current.txt', 'r') as f:
         file_albums = f.readlines()
         albums = []
         for album in file_albums:
             new_album = album.strip('\n')
             albums.append(new_album)
-    f = open(f'../data/add/bring_album_from_all_time_to_current.txt', 'w+')
+    f = open(f'./data/add/bring_album_from_all_time_to_current.txt', 'w+')
     f.close()  
 
     uri_list = extract_uri(albums)
@@ -84,16 +84,16 @@ def bring_album_from_all_to_current():
         album_data = clean_result(sp.album(uri))
         names.append(album_data['name'])
 
-    with open(f'../data/favorites/music/music_current.json', 'r') as json_file: 
+    with open(f'./data/favorites/music/music_current.json', 'r') as json_file: 
         current_data = json.load(json_file)
 
-    with open(f'../data/favorites/music/music_all_time.json', 'r') as json_file: 
+    with open(f'./data/favorites/music/music_all_time.json', 'r') as json_file: 
         all_time_data = json.load(json_file)
 
     for name in names:
         current_data[name] = all_time_data[name]
 
-    with open(f'../data/favorites/music/music_current.json', 'w') as json_file: 
+    with open(f'./data/favorites/music/music_current.json', 'w') as json_file: 
         json.dump(current_data, json_file, indent=4)
 
 def build_database(uri_list):
@@ -105,7 +105,7 @@ def build_database(uri_list):
     return final
 
 def update_database(spec):
-    with open(f'../data/favorites/music/music_{spec}.json', 'r') as json_file: 
+    with open(f'./data/favorites/music/music_{spec}.json', 'r') as json_file: 
         data = json.load(json_file)
     data.update(build_database(
                 extract_uri(
@@ -113,7 +113,7 @@ def update_database(spec):
                 )
                 )
                 )
-    with open(f'../data/favorites/music/music_{spec}.json', 'w') as json_file: 
+    with open(f'./data/favorites/music/music_{spec}.json', 'w') as json_file: 
         json.dump(data, json_file, indent=4)
 
 def clean_song(result):
@@ -148,7 +148,7 @@ def build_songs_database(uri_list):
     return final
 
 def update_songs_database():
-    with open(f'../data/favorites/music/music_current_songs.json', 'r') as json_file:
+    with open(f'./data/favorites/music/music_current_songs.json', 'r') as json_file:
         data = json.load(json_file)
 
     data.update(build_songs_database(
@@ -158,21 +158,21 @@ def update_songs_database():
                 )
                 )
 
-    with open(f'../data/favorites/music/music_current_songs.json', 'w') as json_file: 
+    with open(f'./data/favorites/music/music_current_songs.json', 'w') as json_file: 
         json.dump(data, json_file, indent=4)
 
 ############################################################################
 
 # misc function
 def data_base_clean():
-    with open('../data/favorites/music/music_all_time.json', 'r') as json_file:
+    with open('./data/favorites/music/music_all_time.json', 'r') as json_file:
         data = json.load(json_file)
 
     # data operation
     for album in data:
         del data[album]['genres']
 
-    with open('../data/favorites/music/music_all_time.json', 'w') as json_file:
+    with open('./data/favorites/music/music_all_time.json', 'w') as json_file:
         json.dump(data, json_file, indent=4)
 
 if __name__ == "__main__":
