@@ -257,22 +257,10 @@
         "image": "http://image.tmdb.org/t/p/original/5BHuvQ6p9kfc091Z8RiFNhCwL4b.jpg",
         "rating": 8.0
     },
-    "Kung Fu Panda 2": {
-        "id": "1302011",
-        "title": "Kung Fu Panda 2",
-        "image": "http://image.tmdb.org/t/p/original/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg",
-        "rating": 7.2
-    },
     "Tenet": {
         "id": "6723592",
         "title": "Tenet",
         "image": "http://image.tmdb.org/t/p/original/k68nPLbIST6NP96JmTxmZijEvCA.jpg",
         "rating": 7.4
-    },
-    "Finding Nemo": {
-        "id": "0266543",
-        "title": "Finding Nemo",
-        "image": "http://image.tmdb.org/t/p/original/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
-        "rating": 8.1
     }
 }
