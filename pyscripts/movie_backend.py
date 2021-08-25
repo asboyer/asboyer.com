@@ -44,17 +44,17 @@ def get_movie_url(imdb_id, spec):
     return url
 
 def update_movie_database(spec):
-    with open(f'add/{spec}.txt', 'r') as f:
+    with open(f'../data/add/{spec}.txt', 'r') as f:
         movies = f.readlines()
 
-    f = open(f'add/{spec}.txt', 'w+')
+    f = open(f'../data/add/{spec}.txt', 'w+')
     f.close()
 
     for i in range(len(movies)):
         print(f'adding \'{movies[i]}\'...'.replace("\n", "")) 
         movies[i] = imdb_title_from_search(movies[i])
 
-    with open(f'data/favorites/films/{spec}.json', 'r') as json_file:
+    with open(f'../data/favorites/films/{spec}.json', 'r') as json_file:
         data = json.load(json_file)
 
         new_movies = {}
