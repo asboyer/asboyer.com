@@ -1,5 +1,4 @@
 var data_file = document.currentScript.getAttribute('data_file');
-
 function shuffle(array) {
   var currentIndex = array.length,  randomIndex;
 
