@@ -108,5 +108,27 @@
             "Represent",
             "It Ain't Hard to Tell"
         ]
+    },
+    "Graduation": {
+        "artists": "Kanye West",
+        "id": "5fPglEDz9YEwRgbLRvhCZy",
+        "name": "Graduation",
+        "popularity": 82,
+        "release_date": "2007-09-11",
+        "total_tracks": 13,
+        "uri": "spotify:album:5fPglEDz9YEwRgbLRvhCZy",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739bbd79106e510d13a9a5ec33",
+        "top_tracks": [
+            "Good Morning",
+            "Champion",
+            "Stronger",
+            "I Wonder",
+            "Good Life",
+            "Can't Tell Me Nothing",
+            "Flashing Lights",
+            "The Glory",
+            "Homecoming",
+            "Big Brother"
+        ]
     }
 }

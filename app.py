@@ -83,31 +83,31 @@ def se2():
 
 @app.route("/data/movies.json")
 def movies_json():
-    f = open('data/movies.json')
+    f = open('data/favorites/films/movies.json')
     data = json.load(f)
     return data
 
 @app.route("/data/music_all_time.json")
 def music_json():
-    f = open('data/music_all_time.json')
+    f = open('data/favorites/music/music_all_time.json')
     data = json.load(f)
     return data
 
 @app.route("/data/music_current.json")
 def music_json_current_albums():
-    f = open('data/music_current.json')
+    f = open('data/favorites/music/music_current.json')
     data = json.load(f)
     return data
 
 @app.route("/data/music_current_songs.json")
 def music_json_current_tracks():
-    f = open('data/music_current_songs.json')
+    f = open('data/favorites/music/music_current_songs.json')
     data = json.load(f)
     return data
 
 @app.route("/data/shows.json")
 def load_shows():
-    f = open('data/shows.json')
+    f = open('data/favorites/films/shows.json')
     data = json.load(f)
     return data
 
@@ -116,15 +116,15 @@ def test_music():
     return render_template('tests/music.html')
 
 #####################3/1/2021 music backup here#####################
-@app.route("/data/archive/312021/music_current.json")
+@app.route("/data/archive/music/312021/music_current.json")
 def load_music_current_312021():
-    f = open('data/archive/312021/music_current.json')
+    f = open('data/archive/music/312021/music_current.json')
     data = json.load(f)
     return data
 
-@app.route("/data/archive/312021/music_current_songs.json")
+@app.route("/data/archive/music/312021/music_current_songs.json")
 def load_music_current_songs_312021():
-    f = open('data/archive/312021/music_current_songs.json')
+    f = open('data/archive/music/312021/music_current_songs.json')
     data = json.load(f)
     return data
 
@@ -134,15 +134,15 @@ def music_archive_312021():
 
 #####################7/1/2021 music backup here#####################
 
-@app.route("/data/archive/712021/music_current.json")
+@app.route("/data/archive/music/712021/music_current.json")
 def load_music_current_712021():
-    f = open('data/archive/712021/music_current.json')
+    f = open('data/archive/music/712021/music_current.json')
     data = json.load(f)
     return data
         
-@app.route("/data/archive/712021/music_current_songs.json")
+@app.route("/data/archive/music/712021/music_current_songs.json")
 def load_music_current_songs_712021():
-    f = open('data/archive/712021/music_current_songs.json')
+    f = open('data/archive/music/712021/music_current_songs.json')
     data = json.load(f)
     return data
         
@@ -150,21 +150,24 @@ def load_music_current_songs_712021():
 def music_archive_712021():
     return render_template("archive/music/712021.html")
 
-#####################8/23/2021 music backup here#####################
 
-@app.route("/data/archive/8232021/music_current.json")
-def load_music_current():
-    f = open('data/archive/8232021/music_current.json')
+#####################8/25/2021 music backup here#####################
+
+#####################8/25/2021 music backup here#####################
+
+@app.route("/data/archive/music/8252021/music_current.json")
+def load_music_current_8252021():
+    f = open('data/archive/music/8252021/music_current.json')
     data = json.load(f)
     return data
 
-@app.route("/data/archive/8232021/music_current_songs.json")
-def load_music_current_songs():
-    f = open('data/archive/8232021/music_current_songs.json')
+@app.route("/data/archive/music/8252021/music_current_songs.json")
+def load_music_current_songs_8252021():
+    f = open('data/archive/music/8252021/music_current_songs.json')
     data = json.load(f)
     return data
 
 @app.route("/archive/music/2")
-def music_archive_8232021():
-    return render_template("archive/music/8232021.html")
+def music_archive_8252021():
+    return render_template("archive/music/8252021.html")
     

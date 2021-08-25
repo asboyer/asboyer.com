@@ -1,14 +1,5 @@
-# TO DO:
-# copy all json files into "data backup dir"
-
-# for music, back up currently listening to and put a timestamp on it, then generate a webpage hosting that data under 'archives'
-
 # ALSO GENERAL TO DO:
 """
-Need to figure out a way to seamlessly move all time album into currently listening to
-Need to add tv shows under section, perhaps under film
-Need to figure out how to write site backup data constantly
-Need to figure out how to update the website on launch
 Need to write GUI for adding an album, or movie to respective databases
 need to write landing page for film, with shows and movies
 """
@@ -25,6 +16,7 @@ from datetime import datetime
 # for file in data
 data_names = ['music_current', 'music_current_songs']
 
+
 today = datetime.today()
 date_string = f'{today.month}{today.day}{today.year}'
 date_string_string = f'{today.month}/{today.day}/{today.year}'
@@ -33,11 +25,11 @@ def backup_current_music_data():
 
     unique_dbs = 2
 
-    f = open('data/archive/last.txt', 'r')
+    f = open('./data/archive/music/last.txt', 'r')
     last_date = f.read()
     f.close()
 
-    f = open('data/archive/last_date.txt', 'r')
+    f = open('./data/archive/music/last_date.txt', 'r')
     last_date_string = f.read()
     f.close()
 
@@ -48,11 +40,11 @@ def backup_current_music_data():
 
     for data_name in data_names:
         # loading data to be backed up into var
-        current_file = open(f'data/{data_name}.json', 'r')
+        current_file = open(f'./data/favorites/music/{data_name}.json', 'r')
         data = json.load(current_file)
         current_file.close()
         if last_date != '':
-            current_file = open(f'data/archive/{last_date}/{data_name}.json')
+            current_file = open(f'./data/archive/music/{last_date}/{data_name}.json', 'r')
             old_data = json.load(current_file)
             if data == old_data:
                 unique_dbs -= 1
@@ -66,11 +58,14 @@ def backup_current_music_data():
     app =  open('app.py', 'a')
     app.write(comment_head)
     
-    os.mkdir(f'data/archive/{date_string}', 0o666)
+    if sys.platform.startswith('win32'):
+        os.mkdir(f'./data/archive/music/{date_string}', 0o666)
+    else:
+        os.mkdir(f'./data/archive/music/{date_string}')
 
     for data_name in data_names:
         print(f'# [loading data from {data_name}.json]')
-        current_file = open(f'data/{data_name}.json', 'r')
+        current_file = open(f'./data/favorites/music/{data_name}.json', 'r')
         data = json.load(current_file)
         current_file.close()
         # writing file name
@@ -79,14 +74,14 @@ def backup_current_music_data():
         # writing to backup file
         print(f'# [loading data to {file_name}.json backup]')
 
-        with open(f'data/archive/{date_string}/{file_name}.json', 'w') as backup_file:
+        with open(f'./data/archive/music/{date_string}/{file_name}.json', 'w') as backup_file:
             json.dump(data, backup_file, indent=4)
 
         # creating display data function
         display_data_function = f"""
-@app.route("/data/archive/{date_string}/{file_name}.json")
-def load_{file_name}():
-    f = open('data/archive/{date_string}/{file_name}.json')
+@app.route("/data/archive/music/{date_string}/{file_name}.json")
+def load_{file_name}_{date_string}():
+    f = open('data/archive/music/{date_string}/{file_name}.json')
     data = json.load(f)
     return data
 """
@@ -108,8 +103,8 @@ def load_{file_name}():
 
 {% block content %}"""
     html_code_core = f"""
-<script type="text/javascript" src="/static/js/current-albums-music.js" data_file="/data/archive/{date_string}/music_current.json"></script>
-<script type="text/javascript" src="/static/js/current-tracks-music.js" data_file0="/data/archive/{date_string}/music_current_songs.json"></script>
+<script type="text/javascript" src="/static/js/favorites/music/current-albums-music.js" data_file="/data/archive/music/{date_string}/music_current.json"></script>
+<script type="text/javascript" src="/static/js/favorites/music/current-tracks-music.js" data_file0="/data/archive/music/{date_string}/music_current_songs.json"></script>
 
 
 <section class="my-albums" id="albums">
@@ -129,7 +124,7 @@ def load_{file_name}():
     html_file = open(f'templates/archive/music/{date_string}.html', 'w')
     html_file.write(html_code)
 
-    f = open('data/archive/archive_num.txt', 'r')
+    f = open('./data/archive/music/archive_num.txt', 'r')
     archive_num = int(f.read())
     f.close()
 
@@ -142,16 +137,16 @@ def music_archive_{date_string}():
     with open('app.py', 'a') as app:
         app.write(render_new_template_function)
 
-    f = open('data/archive/last.txt', 'w')
+    f = open('./data/archive/music/last.txt', 'w')
     f.write(date_string)
     f.close()
 
-    f = open('data/archive/archive_num.txt', 'w')
+    f = open('./data/archive/music/archive_num.txt', 'w')
     archive_num += 1
     f.write(str(archive_num))
     f.close()
 
-    f = open('data/archive/last_date.txt', 'w')
+    f = open('./data/archive/music/last_date.txt', 'w')
     f.write(date_string_string)
     f.close()
 

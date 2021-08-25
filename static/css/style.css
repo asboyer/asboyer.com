@@ -39,6 +39,8 @@
 
 /* General Styles */
 
+
+
 body {
     background: var(--clr-dark);
     color: var(--clr-light);
@@ -46,8 +48,15 @@ body {
     font-family: var(--ff-primary);
     font-size: var(--fs-body);
     line-height: 1.6;
+
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
 }
 
+
+body::-webkit-scrollbar {
+    display: none;
+}
 
 section {
     padding: 5em 2em;

@@ -3,16 +3,13 @@ import requests
 import imdb 
 import json
 
-sys.path.append('secret')
+sys.path.append('./secret')
 from api_keys import tmdb_key as KEY
 
 def imdb_title_from_search(query):
     ia = imdb.IMDb()
-    
     search = ia.search_movie(query)
-
     return search[0]['title']
-
 
 def imdb_id_from_title(title):
     ia = imdb.IMDb()
@@ -47,17 +44,17 @@ def get_movie_url(imdb_id, spec):
     return url
 
 def update_movie_database(spec):
-    with open(f'add/{spec}.txt', 'r') as f:
+    with open(f'./data/add/{spec}.txt', 'r') as f:
         movies = f.readlines()
 
-    f = open(f'add/{spec}.txt', 'w+')
+    f = open(f'./data/add/{spec}.txt', 'w+')
     f.close()
 
     for i in range(len(movies)):
         print(f'adding \'{movies[i]}\'...'.replace("\n", "")) 
         movies[i] = imdb_title_from_search(movies[i])
 
-    with open(f'data/{spec}.json', 'r') as json_file:
+    with open(f'./data/favorites/films/{spec}.json', 'r') as json_file:
         data = json.load(json_file)
 
         new_movies = {}
@@ -73,7 +70,7 @@ def update_movie_database(spec):
 
     data.update(new_movies)        
 
-    with open(f'data/{spec}.json', 'w') as json_file: 
+    with open(f'./data/favorites/films/{spec}.json', 'w') as json_file: 
         json.dump(data, json_file, indent=4)
         
 if __name__ == "__main__":

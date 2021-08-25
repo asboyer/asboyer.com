@@ -1,3 +1,6 @@
+import sys
+sys.path.append('pyscripts')
+
 from update_movies import update_movies
 from update_music import update_music, update_tracks, import_from_all_time
 from update_shows import update_shows

@@ -180,7 +180,18 @@
         "total_tracks": 13,
         "uri": "spotify:album:5fPglEDz9YEwRgbLRvhCZy",
         "image": "https://i.scdn.co/image/ab67616d0000b2739bbd79106e510d13a9a5ec33",
-        "top_tracks": []
+        "top_tracks": [
+            "Good Morning",
+            "Champion",
+            "Stronger",
+            "I Wonder",
+            "Good Life",
+            "Can't Tell Me Nothing",
+            "Flashing Lights",
+            "The Glory",
+            "Homecoming",
+            "Big Brother"
+        ]
     },
     "Death Race For Love": {
         "artists": "Juice WRLD",
@@ -917,5 +928,16 @@
             "Where'd You Go?",
             "Summit, Pt. 1"
         ]
+    },
+    "Whiplash (Original Motion Picture Soundtrack)": {
+        "artists": "Various Artists",
+        "id": "1rwMhGTCp0D6CN2XKQjyQt",
+        "name": "Whiplash (Original Motion Picture Soundtrack)",
+        "popularity": 51,
+        "release_date": "2014-10-07",
+        "total_tracks": 24,
+        "uri": "spotify:album:1rwMhGTCp0D6CN2XKQjyQt",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736fce4a71d3973d3bbb12e8d7",
+        "top_tracks": []
     }
 }
