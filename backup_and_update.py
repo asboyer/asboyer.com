@@ -33,11 +33,11 @@ def backup_current_music_data():
 
     unique_dbs = 2
 
-    f = open('data/archive/last.txt', 'r')
+    f = open('data/archive/music/last.txt', 'r')
     last_date = f.read()
     f.close()
 
-    f = open('data/archive/last_date.txt', 'r')
+    f = open('data/archive/music/last_date.txt', 'r')
     last_date_string = f.read()
     f.close()
 
@@ -52,7 +52,7 @@ def backup_current_music_data():
         data = json.load(current_file)
         current_file.close()
         if last_date != '':
-            current_file = open(f'data/archive/{last_date}/{data_name}.json')
+            current_file = open(f'data/archive/music/{last_date}/{data_name}.json')
             old_data = json.load(current_file)
             if data == old_data:
                 unique_dbs -= 1
@@ -66,7 +66,7 @@ def backup_current_music_data():
     app =  open('app.py', 'a')
     app.write(comment_head)
     
-    os.mkdir(f'data/archive/{date_string}', 0o666)
+    os.mkdir(f'data/archive/music/{date_string}', 0o666)
 
     for data_name in data_names:
         print(f'# [loading data from {data_name}.json]')
@@ -79,14 +79,14 @@ def backup_current_music_data():
         # writing to backup file
         print(f'# [loading data to {file_name}.json backup]')
 
-        with open(f'data/archive/{date_string}/{file_name}.json', 'w') as backup_file:
+        with open(f'data/archive/music/{date_string}/{file_name}.json', 'w') as backup_file:
             json.dump(data, backup_file, indent=4)
 
         # creating display data function
         display_data_function = f"""
-@app.route("/data/archive/{date_string}/{file_name}.json")
+@app.route("/data/archive/music/{date_string}/{file_name}.json")
 def load_{file_name}():
-    f = open('data/archive/{date_string}/{file_name}.json')
+    f = open('data/archive/music/{date_string}/{file_name}.json')
     data = json.load(f)
     return data
 """
@@ -108,8 +108,8 @@ def load_{file_name}():
 
 {% block content %}"""
     html_code_core = f"""
-<script type="text/javascript" src="/static/js/current-albums-music.js" data_file="/data/archive/{date_string}/music_current.json"></script>
-<script type="text/javascript" src="/static/js/current-tracks-music.js" data_file0="/data/archive/{date_string}/music_current_songs.json"></script>
+<script type="text/javascript" src="/static/js/current-albums-music.js" data_file="/data/archive/music/{date_string}/music_current.json"></script>
+<script type="text/javascript" src="/static/js/current-tracks-music.js" data_file0="/data/archive/music/{date_string}/music_current_songs.json"></script>
 
 
 <section class="my-albums" id="albums">
@@ -129,7 +129,7 @@ def load_{file_name}():
     html_file = open(f'templates/archive/music/{date_string}.html', 'w')
     html_file.write(html_code)
 
-    f = open('data/archive/archive_num.txt', 'r')
+    f = open('data/archive/music/archive_num.txt', 'r')
     archive_num = int(f.read())
     f.close()
 
@@ -142,16 +142,16 @@ def music_archive_{date_string}():
     with open('app.py', 'a') as app:
         app.write(render_new_template_function)
 
-    f = open('data/archive/last.txt', 'w')
+    f = open('data/archive/music/last.txt', 'w')
     f.write(date_string)
     f.close()
 
-    f = open('data/archive/archive_num.txt', 'w')
+    f = open('data/archive/music/archive_num.txt', 'w')
     archive_num += 1
     f.write(str(archive_num))
     f.close()
 
-    f = open('data/archive/last_date.txt', 'w')
+    f = open('data/archive/music/last_date.txt', 'w')
     f.write(date_string_string)
     f.close()
 

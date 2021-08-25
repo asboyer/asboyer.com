@@ -116,15 +116,15 @@ def test_music():
     return render_template('tests/music.html')
 
 #####################3/1/2021 music backup here#####################
-@app.route("/data/archive/312021/music_current.json")
+@app.route("/data/archive/music/312021/music_current.json")
 def load_music_current_312021():
-    f = open('data/archive/312021/music_current.json')
+    f = open('data/archive/music/312021/music_current.json')
     data = json.load(f)
     return data
 
-@app.route("/data/archive/312021/music_current_songs.json")
+@app.route("/data/archive/music/312021/music_current_songs.json")
 def load_music_current_songs_312021():
-    f = open('data/archive/312021/music_current_songs.json')
+    f = open('data/archive/music/312021/music_current_songs.json')
     data = json.load(f)
     return data
 
@@ -134,15 +134,15 @@ def music_archive_312021():
 
 #####################7/1/2021 music backup here#####################
 
-@app.route("/data/archive/712021/music_current.json")
+@app.route("/data/archive/music/712021/music_current.json")
 def load_music_current_712021():
-    f = open('data/archive/712021/music_current.json')
+    f = open('data/archive/music/712021/music_current.json')
     data = json.load(f)
     return data
         
-@app.route("/data/archive/712021/music_current_songs.json")
+@app.route("/data/archive/music/712021/music_current_songs.json")
 def load_music_current_songs_712021():
-    f = open('data/archive/712021/music_current_songs.json')
+    f = open('data/archive/music/712021/music_current_songs.json')
     data = json.load(f)
     return data
         
@@ -152,15 +152,15 @@ def music_archive_712021():
 
 #####################8/23/2021 music backup here#####################
 
-@app.route("/data/archive/8232021/music_current.json")
+@app.route("/data/archive/music/8232021/music_current.json")
 def load_music_current():
-    f = open('data/archive/8232021/music_current.json')
+    f = open('data/archive/music/8232021/music_current.json')
     data = json.load(f)
     return data
 
-@app.route("/data/archive/8232021/music_current_songs.json")
+@app.route("/data/archive/music/8232021/music_current_songs.json")
 def load_music_current_songs():
-    f = open('data/archive/8232021/music_current_songs.json')
+    f = open('data/archive/music/8232021/music_current_songs.json')
     data = json.load(f)
     return data
 
