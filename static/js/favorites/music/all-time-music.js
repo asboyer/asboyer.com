@@ -48,7 +48,7 @@ $(document).ready(function(){
                 <img src="${values.image}" alt="${values.name}" class="portfolio__img">
             <div class="album_overlay">
                 <div class="album-text">
-                    <p class="title" style="${styles}">${values.name.replace("(Deluxe)", "").replace("(Remastered)", "").replace("(Original Motion Picture Soundtrack)", "").replace("(Legacy Edition)", "")}</p>
+                    <p class="title" style="${styles}">${values.name.split("(Original")[0].replace(" [Deluxe Edition]", "").replace("(Deluxe)", "").replace("(Remastered)", "").replace("(Original Motion Picture Soundtrack)", "").replace("(Legacy Edition)", "")}</p>
                     <p class="artist">${values.artists}</p>
                 </div>
             </div>
