@@ -99,8 +99,8 @@ def load_{file_name}_{date_string}():
 
 {% block content %}"""
     html_code_core = f"""
-<script type="text/javascript" src="/static/js/current-albums-music.js" data_file="/data/archive/music/{date_string}/music_current.json"></script>
-<script type="text/javascript" src="/static/js/current-tracks-music.js" data_file0="/data/archive/music/{date_string}/music_current_songs.json"></script>
+<script type="text/javascript" src="/static/js/favorites/music/current-albums-music.js" data_file="/data/archive/music/{date_string}/music_current.json"></script>
+<script type="text/javascript" src="/static/js/favorites/music/current-tracks-music.js" data_file0="/data/archive/music/{date_string}/music_current_songs.json"></script>
 
 
 <section class="my-albums" id="albums">
