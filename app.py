@@ -83,31 +83,31 @@ def se2():
 
 @app.route("/data/movies.json")
 def movies_json():
-    f = open('data/movies.json')
+    f = open('data/favorites/films/movies.json')
     data = json.load(f)
     return data
 
 @app.route("/data/music_all_time.json")
 def music_json():
-    f = open('data/music_all_time.json')
+    f = open('data/favorites/music/music_all_time.json')
     data = json.load(f)
     return data
 
 @app.route("/data/music_current.json")
 def music_json_current_albums():
-    f = open('data/music_current.json')
+    f = open('data/favorites/music/music_current.json')
     data = json.load(f)
     return data
 
 @app.route("/data/music_current_songs.json")
 def music_json_current_tracks():
-    f = open('data/music_current_songs.json')
+    f = open('data/favorites/music/music_current_songs.json')
     data = json.load(f)
     return data
 
 @app.route("/data/shows.json")
 def load_shows():
-    f = open('data/shows.json')
+    f = open('data/favorites/films/shows.json')
     data = json.load(f)
     return data
 

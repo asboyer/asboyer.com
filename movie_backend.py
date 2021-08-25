@@ -57,7 +57,7 @@ def update_movie_database(spec):
         print(f'adding \'{movies[i]}\'...'.replace("\n", "")) 
         movies[i] = imdb_title_from_search(movies[i])
 
-    with open(f'data/{spec}.json', 'r') as json_file:
+    with open(f'data/favorites/films/{spec}.json', 'r') as json_file:
         data = json.load(json_file)
 
         new_movies = {}
@@ -73,7 +73,7 @@ def update_movie_database(spec):
 
     data.update(new_movies)        
 
-    with open(f'data/{spec}.json', 'w') as json_file: 
+    with open(f'data/favorites/films/{spec}.json', 'w') as json_file: 
         json.dump(data, json_file, indent=4)
         
 if __name__ == "__main__":
