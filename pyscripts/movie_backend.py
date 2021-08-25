@@ -3,16 +3,13 @@ import requests
 import imdb 
 import json
 
-sys.path.append('secret')
+sys.path.append('../secret')
 from api_keys import tmdb_key as KEY
 
 def imdb_title_from_search(query):
     ia = imdb.IMDb()
-    
     search = ia.search_movie(query)
-
     return search[0]['title']
-
 
 def imdb_id_from_title(title):
     ia = imdb.IMDb()
@@ -73,7 +70,7 @@ def update_movie_database(spec):
 
     data.update(new_movies)        
 
-    with open(f'data/favorites/films/{spec}.json', 'w') as json_file: 
+    with open(f'../data/favorites/films/{spec}.json', 'w') as json_file: 
         json.dump(data, json_file, indent=4)
         
 if __name__ == "__main__":

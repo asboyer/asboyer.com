@@ -4,7 +4,7 @@ import sys
 import os
 from spotipy.oauth2 import SpotifyClientCredentials
 
-sys.path.append('/Users/baller/cs/websites/asboyer/secret/')
+sys.path.append('../secret/')
 from api_keys import client_id, client_secret
 
 client_credentials_manager = SpotifyClientCredentials(client_id, client_secret)
