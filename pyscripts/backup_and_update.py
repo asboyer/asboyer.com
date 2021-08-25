@@ -58,7 +58,10 @@ def backup_current_music_data():
     app =  open('app.py', 'a')
     app.write(comment_head)
     
-    os.mkdir(f'./data/archive/music/{date_string}', 0o666)
+    if sys.platform.startswith('win32'):
+        os.mkdir(f'./data/archive/music/{date_string}', 0o666)
+    else:
+        os.mkdir(f'./data/archive/music/{date_string}')
 
     for data_name in data_names:
         print(f'# [loading data from {data_name}.json]')

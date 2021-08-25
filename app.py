@@ -149,19 +149,25 @@ def load_music_current_songs_712021():
 @app.route("/archive/music/1")
 def music_archive_712021():
     return render_template("archive/music/712021.html")
+
+
+#####################8/25/2021 music backup here#####################
+
+#####################8/25/2021 music backup here#####################
+
+@app.route("/data/archive/music/8252021/music_current.json")
+def load_music_current_8252021():
+    f = open('data/archive/music/8252021/music_current.json')
+    data = json.load(f)
+    return data
+
+@app.route("/data/archive/music/8252021/music_current_songs.json")
+def load_music_current_songs_8252021():
+    f = open('data/archive/music/8252021/music_current_songs.json')
+    data = json.load(f)
+    return data
+
+@app.route("/archive/music/2")
+def music_archive_8252021():
+    return render_template("archive/music/8252021.html")
     
-#####################8/24/2021 music backup here#####################
-
-#####################8/25/2021 music backup here#####################
-
-#####################8/25/2021 music backup here#####################
-
-#####################8/25/2021 music backup here#####################
-
-#####################8/25/2021 music backup here#####################
-
-#####################8/25/2021 music backup here#####################
-
-#####################8/25/2021 music backup here#####################
-
-#####################8/25/2021 music backup here#####################
