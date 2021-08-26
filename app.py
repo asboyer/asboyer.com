@@ -143,6 +143,22 @@ def load_blog_posts():
     data = json.load(f)
     return data    
 
+@app.route("/data/tools.json")
+def load_tools():
+    f = open('data/tools/index.json')
+    data = json.load(f)
+    return data  
+
+@app.route("/data/midnight/specs.json")
+def load_midnight_parts():
+    f = open('data/midnight/parts.json')
+    data = json.load(f)
+    return data      
+
+@app.route("/tools/midnight")
+def midnight_parts():
+    return render_template("midnight/parts.html")
+
 #####################3/1/2021 music backup here#####################
 @app.route("/data/archive/music/312021/music_current.json")
 def load_music_current_312021():

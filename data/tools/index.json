@@ -1,0 +1,50 @@
+{
+    "Keyboard": {
+        "tool": "Alloy Origins Core",
+        "use": "Keyboard",
+        "image": "/static/img/tools/keyboard.png",
+        "link": "https://www.hyperxgaming.com/unitedstates/us/keyboards/alloy-origins-core-tenkeyless-mechanical-gaming-keyboard"
+    },
+    "Text editor": {
+        "tool": "Sublime Text",
+        "use": "Text editor",
+        "image": "/static/img/tools/sublime.png",
+        "link": "https://www.sublimetext.com/"
+    },
+    "Favorite programming language": {
+        "tool": "Python",
+        "use": "Favorite programming language",
+        "image": "/static/img/tools/python.png",
+        "link": "https://www.python.org/"
+    },
+    "Operating system of choice": {
+        "tool": "Ubuntu",
+        "use": "Operating system of choice",
+        "image": "/static/img/tools/ubuntu.png",
+        "link": "https://www.ubuntu.com/"
+    },
+    "Mouse": {
+        "tool": "MX Master 3",
+        "use": "Mouse",
+        "image": "/static/img/tools/mouse.png",
+        "link": "https://www.logitech.com/en-us/products/mice/mx-master-3.910-005620.html"
+    },
+    "Password manager": {
+        "tool": "LastPass",
+        "use": "Password manager",
+        "image": "/static/img/tools/lastpass.png",
+        "link": "https://www.lastpass.com/"
+    },
+    "Laptop": {
+        "tool": "M1 Macbook Pro",
+        "use": "Laptop",
+        "image": "/static/img/tools/laptop.png",
+        "link": "https://www.apple.com/shop/buy-mac/macbook-pro/13-inch-space-gray-apple-m1-chip-with-8-core-cpu-and-8-core-gpu-256gb"
+    },
+    "Desktop": {
+        "tool": "'Midnight'",
+        "use": "Desktop",
+        "image":"/static/img/tools/desktop.png",
+        "link": "/tools/midnight"
+    }
+} 
