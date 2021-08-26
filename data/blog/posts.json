@@ -1,1 +1,18 @@
-{} 
+{
+    "Kanye West is my role model": {
+        "title": "Kanye West is my role model",
+        "id": 0,
+        "date": "8.13.21",
+        "subjects": ["Life", "Music"],
+        "cover_img": "/static/img/blog/kanye/kanye.png",
+        "live": true
+    },
+    "How I used Python to predict the NBA MVP": {
+        "title": "How I used Python to predict the NBA MVP",
+        "id": 1,
+        "date": "",
+        "subjects": ["Programming"],
+        "cover_img": "/static/img/blog/python-mvp/jokic.png",
+        "live": false
+    }
+} 

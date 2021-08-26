@@ -13,6 +13,8 @@ def calculateAge(birthDate):
 birthday = date(2003, 9, 21)
 p = inflect.engine()
 
+soon_posts = ["1"]
+
 app = Flask(__name__)
 app.debug = True
 
@@ -39,7 +41,7 @@ def blog():
 
 @app.route("/blog/<name>")
 def blog_post(name):
-    if name == "1":
+    if name in soon_posts:
         return render_template("soon.html")
     elif os.path.exists(f'templates/blog/{name}.html'):
         return render_template(f"blog/{name}.html")
@@ -128,6 +130,12 @@ def load_skills():
     f = open('data/about/services/services.json')
     data = json.load(f)
     return data
+
+@app.route("/data/blog/posts.json")
+def load_blog_posts():
+    f = open('data/blog/posts.json')
+    data = json.load(f)
+    return data    
 
 #####################3/1/2021 music backup here#####################
 @app.route("/data/archive/music/312021/music_current.json")
