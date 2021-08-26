@@ -117,6 +117,12 @@ def load_projects():
     data = json.load(f)
     return data
 
+@app.route("/data/work.json")
+def load_work():
+    f = open('data/work/index.json')
+    data = json.load(f)
+    return data
+
 #####################3/1/2021 music backup here#####################
 @app.route("/data/archive/music/312021/music_current.json")
 def load_music_current_312021():

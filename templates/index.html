@@ -4,6 +4,7 @@
 {% endblock %}
 
 {% block content %}
+
 <!-- BEGIN INTRODUCTION -->
 <section class="intro" id="home">
     <h1 class="section__title section__title--intro">
@@ -16,77 +17,21 @@
 
 <!-- BEGIN PROJECTS -->
 <section class="my-projects" id="projects">
-
     <h2 class="section__title section__title--projects">Notable Projects</h2>
-    
     <div class="projects" id="projects-div">
-        <script type="text/javascript" src="/static/js/index/projects.js" data_file="/data/projects.json"></script>
+        <script type="text/javascript" src="/static/js/index/projects.js"></script>
     </div>
-
     <a href="/#skills" class="btn" style="margin-top: 30px">my skills</a>
-
 </section>
 <!-- END PROJECTS -->
 
 <!-- BEGIN WORK -->
 <section class="my-work" id="experience">
-
     <h2 class="section__title section__title--work">Notable Experience</h2>
-    
-    <div class="work">
-        
-        <div class="job">
-
-            <a href="https://www.massgeneral.org/" class="job__item" target="_blank" rel="noopener noreferrer">
-                <img src="/static/img/work/mgh.png" alt="cybersummercamp" class="job__img">
-            </a>
-            <h3>Research Student</h3>
-            <div class="job__description">
-                <p>Developing machine learning models for Department of Neurology & Research.
-                   <br>
-                   <br>
-                   <em>August 2021 - Present</em>
-                </p>
-            </div>
-
-        </div>
-        
-        <div class="job">
-
-            <a href="https://www.intelycare.com/" class="job__item" target="_blank" rel="noopener noreferrer">
-                <img src="/static/img/work/intelycare.png" alt="intelycare" class="job__img">
-            </a>
-            <h3>Data Science Intern</h3>
-            <div class="job__description">
-                <p>Working on analyzing data sets with Python programming and data analysis tools.
-                   <br>
-                   <br>
-                   <em>March 2021 - Present</em>
-                </p>
-            </div>
-        </div>
-
-        <div class="job">
-
-            <a href="https://www.thecoderschool.com/locations/sudbury/" class="job__item" target="_blank" rel="noopener noreferrer">
-                <img src="/static/img/work/coder.png" alt="thecoderschool" class="job__img">
-            </a>
-            <h3>Staff Instructor</h3>
-             <div class="job__description">
-                <p>Teaching kids the basics of programming through engaging project and lecture based learning.
-                   <br>
-                   <br>
-                   <em>September 2020 - Present</em>
-                </p>
-            </div>
-
-        </div>
-
-
+    <div class="work" id="work">
+        <script type="text/javascript" src="/static/js/index/work.js"></script>
     </div>
-
     <a href="https://drive.google.com/file/d/1lIXNm2AT5CdVszR__okQNinpX6nxCort/view" class="btn" target="_blank" rel="noopener noreferrer" style="margin-top: 30px">Full Resume</a>
-
 </section>
 <!-- END WORK -->
 

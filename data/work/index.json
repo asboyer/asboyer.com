@@ -1,0 +1,74 @@
+{
+    "MGH": {
+        "roles": {
+            "Research Student": {
+                "role": "Research Student",
+                "description": "Developing machine learning models for Department of Neurology & Research.",
+                "start_date": "2021-8-1", 
+                "end_date": "PRESENT"
+            }
+        },
+        "website": "https://www.massgeneral.org/",
+        "image": "/static/img/work/mgh.png",
+        "company": "Massachusetts General Hospital",
+        "start_date": "2021-8-1",
+        "end_date": "PRESENT"
+    },
+    "IntelyCare": {
+        "roles": {
+            "Data Science Intern": {
+                "role": "Data Science Intern",
+                "description": "Working on analyzing data sets with Python programming and data analysis tools.",
+                "start_date": "2021-8-1",
+                "end_date": "PRESENT"
+            },
+            "Product Intern": {
+                "role": "Product Intern",
+                "description": "Leveraged technical writing to document key workflows for product team.",
+                "start_date": "2021-7-1",
+                "end_date": "2021-8-1"
+            },
+            "Automation Engineer Intern": {
+                "role": "Automation Engineer Intern",
+                "description": "Worked with quality assurance team to create web automation test scripts.",
+                "start_date": "2021-3-1",
+                "end_date": "2021-7-1"
+            }
+        },
+        "website": "https://www.intelycare.com/",
+        "image": "/static/img/work/intelycare.png",
+        "company": "IntelyCare",
+        "start_date": "2021-3-1",
+        "end_date": "PRESENT"
+    },
+    "theCoderSchool": {
+        "roles": {
+            "Staff Instructor": {
+                "role": "Staff Instructor",
+                "description": "Teaching students the basics of programming through engaging project and lecture based learning.",
+                "start_date": "2020-9-1",
+                "end_date": "PRESENT"
+            }
+        },
+        "website": "https://www.thecoderschool.com/locations/sudbury/",
+        "image": "/static/img/work/coder.png",
+        "company": "theCoderSchool",
+        "start_date": "2020-9-1",
+        "end_date": "PRESENT"
+    },
+    "CyberSummerCamp": {
+        "roles": {
+            "Founder, CEO": {
+                "role": "Founder, CEO",
+                "description": "Directing and leading camps to teach younger students about computer security and the IoT.",
+                "start_date": "2020-6-1",
+                "end_date": "PRESENT"
+            }
+        },
+        "website": "https://www.cybersummercamp.org",
+        "image": "/static/img/work/cyber.png",
+        "company": "CyberSummerCamp",
+        "start_date": "2020-6-1",
+        "end_date": "PRESENT"
+    }
+}

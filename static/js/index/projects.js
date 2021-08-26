@@ -1,4 +1,3 @@
-var data_file = document.currentScript.getAttribute('data_file');
 function shuffle(array) {
   var currentIndex = array.length,  randomIndex;
 
@@ -18,7 +17,7 @@ function shuffle(array) {
 }
 
 $(document).ready(function(){
-    $.getJSON(data_file, function(json) {
+    $.getJSON("/data/projects.json", function(json) {
 
         var projects = Object.values(json)
         shuffle(projects)
