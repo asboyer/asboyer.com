@@ -111,9 +111,11 @@ def load_shows():
     data = json.load(f)
     return data
 
-@app.route('/tests/music')
-def test_music():
-    return render_template('tests/music.html')
+@app.route("/data/projects.json")
+def load_projects():
+    f = open('data/projects/index.json')
+    data = json.load(f)
+    return data
 
 #####################3/1/2021 music backup here#####################
 @app.route("/data/archive/music/312021/music_current.json")
