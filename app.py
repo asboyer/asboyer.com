@@ -123,6 +123,12 @@ def load_work():
     data = json.load(f)
     return data
 
+@app.route("/data/skills.json")
+def load_skills():
+    f = open('data/about/services/services.json')
+    data = json.load(f)
+    return data
+
 #####################3/1/2021 music backup here#####################
 @app.route("/data/archive/music/312021/music_current.json")
 def load_music_current_312021():

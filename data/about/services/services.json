@@ -1,0 +1,20 @@
+{
+    "Cybersecurity": {
+        "title": "Cybersecurity",
+        "body": "Aside from development, computer security, networking, and the IoT deeply interests me. I developed this curiosity by attending a two-week intensive cybersecurity summer camp at Syracuse University, which ended in a capture the flag hackathon. I've also started a business around teaching students the basics of computing and the Internet through a summer camp. Aside from summer camps, I also love to compete in virtual CTF competitions, and my team finished top 50th in the country in CMU's picoCTF 2021. Familiar with operating systems like Ubuntu and Kali Linux, and can adequately leverage command line technologies and tools.",
+        "img": "fas fa-user-secret fa-3x",
+        "order": 1
+    },
+    "Development": {
+        "title": "Development",
+        "body": "Since the summer of my freshman year of high school, I've self taught myself the fundamentals of development and programming. I am passionate about creating with code and bringing ideas to life with software. Not only am I passionate about teaching myself, but I love to teach others how to leverage software for good. I teach as a coding instructor, tutor, and lead my high school's computer science club. Ironically, what really got me interested in software was hardware. In the spring of 2020, I built my own computer. Through this process, I learned a lot about how computers work, and consequently, how software interacts with the computer. I am familiar with programming languages and technologies such as Python, Java, and JavaScript.",
+        "img": "fas fa-code fa-3x",
+        "order": 0
+    },
+    "Leadership": {
+        "title": "Leadership",
+        "body": "I am always looking for an opportunity to lead, whether that be in the world of software, or elsewhere. Starting with computer science, I am the President of the Wayland Computer Science Club, where I lead the club in weekly meetings and help students pursue their passions in computer science. I am also the founder and lead organizer of Reboot Hacks, an organization that runs free hackathons for high schoolers. Our most recent event focused on creating software to assist with remote learning. Aside from computers, I am an Eagle Scout, and active member of the National Eagle Scout Association. In 2019, I led my Boy Scout troop in constructing a fully functional, weather-proof baseball scoreboard for our local Little League.",
+        "img": "far fa-compass fa-3x",
+        "order": 2
+    }
+}

@@ -1,0 +1,7 @@
+Cybersecurity
+Aside from development, computer security, networking, and the IoT deeply interests me. 
+I developed this curiosity by attending a two-week intensive cybersecurity summer camp at Syracuse University, which ended in a capture the flag hackathon. 
+I've also started a business around teaching students the basics of computing and the Internet through a summer camp. 
+Aside from summer camps, I also love to compete in virtual CTF competitions, and my team finished top 50th in the country in CMU's picoCTF 2021. 
+Familiar with operating systems like Ubuntu and Kali Linux, and can adequately leverage command line technologies and tools.
+fas fa-user-secret fa-3x
