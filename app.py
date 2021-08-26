@@ -13,7 +13,13 @@ def calculateAge(birthDate):
 birthday = date(2003, 9, 21)
 p = inflect.engine()
 
-soon_posts = ["1"]
+soon_posts = []
+
+f = open('data/blog/posts.json')
+posts = json.load(f)
+for post in posts:
+    if not posts[post]['live']:
+        soon_posts.append(str(posts[post]['id']))
 
 app = Flask(__name__)
 app.debug = True

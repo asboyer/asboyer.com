@@ -107,7 +107,7 @@ $(document).ready(function(){
             var post = 
             `
             <div class="blog__container">
-                <a href="/blog/${title}" class="blog__item">
+                <a href="/blog/${values.id}" class="blog__item">
                     <img src="${values.cover_img}" alt="${values.title}" class="blog__img">
                     <div class="overlay">
                         <div class="text">
