@@ -456,7 +456,6 @@ header {
 
 }
 
-
 /* Services section */
 
 .my-services {
@@ -612,6 +611,7 @@ header {
     background: black;
     transition: transform 250ms ease-in-out;
     margin-bottom: 50px;
+    padding-bottom: 12px;
 
 
 }
@@ -637,6 +637,11 @@ header {
     position: relative;
 }
 
+.project_logo {
+    color: var(--clr-dark);
+    /*margin-bottom: 20px;*/
+}
+
 
 @media (min-width: 800px) {
     .work {
@@ -646,8 +651,6 @@ header {
         max-width: 1200px;
         margin: 0 auto;
         margin-bottom: 2.5em;        
-
-
     }
 
     .projects {

@@ -1,0 +1,38 @@
+{
+    "Reporty": {
+        "link": "https://pypi.org/project/reporty/",
+        "github": "https://github.com/asboyer/reporty",
+        "image": "/static/img/projects/reporty.png",
+        "title": "Reporty"
+    },
+    "Goat Grade": {
+        "link": "https://www.goatgrade.com/",
+        "github": "https://github.com/asboyer2/goat-grade",
+        "image": "/static/img/projects/nba.png",
+        "title": "Goat Grade"
+    },
+    "Project Reboot": {
+        "link": "https://www.reboothacks.com",
+        "github": "https://www.github.com/reboothacks",
+        "image": "/static/img/projects/RebootHacks.png",
+        "title": "Project Reboot"
+    },
+    "Python Lessons": {
+        "link": "https://github.com/asboyer/python-lessons",
+        "github": "https://github.com/asboyer2/python-lessons",
+        "image": "/static/img/projects/python.png",
+        "title": "Python Lessons"        
+    },
+    "Personal Python Library": {
+        "link": "https://pypi.org/project/boyer/",
+        "github": "https://github.com/asboyer/boyer",
+        "image": "/static/img/logo.png",
+        "title": "Personal Python Library"  
+    },
+    "Built with Care": {
+        "link": "https://builtwithcare.org",
+        "github": "https://github.com/builtwithcare",
+        "image": "/static/img/projects/m.png",
+        "title": "Built with Care"  
+    }
+}
