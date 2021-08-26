@@ -1,1 +1,48 @@
-ECHO is on.
+{
+    "Processor": {
+        "part": "CPU",
+        "company": "AMD",
+        "model": "Ryzen 9 3900X",
+        "specifications": {
+            "cores": 12,
+            "threads": 24,
+            "speed": "4.6 GHz"
+        },
+        "image": "/static/img/midnight/processor.png",
+        "link": "https://www.amd.com/en/products/cpu/amd-ryzen-9-3900x"
+    },
+    "Memory": {
+        "part": "RAM",
+        "company": "G.SKILL",
+        "model": "Trident Z Neo 32GB",
+        "specifcations": {
+            "memory": "32GB",
+            "speed": "3600MHz",
+            "voltage": "1.35V",
+            "type": "DDR4"
+        },
+        "image": "/static/img/midnight/memory.png",
+        "link": "https://www.gskill.com/product/165/326/1562840525/F4-3600C18D-32GTZN-Overview"
+    },
+    "Motherboard": {
+        "part": "Motherboard",
+        "company": "MSI",
+        "model": "MPG X570 PRO Carbon",
+        "specifcations": {
+            "form_factor": "ATX"
+        },
+        "image": "/static/img/midnight/motherboard.png",
+        "link": "https://www.msi.com/Motherboard/MPG-X570-GAMING-PRO-CARBON-WIFI"
+    },
+    "Graphics card": {
+        "part": "GPU",
+        "company": "Gigabyte",
+        "model": "Radeon RX 5700 XT",
+        "specifications": {
+            "chipset_brand": "AMD",
+            "memory"
+        },
+        "image": "/static/img/midnight/graphics_card.png",
+        "link": "https://www.gigabyte.com/Graphics-Card/GV-R57XTGAMING-OC-8GD-rev-10#kf"
+    }
+}

@@ -36,13 +36,13 @@
         "link": "https://www.lastpass.com/"
     },
     "Laptop": {
-        "tool": "M1 Macbook Pro",
+        "tool": "M1 MacBook Pro",
         "use": "Laptop",
         "image": "/static/img/tools/laptop.png",
         "link": "https://www.apple.com/shop/buy-mac/macbook-pro/13-inch-space-gray-apple-m1-chip-with-8-core-cpu-and-8-core-gpu-256gb"
     },
     "Desktop": {
-        "tool": "'Midnight'",
+        "tool": "Midnight",
         "use": "Desktop",
         "image":"/static/img/tools/desktop.png",
         "link": "/tools/midnight"
