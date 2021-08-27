@@ -18,9 +18,10 @@ function shuffle(array) {
 
 $(document).ready(function(){
     $.getJSON("/data/midnight/specs.json", function(json) {
-        // generate random number between 0 and 4
-        var number = 0
-        document.getElementById('midnight-specs').style.backgroundImage = url(`/static/img/midnight/midnight${number}.jpg`)
+        // perhaps count all the files (need to get better pictures of midnight)
+        // var number = Math.floor(Math.random() * 2) + 1
+        // console.log(number)
+        // document.getElementById('midnight').style.backgroundImage = `url('/static/img/midnight/midnight${number}.jpg')`
 
         var parts = Object.values(json)
         shuffle(parts)
@@ -36,7 +37,7 @@ $(document).ready(function(){
                 <p class="use">${values.part}</p>                        
             </div>
             `
-        $('#parts-div').append(parts)
+        $('#parts-div').append(part)
         });
     });
 });

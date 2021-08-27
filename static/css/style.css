@@ -3025,7 +3025,7 @@ header {
     line-height: 150%;
     color: white;
     margin: 50px;
-    margin-top: 30px;
+    margin-top: 10px;
     margin-bottom: 30px;
 }
 
@@ -3067,6 +3067,7 @@ header {
 .section__title--midnight {
     color: var(--clr-accent);
     position: relative;
+    margin: 0;
 }
 
 
@@ -3092,8 +3093,8 @@ header {
     max-width: 300px;
     margin: 0 auto;
     font-family: var(--ff-secondary);
-    border: #111 10px solid;
-    background: #282923;
+    border: #282923 10px solid;
+    background: #111;
     transition: transform 250ms ease-in-out;
     margin: 0 auto;
     margin-bottom: 30px;
@@ -3129,11 +3130,11 @@ header {
         grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     }
 
-    .tool:hover {
+    .part:hover {
         transform: scale(1.1);
     }
 
-    .tool {
+    .part {
         margin-bottom: 0px;
         margin-top:  0px;
     }

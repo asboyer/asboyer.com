@@ -40,7 +40,7 @@
         "model": "Radeon RX 5700 XT",
         "specifications": {
             "chipset_brand": "AMD",
-            "memory"
+            "memory": "8GB"
         },
         "image": "/static/img/midnight/graphics_card.png",
         "link": "https://www.gigabyte.com/Graphics-Card/GV-R57XTGAMING-OC-8GD-rev-10#kf"
