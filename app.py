@@ -155,7 +155,7 @@ def load_midnight_parts():
     data = json.load(f)
     return data      
 
-@app.route("/tools/midnight")
+@app.route("/midnight")
 def midnight_parts():
     return render_template("midnight/parts.html")
 

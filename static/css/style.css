@@ -3055,25 +3055,22 @@ header {
 }
 
 /*  midnight */
-/* tools */
-.my-tools {
+.midnight-specs {
     background-color: var(--clr-dark);
-    background-image: url(../img/backgrounds/code/code5.jpeg);
+    background-image: url('/static/img/midnight/midnight0.jpg');
     color: var(--clr-light);
     background-size: cover;
     background-blend-mode: multiply;
     text-align: center;
-/*    padding-right: 100px;
-    padding-left: 100px;*/
 }
 
-.section__title--tools {
+.section__title--midnight {
     color: var(--clr-accent);
     position: relative;
 }
 
 
-.section__title--tools::after {
+.section__title--midnight::after {
     content: '';
     display: block;
     width: 25%;
@@ -3084,14 +3081,14 @@ header {
     margin-bottom: 50px;
 }
 
-.tools {
+.parts {
     margin-bottom: 3em;
     max-width: 2000px;
 
 
 }
 
-.tool {
+.part {
     max-width: 300px;
     margin: 0 auto;
     font-family: var(--ff-secondary);
@@ -3106,32 +3103,30 @@ header {
 
 }
 
-.tool h3 {
+.part h3 {
     color: var(--clr-accent);
     font-family: var(--ff-secondary);
 
 }
 
-.tool:hover {
+.part:hover {
 
     transform: scale(1.075);
 }
 
-.tool__img {
+.part__img {
     transition: transform 250ms ease-in-out;
     max-width: 100%;
     display: flex;
 }
 
 @media (min-width: 800px) {
-    .tools {
+    .parts {
         display: grid;
         grid-gap: 2em;
         margin-left: auto;
         margin-right: auto;
         grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-
-
     }
 
     .tool:hover {

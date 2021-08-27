@@ -17,23 +17,26 @@ function shuffle(array) {
 }
 
 $(document).ready(function(){
-    $.getJSON("/data/tools.json", function(json) {
+    $.getJSON("/data/midnight/specs.json", function(json) {
+        // generate random number between 0 and 4
+        var number = 0
+        document.getElementById('midnight-specs').style.backgroundImage = url(`/static/img/midnight/midnight${number}.jpg`)
 
-        var tools = Object.values(json)
-        shuffle(tools)
+        var parts = Object.values(json)
+        shuffle(parts)
 
-        $.each(tools, function(title, values){
-            var tool = 
+        $.each(parts, function(title, values){
+            var part = 
             `
-            <div class="tool">
+            <div class="part">
                 <a href="${values.link}" class="tool__item" target="_blank" rel="noopener noreferrer">
-                    <img src="${values.image}" alt="${values.use}" class="tool__img">
+                    <img src="${values.image}" alt="${values.model}" class="part__img">
                 </a>
-                <h3>${values.tool}</h3>
-                <p class="use">${values.use}</p>                        
+                <h3>${values.model}</h3>
+                <p class="use">${values.part}</p>                        
             </div>
             `
-        $('#tools-div').append(tool)
+        $('#parts-div').append(parts)
         });
     });
 });
