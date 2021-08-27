@@ -159,6 +159,10 @@ def load_midnight_parts():
 def midnight_parts():
     return render_template("midnight/parts.html")
 
+@app.route("/tools/midnight")
+def midnight_parts_tools():
+    return render_template("midnight/parts.html")
+
 #####################3/1/2021 music backup here#####################
 @app.route("/data/archive/music/312021/music_current.json")
 def load_music_current_312021():
