@@ -3062,6 +3062,7 @@ header {
     background-size: cover;
     background-blend-mode: multiply;
     text-align: center;
+    padding-top: 30px;
 }
 
 .section__title--midnight {
