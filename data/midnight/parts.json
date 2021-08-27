@@ -44,5 +44,17 @@
         },
         "image": "/static/img/midnight/graphics_card.png",
         "link": "https://www.gigabyte.com/Graphics-Card/GV-R57XTGAMING-OC-8GD-rev-10#kf"
+    },
+    "Storage": {
+        "part": "SSD",
+        "company": "Samsung",
+        "model": "970 EVO",
+        "specifications": {
+            "form_factor": "M.2",
+            "type": "NVMe",
+            "storage": "1TB"
+        },
+        "image": "",
+        "link": "https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-970-evo-nvme-m-2-1tb-mz-v7e1t0bw/"
     }
 }
