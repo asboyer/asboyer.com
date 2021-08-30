@@ -54,7 +54,48 @@
             "type": "NVMe",
             "storage": "1TB"
         },
-        "image": "",
+        "image": "/static/img/midnight/ssd.png",
         "link": "https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-970-evo-nvme-m-2-1tb-mz-v7e1t0bw/"
+    },
+    "Case": {
+        "part": "Case",
+        "company": "NZXT",
+        "model": "H150 Elite",
+        "specifications": {
+
+        },
+        "image": "/static/img/midnight/case.png",
+        "link": "https://nzxt.com/product/h510-elite"
+    },
+    "Cooler": {
+        "part": "CPU cooler",
+        "company": "NZXT",
+        "model": "Kraken X63",
+        "specifications": {
+
+        },
+        "image": "/static/img/midnight/cooler.png",
+        "link": "https://nzxt.com/product/kraken-x63"
+    },
+    "Power supply": {
+        "part": "PSU",
+        "company": "Corsair",
+        "model": "RM850x Gold",
+        "specifications": {
+            "power": "850W",
+            "certification": "Gold"
+        },
+        "image": "/static/img/midnight/psu.png",
+        "link": "https://www.corsair.com/us/en/Categories/Products/Power-Supply-Units/Power-Supply-Units-Advanced/RMx-Series/p/CP-9020180-NA"
+    },
+    "Operating system": {
+        "part": "OS",
+        "company": "Microsoft",
+        "model": "Windows 10 Pro",
+        "specifications": {
+
+        },
+        "image": "/static/img/midnight/win.png",
+        "link": "https://www.microsoft.com/en-us/d/windows-10-pro/df77x4d43rkt?activetab=pivot:overviewtab"
     }
 }
