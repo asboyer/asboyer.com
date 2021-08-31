@@ -33,11 +33,11 @@ $(document).ready(function(){
 
             var styles = ""
             // make an array of these albums for nowarp, same with small font
-            if(title == "T R A P S O U L") {
+            if(values.name == "T R A P S O U L") {
                 styles = "white-space: nowrap"
             }
 
-            if(title == "Future & Juice WRLD Present... WRLD ON DRUGS") {
+            if(values.name == "Future & Juice WRLD Present... WRLD ON DRUGS") {
                 styles = "font-size: 20px"
             }
 
