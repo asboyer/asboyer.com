@@ -41,7 +41,7 @@ $(document).ready(function(){
         $.each(albums, function(title, values){
             var tracklist = ""
             var artist_lenth = ""
-            var title_lenth = ""
+            var title_leng2th = ""
             var styles = ""
             if(values.name == "From Me To You" || values.name == "The College Dropout") {
                 tracklist += '-long'
