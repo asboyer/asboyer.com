@@ -1426,6 +1426,13 @@ header {
     margin: 0 auto;
 }
 
+.album {
+    display: grid;
+    max-width: 1500px;
+    gap: 50px;
+    margin: 0 auto;
+}
+
 .album__container {
     position: relative;
     border: #111 10px solid;
@@ -1476,6 +1483,10 @@ header {
     font-size: 20px;
 
 }
+.artist-long {
+    font-size: 20px;
+
+}
 
 .title {
     font-size: 25px;
@@ -1484,6 +1495,12 @@ header {
 
 }
 
+.title-long {
+    font-size: 25px;
+    font-weight: var(--fw-bold);
+
+
+}
 .tracks {
     font-weight: var(--fw-bold);
     font-size: 15px;
@@ -1526,6 +1543,36 @@ header {
     white-space: nowrap;
 }
 
+.tracklist-rlong {
+    list-style: none;
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    align-items: center;
+    padding-right: 40px;
+    font-family: var(--ff-secondary);
+    letter-spacing: 0.1em;
+    font-weight: var(--fw-reg);
+    font-size: 10px;
+    white-space: nowrap;
+}
+
+.tracks-rlong {
+    font-weight: var(--fw-bold);
+    font-size: 12px;
+    text-decoration: underline;
+    margin-bottom: 5px;
+}
+
+
+@media (max-width: 1400px) {
+    .tracklist-rlong {
+        font-size: 8px;
+    }
+    .tracks-rlong {
+        font-size: 9px;
+    }
+}
 
 @media (max-width: 1400px) {
     .my-albums {
@@ -1538,6 +1585,13 @@ header {
     .albums {
         display: grid;
         grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        max-width: 1500px;
+        gap: 50px;
+        margin: 0 auto;
+    }
+
+    .album {
+        display: grid;
         max-width: 1500px;
         gap: 50px;
         margin: 0 auto;
@@ -1599,8 +1653,17 @@ header {
         font-weight: var(--fw-bold)
 
     }
+    .title-long {
+        font-size: 22.5px;
+        font-weight: var(--fw-bold)
+
+    }
 
     .artist {
+        font-size: 17.5px;
+
+    }
+    .artist-long {
         font-size: 17.5px;
 
     }
@@ -1667,13 +1730,37 @@ header {
         font-weight: var(--fw-bold)
 
     }
+    .title-long {
+        font-size: 20px;
+        font-weight: var(--fw-bold)
+
+    }
 
     .artist {
         font-size: 15px;
 
     }
+    .artist-long {
+        font-size: 15px;
+
+    }
 
 
+}
+
+@media (max-width: 450px) {
+    .tracklist-rlong {
+        font-size: 5px;
+    }
+    .tracks-rlong {
+        font-size: 8px;
+    }
+    .artist-long {
+        font-size: 10px;
+    }
+    .title-long {
+        font-size: 13px;
+    }
 }
 
 

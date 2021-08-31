@@ -201,8 +201,6 @@ def music_archive_712021():
 
 #####################8/25/2021 music backup here#####################
 
-#####################8/25/2021 music backup here#####################
-
 @app.route("/data/archive/music/8252021/music_current.json")
 def load_music_current_8252021():
     f = open('data/archive/music/8252021/music_current.json')

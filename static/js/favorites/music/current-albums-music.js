@@ -20,21 +20,39 @@ function shuffle(array) {
 
 console.log(data_file)
 $(document).ready(function(){
-    var music_div = `
-    <div class="albums">
-    `
+
     $.getJSON(data_file, function(json) {
 
         var albums = Object.values(json)
         albums.sort((a,b) => (a.popularity < b.popularity) ? 1 : ((b.popularity < a.popularity) ? -1 : 0))
         shuffle(albums)
 
+        if (albums.length == 1) {
+            var music_div = `
+            <div class="album" id="album-div">
+            `
+        }
+        else {
+            var music_div = `
+            <div class="albums" id="albums-div">
+            `   
+        }
+
         $.each(albums, function(title, values){
             var tracklist = ""
+            var artist_lenth = ""
+            var title_lenth = ""
             var styles = ""
             if(values.name == "From Me To You" || values.name == "The College Dropout") {
                 tracklist += '-long'
             }
+            // do something special if just one album
+            if(values.name == "Donda") {
+                tracklist += '-rlong'
+                artist_length = "-long"
+                title_length = "-long"
+            }
+
             // make an array of these albums for nowarp, same with small font
 
             var album_div = 
@@ -43,8 +61,8 @@ $(document).ready(function(){
                 <img src="${values.image}" alt="${values.name}" class="portfolio__img">
             <div class="album_overlay">
                 <div class="album-text">
-                    <p class="title" style="${styles}">${values.name.replace("(Deluxe)", "").replace("(Remastered)", "").replace("(Original Motion Picture Soundtrack)", "").replace("(Legacy Edition)", "").replace(" (Platinum VIP Edition)", "").replace(" (Original Television Series Soundtrack)", "").replace(" [Deluxe Edition]", "").split(" (Original")[0]}</p>
-                    <p class="artist">${values.artists}</p>
+                    <p class="title${title_length}" style="${styles}">${values.name.replace("(Deluxe)", "").replace("(Remastered)", "").replace("(Original Motion Picture Soundtrack)", "").replace("(Legacy Edition)", "").replace(" (Platinum VIP Edition)", "").replace(" (Original Television Series Soundtrack)", "").replace(" [Deluxe Edition]", "").split(" (Original")[0]}</p>
+                    <p class="artist${artist_length}">${values.artists}</p>
                     <div class="the-tracks">
                         <ul class="tracklist${tracklist}">
                         <li class="tracks${tracklist}">Top Tracks:</li>
@@ -70,6 +88,21 @@ $(document).ready(function(){
         </div>
         `
         $('#albums').append(music_div)
+
+        if(albums.length == 1) {
+
+            function myFunction(x) {
+                if (x.matches) { // If media query matches
+                    document.getElementById('album-div').style.removeProperty('grid-template-columns')
+                } 
+            }
+
+            // document.getElementById('album__container').style.maxWidth = "1000px";
+            document.getElementById('album-div').style.removeProperty('grid-template-columns')
+            var x = window.matchMedia("(max-width: 1400px)")
+            myFunction(x)
+            x.addListener(myFunction)
+        }
 
     });
 

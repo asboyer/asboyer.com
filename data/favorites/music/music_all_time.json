@@ -950,5 +950,40 @@
         "uri": "spotify:album:1ijkFiMeHopKkHyvQCWxUa",
         "image": "https://i.scdn.co/image/ab67616d0000b273897cd4eeff3174110aa6230b",
         "top_tracks": []
+    },
+    "Donda": {
+        "artists": "Kanye West",
+        "id": "340MjPcVdiQRnMigrPybZA",
+        "name": "Donda",
+        "popularity": 89,
+        "release_date": "2021-08-29",
+        "total_tracks": 27,
+        "uri": "spotify:album:340MjPcVdiQRnMigrPybZA",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736ba1cffc9b2c5469503430b3",
+        "top_tracks": [
+            "Jail",
+            "God Breathed",
+            "Off The Grid",
+            "Hurricane",
+            "Praise God",
+            "Jonah",
+            "Ok Ok",
+            "Junya",
+            "Believe What I Say",
+            "24",
+            "Remote Control",
+            "Moon",
+            "Heaven and Hell",
+            "Keep My Spirit Alive",
+            "Jesus Lord",
+            "New Again",
+            "Lord I Need You",
+            "Pure Souls",
+            "Come to Life",
+            "No Child Left Behind",
+            "Jail pt 2",
+            "Junya pt 2",
+            "Jesus Lord pt 2"
+        ]
     }
 }
