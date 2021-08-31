@@ -40,7 +40,7 @@ $(document).ready(function(){
 
         $.each(albums, function(title, values){
             var tracklist = ""
-            var artist_lenth = ""
+            var artist_length = ""
             var title_length = ""
             var styles = ""
             if(values.name == "From Me To You" || values.name == "The College Dropout") {
