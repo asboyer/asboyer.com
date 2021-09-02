@@ -38,6 +38,22 @@ $(document).ready(function(){
         jobs.sort((a,b) => (a.start_date < b.start_date) ? 1 : ((b.start_date < a.start_date) ? -1 : 0))
         jobs = jobs.slice(0, 3)
 
+        jobs.sort(function(a, b) {
+            if(a.end_date.toLowerCase() == "present") return -1;
+            else if(b.end_date.toLowerCase() == "present") return 1;
+            else return a - b;
+        });
+
+        jobs.sort(function(a, b) {
+            if (a.end_date.toLowerCase() == "present" && b.end_date.toLowerCase() == "present") {
+                if(a.start_date < b.start_date) return 1;
+                else if(b.start_date < a.start_date) return -1;
+            }
+            else {
+                return 0;
+            }
+        });
+
         $.each(jobs, function(title, values){
 
             var roles = Object.values(values.roles)

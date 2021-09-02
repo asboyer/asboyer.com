@@ -18,9 +18,9 @@
         "roles": {
             "Data Science Intern": {
                 "role": "Data Science Intern",
-                "description": "Working on analyzing data sets with Python programming and data analysis tools.",
+                "description": "Worked on analyzing data sets with Python programming and data analysis tools.",
                 "start_date": "2021-8-1",
-                "end_date": "PRESENT"
+                "end_date": "2021-9-1"
             },
             "Product Intern": {
                 "role": "Product Intern",
@@ -39,7 +39,7 @@
         "image": "/static/img/work/intelycare.png",
         "company": "IntelyCare",
         "start_date": "2021-3-1",
-        "end_date": "PRESENT"
+        "end_date": "2021-9-1"
     },
     "theCoderSchool": {
         "roles": {
