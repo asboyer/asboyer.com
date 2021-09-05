@@ -21,7 +21,8 @@ function shuffle(array) {
 console.log(data_file)
 $(document).ready(function(){
 
-    $.getJSON(data_file, function(json) {
+    // $.getJSON(data_file, function(json) {
+    $.getJSON('/data/music_all_time.json', function(json) {
 
         var albums = Object.values(json)
         albums.sort((a,b) => (a.popularity < b.popularity) ? 1 : ((b.popularity < a.popularity) ? -1 : 0))
@@ -47,7 +48,7 @@ $(document).ready(function(){
                 tracklist += '-long'
             }
             // do something special if just one album
-            if(values.name == "Donda") {
+            if(values.name == "Donda" || values.name == "The Life Of Pablo") {
                 tracklist += '-rlong'
                 artist_length = "-long"
                 title_length = "-long"
@@ -81,8 +82,9 @@ $(document).ready(function(){
             </a>
         </div>
         `
-        
-        music_div = music_div + album_div + track_list + album_div_end
+        if(values.artists.includes("Kanye West")){
+            music_div = music_div + album_div + track_list + album_div_end
+        }
         });
         music_div = music_div + `
         </div>

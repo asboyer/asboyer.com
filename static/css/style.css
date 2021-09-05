@@ -356,7 +356,6 @@ header {
 .section__title {
     margin-top: 1em;
     margin-bottom: .25em;
-
     position: relative;
 }
 
@@ -1484,7 +1483,7 @@ header {
 
 }
 .artist-long {
-    font-size: 20px;
+    font-size: 10px;
 
 }
 
@@ -1496,7 +1495,7 @@ header {
 }
 
 .title-long {
-    font-size: 25px;
+    font-size: 20px;
     font-weight: var(--fw-bold);
 
 
@@ -1510,7 +1509,7 @@ header {
 
 .tracks-long {
     font-weight: var(--fw-bold);
-    font-size: 12px;
+    font-size: 10px;
     text-decoration: underline;
     margin-bottom: 5px;
 }
@@ -1553,7 +1552,7 @@ header {
     font-family: var(--ff-secondary);
     letter-spacing: 0.1em;
     font-weight: var(--fw-reg);
-    font-size: 10px;
+    font-size: 5px;
     white-space: nowrap;
 }
 
@@ -1567,10 +1566,10 @@ header {
 
 @media (max-width: 1400px) {
     .tracklist-rlong {
-        font-size: 8px;
+        font-size: 5px;
     }
     .tracks-rlong {
-        font-size: 9px;
+        font-size: 8px;
     }
 }
 
@@ -1615,7 +1614,7 @@ header {
 
     .tracks-long {
         font-weight: var(--fw-bold);
-        font-size: 12px;
+        font-size: 10px;
         text-decoration: underline;
         margin-bottom: 5px;
     }
@@ -1654,7 +1653,7 @@ header {
 
     }
     .title-long {
-        font-size: 22.5px;
+        font-size: 15px;
         font-weight: var(--fw-bold)
 
     }
@@ -1664,7 +1663,7 @@ header {
 
     }
     .artist-long {
-        font-size: 17.5px;
+        font-size: 8px;
 
     }
 
@@ -1741,7 +1740,7 @@ header {
 
     }
     .artist-long {
-        font-size: 15px;
+        font-size: 10px;
 
     }
 
