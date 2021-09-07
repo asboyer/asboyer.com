@@ -81,13 +81,15 @@
         "total_tracks": 7,
         "uri": "spotify:album:6pwuKxMUkNg673KETsXPUV",
         "image": "https://i.scdn.co/image/ab67616d0000b273013c00ee367dd85396f79c82",
-        "top_tracks": ["Feel The Love",
-                        "Fire",
-                        "4th Dimension",
-                        "Free (Ghost Town Pt. 2",
-                        "Reborn",
-                        "Kids See Ghosts",
-                        "Cudi Montage"]
+        "top_tracks": [
+            "Feel The Love",
+            "Fire",
+            "4th Dimension",
+            "Free (Ghost Town Pt. 2",
+            "Reborn",
+            "Kids See Ghosts",
+            "Cudi Montage"
+        ]
     },
     "Eternal Atake": {
         "artists": "Lil Uzi Vert",
@@ -291,13 +293,15 @@
         "total_tracks": 10,
         "uri": "spotify:album:7D2NdGvBHIavgLhmcwhluK",
         "image": "https://i.scdn.co/image/ab67616d0000b2731dacfbc31cc873d132958af9",
-        "top_tracks": ["On Sight",
-                        "Black Skinhead",
-                        "I Am A God",
-                        "New Slaves",
-                        "Blood On The Leaves",
-                        "Guilt Trip",
-                        "Bound 2"]
+        "top_tracks": [
+            "On Sight",
+            "Black Skinhead",
+            "I Am A God",
+            "New Slaves",
+            "Blood On The Leaves",
+            "Guilt Trip",
+            "Bound 2"
+        ]
     },
     "Gentle Boy": {
         "artists": "Elijah Who",
@@ -494,24 +498,26 @@
         "total_tracks": 20,
         "uri": "spotify:album:7gsWAHLeT0w7es6FofOXk1",
         "image": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
-        "top_tracks": ["Ultralight Beam",
-                        "Father Stretch My Hands Pt. 1",
-                        "Pt. 2",
-                        "Famous",
-                        "Feedback",
-                        "Low Lights",
-                        "Highlights",
-                        "I Love Kanye",
-                        "Waves",
-                        "FML",
-                        "Real Friends",
-                        "Wolves",
-                        "Frank's Track",
-                        "30 Hours",
-                        "No More Parties in LA",
-                        "Facts (Charlies Heat Version)",
-                        "Fade",
-                        "Saint Pablo"]
+        "top_tracks": [
+            "Ultralight Beam",
+            "Father Stretch My Hands Pt. 1",
+            "Pt. 2",
+            "Famous",
+            "Feedback",
+            "Low Lights",
+            "Highlights",
+            "I Love Kanye",
+            "Waves",
+            "FML",
+            "Real Friends",
+            "Wolves",
+            "Frank's Track",
+            "30 Hours",
+            "No More Parties in LA",
+            "Facts (Charlies Heat Version)",
+            "Fade",
+            "Saint Pablo"
+        ]
     },
     "Summer Solstice": {
         "artists": "Apollo1027",
@@ -588,16 +594,18 @@
         "total_tracks": 11,
         "uri": "spotify:album:0FgZKfoU2Br5sHOfvZKTI9",
         "image": "https://i.scdn.co/image/ab67616d0000b2731bb797bbfe2480650b6c2964",
-        "top_tracks": ["Every Hour",
-                        "Selah",
-                        "Follow God",
-                        "On God",
-                        "Everything We Need",
-                        "Water",
-                        "God Is",
-                        "Hands On",
-                        "Use This Gospel",
-                        "Jesus Is Lord"]
+        "top_tracks": [
+            "Every Hour",
+            "Selah",
+            "Follow God",
+            "On God",
+            "Everything We Need",
+            "Water",
+            "God Is",
+            "Hands On",
+            "Use This Gospel",
+            "Jesus Is Lord"
+        ]
     },
     "Scorpion": {
         "artists": "Drake",
@@ -785,12 +793,14 @@
         "total_tracks": 12,
         "uri": "spotify:album:3WFTGIO6E3Xh4paEOBY9OU",
         "image": "https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18",
-        "top_tracks": ["Say You Will",
-                        "Welcome To Heartbreak",
-                        "Heartless",
-                        "Amazing",
-                        "Love Lockdown",
-                        "Paranoid"]
+        "top_tracks": [
+            "Say You Will",
+            "Welcome To Heartbreak",
+            "Heartless",
+            "Amazing",
+            "Love Lockdown",
+            "Paranoid"
+        ]
     },
     "After Hours": {
         "artists": "The Weeknd",
@@ -867,15 +877,17 @@
         "total_tracks": 13,
         "uri": "spotify:album:20r762YmB5HeofjMCiPMLv",
         "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
-        "top_tracks": ["Dark Fantasy",
-                        "Gorgeous",
-                        "POWER",
-                        "All Of The Lights (Interlude)",
-                        "All Of The Lights",
-                        "So Appalled",
-                        "Devil In A New Dress",
-                        "Runaway",
-                        "Lost In The World"]
+        "top_tracks": [
+            "Dark Fantasy",
+            "Gorgeous",
+            "POWER",
+            "All Of The Lights (Interlude)",
+            "All Of The Lights",
+            "So Appalled",
+            "Devil In A New Dress",
+            "Runaway",
+            "Lost In The World"
+        ]
     },
     "I'm Gone": {
         "artists": "iann dior",
