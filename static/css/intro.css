@@ -1,0 +1,178 @@
+/*
+<h1 class="section__title section__title--intro">
+    Hi, I'm <strong>Andrew Boyer</strong>
+</h1>
+*/
+.section__title--intro strong {
+    display: block;
+/*    overflow: hidden; 
+    border-right: .15em solid #B6F29D; 
+    margin: 0 auto;
+    white-space: nowrap;
+    animation: 
+        typing 3.5s steps(40, end),
+        blink-caret .75s step-end infinite;
+*/
+}
+
+/*@keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+}
+
+@keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: #B6F29D; }
+}*/
+
+
+span {
+    margin-left: 5px;
+    border-right: .05em solid;
+    animation: caret 1s steps(1) infinite;
+}
+
+@keyframes caret {
+    50% {
+    border-color: transparent;
+    }
+}
+
+.section__subtitle--intro {
+    background: var(--clr-accent);
+    font-family: var(--ff-primary);
+    font-weight: var(--fw-bold);
+    color: var(--clr-dark);
+    margin-bottom: 1em;
+    text-align: center;
+    margin: 0 auto;
+    padding-right: 0.5em;
+    padding-left: 0.5em;
+    max-width: 600px;
+    border-radius: 5px;
+}
+
+.intro {
+    position: relative;
+
+}
+
+.intro__img {
+    box-shadow: var(--bs);
+    /*max-width: 400px;*/
+    justify-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+
+}
+
+.section__title--intro {
+    font-weight: var(--fw-reg);
+    text-align: center;
+}
+
+
+@media(max-width: 500px) {
+    .section__title--intro {
+        margin-bottom:  10px;
+        font-size: 30px;
+    }
+    .section__subtitle--intro {
+        max-width: 300px;
+    }
+}
+
+@media (max-width: 1100px) {
+    .section__title--intro {
+        margin-top: 0px;
+    }
+}
+
+@media (min-width: 1100px) {
+    .intro {
+        display: grid;
+        width: min-content;
+        margin: 0 auto;
+        grid-column-gap: 3em;
+        grid-template-areas: 
+            "img title"
+            "img subtitle";
+        grid-template-columns: min-content max-content;
+    }
+
+    .intro__img {
+        grid-area: img;
+        height: auto;
+/*        min-width: 400px;
+        max-width: 400px;*/
+        position: relative;
+        max-width: 400px;
+        z-index: 2;
+        margin-top: 0px;
+
+    }
+
+    .section__title--intro {
+        font-weight: var(--fw-reg);
+        text-align: left;
+        margin-bottom: -20px;
+        padding-bottom:  0px;
+        padding-top:  30px;
+        max-height: 150px;
+    }
+
+    .section__subtitle--intro {
+        background: var(--clr-accent);
+        top: -1em;
+        align-self: start;
+        grid-row: 2;
+        padding-right:  0.5em;
+        padding-left:  0.5em;
+
+        text-align: center;
+        position: relative;
+    }
+}
+
+@media (max-width: 500px){
+    .intro__img {
+        box-shadow: var(--bs);
+        max-width: 300px;
+        justify-content: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 15px;
+
+    }
+
+}
+
+@media (max-width: 799px) {
+    strong {
+        -webkit-text-stroke: 2.5px var(--clr-border);
+        font-weight: var(--fw-bold);
+        color: var(--clr-accent);
+    }
+
+    .section__subtitle--intro {
+        /*max-width: 500px;*/
+        margin-top: 10px;
+    }
+
+    .intro__img {
+        margin-top: 20px;
+    }
+
+
+
+    .section__title--intro {
+        margin-top: 0;
+    }
+
+
+
+}
+
