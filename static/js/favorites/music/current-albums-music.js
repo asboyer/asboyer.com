@@ -22,7 +22,7 @@ console.log(data_file)
 $(document).ready(function(){
 
     // $.getJSON(data_file, function(json) {
-    $.getJSON('/data/music_all_time.json', function(json) {
+    $.getJSON(data_file, function(json) {
 
         var albums = Object.values(json)
         albums.sort((a,b) => (a.popularity < b.popularity) ? 1 : ((b.popularity < a.popularity) ? -1 : 0))
@@ -82,9 +82,7 @@ $(document).ready(function(){
             </a>
         </div>
         `
-        if(values.artists.includes("Kanye West")){
-            music_div = music_div + album_div + track_list + album_div_end
-        }
+        music_div = music_div + album_div + track_list + album_div_end
         });
         music_div = music_div + `
         </div>

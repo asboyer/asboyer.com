@@ -1,1 +1,74 @@
-{}
+{
+    "With Them": {
+        "artists": "Young Thug",
+        "duration_ms": 197746,
+        "explicit": true,
+        "id": "0tISnxqgVmxqhVghsTi2Rr",
+        "name": "With Them",
+        "popularity": 54,
+        "preview_url": "https://p.scdn.co/mp3-preview/e7cb0734759feb932699d8e3497c2c05959956e8?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 1,
+        "uri": "spotify:track:0tISnxqgVmxqhVghsTi2Rr",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a875c3ec944b4f164ab5c350"
+    },
+    "Everything We Need": {
+        "artists": "Kanye West, Ty Dolla $ign, Ant Clemons",
+        "duration_ms": 116559,
+        "explicit": false,
+        "id": "24bnCCysWnbNRNUT4LpHcP",
+        "name": "Everything We Need",
+        "popularity": 62,
+        "preview_url": null,
+        "track_number": 6,
+        "uri": "spotify:track:24bnCCysWnbNRNUT4LpHcP",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731bb797bbfe2480650b6c2964"
+    },
+    "All We Got (feat. Kanye West & Chicago Children's Choir)": {
+        "artists": "Chance the Rapper, Kanye West, Chicago Children's Choir",
+        "duration_ms": 203794,
+        "explicit": false,
+        "id": "3ZLyt2ndLFBh148XRYjYYZ",
+        "name": "All We Got (feat. Kanye West & Chicago Children's Choir)",
+        "popularity": 58,
+        "preview_url": "https://p.scdn.co/mp3-preview/c923136e7435cf39491ed17b031043d0bf811fe2?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 1,
+        "uri": "spotify:track:3ZLyt2ndLFBh148XRYjYYZ",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e71dd15fc5bdefd5bff70452"
+    },
+    "When I Grow Up": {
+        "artists": "NF",
+        "duration_ms": 196800,
+        "explicit": false,
+        "id": "5rLyYxZNzca00ENADO9m54",
+        "name": "When I Grow Up",
+        "popularity": 70,
+        "preview_url": null,
+        "track_number": 8,
+        "uri": "spotify:track:5rLyYxZNzca00ENADO9m54",
+        "image": "https://i.scdn.co/image/ab67616d0000b273942a0c9ac8f1def7c8805044"
+    },
+    "Violent Crimes": {
+        "artists": "Kanye West",
+        "duration_ms": 215320,
+        "explicit": true,
+        "id": "3s7MCdXyWmwjdcWh7GWXas",
+        "name": "Violent Crimes",
+        "popularity": 74,
+        "preview_url": null,
+        "track_number": 7,
+        "uri": "spotify:track:3s7MCdXyWmwjdcWh7GWXas",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2"
+    },
+    "30 Hours": {
+        "artists": "Kanye West",
+        "duration_ms": 323302,
+        "explicit": true,
+        "id": "2CHmgtK8OCL28WtIK96u4N",
+        "name": "30 Hours",
+        "popularity": 62,
+        "preview_url": null,
+        "track_number": 16,
+        "uri": "spotify:track:2CHmgtK8OCL28WtIK96u4N",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4"
+    }
+}

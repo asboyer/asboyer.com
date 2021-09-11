@@ -100,7 +100,20 @@
         "total_tracks": 18,
         "uri": "spotify:album:7IyoGB8J31fvQDwGtHAq9m",
         "image": "https://i.scdn.co/image/ab67616d0000b273d5f1bbe527fa685633339add",
-        "top_tracks": []
+        "top_tracks": [
+            "Baby Pluto",
+            "Lo Mein",
+            "Silly Watch",
+            "You Better Move",
+            "Homecoming",
+            "Celebration Station",
+            "Bigger Than Life",
+            "Prices",
+            "Venetia",
+            "P2",
+            "Futsal Shuffle 2020",
+            "That Way"
+        ]
     },
     "Night Visions (Deluxe)": {
         "artists": "Imagine Dragons",
@@ -716,7 +729,19 @@
         "total_tracks": 15,
         "uri": "spotify:album:6wTyGUWGCilBFZ837k5aRi",
         "image": "https://i.scdn.co/image/ab67616d0000b273aa57907bf0cb2ca0c8cc74bc",
-        "top_tracks": []
+        "top_tracks": [
+            "Intro",
+            "Runnin",
+            "Glock In My Lap",
+            "Mr. Right Now",
+            "Rich Ni**a S**t",
+            "Slidin",
+            "Many Men",
+            "Snitches & Rats (Interlude)",
+            "Snitches & Rats",
+            "RIP Luv",
+            "Said N Done"
+        ]
     },
     "So Much Fun": {
         "artists": "Young Thug",
