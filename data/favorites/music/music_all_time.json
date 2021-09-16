@@ -869,7 +869,18 @@
         "total_tracks": 16,
         "uri": "spotify:album:733e1ZfktLSwj96X5rsMeE",
         "image": "https://i.scdn.co/image/ab67616d0000b27341b41e6f7924e530a9b00f9c",
-        "top_tracks": []
+        "top_tracks": [
+            "Two[R]",
+            "444+222",
+            "Sauce It Up",
+            "No Sleep Leak",
+            "The Way Life Goes",
+            "For Real",
+            "Neon Guts",
+            "X",
+            "Dark Queen",
+            "XO Tour Llif3"
+        ]
     },
     "Perception": {
         "artists": "NF",
@@ -1061,6 +1072,29 @@
             "Jail pt 2",
             "Junya pt 2",
             "Jesus Lord pt 2"
+        ]
+    },
+    "Die Lit": {
+        "artists": "Playboi Carti",
+        "id": "7dAm8ShwJLFm9SaJ6Yc58O",
+        "name": "Die Lit",
+        "popularity": 80,
+        "release_date": "2018-05-11",
+        "total_tracks": 19,
+        "uri": "spotify:album:7dAm8ShwJLFm9SaJ6Yc58O",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
+        "top_tracks": [
+            "Long Time - Intro",
+            "R.I.P",
+            "Lean 4 Real",
+            "Old Money",
+            "Love Hurts",
+            "Shoota",
+            "Right Now",
+            "Roke It Out",
+            "Foreign",
+            "FlatBed Freestyle",
+            "Top"
         ]
     }
 }
