@@ -64,7 +64,8 @@
         "total_tracks": 24,
         "uri": "spotify:album:2QRedhP5RmKJiJ1i8VgDGR",
         "image": "https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb",
-        "top_tracks": ["Rockstar Made",
+        "top_tracks": [
+            "Rockstar Made",
             "Go2DaMoon",
             "Beno!",
             "JumpOutTheHouse",
@@ -76,7 +77,7 @@
             "Sky",
             "ILoveUIHateU",
             "Not PLaying"
-            ]
+        ]
     },
     "Sweet Action": {
         "artists": "Jack Harlow",
@@ -87,11 +88,13 @@
         "total_tracks": 7,
         "uri": "spotify:album:7AaqMMiYMvnMB3RcS8u3EY",
         "image": "https://i.scdn.co/image/ab67616d0000b27305a448540b069450ccfba889",
-        "top_tracks": ["WHATS POPPIN",
+        "top_tracks": [
+            "WHATS POPPIN",
             "2STYLISH",
             "I WANNA SEE SOME ASS",
             "OUT FRONT",
-            "ONCE MAY COMES"]
+            "ONCE MAY COMES"
+        ]
     },
     "Thats What They All Say": {
         "artists": "Jack Harlow",
@@ -102,18 +105,19 @@
         "total_tracks": 15,
         "uri": "spotify:album:5g2INX6dnMIJG0xKygXwF3",
         "image": "https://i.scdn.co/image/ab67616d0000b273aeb14ead136118a987246b63",
-        "top_tracks": ["Rendezvous",
-        "21C/Delta",
-        "Funny Seeing You Here",
-        "Keep It Light",
-        "Creme",
-        "Same Guy",
-        "Route 66",
-        "Tyler Hero",
-        "Luv Is Dro",
-        "Whats Poppin",
-        "Baxter Avenue",
-        "Whats Poppin [Remix]"]
+        "top_tracks": [
+            "Rendezvous",
+            "21C/Delta",
+            "Funny Seeing You Here",
+            "Keep It Light",
+            "Same Guy",
+            "Route 66",
+            "Tyler Hero",
+            "Luv Is Dro",
+            "Whats Poppin",
+            "Baxter Avenue",
+            "Whats Poppin [Remix]"
+        ]
     },
     "Luv Is Rage 2": {
         "artists": "Lil Uzi Vert",
@@ -148,6 +152,7 @@
         "image": "https://i.scdn.co/image/ab67616d0000b27357c38b379fbaa7bfef03934d",
         "top_tracks": [
             "GHOST",
+            "ROTTEN",
             "WARSAW",
             "BIG CHILLIN",
             "THRU THE NIGHT",
@@ -155,6 +160,44 @@
             "RAIN",
             "HEAVY HITTER",
             "RIVER ROAD"
+        ]
+    },
+    "Loose": {
+        "artists": "Jack Harlow",
+        "id": "50UV94JhFbWhF37n74Jhk3",
+        "name": "Loose",
+        "popularity": 58,
+        "release_date": "2018-08-17",
+        "total_tracks": 13,
+        "uri": "spotify:album:50UV94JhFbWhF37n74Jhk3",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733ca9954e7b2b7ef7fa8bbd78",
+        "top_tracks": [
+            "SUNDOWN",
+            "PICKYOURPHONEUP",
+            "SLIDE FOR ME",
+            "SYLVIA",
+            "LIKE THIS",
+            "9TH GRADE",
+            "KNACK FOR IT"
+        ]
+    },
+    "Gazebo": {
+        "artists": "Jack Harlow",
+        "id": "2zoomJlGAESmLkAzCrJdS5",
+        "name": "Gazebo",
+        "popularity": 51,
+        "release_date": "2017-11-17",
+        "total_tracks": 10,
+        "uri": "spotify:album:2zoomJlGAESmLkAzCrJdS5",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732665b12bfde0a14eb80278f3",
+        "top_tracks": [
+            "Eastern Parkway",
+            "Routine",
+            "OnnaWay",
+            "Wasted Youth",
+            "Detox",
+            "Used To Be",
+            "Dark Knight"
         ]
     }
 }

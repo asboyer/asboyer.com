@@ -4,6 +4,9 @@ import inflect
 from flask import Flask, render_template, send_from_directory
 from datetime import date
  
+grade = "senior"
+school = "Wayland High School"
+
 def calculateAge(birthDate):
     today = date.today()
     age = today.year - birthDate.year - ((today.month, today.day) < (birthDate.month, birthDate.day))
@@ -26,7 +29,7 @@ app.debug = True
 
 @app.route("/")
 def index():
-    return render_template("index.html", age=p.number_to_words(calculateAge(birthday)))
+    return render_template("index.html", age=p.number_to_words(calculateAge(birthday)), grade=grade, school=school)
 
 @app.route("/<page>")
 def main_page(page):

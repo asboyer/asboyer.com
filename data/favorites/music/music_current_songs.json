@@ -59,18 +59,6 @@
         "uri": "spotify:track:1MIGkQxcdAt2lDx6ySpsc5",
         "image": "https://i.scdn.co/image/ab67616d0000b2734d00928934df027c7c51365e"
     },
-    "Dark Knight": {
-        "artists": "Jack Harlow",
-        "duration_ms": 135746,
-        "explicit": true,
-        "id": "6OxyOevBbHpYDsJL1RaVuT",
-        "name": "Dark Knight",
-        "popularity": 51,
-        "preview_url": "https://p.scdn.co/mp3-preview/26e3b5450b581af2f1f101e72a11026e983a5ebc?cid=cd0e3cb02aee4de099b024ac33ba782e",
-        "track_number": 8,
-        "uri": "spotify:track:6OxyOevBbHpYDsJL1RaVuT",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732665b12bfde0a14eb80278f3"
-    },
     "Tell Em": {
         "artists": "Cochise, $NOT",
         "duration_ms": 180379,
@@ -118,5 +106,53 @@
         "track_number": 7,
         "uri": "spotify:track:1gGsNNUfvVMOv4llVMg8Vg",
         "image": "https://i.scdn.co/image/ab67616d0000b2738be07181aa935225a6f25d56"
+    },
+    "Got Me Thinking": {
+        "artists": "Jack Harlow",
+        "duration_ms": 240000,
+        "explicit": true,
+        "id": "6rUG0w0dRTZERP2nWvlk7w",
+        "name": "Got Me Thinking",
+        "popularity": 47,
+        "preview_url": "https://p.scdn.co/mp3-preview/af015587ee3c837fdf83b4ff542ab9cfff97ddc6?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 2,
+        "uri": "spotify:track:6rUG0w0dRTZERP2nWvlk7w",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d07070d5309abda258ea53a2"
+    },
+    "From The Garden (feat. Lil Uzi Vert)": {
+        "artists": "Isaiah Rashad, Lil Uzi Vert",
+        "duration_ms": 189306,
+        "explicit": true,
+        "id": "3Dah4SWoWwekrG4GShaHVP",
+        "name": "From The Garden (feat. Lil Uzi Vert)",
+        "popularity": 71,
+        "preview_url": "https://p.scdn.co/mp3-preview/b5092e229a8394365499eae10f969260d61a52c0?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 2,
+        "uri": "spotify:track:3Dah4SWoWwekrG4GShaHVP",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739ea8c8d190d896bcb886bf6b"
+    },
+    "IGOR'S THEME": {
+        "artists": "Tyler, The Creator",
+        "duration_ms": 200693,
+        "explicit": false,
+        "id": "51RN0kzWd7xeR4th5HsEtW",
+        "name": "IGOR'S THEME",
+        "popularity": 64,
+        "preview_url": "https://p.scdn.co/mp3-preview/1de2c6a55e578f83db57d2cc4394170929a9f9ab?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 1,
+        "uri": "spotify:track:51RN0kzWd7xeR4th5HsEtW",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737005885df706891a3c182a57"
+    },
+    "I Know There's Gonna Be (Good Times)": {
+        "artists": "Jamie xx, Young Thug, Popcaan",
+        "duration_ms": 213622,
+        "explicit": true,
+        "id": "6393Du1axGG1NvAMq0OcfU",
+        "name": "I Know There's Gonna Be (Good Times)",
+        "popularity": 0,
+        "preview_url": null,
+        "track_number": 9,
+        "uri": "spotify:track:6393Du1axGG1NvAMq0OcfU",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733ec7a537e47e2c46d154192e"
     }
 }
