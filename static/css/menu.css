@@ -1,0 +1,136 @@
+
+/* header */
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 25px;
+    background: var(--clr-darker)
+}
+
+.logo {
+    max-width: 150px;
+    transition: transform 250ms ease-in-out;
+}
+
+.logo:hover {
+    transform: scale(1.1);
+}
+
+.nav {
+    position: fixed;
+    background: var(--clr-darker);
+    color: var(--clr-light);
+    top: 0;
+    bottom: 0;
+    left: auto;
+    right: 0;
+    z-index: 100;
+    max-width: 700px;
+    align-content: flex-end;
+    border: #B6F29D 1px solid;
+    border-right: none;
+
+    transform: translate(100%);
+    transition: transform 250ms cubic-bezier(.5, 0, .5, 1);
+}
+
+.nav__list {
+    list-style: none;
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 0;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 0px;
+}
+
+.nav__link {
+    color: inherit;
+    font-weight: var(--fw-bold);
+    font-size: var(--fs-h3);
+    text-decoration: none;    
+}
+
+.nav__link:hover {
+    color: var(--clr-accent);
+}
+
+.nav-toggle {
+    padding-top: 3em;
+    padding-right: 2em;
+    background: transparent;
+    border: 0;
+    cursor: pointer;
+    outline: none;
+    position: fixed;
+
+    right: 1em;
+    top: 1em;
+    z-index: 1000;
+}
+
+@media (max-width: 700px) {
+    .nav-toggle {
+        position: absolute;
+    }
+}
+
+.nav-open .nav{
+    transform: translateX(0);
+}
+
+.nav-open .nav-toggle {
+    position: fixed;
+}
+
+.nav-open .hamburger {
+    transform: rotate(0.625turn)
+}
+
+.nav-open .hamburger::before {
+    transform: rotate(90deg) translateX(-6px);
+}
+
+.nav-open .hamburger::after {
+    opacity: 0;
+}
+
+.hamburger {
+    display: block;
+    position: relative;
+    outline: none;
+}
+
+.hamburger,
+.hamburger::before,
+.hamburger::after {
+    background: var(--clr-accent);
+    width: 2.5em;
+    height: 3px;
+    border-radius: 1em;
+    transition: transform 250ms ease-in-out;
+}
+
+.hamburger::before,
+.hamburger::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+
+.hamburger::before {
+    top: 6px;
+}
+
+.hamburger::after {
+    bottom: 6px;
+}
+
+.hamburger:hover {
+    outline: none;
+}

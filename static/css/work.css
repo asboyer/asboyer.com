@@ -1,0 +1,58 @@
+/* Professional Experience */
+.my-work {
+    background-color: var(--clr-dark);
+    color: var(--clr-light);
+    background-size: cover;
+    text-align: center;
+    padding: 2em 2em;
+    padding-bottom: 5em;
+
+}
+
+.section__title--work {
+    color: var(--clr-light);
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.section__title--work::after {
+    content: '';
+    display: block;
+    width: 25%;
+    height: 1px;
+    margin: 0.5em auto 0em;
+    background: var(--clr-accent);
+    opacity: 0.5;
+}
+
+.work {
+    margin-bottom: 2.5em;        
+
+
+}
+
+.job {
+    max-width: 350px;
+    margin: 0 auto;
+    font-family: var(--ff-secondary);
+    font-size: 0.85em;
+}
+
+.job h3 {
+    font-family: var(--ff-primary);
+}
+
+.job__img:hover {
+    transform: scale(1.25);
+}
+
+.job__img {
+    transition: transform 250ms ease-in-out;
+    max-width: 100%;
+    display: flex;
+}
+
+
+.job__description {
+    position: relative;
+}
