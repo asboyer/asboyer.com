@@ -154,5 +154,17 @@
         "track_number": 9,
         "uri": "spotify:track:6393Du1axGG1NvAMq0OcfU",
         "image": "https://i.scdn.co/image/ab67616d0000b2733ec7a537e47e2c46d154192e"
+    },
+    "Poof": {
+        "artists": "Pi\u2019erre Bourne",
+        "duration_ms": 183107,
+        "explicit": true,
+        "id": "4k95J448xydiVtD4PXMvpY",
+        "name": "Poof",
+        "popularity": 61,
+        "preview_url": null,
+        "track_number": 1,
+        "uri": "spotify:track:4k95J448xydiVtD4PXMvpY",
+        "image": "https://i.scdn.co/image/ab67616d0000b27346fe2968c4c6f8f82ab4eb5b"
     }
 }
