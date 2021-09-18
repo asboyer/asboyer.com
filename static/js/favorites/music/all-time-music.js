@@ -41,8 +41,6 @@ $(document).ready(function(){
                 styles = "font-size: 20px"
             }
 
-
-
             var album_div = 
             `
         <div class="all-album__container">
