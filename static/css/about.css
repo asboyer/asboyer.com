@@ -1,0 +1,237 @@
+
+/* About me */
+
+.who {
+    background-color: var(--clr-darker);
+    padding: 100px;
+}
+
+.about-me {
+    max-width: 1050px;
+    padding: 50px;
+    /*padding-bottom: 150px;*/
+    margin: 0 auto;
+    background-color: var(--clr-dark);
+    background-image: url(../img/backgrounds/code/code.jpg);
+    color: var(--clr-light);
+    background-size: cover;
+    background-blend-mode: multiply;
+}
+
+
+.about-me__img {
+    margin-bottom: 50px;
+    box-shadow: var(--bs);
+    border: #B6F29D 2px solid;
+    min-width: 200px;
+    transition: transform 250ms ease-in-out;
+
+}
+.about-me__img:hover {
+    transform: scale(1.25);
+}
+
+.about-me__body {
+    padding-right: 50px;
+    font-family: var(--ff-secondary);
+    /*padding-bottom: 100px;*/
+}
+
+.section__subtitle--about {
+    background: var(--clr-accent);
+    font-family: var(--ff-primary);
+    font-weight: var(--fw-bold);
+    color: var(--clr-dark);
+    border-radius: 5px;
+    max-width: 650px;
+    grid-row: 2;
+    align-self: start;
+    position: relative;
+    padding-left: 10px;
+}
+
+.images {
+    margin-top: 50px;
+    max-width: 300px;
+    justify-content: center;
+    display: flex;
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.about-item {
+    justify-content: center;
+    display: flex;
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about-line {
+  padding: 5px; 
+  background-color: var(--clr-accent); 
+  margin-top: 30px; 
+  margin-bottom: 30px  
+}
+
+
+@media (min-width: 1245px) {
+    .about-me {
+        display: grid;
+        grid-template-columns: 1fr 250px;
+        grid-template-areas:
+            "title img"
+            "subtitle img"
+            "text img";
+
+        grid-column-gap: 0em;
+        padding-bottom: 150px;
+
+
+    }
+    .section__title--about {
+        font-size: 125px;
+        margin-top: 150px;
+        grid-area: title;
+    }
+
+    .images {
+        margin-top: 125px;
+        display: block;
+        max-width: 300px;
+        grid-area: img;
+
+        justify-content: center;
+        position: relative;
+    }
+
+    .section__subtitle--about {
+        max-width: 650px;
+        grid-row: 2;
+        align-self: start;
+        position: relative;
+        padding-left: 10px;
+    }
+    #button2, #button3 {
+        margin-left:  15px;
+    }
+
+    .special_btn:hover {
+        transform: scale(1.1);
+    }
+
+    .about-line {
+        display: none;
+    }
+
+}
+
+@media (min-width: 1253px){
+    .about-me {
+        display: grid;
+        grid-template-columns: 1fr 250px;
+        grid-template-areas:
+            "title img"
+            "subtitle img"
+            "text img";
+
+        grid-column-gap: 0em;
+
+    }
+    .section__title--about {
+        font-size: 125px;
+        margin-top: 150px;
+        grid-area: title;
+    }
+
+    .images {
+        margin-top: 125px;
+        display: block;
+        max-width: 300px;
+        grid-area: img;
+
+        justify-content: center;
+        position: relative;
+    }
+
+    .section__subtitle--about {
+        max-width: 650px;
+        grid-row: 2;
+        align-self: start;
+        position: relative;
+        padding-left: 10px;
+    }
+
+
+}
+
+@media (max-width: 1245px) {
+    .images {
+        display: none;
+    }
+
+
+}
+
+@media (max-width: 950px) {
+    #button1, #button2, #button3 {
+        display:inline-block;
+
+    }
+    #button2, #button3 {
+        margin-top:  15px;
+    }
+
+}
+
+
+/*@media(max-width: 1255px){
+    #button2 {
+    }
+    .extra-info {
+        margin-left:  200px;
+    } 
+    #button1 , #button2 {
+        display:inline-block;
+
+    }
+}
+
+@media(max-width: 1200px){
+    #button2 {
+        margin-top: 20px;
+    }
+    .extra-info {
+        margin-left:  300px;
+    }
+}
+
+@media(max-width: 1120px){
+    .extra-info {
+        margin: 0 auto;
+    }
+
+}*/
+
+
+#button1, #button2, #button3 {
+    display:inline-block;
+
+}
+
+
+
+.more-buttonz {
+    text-align: center;
+    display: none;
+}
+
+
+.more-button {
+    text-align: center;
+}
+
+
+

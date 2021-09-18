@@ -1,0 +1,26 @@
+/* Coming soon page */
+
+.soon {
+    text-align: center;
+}
+
+.section__title--soon {
+    
+} 
+
+.soon-div {
+    margin: auto;
+    margin-top: 30px;
+    max-width: 1000px;
+}
+
+.section__subtitle--soon {
+    text-align: center;
+    font-weight: var(--fw-reg);
+    font-family: monospace;
+}
+
+.soon h1 {
+    font-weight: var(--fw-reg);
+    margin-bottom: 40px;
+}

@@ -1,0 +1,46 @@
+
+/* footer */
+
+.footer {
+    background: var(--clr-dark);
+    color: var(--clr-accent);
+    text-align: center;
+/*    margin-right: 300px;
+    margin-left: 300px;*/
+    box-sizing: border-box;
+}
+
+.footer a {
+    color: inherit;
+    text-decoration: none;
+}
+.social-list__link:focus,
+.social-list__link:hover {
+    opacity: .9;
+    outline: none;
+
+}
+
+.social-list__item:hover {
+    transform: scale(1.1);
+
+}
+
+.social-list {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 2em 0;
+    padding: 0;
+
+}
+
+.social-list__item {
+    transition: transform 250ms ease-in-out;
+    margin: 0 .5em;
+}
+
+.social-list__link {
+    font-size: 40px;
+    padding: .5em;
+}
