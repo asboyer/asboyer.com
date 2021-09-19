@@ -280,5 +280,11 @@
         "title": "The Godfather",
         "image": "http://image.tmdb.org/t/p/original/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
         "rating": 9.2
+    },
+    "Pirates of the Caribbean: The Curse of the Black Pearl": {
+        "id": "0325980",
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "image": "http://image.tmdb.org/t/p/original/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",
+        "rating": 8.0
     }
 }
