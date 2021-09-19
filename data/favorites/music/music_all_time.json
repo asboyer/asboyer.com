@@ -1097,5 +1097,16 @@
             "FlatBed Freestyle",
             "Top"
         ]
+    },
+    "Lil Uzi Vert vs. The World": {
+        "artists": "Lil Uzi Vert",
+        "id": "7mgdTKTCdfnLoa1HXHvLYM",
+        "name": "Lil Uzi Vert vs. The World",
+        "popularity": 70,
+        "release_date": "2016-05-27",
+        "total_tracks": 9,
+        "uri": "spotify:album:7mgdTKTCdfnLoa1HXHvLYM",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738be07181aa935225a6f25d56",
+        "top_tracks": []
     }
 }
