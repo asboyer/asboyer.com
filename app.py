@@ -16,6 +16,13 @@ def calculateAge(birthDate):
 birthday = date(2003, 9, 21)
 p = inflect.engine()
 
+age_string = p.number_to_words(calculateAge(birthday))
+
+if age_string.startswith('eight'):
+    age_string = "n " + age_string
+else:
+    age_string = " " + age_string
+
 soon_posts = []
 
 f = open('data/blog/posts.json')
@@ -29,7 +36,7 @@ app.debug = True
 
 @app.route("/")
 def index():
-    return render_template("index.html", age=p.number_to_words(calculateAge(birthday)), grade=grade, school=school)
+    return render_template("index.html", age=age_string, grade=grade, school=school)
 
 @app.route("/<page>")
 def main_page(page):
