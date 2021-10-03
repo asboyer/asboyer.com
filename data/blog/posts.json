@@ -10,7 +10,7 @@
     "I used Python to predict the NBA MVP": {
         "title": "I used Python to predict the NBA MVP",
         "id": 1,
-        "date": "9.29.21",
+        "date": "11.1.21",
         "subjects": ["Programming", "Sports"],
         "cover_img": "/static/img/blog/python-mvp/jokic.png",
         "live": false

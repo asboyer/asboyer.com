@@ -44,7 +44,7 @@ $(document).ready(function(){
             var artist_length = ""
             var title_length = ""
             var styles = ""
-            if(values.name == "Whole Lotta Red" || values.name == "From Me To You" || values.name == "The College Dropout" || values.name == "Thats What They All Say") {
+            if(values.name == "The Search" || values.name == "Whole Lotta Red" || values.name == "From Me To You" || values.name == "The College Dropout" || values.name == "Thats What They All Say") {
                 tracklist += '-long'
             }
             // do something special if just one album

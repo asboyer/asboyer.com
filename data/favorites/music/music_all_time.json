@@ -146,7 +146,20 @@
         "total_tracks": 14,
         "uri": "spotify:album:6eZdwrhB97A3EYx9QppGfl",
         "image": "https://i.scdn.co/image/ab67616d0000b273d5f3cea8affdca01a0dc754f",
-        "top_tracks": []
+        "top_tracks": [
+            "Let Em' Know",
+            "Exchange",
+            "For However Long",
+            "Don't",
+            "Open Interlude",
+            "Ten Nine Fourteen",
+            "Rambo",
+            "502 Come Up",
+            "Sorry Not Sorry",
+            "Been That Way",
+            "Overtime",
+            "Right My Wrongs"
+        ]
     },
     "Future & Juice WRLD Present... WRLD ON DRUGS": {
         "artists": "Future, Juice WRLD",
@@ -168,7 +181,24 @@
         "total_tracks": 20,
         "uri": "spotify:album:46xdC4Qcvscfs3Ai2RIHcv",
         "image": "https://i.scdn.co/image/ab67616d0000b273942a0c9ac8f1def7c8805044",
-        "top_tracks": []
+        "top_tracks": [
+            "The Search",
+            "Leave Me Alone",
+            "Change",
+            "My Stress",
+            "Nate",
+            "Time",
+            "Returns",
+            "When I Grow Up",
+            "Only",
+            "Hate Myself",
+            "I Miss The Days",
+            "No Excuses",
+            "Like This",
+            "Options",
+            "WHY",
+            "Thinking"
+        ]
     },
     "F*CK LOVE (SAVAGE)": {
         "artists": "The Kid LAROI",
@@ -378,6 +408,65 @@
         "uri": "spotify:album:6RuwGwQcAureaOraKJNFQG",
         "image": "https://i.scdn.co/image/ab67616d0000b273891f0552bed344dc2bfe322f",
         "top_tracks": []
+    },
+    "Loose": {
+        "artists": "Jack Harlow",
+        "id": "50UV94JhFbWhF37n74Jhk3",
+        "name": "Loose",
+        "popularity": 58,
+        "release_date": "2018-08-17",
+        "total_tracks": 13,
+        "uri": "spotify:album:50UV94JhFbWhF37n74Jhk3",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733ca9954e7b2b7ef7fa8bbd78",
+        "top_tracks": [
+            "SUNDOWN",
+            "PICKYOURPHONEUP",
+            "SLIDE FOR ME",
+            "SYLVIA",
+            "LIKE THIS",
+            "9TH GRADE",
+            "KNACK FOR IT"
+        ]
+    },
+    "Thats What They All Say": {
+        "artists": "Jack Harlow",
+        "id": "5g2INX6dnMIJG0xKygXwF3",
+        "name": "Thats What They All Say",
+        "popularity": 76,
+        "release_date": "2020-12-11",
+        "total_tracks": 15,
+        "uri": "spotify:album:5g2INX6dnMIJG0xKygXwF3",
+        "image": "https://i.scdn.co/image/ab67616d0000b273aeb14ead136118a987246b63",
+        "top_tracks": [
+            "Rendezvous",
+            "21C/Delta",
+            "Funny Seeing You Here",
+            "Keep It Light",
+            "Same Guy",
+            "Route 66",
+            "Tyler Hero",
+            "Luv Is Dro",
+            "Whats Poppin",
+            "Baxter Avenue",
+            "Whats Poppin [Remix]"
+        ]
+    },
+    "Sweet Action": {
+        "artists": "Jack Harlow",
+        "id": "7AaqMMiYMvnMB3RcS8u3EY",
+        "name": "Sweet Action",
+        "popularity": 74,
+        "release_date": "2020-03-13",
+        "total_tracks": 7,
+        "uri": "spotify:album:7AaqMMiYMvnMB3RcS8u3EY",
+        "image": "https://i.scdn.co/image/ab67616d0000b27305a448540b069450ccfba889",
+        "top_tracks": [
+            "WHATS POPPIN",
+            "2STYLISH",
+            "I WANNA SEE SOME ASS",
+            "OUT FRONT",
+            "ONCE MAY COMES"
+        ]
     },
     "Confetti": {
         "artists": "Jack Harlow",
@@ -1108,5 +1197,24 @@
         "uri": "spotify:album:7mgdTKTCdfnLoa1HXHvLYM",
         "image": "https://i.scdn.co/image/ab67616d0000b2738be07181aa935225a6f25d56",
         "top_tracks": []
+    },
+    "Gazebo": {
+        "artists": "Jack Harlow",
+        "id": "2zoomJlGAESmLkAzCrJdS5",
+        "name": "Gazebo",
+        "popularity": 51,
+        "release_date": "2017-11-17",
+        "total_tracks": 10,
+        "uri": "spotify:album:2zoomJlGAESmLkAzCrJdS5",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732665b12bfde0a14eb80278f3",
+        "top_tracks": [
+            "Eastern Parkway",
+            "Routine",
+            "OnnaWay",
+            "Wasted Youth",
+            "Detox",
+            "Used To Be",
+            "Dark Knight"
+        ]
     }
 }
