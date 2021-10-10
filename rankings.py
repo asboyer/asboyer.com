@@ -6,7 +6,7 @@ with open(f'./data/favorites/music/music_all_time.json', 'r') as json_file:
 for album in all_time_data:
     if 'Kanye' in all_time_data[album]['artists']:
         if all_time_data[album]['name'] == 'Graduation':
-            score = .95
+            score = .99
         else:
             score = (len(all_time_data[album]['top_tracks'])*1.5 + len(all_time_data[album]['good_tracks'])*1.25)/(all_time_data[album]['total_tracks']*1.5)
     else:
