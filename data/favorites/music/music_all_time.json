@@ -567,17 +567,17 @@
         "top_tracks": [
             "On Sight",
             "Black Skinhead",
-            "I Am A God",
             "New Slaves",
             "Blood On The Leaves",
             "Guilt Trip",
             "Bound 2"
         ],
         "good_tracks": [
+            "I Am A God",
             "Hold My Liquor",
             "Send It Up"
         ],
-        "score": 8.67
+        "score": 8.5
     },
     "Gentle Boy": {
         "artists": "Elijah Who",
@@ -660,9 +660,11 @@
             "Obediently Yours"
         ],
         "good_tracks": [
+            "Dark Place",
+            "A2Z",
             "GP4"
         ],
-        "score": 8.48
+        "score": 9.43
     },
     "F*CK LOVE": {
         "artists": "The Kid LAROI",
@@ -784,9 +786,11 @@
             "RIVER ROAD"
         ],
         "good_tracks": [
+            "ICE",
+            "GOIN BACK DOWN",
             "SUNDAY NIGHT"
         ],
-        "score": 8.1
+        "score": 9.29
     },
     "Smoke + Mirrors": {
         "artists": "Imagine Dragons",
@@ -975,14 +979,14 @@
             "Rise Up",
             "I'll Make It Up To You",
             "Yesterday",
-            "Thunder",
-            "Dancing In The Dark"
+            "Thunder"
         ],
         "good_tracks": [
             "Mouth Of The River",
-            "Start Over"
+            "Start Over",
+            "Dancing In The Dark"
         ],
-        "score": 9.52
+        "score": 9.29
     },
     "The Life Of Pablo": {
         "artists": "Kanye West",
@@ -1078,16 +1082,16 @@
             "After Party",
             "Can't Feel My Legs",
             "Had Enough (feat. Quavo & Offset)",
-            "No Idea"
+            "No Idea",
+            "Candy"
         ],
         "good_tracks": [
             "Wasted",
-            "Candy",
             "Company",
             "Spaceship (feat. Sheck Wes)",
             "No Photos"
         ],
-        "score": 8.81
+        "score": 9.05
     },
     "ASTROWORLD": {
         "artists": "Travis Scott",
@@ -1133,20 +1137,20 @@
         "top_tracks": [
             "the ends",
             "way back",
+            "coordinate",
             "through the late night",
             "goosebumps",
             "first take",
             "pick up the phone",
+            "lose",
             "wonderful"
         ],
         "good_tracks": [
-            "coordinate",
             "beibs in the trap",
             "sdp interlude",
-            "outside",
-            "lose"
+            "outside"
         ],
-        "score": 7.55
+        "score": 7.96
     },
     "Rodeo": {
         "artists": "Travis Scott",
@@ -2085,6 +2089,7 @@
             "R.I.P",
             "Love Hurts (feat. Travis Scott)",
             "Shoota (feat. Lil Uzi Vert)",
+            "Fell in Luv (feat Bryson Tiller)",
             "Foreign",
             "FlatBed Freestyle"
         ],
@@ -2093,9 +2098,11 @@
             "Old Money",
             "Right Now (feat. Pi'erre Bourne)",
             "Poke It Out (with Nicki Minaj)",
+            "Pull Up",
+            "R.I.P. Fredo (feat. Young Nudy) - Notice Me",
             "Top (feat. Pi'erre Bourne)"
         ],
-        "score": 5.04
+        "score": 6.32
     },
     "Gazebo": {
         "artists": "Jack Harlow",
@@ -2198,24 +2205,25 @@
             "JumpOutTheHouse",
             "Slay3r",
             "No Sl33p",
+            "New Tank",
             "Teen X (feat. Future)",
             "Vamp Anthem",
             "New N3on",
             "Place",
             "Sky",
+            "Over",
             "ILoveUIHateU",
             "Not PLaying"
         ],
         "good_tracks": [
             "Stop Breathing",
             "M3tamorphosis (feat. Kid Cudi)",
-            "New Tank",
             "Meh",
             "On That Time",
             "King Vamp",
             "F33l Lik3 Dyin"
         ],
-        "score": 7.08
+        "score": 7.62
     },
     "The 3rd Generation": {
         "artists": "Freddy Leone, Apollo1027",
@@ -2254,13 +2262,12 @@
         ],
         "good_tracks": [
             "I THINK",
-            "EXACTLY WHAT YOU RUN FROM YOU END UP CHASING",
             "NEW MAGIC WAND",
             "GONE, GONE / THANK YOU",
             "I DON'T LOVE YOU ANYMORE",
             "ARE WE STILL FRIENDS?"
         ],
-        "score": 8.57
+        "score": 7.98
     },
     "Flower Boy": {
         "artists": "Tyler, The Creator",
