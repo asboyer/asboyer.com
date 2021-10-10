@@ -26,8 +26,9 @@ $(document).ready(function(){
     $.getJSON(data_file, function(json) {
 
         var albums = Object.values(json)
-        albums.sort((a,b) => (a.popularity < b.popularity) ? 1 : ((b.popularity < a.popularity) ? -1 : 0))
         shuffle(albums)
+
+        albums.sort((a,b) => (a.score < b.score) ? 1 : ((b.score < a.score) ? -1 : 0))
 
         $.each(albums, function(title, values){
 
@@ -50,6 +51,7 @@ $(document).ready(function(){
                 <div class="album-text">
                     <p class="title" style="${styles}">${values.name.split("(Original")[0].replace(" [Deluxe Edition]", "").replace("(Deluxe)", "").replace("(Remastered)", "").replace("(Original Motion Picture Soundtrack)", "").replace("(Legacy Edition)", "")}</p>
                     <p class="artist">${values.artists}</p>
+                    <p class="artist">${values.score}</p>
                 </div>
             </div>
             </a>

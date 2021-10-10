@@ -11,8 +11,14 @@ client_credentials_manager = SpotifyClientCredentials(client_id, client_secret)
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
 bad_data = ['available_markets', 'album_type', 'album_group', 'type', 
-            'external_urls', 'external_ids', 'tracks', 'copyrights',
+            'external_urls', 'external_ids', 'copyrights',
             'label', 'release_date_precision', 'href', 'genres', 'is_local', 'disc_number']
+
+bad_track_data = ['available_markets', 'album_type', 'album_group', 'type', 
+            'external_urls', 'external_ids', 'copyrights', 'label', 
+            'release_date_precision', 'href', 'genres', 'is_local', 
+            'disc_number', 'offset', 'limit', 'next', 'previous', 'total', 'href', 'preview_url', "album", "bars", "beats", "sections", "segments", "tatums", "meta"]
+
 
 # TO DO:
 # need to write js for top albums, top tracks
@@ -61,7 +67,40 @@ def clean_result(result):
             best_image_url = image['url']
     del result['images']
     result['image'] = best_image_url
+
+    for tracks in list(result["tracks"]):        
+        if tracks in bad_track_data:
+            del result["tracks"][tracks]
+
+    for track in list(result["tracks"]["items"]):
+        for data_key in list(track):
+            if data_key in bad_data:
+                del track[data_key]
+
+        artist_list = []
+        for artist in track['artists']:
+            artist_list.append(artist['name'])
+        artists_string = ''
+        for i in range(len(artist_list)):
+            if i == len(artist_list) - 1:
+                artists_string += artist_list[i]
+            else:
+                artists_string += f'{artist_list[i]}, '
+        track['artists'] = artists_string
+
     result['top_tracks'] = []
+    result['good_tracks'] = []
+    result['score'] = 0.0
+
+    tracks = result["tracks"]["items"]
+    del result["tracks"]
+    result["tracks"] = tracks
+
+    tracks_list = []
+    for track in result["tracks"]:
+        tracks_list.append(track["name"])
+
+    result['tracks'] = tracks_list
 
     return result
 

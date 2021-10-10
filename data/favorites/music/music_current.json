@@ -164,6 +164,13 @@
         "total_tracks": 16,
         "uri": "spotify:album:2WmJ5wp5wKBlIJE6FDAIBJ",
         "image": "https://i.scdn.co/image/ab67616d0000b273ab738b25b86bf02f0346c53d",
-        "top_tracks": ["5X", "Way Bigger", "Double Standards", "Drugs N Hella Melodies", "2AM", "You"]
+        "top_tracks": [
+            "5X",
+            "Way Bigger",
+            "Double Standards",
+            "Drugs N Hella Melodies",
+            "2AM",
+            "You"
+        ]
     }
 }
