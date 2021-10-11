@@ -565,19 +565,20 @@
         "uri": "spotify:album:7D2NdGvBHIavgLhmcwhluK",
         "image": "https://i.scdn.co/image/ab67616d0000b2731dacfbc31cc873d132958af9",
         "top_tracks": [
-            "On Sight",
             "Black Skinhead",
             "New Slaves",
             "Blood On The Leaves",
-            "Guilt Trip",
             "Bound 2"
         ],
         "good_tracks": [
+            "On Sight",
             "I Am A God",
             "Hold My Liquor",
+            "Guilt Trip",
+            "I'm In It",
             "Send It Up"
         ],
-        "score": 8.5
+        "score": 9.0
     },
     "Gentle Boy": {
         "artists": "Elijah Who",
@@ -1143,14 +1144,14 @@
             "first take",
             "pick up the phone",
             "lose",
-            "wonderful"
-        ],
-        "good_tracks": [
-            "beibs in the trap",
+            "wonderful",
             "sdp interlude",
             "outside"
         ],
-        "score": 8.21
+        "good_tracks": [
+            "beibs in the trap"
+        ],
+        "score": 8.45
     },
     "Rodeo": {
         "artists": "Travis Scott",
@@ -1174,11 +1175,12 @@
             "Apple Pie"
         ],
         "good_tracks": [
+            "Wasted (feat. Juicy J)",
             "Impossible",
             "Flying High (feat. Toro y Moi)",
             "I Can Tell"
         ],
-        "score": 8.93
+        "score": 9.52
     },
     "JESUS IS KING": {
         "artists": "Kanye West",
@@ -1776,7 +1778,7 @@
             "Saved",
             "8TEEN"
         ],
-        "score": 4.29
+        "score": 4.44
     },
     "My Beautiful Dark Twisted Fantasy": {
         "artists": "Kanye West",
@@ -1814,7 +1816,6 @@
         "uri": "spotify:album:4Wb5bU9FkmZ84WkkL37rKA",
         "image": "https://i.scdn.co/image/ab67616d0000b27316f00890f319eaccf4dd1570",
         "top_tracks": [
-            "Sickness",
             "Shameless",
             "Sick and Tired (ft. Machine Gun Kelly and Travis Barker)",
             "Runaway Kid",
@@ -1822,11 +1823,12 @@
             "Prospect (ft. Lil Baby)"
         ],
         "good_tracks": [
+            "Sickness",
             "Paradise",
             "Pretty Girls",
             "Psycho"
         ],
-        "score": 9.05
+        "score": 8.73
     },
     "Goodbye & Good Riddance": {
         "artists": "Juice WRLD",
@@ -1906,7 +1908,7 @@
             "Do You Remember",
             "Constellations"
         ],
-        "score": 6.63
+        "score": 7.14
     },
     "Wonders": {
         "artists": "The Piano Guys",
@@ -2742,7 +2744,7 @@
             "My Heart Is Open",
             "This Summer"
         ],
-        "score": 7.98
+        "score": 8.47
     },
     "More Life": {
         "artists": "Drake",

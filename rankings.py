@@ -3,7 +3,22 @@ import json
 with open(f'./data/favorites/music/music_all_time.json', 'r') as json_file: 
     all_time_data = json.load(json_file)
 
-top = ['Kanye West', 'Playboi Carti', 'Frank Ocean', 'Lil Uzi Vert', 'Michael Jackson', 'Post Malone', 'Don Toliver', 'Childish Gambino', 'Taylor Swift', 'Drake', 'Drake, Future', 'Travis Scott', 'J. Cole']
+top = ['Kanye West', 
+    'Playboi Carti', 
+    'Frank Ocean', 
+    'Lil Uzi Vert', 
+    'Michael Jackson', 
+    'Post Malone', 
+    'Don Toliver', 
+    'Childish Gambino', 
+    'Taylor Swift', 
+    'Drake', 
+    'Drake, Future', 
+    'Travis Scott', 
+    'J. Cole',
+    'Maroon 5',
+    'Jack Johnson',
+    'Khalid']
 
 for album in all_time_data:
     if all_time_data[album]['artists'] in top:
