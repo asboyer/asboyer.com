@@ -2296,5 +2296,37 @@
             "Enjoy Right Now, Today"
         ],
         "score": 7.45
+    },
+    "The Incredible True Story": {
+        "artists": "Logic",
+        "id": "5dOpbgAmJeyoakKQ0QLWkR",
+        "name": "The Incredible True Story",
+        "popularity": 64,
+        "release_date": "2015-11-13",
+        "total_tracks": 18,
+        "uri": "spotify:album:5dOpbgAmJeyoakKQ0QLWkR",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f0f7649257d4b99460929ced",
+        "top_tracks": [
+            "Fade Away",
+            "Upgrade",
+            "Like Woah",
+            "I Am The Greatest",
+            "Lord Willin'",
+            "City Of Stars",
+            "Run It",
+            "The Incredible True Story"
+        ],
+        "good_tracks": [
+            "Contact",
+            "White People - Scene",
+            "Young Jesus",
+            "Innermission",
+            "The Cube - Scene",
+            "Stainless",
+            "Babel - Scene",
+            "Never Been",
+            "Lucidity - Scene"
+        ],
+        "score": 8.02
     }
 }
