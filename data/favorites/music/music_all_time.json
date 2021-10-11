@@ -1372,7 +1372,7 @@
             "Leave Me Alone - 2012 Remaster",
             "Another Part of Me - 2012 Remaster"
         ],
-        "score": 6.88
+        "score": 7.42
     },
     "Coloring Book": {
         "artists": "Chance the Rapper",
@@ -1782,7 +1782,7 @@
             "Blame Game",
             "Lost In The World"
         ],
-        "score": 8.08
+        "score": 9.25
     },
     "I'm Gone": {
         "artists": "iann dior",
@@ -1938,7 +1938,7 @@
             "It's the Falling in Love",
             "Burn This Disco Out"
         ],
-        "score": 7.71
+        "score": 8.67
     },
     "TRON: Legacy - The Complete Edition (Original Motion Picture Soundtrack)": {
         "artists": "Daft Punk",
@@ -2102,7 +2102,7 @@
             "R.I.P. Fredo (feat. Young Nudy) - Notice Me",
             "Top (feat. Pi'erre Bourne)"
         ],
-        "score": 6.32
+        "score": 6.75
     },
     "Gazebo": {
         "artists": "Jack Harlow",
@@ -2223,7 +2223,7 @@
             "King Vamp",
             "F33l Lik3 Dyin"
         ],
-        "score": 7.62
+        "score": 7.92
     },
     "The 3rd Generation": {
         "artists": "Freddy Leone, Apollo1027",
@@ -2328,5 +2328,465 @@
             "Lucidity - Scene"
         ],
         "score": 8.02
+    },
+    "DAYTONA": {
+        "artists": "Pusha T",
+        "id": "07bIdDDe3I3hhWpxU6tuBp",
+        "name": "DAYTONA",
+        "popularity": 61,
+        "release_date": "2018-05-25",
+        "total_tracks": 7,
+        "uri": "spotify:album:07bIdDDe3I3hhWpxU6tuBp",
+        "image": "https://i.scdn.co/image/ab67616d0000b273263555eebbe2b375593aa31e",
+        "top_tracks": [
+            "If You Know You Know",
+            "Hard Piano",
+            "Santeria",
+            "What Would Meek Do?",
+            "Infrared"
+        ],
+        "good_tracks": [
+            "The Games We Play",
+            "Come Back Baby"
+        ],
+        "score": 9.18
+    },
+    "Rumours": {
+        "artists": "Fleetwood Mac",
+        "id": "0BwWUstDMUbgq2NYONRqlu",
+        "name": "Rumours",
+        "popularity": 81,
+        "release_date": "1977-02-04",
+        "total_tracks": 12,
+        "uri": "spotify:album:0BwWUstDMUbgq2NYONRqlu",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b",
+        "top_tracks": [
+            "Second Hand News",
+            "Dreams",
+            "Never Going Back Again",
+            "Don't Stop",
+            "Go Your Own Way",
+            "You Make Loving Fun",
+            "The Chain"
+        ],
+        "good_tracks": [
+            "I Don't Want to Know",
+            "Oh Daddy",
+            "Gold Dust Woman",
+            "Silver Springs"
+        ],
+        "score": 8.21
+    },
+    "2014 Forest Hills Drive": {
+        "artists": "J. Cole",
+        "id": "7viNUmZZ8ztn2UB4XB3jIL",
+        "name": "2014 Forest Hills Drive",
+        "popularity": 82,
+        "release_date": "2014-12-09",
+        "total_tracks": 13,
+        "uri": "spotify:album:7viNUmZZ8ztn2UB4XB3jIL",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736aca031ccc27d2e4dd829d14",
+        "top_tracks": [
+            "Wet Dreamz",
+            "03' Adolescence",
+            "A Tale of 2 Citiez",
+            "No Role Modelz"
+        ],
+        "good_tracks": [
+            "January 28th",
+            "Fire Squad",
+            "St. Tropez",
+            "Apparently",
+            "G.O.M.D.",
+            "Love Yourz"
+        ],
+        "score": 6.37
+    },
+    "beerbongs & bentleys": {
+        "artists": "Post Malone",
+        "id": "6trNtQUgC8cgbWcqoMYkOR",
+        "name": "beerbongs & bentleys",
+        "popularity": 85,
+        "release_date": "2018-04-27",
+        "total_tracks": 18,
+        "uri": "spotify:album:6trNtQUgC8cgbWcqoMYkOR",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268",
+        "top_tracks": [
+            "Rich & Sad",
+            "rockstar (feat. 21 Savage)",
+            "Over Now",
+            "Better Now",
+            "92 Explorer",
+            "Candy Paint",
+            "Sugar Wraith"
+        ],
+        "good_tracks": [
+            "Paranoid",
+            "Spoil My Night (feat. Swae Lee)",
+            "Takin' Shots",
+            "Psycho (feat. Ty Dolla $ign)",
+            "Stay"
+        ],
+        "score": 5.87
+    },
+    "My Everything (Deluxe)": {
+        "artists": "Ariana Grande",
+        "id": "6EVYTRG1drKdO8OnIQBeEj",
+        "name": "My Everything (Deluxe)",
+        "popularity": 79,
+        "release_date": "2014-08-25",
+        "total_tracks": 15,
+        "uri": "spotify:album:6EVYTRG1drKdO8OnIQBeEj",
+        "image": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+        "top_tracks": [
+            "Problem",
+            "One Last Time",
+            "Why Try",
+            "Break Free",
+            "Be My Baby",
+            "Break Your Heart Right Back",
+            "Love Me Harder",
+            "Bang Bang"
+        ],
+        "good_tracks": [
+            "Intro",
+            "Best Mistake",
+            "Just A Little Bit Of Your Heart",
+            "My Everything"
+        ],
+        "score": 7.24
+    },
+    "JACKBOYS": {
+        "artists": "JACKBOYS, Travis Scott",
+        "id": "1Sf8GsXG32t0jNrX11xqWx",
+        "name": "JACKBOYS",
+        "popularity": 78,
+        "release_date": "2019-12-27",
+        "total_tracks": 7,
+        "uri": "spotify:album:1Sf8GsXG32t0jNrX11xqWx",
+        "image": "https://i.scdn.co/image/ab67616d0000b273dfc2f59568272de50a257f2f",
+        "top_tracks": [
+            "GANG GANG",
+            "HAD ENOUGH (feat. Quavo & Offset)",
+            "OUT WEST (feat. Young Thug)",
+            "WHAT TO DO? (feat. Don Toliver)"
+        ],
+        "good_tracks": [
+            "HIGHEST IN THE ROOM (feat. ROSAL\u00cdA & Lil Baby) - REMIX",
+            "GATTI"
+        ],
+        "score": 7.76
+    },
+    "Back In Black": {
+        "artists": "AC/DC",
+        "id": "6mUdeDZCsExyJLMdAfDuwh",
+        "name": "Back In Black",
+        "popularity": 81,
+        "release_date": "1980-07-25",
+        "total_tracks": 10,
+        "uri": "spotify:album:6mUdeDZCsExyJLMdAfDuwh",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae",
+        "top_tracks": [
+            "Hells Bells",
+            "Shoot to Thrill",
+            "Back In Black",
+            "You Shook Me All Night Long"
+        ],
+        "good_tracks": [
+            "What Do You Do for Money Honey",
+            "Givin the Dog a Bone",
+            "Let Me Put My Love Into You",
+            "Have a Drink on Me",
+            "Rock and Roll Ain't Noise Pollution"
+        ],
+        "score": 7.57
+    },
+    "Die A Legend": {
+        "artists": "Polo G",
+        "id": "26ztFK3E69j5THJQdyxC5w",
+        "name": "Die A Legend",
+        "popularity": 79,
+        "release_date": "2019-06-07",
+        "total_tracks": 14,
+        "uri": "spotify:album:26ztFK3E69j5THJQdyxC5w",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ae8b07ecdcf7aadefe00264f",
+        "top_tracks": [
+            "Through Da Storm",
+            "Pop Out (feat. Lil Tjay)",
+            "Finer Things",
+            "Picture This",
+            "Deep Wounds"
+        ],
+        "good_tracks": [
+            "Lost Files",
+            "Effortless",
+            "Chosen 1",
+            "Pop Out Again (feat. Lil Baby & Gunna)"
+        ],
+        "score": 5.61
+    },
+    "LIFE'S A TRIP": {
+        "artists": "Trippie Redd",
+        "id": "214f4uAY0p2KgY7Fl4fBgk",
+        "name": "LIFE'S A TRIP",
+        "popularity": 74,
+        "release_date": "2018-08-10",
+        "total_tracks": 14,
+        "uri": "spotify:album:214f4uAY0p2KgY7Fl4fBgk",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d959c12f4de683c39a1bafe3",
+        "top_tracks": [
+            "Taking A Walk",
+            "BANG!",
+            "Dark Knight Dummo",
+            "Shake It Up"
+        ],
+        "good_tracks": [
+            "Wish - Trippie Mix"
+        ],
+        "score": 3.37
+    },
+    "nothings ever good enough": {
+        "artists": "iann dior",
+        "id": "5UHC2JN3ck4XPYPjngia2G",
+        "name": "nothings ever good enough",
+        "popularity": 70,
+        "release_date": "2019-05-22",
+        "total_tracks": 8,
+        "uri": "spotify:album:5UHC2JN3ck4XPYPjngia2G",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739fc7b0fa3ee822614a14dd2e",
+        "top_tracks": [
+            "romance361",
+            "molly",
+            "emotions",
+            "crash my whip"
+        ],
+        "good_tracks": [
+            "18",
+            "don't want to fall"
+        ],
+        "score": 6.79
+    },
+    "Origins (Deluxe)": {
+        "artists": "Imagine Dragons",
+        "id": "3JfSxDfmwS5OeHPwLSkrfr",
+        "name": "Origins (Deluxe)",
+        "popularity": 79,
+        "release_date": "2018-11-09",
+        "total_tracks": 15,
+        "uri": "spotify:album:3JfSxDfmwS5OeHPwLSkrfr",
+        "image": "https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd",
+        "top_tracks": [
+            "Natural",
+            "Cool Out",
+            "Bad Liar",
+            "West Coast",
+            "Zero - From the Original Motion Picture \"Ralph Breaks The Internet\"",
+            "Bullet In A Gun"
+        ],
+        "good_tracks": [
+            "Boomerang",
+            "Only",
+            "Stuck",
+            "Love",
+            "Birds",
+            "Real Life"
+        ],
+        "score": 6.86
+    },
+    "PARTYMOBILE": {
+        "artists": "PARTYNEXTDOOR",
+        "id": "2T8UlI17u5hwTqu6zkpkW7",
+        "name": "PARTYMOBILE",
+        "popularity": 71,
+        "release_date": "2020-03-27",
+        "total_tracks": 15,
+        "uri": "spotify:album:2T8UlI17u5hwTqu6zkpkW7",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d8082097058d4c44739b17dd",
+        "top_tracks": [
+            "THE NEWS",
+            "EYE ON IT",
+            "BELIEVE IT",
+            "PGT"
+        ],
+        "good_tracks": [],
+        "score": 2.67
+    },
+    "Snow Cougar": {
+        "artists": "Yung Gravy",
+        "id": "5JzxLWdYLLpZTE6kaBLooY",
+        "name": "Snow Cougar",
+        "popularity": 65,
+        "release_date": "2018-05-04",
+        "total_tracks": 7,
+        "uri": "spotify:album:5JzxLWdYLLpZTE6kaBLooY",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735ca7079fad6246966d57dc2c",
+        "top_tracks": [
+            "Knockout",
+            "1 Thot 2 Thot Red Thot Blue Thot",
+            "Kathleen",
+            "Mr. Clean"
+        ],
+        "good_tracks": [
+            "Early Afternoon Stroll",
+            "Suavecito",
+            "Clock"
+        ],
+        "score": 8.78
+    },
+    "We Love You Tecca": {
+        "artists": "Lil Tecca",
+        "id": "1I6FpscJIfwf4T56VxGVsB",
+        "name": "We Love You Tecca",
+        "popularity": 80,
+        "release_date": "2019-08-30",
+        "total_tracks": 18,
+        "uri": "spotify:album:1I6FpscJIfwf4T56VxGVsB",
+        "image": "https://i.scdn.co/image/ab67616d0000b273bd69bbde4aeee723d6d08058",
+        "top_tracks": [
+            "Ransom",
+            "Shots",
+            "Did It Again",
+            "Out Of Luck",
+            "Left, Right",
+            "Bossanova",
+            "Amigo",
+            "DUI",
+            "Love Me",
+            "Molly Girl",
+            "Count Me Out",
+            "Ransom (with Juice WRLD) - Remix"
+        ],
+        "good_tracks": [
+            "Sidenote"
+        ],
+        "score": 7.06
+    },
+    "Northsbest": {
+        "artists": "Lil Mosey",
+        "id": "6lggWd5q9Rh66OkDE1eNDr",
+        "name": "Northsbest (Extended)",
+        "popularity": 71,
+        "release_date": "2018-10-19",
+        "total_tracks": 12,
+        "uri": "spotify:album:6lggWd5q9Rh66OkDE1eNDr",
+        "image": "https://i.scdn.co/image/ab67616d0000b273db953460d6de87c6d6788cb5",
+        "top_tracks": [
+            "Kamikaze",
+            "Noticed",
+            "Pull Up",
+            "Burberry Headband",
+            "Greet Her",
+            "Boof Pack"
+        ],
+        "good_tracks": [
+            "Fu shit",
+            "Rarri",
+            "Yoppa (with BlocBoy JB)",
+            "Trapstar",
+            "Bust Down Cartier"
+        ],
+        "score": 7.98
+    },
+    "Changes": {
+        "artists": "Justin Bieber",
+        "id": "63iWSELt9V1kV6RSMxN7Ii",
+        "name": "Changes",
+        "popularity": 77,
+        "release_date": "2020-02-14",
+        "total_tracks": 17,
+        "uri": "spotify:album:63iWSELt9V1kV6RSMxN7Ii",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737fe4a82a08c4f0decbeddbc6",
+        "top_tracks": [
+            "Intentions (feat. Quavo)",
+            "Yummy",
+            "Second Emotion (feat. Travis Scott)",
+            "Changes",
+            "That's What Love Is"
+        ],
+        "good_tracks": [
+            "All Around Me",
+            "Habitual",
+            "Come Around Me",
+            "Available",
+            "Forever (feat. Post Malone & Clever)",
+            "Take It Out On Me",
+            "Get Me (feat. Kehlani)",
+            "E.T.A.",
+            "Confirmation",
+            "At Least For Now"
+        ],
+        "score": 7.14
+    },
+    "Dear Loneliness, Leave Me Alone.": {
+        "artists": "Apollo1027",
+        "id": "5HyM5Z1dnEsL27VHDr8sQR",
+        "name": "Dear Loneliness, Leave Me Alone.",
+        "popularity": 0,
+        "release_date": "2018-10-27",
+        "total_tracks": 5,
+        "uri": "spotify:album:5HyM5Z1dnEsL27VHDr8sQR",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d6399ee334a1171ee87db8d8",
+        "top_tracks": [
+            "702 Steelo Flip",
+            "Sweetheart",
+            "Midnight / Pull Up"
+        ],
+        "good_tracks": [
+            "Friend",
+            "Alone Again"
+        ],
+        "score": 8.86
+    },
+    "V": {
+        "artists": "Maroon 5",
+        "id": "2Auw0pTT6EcQdvHNimhLQI",
+        "name": "V",
+        "popularity": 80,
+        "release_date": "2014-09-02",
+        "total_tracks": 12,
+        "uri": "spotify:album:2Auw0pTT6EcQdvHNimhLQI",
+        "image": "https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c",
+        "top_tracks": [
+            "Maps",
+            "Animals",
+            "Sugar",
+            "In Your Pocket",
+            "Coming Back For You",
+            "Feelings"
+        ],
+        "good_tracks": [
+            "It Was Always You",
+            "Unkiss Me",
+            "Leaving California",
+            "My Heart Is Open",
+            "This Summer"
+        ],
+        "score": 7.98
+    },
+    "More Life": {
+        "artists": "Drake",
+        "id": "1lXY618HWkwYKJWBRYR4MK",
+        "name": "More Life",
+        "popularity": 82,
+        "release_date": "2017-03-18",
+        "total_tracks": 22,
+        "uri": "spotify:album:1lXY618HWkwYKJWBRYR4MK",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+        "top_tracks": [
+            "Free Smoke",
+            "Passionfruit",
+            "Gyalchester",
+            "Portland",
+            "Fake Love",
+            "Glow",
+            "KMT",
+            "Do Not Disturb"
+        ],
+        "good_tracks": [
+            "Teenage Fever",
+            "No Long Talk",
+            "Jorja Interlude"
+        ],
+        "score": 4.61
     }
 }

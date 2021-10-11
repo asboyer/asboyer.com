@@ -57,7 +57,8 @@ $(document).ready(function(){
             </a>
         </div>
             `
-        music_div = music_div + album_div
+        if(values.score > 4)
+            music_div = music_div + album_div
         });
         music_div = music_div + `
         </div>
