@@ -2806,5 +2806,107 @@
             "Finale - From \"TRON: Legacy\"/Score"
         ],
         "score": 8.96
+    },
+    "Kauai": {
+        "artists": "Childish Gambino",
+        "id": "5dVKggb6Nvfp7JJdLfHPof",
+        "name": "Kauai",
+        "popularity": 55,
+        "release_date": "2014-10-03",
+        "total_tracks": 7,
+        "uri": "spotify:album:5dVKggb6Nvfp7JJdLfHPof",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738d2c4d1fa63ca708307a5308",
+        "top_tracks": [
+            "Sober",
+            "Pop Thieves (Make It Feel Good)",
+            "Retro (Rough)",
+            "The Palisades",
+            "V. 3005 - Beach Picnic Version"
+        ],
+        "good_tracks": [
+            "Poke",
+            "Late Night In Kauai"
+        ],
+        "score": 9.52
+    },
+    "What A Time To Be Alive": {
+        "artists": "Drake, Future",
+        "id": "1ozpmkWcCHwsQ4QTnxOOdT",
+        "name": "What A Time To Be Alive",
+        "popularity": 70,
+        "release_date": "2015-09-20",
+        "total_tracks": 11,
+        "uri": "spotify:album:1ozpmkWcCHwsQ4QTnxOOdT",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d6adfbd3f091d6f2b9af6507",
+        "top_tracks": [
+            "Digital Dash",
+            "Big Rings",
+            "Diamonds Dancing",
+            "Scholarships",
+            "Plastic Bag",
+            "Jumpman",
+            "Jersey"
+        ],
+        "good_tracks": [
+            "Live From The Gutter",
+            "I'm The Plug"
+        ],
+        "score": 7.66
+    },
+    "1989": {
+        "artists": "Taylor Swift",
+        "id": "2QJmrSgbdM35R67eoGQo4j",
+        "name": "1989",
+        "popularity": 75,
+        "release_date": "2014-10-27",
+        "total_tracks": 13,
+        "uri": "spotify:album:2QJmrSgbdM35R67eoGQo4j",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c79b600289a80aaef74d155d",
+        "top_tracks": [
+            "Blank Space",
+            "Style",
+            "Shake It Off",
+            "Bad Blood",
+            "Wildest Dreams"
+        ],
+        "good_tracks": [
+            "All You Had To Do Was Stay",
+            "Welcome To New York",
+            "Out Of The Woods",
+            "I Wish You Would",
+            "How You Get The Girl",
+            "I Know Places",
+            "Clean"
+        ],
+        "score": 8.33
+    },
+    "Red": {
+        "artists": "Taylor Swift",
+        "id": "1EoDsNmgTLtmwe1BDAVxV5",
+        "name": "Red",
+        "popularity": 69,
+        "release_date": "2012-10-22",
+        "total_tracks": 16,
+        "uri": "spotify:album:1EoDsNmgTLtmwe1BDAVxV5",
+        "image": "https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5",
+        "top_tracks": [
+            "I Knew You Were Trouble.",
+            "22",
+            "We Are Never Ever Getting Back Together",
+            "Begin Again"
+        ],
+        "good_tracks": [
+            "State Of Grace",
+            "Red",
+            "Treacherous",
+            "All Too Well",
+            "I Almost Do",
+            "Stay Stay Stay",
+            "Holy Ground",
+            "Everything Has Changed",
+            "The Lucky One",
+            "Starlight"
+        ],
+        "score": 7.71
     }
 }
