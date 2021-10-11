@@ -3,8 +3,10 @@ import json
 with open(f'./data/favorites/music/music_all_time.json', 'r') as json_file: 
     all_time_data = json.load(json_file)
 
+top = ['Kanye West', 'Playboi Carti', 'Frank Ocean', 'Lil Uzi Vert', 'Michael Jackson', 'Post Malone', 'Don Toliver']
+
 for album in all_time_data:
-    if 'Kanye' in all_time_data[album]['artists'] or 'Michael Jackson' in all_time_data[album]['artists'] or 'Playboi Carti' in all_time_data[album]['artists']:
+    if all_time_data[album]['artists'] in top:
         if all_time_data[album]['name'] == 'Graduation':
             score = .99
         elif all_time_data[album]['name'] == "My Beautiful Dark Twisted Fantasy":

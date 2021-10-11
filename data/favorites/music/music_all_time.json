@@ -179,7 +179,7 @@
             "Bust Me",
             "Secure The Bag"
         ],
-        "score": 7.7
+        "score": 7.96
     },
     "The Piano Guys": {
         "artists": "The Piano Guys",
@@ -1091,7 +1091,7 @@
             "Spaceship (feat. Sheck Wes)",
             "No Photos"
         ],
-        "score": 9.05
+        "score": 9.44
     },
     "ASTROWORLD": {
         "artists": "Travis Scott",
@@ -1284,11 +1284,13 @@
             "I Just Wanna Know",
             "How Could You Leave Us",
             "Breathe",
+            "I Can Feel It",
             "Got You On My Mind",
+            "Wish You Wouldn't",
             "All I Do",
             "Lost In The Moment"
         ],
-        "score": 7.14
+        "score": 8.16
     },
     "Late Registration": {
         "artists": "Kanye West",
@@ -1677,14 +1679,22 @@
             "Ivy",
             "Pink + White",
             "Solo",
+            "Skyline To",
             "Self Control",
             "Nights"
         ],
         "good_tracks": [
             "Be Yourself",
-            "Solo (Reprise)"
+            "Good Guy",
+            "Solo (Reprise)",
+            "Facebook Story",
+            "Close To You",
+            "White Ferrari",
+            "Seigfried",
+            "Godspeed",
+            "Futura Free"
         ],
-        "score": 4.37
+        "score": 8.53
     },
     "Luv Is Rage 2": {
         "artists": "Lil Uzi Vert",
@@ -1696,20 +1706,25 @@
         "uri": "spotify:album:733e1ZfktLSwj96X5rsMeE",
         "image": "https://i.scdn.co/image/ab67616d0000b27341b41e6f7924e530a9b00f9c",
         "top_tracks": [
+            "Two[R]",
+            "444+222",
             "Sauce It Up",
             "The Way Life Goes (feat. Oh Wonder)",
             "Neon Guts (feat. Pharrell Williams)",
             "Dark Queen",
-            "XO Tour Llif3"
+            "XO Tour Llif3",
+            "20 Min"
         ],
         "good_tracks": [
-            "Two[R]",
-            "444+222",
             "No Sleep Leak",
             "For Real",
-            "X"
+            "Feelings Mutual",
+            "UnFazed",
+            "X",
+            "Pretty Mami",
+            "Loaded"
         ],
-        "score": 5.36
+        "score": 8.65
     },
     "Perception": {
         "artists": "NF",
@@ -1723,18 +1738,23 @@
         "top_tracks": [
             "Outcast",
             "Let You Down",
-            "Know"
+            "If You Want Love",
+            "Know",
+            "Lie",
+            "3 A.M."
         ],
         "good_tracks": [
             "Intro III",
             "Green Lights",
+            "Dreams",
             "Destiny",
-            "If You Want Love",
+            "My Life",
+            "You're Special",
             "Remember This",
-            "Lie",
-            "3 A.M."
+            "One Hundred",
+            "Outro"
         ],
-        "score": 5.0
+        "score": 7.77
     },
     "American Teen": {
         "artists": "Khalid",
@@ -1940,45 +1960,6 @@
         ],
         "score": 8.67
     },
-    "TRON: Legacy - The Complete Edition (Original Motion Picture Soundtrack)": {
-        "artists": "Daft Punk",
-        "id": "3AMXFnwHWXCvNr5NCCpLZI",
-        "name": "TRON: Legacy - The Complete Edition (Original Motion Picture Soundtrack)",
-        "popularity": 58,
-        "release_date": "2010-12-03",
-        "total_tracks": 31,
-        "uri": "spotify:album:3AMXFnwHWXCvNr5NCCpLZI",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738323143296ff7b2801e32789",
-        "top_tracks": [
-            "Overture",
-            "The Son of Flynn",
-            "Recognizer",
-            "Arena",
-            "Rinzler",
-            "The Game Has Changed",
-            "End of Line",
-            "Fall",
-            "Disc Wars",
-            "Sea of Simulation",
-            "Reflections",
-            "Outlands, Part II"
-        ],
-        "good_tracks": [
-            "The Grid",
-            "Armory",
-            "Outlands",
-            "Adagio For TRON",
-            "Derezzed",
-            "Solar Sailer",
-            "C.L.U.",
-            "Flynn Lives",
-            "TRON Legacy (End Titles)",
-            "Encom Part II",
-            "Encom Part I",
-            "Castor"
-        ],
-        "score": 6.64
-    },
     "From Me To You": {
         "artists": "Quadeca",
         "id": "6USIVqn1qiNAsRYtWo2CSa",
@@ -2142,7 +2123,7 @@
         "good_tracks": [
             "You Was Right"
         ],
-        "score": 3.02
+        "score": 3.15
     },
     "Night Visions": {
         "artists": "Imagine Dragons",
@@ -2427,7 +2408,7 @@
             "Psycho (feat. Ty Dolla $ign)",
             "Stay"
         ],
-        "score": 5.87
+        "score": 6.2
     },
     "My Everything (Deluxe)": {
         "artists": "Ariana Grande",
@@ -2788,5 +2769,42 @@
             "Jorja Interlude"
         ],
         "score": 4.61
+    },
+    "TRON: Legacy": {
+        "artists": "Daft Punk",
+        "id": "4US3nmuLIKELhVZdBPiKxx",
+        "name": "TRON: Legacy",
+        "popularity": 59,
+        "release_date": "2010-12-03",
+        "total_tracks": 22,
+        "uri": "spotify:album:4US3nmuLIKELhVZdBPiKxx",
+        "image": "https://i.scdn.co/image/ab67616d0000b27366919acb93950333962467f8",
+        "top_tracks": [
+            "Overture - From \"TRON: Legacy\"/Score",
+            "The Grid - From \"TRON: Legacy\"/Score",
+            "The Son of Flynn - From \"TRON: Legacy\"/Score",
+            "Recognizer - From \"TRON: Legacy\"/Score",
+            "Armory - From \"TRON: Legacy\"/Score",
+            "Arena - From \"TRON: Legacy\"/Score",
+            "Rinzler - From \"TRON: Legacy\"/Score",
+            "The Game Has Changed - From \"TRON: Legacy\"/Score",
+            "End of Line - From \"TRON: Legacy\"/Score",
+            "Derezzed - From \"TRON: Legacy\"/Score",
+            "Fall - From \"TRON: Legacy\"/Score",
+            "C.L.U. - From \"TRON: Legacy\"/Score",
+            "Flynn Lives - From \"TRON: Legacy\"/Score",
+            "TRON Legacy (End Titles) - From \"TRON: Legacy\"/Score"
+        ],
+        "good_tracks": [
+            "Outlands - From \"TRON: Legacy\"/Score",
+            "Adagio For TRON - From \"TRON: Legacy\"/Score",
+            "Nocturne - From \"TRON: Legacy\"/Score",
+            "Solar Sailer - From \"TRON: Legacy\"/Score",
+            "Rectifier - From \"TRON: Legacy\"/Score",
+            "Disc Wars - From \"TRON: Legacy\"/Score",
+            "Arrival - From \"TRON: Legacy\"/Score",
+            "Finale - From \"TRON: Legacy\"/Score"
+        ],
+        "score": 8.96
     }
 }
