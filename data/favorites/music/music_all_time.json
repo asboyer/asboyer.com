@@ -2910,5 +2910,62 @@
             "Starlight"
         ],
         "score": 7.71
+    },
+    "To Pimp A Butterfly": {
+        "artists": "Kendrick Lamar",
+        "id": "7ycBtnsMtyVbbwTfJwRjSP",
+        "name": "To Pimp A Butterfly",
+        "popularity": 75,
+        "release_date": "2015-03-16",
+        "total_tracks": 16,
+        "uri": "spotify:album:7ycBtnsMtyVbbwTfJwRjSP",
+        "image": "https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1",
+        "top_tracks": [
+            "Wesley's Theory",
+            "King Kunta",
+            "These Walls",
+            "Alright",
+            "How Much A Dollar Cost",
+            "i",
+            "Mortal Man"
+        ],
+        "good_tracks": [
+            "For Free? - Interlude",
+            "Institutionalized",
+            "u",
+            "For Sale? - Interlude",
+            "Momma",
+            "Hood Politics",
+            "Complexion (A Zulu Love)",
+            "The Blacker The Berry",
+            "You Ain't Gotta Lie (Momma Said)"
+        ],
+        "score": 8.39
+    },
+    "Inception (Music From The Motion Picture)": {
+        "artists": "Hans Zimmer",
+        "id": "2qvA7HmSg1iM6XMiFF76dp",
+        "name": "Inception (Music From The Motion Picture)",
+        "popularity": 65,
+        "release_date": "2010-07-09",
+        "total_tracks": 12,
+        "uri": "spotify:album:2qvA7HmSg1iM6XMiFF76dp",
+        "image": "https://i.scdn.co/image/ab67616d0000b273bb53ecc4d4e007f8c0464753",
+        "top_tracks": [
+            "Dream Is Collapsing",
+            "528491",
+            "Mombasa",
+            "One Simple Idea",
+            "Dream Within a Dream",
+            "Time"
+        ],
+        "good_tracks": [
+            "Half Remembered Dream",
+            "Radical Notion",
+            "Old Souls",
+            "Waiting for a Train",
+            "Paradox"
+        ],
+        "score": 7.98
     }
 }
