@@ -1,0 +1,74 @@
+{
+    "Howlin' For You": {
+        "artists": "The Black Keys",
+        "duration_ms": 191800,
+        "explicit": false,
+        "id": "5jdvRj8zXHJ7XpKsBKT9CZ",
+        "name": "Howlin' For You",
+        "popularity": 4,
+        "preview_url": null,
+        "track_number": 4,
+        "uri": "spotify:track:5jdvRj8zXHJ7XpKsBKT9CZ",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738f5567f5c20e8d5882c37afa"
+    },
+    "Going The Distance - From \"Rocky\" Soundtrack / Remastered 2006": {
+        "artists": "Bill Conti",
+        "duration_ms": 158506,
+        "explicit": false,
+        "id": "0WKpYDw1WNmQbFiEURDgeI",
+        "name": "Going The Distance - From \"Rocky\" Soundtrack / Remastered 2006",
+        "popularity": 57,
+        "preview_url": null,
+        "track_number": 3,
+        "uri": "spotify:track:0WKpYDw1WNmQbFiEURDgeI",
+        "image": "https://i.scdn.co/image/ab67616d0000b27379abdfdbe029582f32fe0b94"
+    },
+    "Facts (Charlie Heat Version)": {
+        "artists": "Kanye West",
+        "duration_ms": 200733,
+        "explicit": true,
+        "id": "3MnbXlC1N7GdS9M8HzA6no",
+        "name": "Facts (Charlie Heat Version)",
+        "popularity": 60,
+        "preview_url": null,
+        "track_number": 18,
+        "uri": "spotify:track:3MnbXlC1N7GdS9M8HzA6no",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4"
+    },
+    "Warm Up": {
+        "artists": "NF",
+        "duration_ms": 180506,
+        "explicit": false,
+        "id": "7Gr8gb3hqKr4zEbFlrVYPQ",
+        "name": "Warm Up",
+        "popularity": 60,
+        "preview_url": null,
+        "track_number": 1,
+        "uri": "spotify:track:7Gr8gb3hqKr4zEbFlrVYPQ",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b3a25dfcc3372aeb76927c64"
+    },
+    "Strangers Like Me": {
+        "artists": "Phil Collins",
+        "duration_ms": 180533,
+        "explicit": false,
+        "id": "3E99KpWAcYEnj64e86y6u9",
+        "name": "Strangers Like Me",
+        "popularity": 0,
+        "preview_url": null,
+        "track_number": 5,
+        "uri": "spotify:track:3E99KpWAcYEnj64e86y6u9",
+        "image": "https://i.scdn.co/image/ab67616d0000b27314fc66b1e2b2ef5eecabdb49"
+    },
+    "7-29-04 The Day Of": {
+        "artists": "David Holmes",
+        "duration_ms": 191573,
+        "explicit": false,
+        "id": "64EnVHXfQKNEUL2qmPTKfF",
+        "name": "7-29-04 The Day Of",
+        "popularity": 33,
+        "preview_url": "https://p.scdn.co/mp3-preview/fddf6cd392dec373635935e073cd83ddcca15de7?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 10,
+        "uri": "spotify:track:64EnVHXfQKNEUL2qmPTKfF",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e824afe18f81646d37b644ce"
+    }
+}

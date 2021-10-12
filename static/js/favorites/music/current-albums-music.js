@@ -53,6 +53,13 @@ $(document).ready(function(){
                 artist_length = "-long"
                 title_length = "-long"
             }
+            track_style = ""
+            top_tracks = false
+            if (values.top_tracks.length == 0) top_tracks = true;
+            if(top_tracks){
+                track_style = "display: none;"
+            }
+
 
             // make an array of these albums for nowarp, same with small font
 
@@ -64,7 +71,7 @@ $(document).ready(function(){
                 <div class="album-text">
                     <p class="title${title_length}" style="${styles}">${values.name.replace("(Deluxe)", "").replace("(Remastered)", "").replace("(Original Motion Picture Soundtrack)", "").replace("(Legacy Edition)", "").replace(" (Platinum VIP Edition)", "").replace(" (Original Television Series Soundtrack)", "").replace(" [Deluxe Edition]", "").split(" (Original")[0]}</p>
                     <p class="artist${artist_length}">${values.artists}</p>
-                    <div class="the-tracks">
+                    <div class="the-tracks" style="${track_style}">
                         <ul class="tracklist${tracklist}">
                         <li class="tracks${tracklist}">Top Tracks:</li>
             `
