@@ -3,294 +3,700 @@
         "id": "0407887",
         "image": "http://image.tmdb.org/t/p/original/kWWAt2FMRbqLFFy8o5R4Zr8cMAb.jpg",
         "rating": 8.5,
-        "title": "The Departed"
+        "title": "The Departed",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "Dead Poets Society": {
         "id": "0097165",
         "image": "http://image.tmdb.org/t/p/original/ai40gM7SUaGA6fthvsd87o8IQq4.jpg",
         "rating": 8.1,
-        "title": "Dead Poets Society"
+        "title": "Dead Poets Society",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "Indiana Jones and the Raiders of the Lost Ark": {
         "id": "0082971",
         "image": "http://image.tmdb.org/t/p/original/awUGN7ZCNq2EUTdpVaHDX23anOZ.jpg",
         "rating": 8.4,
-        "title": "Indiana Jones and the Raiders of the Lost Ark"
+        "title": "Indiana Jones and the Raiders of the Lost Ark",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "Catch Me If You Can": {
         "id": "0264464",
         "image": "http://image.tmdb.org/t/p/original/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
         "rating": 8.1,
-        "title": "Catch Me If You Can"
+        "title": "Catch Me If You Can",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "Pulp Fiction": {
         "id": "0110912",
         "image": "http://image.tmdb.org/t/p/original/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
         "rating": 8.9,
-        "title": "Pulp Fiction"
+        "title": "Pulp Fiction",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "Good Will Hunting": {
         "id": "0119217",
         "image": "http://image.tmdb.org/t/p/original/bABCBKYBK7A5G1x0FzoeoNfuj2.jpg",
         "rating": 8.3,
-        "title": "Good Will Hunting"
+        "title": "Good Will Hunting",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "The Social Network": {
         "id": "1285016",
         "image": "http://image.tmdb.org/t/p/original/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
         "rating": 7.7,
-        "title": "The Social Network"
+        "title": "The Social Network",
+        "scorecard": {
+            "screenplay": 10.0,
+            "acting": 10.0,
+            "score": 10.0,
+            "cinematography": 10.0,
+            "replay_value": 10.0
+        },
+        "asboyer_score": 100.0
     },
     "The Shawshank Redemption": {
         "id": "0111161",
         "image": "http://image.tmdb.org/t/p/original/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
         "rating": 9.3,
-        "title": "The Shawshank Redemption"
+        "title": "The Shawshank Redemption",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "Se7en": {
         "id": "0114369",
         "image": "http://image.tmdb.org/t/p/original/69Sns8WoET6CfaYlIkHbla4l7nC.jpg",
         "rating": 8.6,
-        "title": "Se7en"
+        "title": "Se7en",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "The Dark Knight": {
         "id": "0468569",
         "image": "http://image.tmdb.org/t/p/original/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
         "rating": 9.0,
-        "title": "The Dark Knight"
+        "title": "The Dark Knight",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "The Dark Knight Rises": {
         "id": "1345836",
         "image": "http://image.tmdb.org/t/p/original/vzvKcPQ4o7TjWeGIn0aGC9FeVNu.jpg",
         "rating": 8.4,
-        "title": "The Dark Knight Rises"
+        "title": "The Dark Knight Rises",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "La La Land": {
         "id": "3783958",
         "image": "http://image.tmdb.org/t/p/original/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
         "rating": 8.0,
-        "title": "La La Land"
+        "title": "La La Land",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "TRON: Legacy": {
         "id": "1104001",
         "image": "http://image.tmdb.org/t/p/original/vuifSABRpSnxCAOxEnWpNbZSXpp.jpg",
         "rating": 6.8,
-        "title": "TRON: Legacy"
+        "title": "TRON: Legacy",
+        "scorecard": {
+            "screenplay": 10.0,
+            "acting": 10.0,
+            "score": 10.0,
+            "cinematography": 10.0,
+            "replay_value": 10.0
+        },
+        "asboyer_score": 100.0
     },
     "WarGames": {
         "id": "0086567",
         "image": "http://image.tmdb.org/t/p/original/ndORBCvw8TJaQYvBgkYGg0IWrRM.jpg",
         "rating": 7.1,
-        "title": "WarGames"
+        "title": "WarGames",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "The Pursuit of Happyness": {
         "id": "0454921",
         "image": "http://image.tmdb.org/t/p/original/lBYOKAMcxIvuk9s9hMuecB9dPBV.jpg",
         "rating": 8.0,
-        "title": "The Pursuit of Happyness"
+        "title": "The Pursuit of Happyness",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "Limitless": {
         "id": "1219289",
         "image": "http://image.tmdb.org/t/p/original/hv5JMCrMVLvV6HKPf9FcBuyk2MG.jpg",
         "rating": 7.4,
-        "title": "Limitless"
+        "title": "Limitless",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "Interstellar": {
         "id": "0816692",
         "image": "http://image.tmdb.org/t/p/original/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
         "rating": 8.6,
-        "title": "Interstellar"
+        "title": "Interstellar",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "The Matrix": {
         "id": "0133093",
         "image": "http://image.tmdb.org/t/p/original/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
         "rating": 8.7,
-        "title": "The Matrix"
+        "title": "The Matrix",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "Ocean's Eleven": {
         "id": "0240772",
         "image": "http://image.tmdb.org/t/p/original/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
         "rating": 7.7,
-        "title": "Ocean's Eleven"
+        "title": "Ocean's Eleven",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "Ocean's Twelve": {
         "id": "0349903",
         "image": "http://image.tmdb.org/t/p/original/4y8WH1lIpXp0qxUWkYmObhuMRIU.jpg",
         "rating": 6.5,
-        "title": "Ocean's Twelve"
+        "title": "Ocean's Twelve",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "Ocean's Thirteen": {
         "id": "0496806",
         "image": "http://image.tmdb.org/t/p/original/5Hjp3pOvvO4DBAId3dxUsuIpfEm.jpg",
         "rating": 6.9,
-        "title": "Ocean's Thirteen"
+        "title": "Ocean's Thirteen",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "Star Wars: Episode V - The Empire Strikes Back": {
         "id": "0080684",
         "image": "http://image.tmdb.org/t/p/original/7BuH8itoSrLExs2YZSsM01Qk2no.jpg",
         "rating": 8.7,
-        "title": "Star Wars: Episode V - The Empire Strikes Back"
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "Star Wars: Episode IV - A New Hope": {
         "id": "0076759",
         "image": "http://image.tmdb.org/t/p/original/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
         "rating": 8.6,
-        "title": "Star Wars: Episode IV - A New Hope"
+        "title": "Star Wars: Episode IV - A New Hope",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "Star Wars: Episode III - Revenge of the Sith": {
         "id": "0121766",
         "image": "http://image.tmdb.org/t/p/original/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
         "rating": 7.5,
-        "title": "Star Wars: Episode III - Revenge of the Sith"
+        "title": "Star Wars: Episode III - Revenge of the Sith",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "Rogue One: A Star Wars Story": {
         "id": "3748528",
         "image": "http://image.tmdb.org/t/p/original/5jX3p0apUG5bkMHtnKZch0xpkBS.jpg",
         "rating": 7.8,
-        "title": "Rogue One: A Star Wars Story"
+        "title": "Rogue One: A Star Wars Story",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "Avengers: Infinity War": {
         "id": "4154756",
         "image": "http://image.tmdb.org/t/p/original/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
         "rating": 8.4,
-        "title": "Avengers: Infinity War"
+        "title": "Avengers: Infinity War",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "Captain America: The Winter Soldier": {
         "id": "1843866",
         "image": "http://image.tmdb.org/t/p/original/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
         "rating": 7.7,
-        "title": "Captain America: The Winter Soldier"
+        "title": "Captain America: The Winter Soldier",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "Spider-Man: Into the Spider-Verse": {
         "id": "4633694",
         "image": "http://image.tmdb.org/t/p/original/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
         "rating": 8.4,
-        "title": "Spider-Man: Into the Spider-Verse"
+        "title": "Spider-Man: Into the Spider-Verse",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "The Amazing Spider-Man 2": {
         "id": "1872181",
         "image": "http://image.tmdb.org/t/p/original/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg",
         "rating": 6.6,
-        "title": "The Amazing Spider-Man 2"
+        "title": "The Amazing Spider-Man 2",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "The Lord of the Rings: The Fellowship of the Ring": {
         "id": "0120737",
         "image": "http://image.tmdb.org/t/p/original/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
         "rating": 8.8,
-        "title": "The Lord of the Rings: The Fellowship of the Ring"
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "The Lord of the Rings: The Two Towers": {
         "id": "0167261",
         "image": "http://image.tmdb.org/t/p/original/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
         "rating": 8.7,
-        "title": "The Lord of the Rings: The Two Towers"
+        "title": "The Lord of the Rings: The Two Towers",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "The Lord of the Rings: The Return of the King": {
         "id": "0167260",
         "image": "http://image.tmdb.org/t/p/original/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
         "rating": 8.9,
-        "title": "The Lord of the Rings: The Return of the King"
+        "title": "The Lord of the Rings: The Return of the King",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "Back to the Future": {
         "id": "0088763",
         "image": "http://image.tmdb.org/t/p/original/7lyBcpYB0Qt8gYhXYaEZUNlNQAv.jpg",
         "rating": 8.5,
-        "title": "Back to the Future"
+        "title": "Back to the Future",
+        "scorecard": {
+            "screenplay": 10.0,
+            "acting": 8.0,
+            "score": 10.0,
+            "cinematography": 10.0,
+            "replay_value": 10.0
+        },
+        "asboyer_score": 96.0
     },
     "Back to the Future Part III": {
         "id": "0099088",
         "image": "http://image.tmdb.org/t/p/original/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
         "rating": 7.4,
-        "title": "Back to the Future Part III"
+        "title": "Back to the Future Part III",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "Home Alone": {
         "id": "0099785",
         "image": "http://image.tmdb.org/t/p/original/9wSbe4CwObACCQvaUVhWQyLR5Vz.jpg",
         "rating": 7.6,
-        "title": "Home Alone"
+        "title": "Home Alone",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "Monsters University": {
         "id": "1453405",
         "image": "http://image.tmdb.org/t/p/original/upaMBEonGeZGQc3xtUVZOfe1lGl.jpg",
         "rating": 7.2,
-        "title": "Monsters University"
+        "title": "Monsters University",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "Cars": {
         "id": "0317219",
         "image": "http://image.tmdb.org/t/p/original/abW5AzHDaIK1n9C36VdAeOwORRA.jpg",
         "rating": 7.1,
-        "title": "Cars"
+        "title": "Cars",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "Cars 2": {
         "id": "1216475",
         "image": "http://image.tmdb.org/t/p/original/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg",
         "rating": 6.1,
-        "title": "Cars 2"
+        "title": "Cars 2",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "21": {
         "id": "0478087",
         "image": "http://image.tmdb.org/t/p/original/efG8Po57alqSlhqHU1lXJ3duG6t.jpg",
         "rating": 6.8,
-        "title": "21"
+        "title": "21",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "Whiplash": {
         "id": "2582802",
         "image": "/static/img/movies/whiplash.jpg",
         "rating": 8.5,
-        "title": "Whiplash"
+        "title": "Whiplash",
+        "scorecard": {
+            "screenplay": 10.0,
+            "acting": 10.0,
+            "score": 10.0,
+            "cinematography": 10.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 80.0
     },
     "Saving Private Ryan": {
         "id": "0120815",
         "image": "http://image.tmdb.org/t/p/original/1wY4psJ5NVEhCuOYROwLH2XExM2.jpg",
         "rating": 8.6,
-        "title": "Saving Private Ryan"
+        "title": "Saving Private Ryan",
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "Inception": {
         "id": "1375666",
         "image": "http://image.tmdb.org/t/p/original/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
         "rating": 8.8,
-        "title": "Inception"
+        "title": "Inception",
+        "scorecard": {
+            "screenplay": 10.0,
+            "acting": 10.0,
+            "score": 10.0,
+            "cinematography": 10.0,
+            "replay_value": 10.0
+        },
+        "asboyer_score": 100.0
     },
     "The Martian": {
         "id": "3659388",
         "title": "The Martian",
         "image": "http://image.tmdb.org/t/p/original/5BHuvQ6p9kfc091Z8RiFNhCwL4b.jpg",
-        "rating": 8.0
+        "rating": 8.0,
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "Tenet": {
         "id": "6723592",
         "title": "Tenet",
         "image": "http://image.tmdb.org/t/p/original/k68nPLbIST6NP96JmTxmZijEvCA.jpg",
-        "rating": 7.4
+        "rating": 7.4,
+        "scorecard": {
+            "screenplay": 8.0,
+            "acting": 7.0,
+            "score": 10.0,
+            "cinematography": 10.0,
+            "replay_value": 10.0
+        },
+        "asboyer_score": 90.0
     },
     "Sneakers": {
         "id": "0105435",
         "title": "Sneakers",
         "image": "http://image.tmdb.org/t/p/original/pY7wNO4J0QMAH9Q4nJL3QLlPVvC.jpg",
-        "rating": 7.1
+        "rating": 7.1,
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "The Godfather: Part II": {
         "id": "0071562",
         "title": "The Godfather: Part II",
         "image": "http://image.tmdb.org/t/p/original/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
-        "rating": 9.0
+        "rating": 9.0,
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "The Godfather": {
         "id": "0068646",
         "title": "The Godfather",
         "image": "http://image.tmdb.org/t/p/original/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
-        "rating": 9.2
+        "rating": 9.2,
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "Pirates of the Caribbean: The Curse of the Black Pearl": {
         "id": "0325980",
         "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
         "image": "http://image.tmdb.org/t/p/original/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",
-        "rating": 8.0
+        "rating": 8.0,
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     },
     "Batman Begins": {
         "id": "0372784",
         "title": "Batman Begins",
         "image": "http://image.tmdb.org/t/p/original/8RW2runSEc34IwKN2D1aPcJd2UL.jpg",
-        "rating": 8.2
+        "rating": 8.2,
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
+    },
+    "500 Days of Summer": {
+        "id": "1022603",
+        "title": "500 Days of Summer",
+        "image": "http://image.tmdb.org/t/p/original/f9mbM0YMLpYemcWx6o2WeiYQLDP.jpg",
+        "rating": 7.7,
+        "scorecard": {
+            "screenplay": 8.0,
+            "acting": 9.0,
+            "score": 6.0,
+            "cinematography": 9.0,
+            "replay_value": 8.0
+        },
+        "asboyer_score": 80.0
     }
 }

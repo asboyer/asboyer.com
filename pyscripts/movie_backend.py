@@ -67,6 +67,14 @@ def update_movie_database(spec):
             new_movies[movie]['title'] = movie
             new_movies[movie]['image'] = get_movie_url(new_movies[movie]['id'], spec)
             new_movies[movie]['rating'] = ia.get_movie(new_movies[movie]['id']).data['rating']
+            new_movies[movie]['scorecard'] = {
+                                            'screenplay': 0.0,
+                                            'acting': 0.0,
+                                            'score': 0.0,
+                                            'cinematography': 0.0,
+                                            'replay_value': 0.0
+                                            }
+            new_movies[movie]['asboyer_score'] = 0.0
 
     data.update(new_movies)        
 

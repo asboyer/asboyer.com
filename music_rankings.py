@@ -22,9 +22,11 @@ top = ['Kanye West',
     'Khalid',
     'Trippie Redd',
     'The Weekend',
-    'Old Dominion']
+    'Old Dominion',
+    'Tory Lanez']
 
 top_a = ['Loose', 'So Much Fun']
+
 for album in all_time_data:
     if all_time_data[album]['artists'] in top or all_time_data[album]['name'] in top_a:
         if all_time_data[album]['name'] == 'Graduation':
