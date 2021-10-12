@@ -18,10 +18,15 @@ top = ['Kanye West',
     'J. Cole',
     'Maroon 5',
     'Jack Johnson',
-    'Khalid']
+    'Future, Juice WRLD',
+    'Khalid',
+    'Trippie Redd',
+    'The Weekend',
+    'Old Dominion']
 
+top_a = ['Loose', 'So Much Fun']
 for album in all_time_data:
-    if all_time_data[album]['artists'] in top:
+    if all_time_data[album]['artists'] in top or all_time_data[album]['name'] in top_a:
         if all_time_data[album]['name'] == 'Graduation':
             score = .99
         elif all_time_data[album]['name'] == "My Beautiful Dark Twisted Fantasy":

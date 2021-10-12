@@ -264,7 +264,7 @@
             "Shorty",
             "WRLD On Drugs"
         ],
-        "score": 5.98
+        "score": 6.35
     },
     "The Search": {
         "artists": "NF",
@@ -500,7 +500,7 @@
     "CLOUDS (THE MIXTAPE)": {
         "artists": "NF",
         "id": "7eQGtkzCgrIWDOe76E9F8t",
-        "name": "CLOUDS (THE MIXTAPE)",
+        "name": "CLOUDS",
         "popularity": 75,
         "release_date": "2021-03-26",
         "total_tracks": 10,
@@ -714,7 +714,7 @@
             "9TH GRADE",
             "DRIP DROP (feat. Cyhi The Prynce)"
         ],
-        "score": 6.04
+        "score": 6.41
     },
     "Thats What They All Say": {
         "artists": "Jack Harlow",
@@ -838,18 +838,18 @@
             "In Too Deep",
             "Searching",
             "Never Is Enough",
-            "Feel It Coming"
+            "Feel It Coming",
+            "what is real"
         ],
         "good_tracks": [
             "Problems",
             "WYA",
-            "what is real",
             "Flowers",
             "Lately",
             "Needed",
             "Stay For A While"
         ],
-        "score": 8.67
+        "score": 8.86
     },
     "Thriller": {
         "artists": "Michael Jackson",
@@ -946,6 +946,7 @@
         "top_tracks": [
             "Something Just Like This / Hungarian Rhapsody",
             "In My Blood / Swan Lake",
+            "Walking the Wire / Largo",
             "Limitless",
             "DNA",
             "Epiphany"
@@ -953,14 +954,13 @@
         "good_tracks": [
             "Rewrite the Stars",
             "A Million Dreams",
-            "Walking the Wire / Largo",
             "Perfect",
             "Flicker",
             "North Cape",
             "First Dance",
             "Miracles"
         ],
-        "score": 8.24
+        "score": 8.46
     },
     "Evolve": {
         "artists": "Imagine Dragons",
@@ -1367,16 +1367,16 @@
             "Bad - 2012 Remaster",
             "The Way You Make Me Feel - 2012 Remaster",
             "Man in the Mirror - 2012 Remaster",
-            "Smooth Criminal - 2012 Remaster"
+            "Smooth Criminal - 2012 Remaster",
+            "Dirty Diana - 2012 Remaster"
         ],
         "good_tracks": [
-            "Dirty Diana - 2012 Remaster",
             "I Just Can't Stop Loving You (feat. Siedah Garrett) - 2012 Remaster",
             "Just Good Friends - 2012 Remaster",
             "Leave Me Alone - 2012 Remaster",
             "Another Part of Me - 2012 Remaster"
         ],
-        "score": 7.42
+        "score": 7.58
     },
     "Coloring Book": {
         "artists": "Chance the Rapper",
@@ -1391,7 +1391,8 @@
             "All We Got (feat. Kanye West & Chicago Children's Choir)",
             "No Problem (feat. Lil Wayne & 2 Chainz)",
             "Same Drugs",
-            "Juke Jam (feat. Justin Bieber & Towkio)"
+            "Juke Jam (feat. Justin Bieber & Towkio)",
+            "All Night (feat. Knox Fortune)"
         ],
         "good_tracks": [
             "Summer Friends (feat. Jeremih & Francis & The Lights)",
@@ -1399,13 +1400,12 @@
             "Blessings (feat. Jamila Woods)",
             "Mixtape (feat. Young Thug & Lil Yachty)",
             "Angels (feat. Saba)",
-            "All Night (feat. Knox Fortune)",
             "How Great (feat. Jay Electronica & My cousin Nicole)",
             "Smoke Break (feat. Future)",
             "Finish Line / Drown (feat. T-Pain, Kirk Franklin, Eryn Allen Kane & Noname)",
             "Blessings (feat. Ty Dolla $ign, Anderson .Paak, BJ The Chicago Kid, Raury & Jamila Woods)"
         ],
-        "score": 7.96
+        "score": 8.16
     },
     "1027": {
         "artists": "Apollo1027",
@@ -1454,19 +1454,19 @@
             "Glock In My Lap",
             "Mr. Right Now (feat. Drake)",
             "Rich Nigga Shit (feat. Young Thug)",
+            "Slidin",
             "Many Men",
+            "Snitches & Rats (Interlude)",
+            "Snitches & Rats (feat. Young Nudy)",
             "RIP Luv",
             "Said N Done"
         ],
         "good_tracks": [
-            "Slidin",
-            "Snitches & Rats (Interlude)",
-            "Snitches & Rats (feat. Young Nudy)",
             "My Dawg",
             "Brand New Draco",
             "No Opp Left Behind"
         ],
-        "score": 8.19
+        "score": 8.76
     },
     "So Much Fun": {
         "artists": "Young Thug",
@@ -1483,13 +1483,13 @@
             "Bad Bad Bad (feat. Lil Baby)",
             "What's the Move (feat. Lil Uzi Vert)",
             "Mannequin Challenge (feat. Juice WRLD)",
-            "The London (feat. J. Cole & Travis Scott)"
-        ],
-        "good_tracks": [
-            "Ecstasy (feat. Machine Gun Kelly)",
+            "The London (feat. J. Cole & Travis Scott)",
             "Circle Of Bosses (feat. Quavo)"
         ],
-        "score": 3.91
+        "good_tracks": [
+            "Ecstasy (feat. Machine Gun Kelly)"
+        ],
+        "score": 4.12
     },
     "Boston": {
         "artists": "Boston",
@@ -1560,7 +1560,7 @@
             "Topanga",
             "Diamond Minds"
         ],
-        "score": 2.77
+        "score": 2.92
     },
     "Uncharted": {
         "artists": "The Piano Guys",
@@ -1618,7 +1618,7 @@
         "score": 9.03
     },
     "After Hours": {
-        "artists": "The Weeknd",
+        "artists": "The Weekend",
         "id": "4yP0hdKOZPNshxUOjY0cZj",
         "name": "After Hours",
         "popularity": 89,
@@ -1643,7 +1643,7 @@
             "After Hours",
             "Until I Bleed Out"
         ],
-        "score": 7.45
+        "score": 8.21
     },
     "LoVE me NOw (ReLoAdeD)": {
         "artists": "Tory Lanez",
@@ -1882,7 +1882,7 @@
             "A Girl Is a Gun",
             "Still Writing Songs About You"
         ],
-        "score": 6.9
+        "score": 7.5
     },
     "In Between Dreams": {
         "artists": "Jack Johnson",
@@ -1948,11 +1948,11 @@
         "image": "https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac",
         "top_tracks": [
             "Don't Stop 'Til You Get Enough",
-            "Rock with You - Single Version"
+            "Rock with You - Single Version",
+            "Workin' Day and Night",
+            "Get on the Floor"
         ],
         "good_tracks": [
-            "Workin' Day and Night",
-            "Get on the Floor",
             "Off the Wall",
             "Girlfriend",
             "She's Out of My Life - Single Version",
@@ -1960,7 +1960,7 @@
             "It's the Falling in Love",
             "Burn This Disco Out"
         ],
-        "score": 8.67
+        "score": 9.0
     },
     "From Me To You": {
         "artists": "Quadeca",
@@ -2074,18 +2074,18 @@
             "Shoota (feat. Lil Uzi Vert)",
             "Fell in Luv (feat Bryson Tiller)",
             "Foreign",
-            "FlatBed Freestyle"
+            "FlatBed Freestyle",
+            "Poke It Out (with Nicki Minaj)"
         ],
         "good_tracks": [
             "Lean 4 Real (feat. Skepta)",
             "Old Money",
             "Right Now (feat. Pi'erre Bourne)",
-            "Poke It Out (with Nicki Minaj)",
             "Pull Up",
             "R.I.P. Fredo (feat. Young Nudy) - Notice Me",
             "Top (feat. Pi'erre Bourne)"
         ],
-        "score": 6.75
+        "score": 6.84
     },
     "Gazebo": {
         "artists": "Jack Harlow",
@@ -2097,17 +2097,17 @@
         "uri": "spotify:album:2zoomJlGAESmLkAzCrJdS5",
         "image": "https://i.scdn.co/image/ab67616d0000b2732665b12bfde0a14eb80278f3",
         "top_tracks": [
-            "Dark Knight"
+            "Dark Knight",
+            "Wasted Youth",
+            "Routine"
         ],
         "good_tracks": [
             "Eastern Parkway",
-            "Routine",
             "OnnaWay",
-            "Wasted Youth",
             "Detox",
             "Used To Be"
         ],
-        "score": 5.29
+        "score": 5.86
     },
     "Lil Uzi Vert vs. The World": {
         "artists": "Lil Uzi Vert",
@@ -2526,7 +2526,7 @@
         "good_tracks": [
             "Wish - Trippie Mix"
         ],
-        "score": 3.37
+        "score": 3.45
     },
     "nothings ever good enough": {
         "artists": "iann dior",
@@ -2681,10 +2681,7 @@
         "image": "https://i.scdn.co/image/ab67616d0000b2737fe4a82a08c4f0decbeddbc6",
         "top_tracks": [
             "Intentions (feat. Quavo)",
-            "Yummy",
-            "Second Emotion (feat. Travis Scott)",
-            "Changes",
-            "That's What Love Is"
+            "Yummy"
         ],
         "good_tracks": [
             "All Around Me",
@@ -2696,9 +2693,12 @@
             "Get Me (feat. Kehlani)",
             "E.T.A.",
             "Confirmation",
-            "At Least For Now"
+            "At Least For Now",
+            "Second Emotion (feat. Travis Scott)",
+            "Changes",
+            "That's What Love Is"
         ],
-        "score": 7.14
+        "score": 6.64
     },
     "Dear Loneliness, Leave Me Alone.": {
         "artists": "Apollo1027",
@@ -2945,7 +2945,7 @@
     "Inception (Music From The Motion Picture)": {
         "artists": "Hans Zimmer",
         "id": "2qvA7HmSg1iM6XMiFF76dp",
-        "name": "Inception (Music From The Motion Picture)",
+        "name": "Inception",
         "popularity": 65,
         "release_date": "2010-07-09",
         "total_tracks": 12,
