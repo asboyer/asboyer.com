@@ -40,7 +40,7 @@ $(document).ready(function(){
                     <img src="${values.image}" alt="${values.name}" class="portfolio__img">
                 <div class="song_overlay">
                     <div class="album-text">
-                        <p class="song-title" style="${style}">${values.name.split(' (feat')[0].split(' (with')[0].split(' (Main')[0].split("- From")[0]}</p>
+                        <p class="song-title" style="${style}">${values.name.split('(')[0].split(' (with')[0].split(' (Main')[0].split("- From")[0]}</p>
                         <p class="song-artist">${values.artists}</p>
                     </div>
                 </div>

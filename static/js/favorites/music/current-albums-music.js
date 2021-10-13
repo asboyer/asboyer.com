@@ -71,6 +71,7 @@ $(document).ready(function(){
                 <div class="album-text">
                     <p class="title${title_length}" style="${styles}">${values.name.replace("(Deluxe)", "").replace("(Remastered)", "").replace("(Original Motion Picture Soundtrack)", "").replace("(Legacy Edition)", "").replace(" (Platinum VIP Edition)", "").replace(" (Original Television Series Soundtrack)", "").replace(" [Deluxe Edition]", "").split(" (Original")[0]}</p>
                     <p class="artist${artist_length}">${values.artists}</p>
+                    <p class="artist" style="${track_style}; font-size: 10px"=>${values.score}</p>
                     <div class="the-tracks" style="${track_style}">
                         <ul class="tracklist${tracklist}">
                         <li class="tracks${tracklist}">Top Tracks:</li>
