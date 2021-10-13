@@ -445,7 +445,7 @@
         "name": "good kid, m.A.A.d city",
         "popularity": 70,
         "release_date": "2012",
-        "total_tracks": 13,
+        "total_tracks": 12,
         "uri": "spotify:album:6PBZN8cbwkqm1ERj2BGXJ1",
         "image": "https://i.scdn.co/image/ab67616d0000b273d28d2ebdedb220e479743797",
         "top_tracks": [
@@ -455,17 +455,16 @@
             "The Art of Peer Pressure",
             "Money Trees",
             "Poetic Justice",
+            "good kid",
             "m.A.A.d city",
-            "Swimming Pools (Drank) - Extended Version",
-            "Compton"
+            "Swimming Pools (Drank) - Extended Version"
         ],
         "good_tracks": [
-            "good kid",
-            "Real",
             "Sing About Me, I'm Dying Of Thirst",
-            "Bitch, Don\u2019t Kill My Vibe - Remix"
+            "Real",
+            "Compton"
         ],
-        "score": 9.12
+        "score": 9.29
     },
     "True 2 Myself": {
         "artists": "Lil Tjay",
@@ -600,14 +599,14 @@
             "i love being with you",
             "polaroids",
             "my new love",
-            "i_hear_it_in_my_sleep - instrumental",
             "gn bump"
         ],
         "good_tracks": [
             "bittersweet",
-            "wintersadness"
+            "wintersadness",
+            "i_hear_it_in_my_sleep - instrumental"
         ],
-        "score": 9.59
+        "score": 9.39
     },
     "The Lost Boy": {
         "artists": "Cordae",
@@ -728,7 +727,9 @@
         "top_tracks": [
             "Rendezvous",
             "21C/Delta",
+            "Funny Seeing You Here",
             "Keep It Light",
+            "Creme",
             "Same Guy (feat. Adam Levine)",
             "Route 66 (feat. EST Gee)",
             "Tyler Herro",
@@ -737,11 +738,8 @@
             "Baxter Avenue",
             "Whats Poppin (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix] - Bonus Track"
         ],
-        "good_tracks": [
-            "Funny Seeing You Here",
-            "Creme"
-        ],
-        "score": 7.62,
+        "good_tracks": [],
+        "score": 8.0,
         "tracks": []
     },
     "Sweet Action": {
@@ -761,10 +759,9 @@
             "ONCE MAY COMES"
         ],
         "good_tracks": [
-            "SMELLS LIKE INCENSE",
-            "HEY BIG HEAD"
+            "SMELLS LIKE INCENSE"
         ],
-        "score": 9.18
+        "score": 8.33
     },
     "Confetti": {
         "artists": "Jack Harlow",
@@ -1368,13 +1365,13 @@
             "The Way You Make Me Feel - 2012 Remaster",
             "Man in the Mirror - 2012 Remaster",
             "Smooth Criminal - 2012 Remaster",
-            "Dirty Diana - 2012 Remaster"
+            "Leave Me Alone - 2012 Remaster"
         ],
         "good_tracks": [
             "I Just Can't Stop Loving You (feat. Siedah Garrett) - 2012 Remaster",
             "Just Good Friends - 2012 Remaster",
-            "Leave Me Alone - 2012 Remaster",
-            "Another Part of Me - 2012 Remaster"
+            "Another Part of Me - 2012 Remaster",
+            "Dirty Diana - 2012 Remaster"
         ],
         "score": 7.58
     },
@@ -1899,17 +1896,18 @@
             "Never Know",
             "Banana Pancakes",
             "Good People",
-            "Sitting, Waiting, Wishing"
+            "Sitting, Waiting, Wishing",
+            "Staple It Together",
+            "Breakdown"
         ],
         "good_tracks": [
-            "Staple It Together",
             "Situations",
             "Crying Shame",
-            "Breakdown",
+            "Belle",
             "Do You Remember",
             "Constellations"
         ],
-        "score": 7.14
+        "score": 7.98
     },
     "Wonders": {
         "artists": "The Piano Guys",
@@ -1951,17 +1949,17 @@
             "Don't Stop 'Til You Get Enough",
             "Rock with You - Single Version",
             "Workin' Day and Night",
-            "Get on the Floor"
+            "Get on the Floor",
+            "Off the Wall",
+            "Burn This Disco Out"
         ],
         "good_tracks": [
-            "Off the Wall",
             "Girlfriend",
             "She's Out of My Life - Single Version",
             "I Can't Help It",
-            "It's the Falling in Love",
-            "Burn This Disco Out"
+            "It's the Falling in Love"
         ],
-        "score": 9.0
+        "score": 9.33
     },
     "From Me To You": {
         "artists": "Quadeca",
@@ -2233,25 +2231,25 @@
         "name": "IGOR",
         "popularity": 80,
         "release_date": "2019-05-17",
-        "total_tracks": 12,
+        "total_tracks": 11,
         "uri": "spotify:album:5zi7WsKlIiUXv09tbGLKsE",
         "image": "https://i.scdn.co/image/ab67616d0000b2737005885df706891a3c182a57",
         "top_tracks": [
             "IGOR'S THEME",
             "EARFQUAKE",
             "RUNNING OUT OF TIME",
+            "NEW MAGIC WAND",
             "A BOY IS A GUN*",
             "PUPPET",
-            "WHAT'S GOOD"
+            "GONE, GONE / THANK YOU"
         ],
         "good_tracks": [
             "I THINK",
-            "NEW MAGIC WAND",
-            "GONE, GONE / THANK YOU",
+            "WHAT'S GOOD",
             "I DON'T LOVE YOU ANYMORE",
             "ARE WE STILL FRIENDS?"
         ],
-        "score": 7.98
+        "score": 8.96
     },
     "Flower Boy": {
         "artists": "Tyler, The Creator",
@@ -2279,7 +2277,7 @@
             "Glitter",
             "Enjoy Right Now, Today"
         ],
-        "score": 7.45
+        "score": 8.21
     },
     "The Incredible True Story": {
         "artists": "Logic",
@@ -2374,17 +2372,17 @@
             "Wet Dreamz",
             "03' Adolescence",
             "A Tale of 2 Citiez",
-            "No Role Modelz"
+            "No Role Modelz",
+            "Apparently"
         ],
         "good_tracks": [
             "January 28th",
             "Fire Squad",
             "St. Tropez",
-            "Apparently",
             "G.O.M.D.",
             "Love Yourz"
         ],
-        "score": 6.92
+        "score": 7.05
     },
     "beerbongs & bentleys": {
         "artists": "Post Malone",
@@ -2496,6 +2494,7 @@
         "image": "https://i.scdn.co/image/ab67616d0000b273ae8b07ecdcf7aadefe00264f",
         "top_tracks": [
             "Through Da Storm",
+            "Effortless",
             "Pop Out (feat. Lil Tjay)",
             "Finer Things",
             "Picture This",
@@ -2503,11 +2502,10 @@
         ],
         "good_tracks": [
             "Lost Files",
-            "Effortless",
             "Chosen 1",
             "Pop Out Again (feat. Lil Baby & Gunna)"
         ],
-        "score": 5.61
+        "score": 5.82
     },
     "LIFE'S A TRIP": {
         "artists": "Trippie Redd",

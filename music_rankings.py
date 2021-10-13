@@ -24,7 +24,7 @@ top = ['Kanye West',
     'Old Dominion',
     'Tory Lanez']
 
-top_a = ['Loose', 'So Much Fun']
+top_a = ['Loose', 'So Much Fun', 'Flower Boy', 'Thats What They All Say', 'Sweet Action']
 
 for album in all_time_data:
     if all_time_data[album]['artists'] in top or all_time_data[album]['name'] in top_a:
