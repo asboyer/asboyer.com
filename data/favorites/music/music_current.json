@@ -44,32 +44,7 @@
             "The Night Me and Your Mama Met",
             "Stand Tall"
         ],
-        "score": 9.24,
-        "tracks": []
-    },
-    "GINGER": {
-        "artists": "BROCKHAMPTON",
-        "id": "1jToVugwBEzcak8gJNZG2f",
-        "name": "GINGER",
-        "popularity": 70,
-        "release_date": "2019-08-23",
-        "total_tracks": 12,
-        "uri": "spotify:album:1jToVugwBEzcak8gJNZG2f",
-        "image": "https://i.scdn.co/image/ab67616d0000b27346f07fa4f28bf824840ddacb",
-        "top_tracks": [
-            "NO HALO",
-            "SUGAR",
-            "BOY BYE",
-            "DEARLY DEPARTED"
-        ],
-        "good_tracks": [
-            "HEAVEN BELONGS TO YOU",
-            "ST. PERCY",
-            "IF YOU PRAY RIGHT",
-            "I BEEN BORN AGAIN",
-            "LOVE ME FOR LIFE"
-        ],
-        "score": 6.31
+        "score": 9.24
     },
     "King's Disease II": {
         "artists": "Nas",
@@ -80,15 +55,14 @@
         "total_tracks": 15,
         "uri": "spotify:album:6CM5qhYBvpgYNek5kYwuOJ",
         "image": "https://i.scdn.co/image/ab67616d0000b273d0673d1dd6938dad8530823b",
-        "top_tracks": [
-            "The Pressure",
-            "Rare"
-        ],
+        "top_tracks": [],
         "good_tracks": [
+            "The Pressure",
+            "Rare",
             "Death Row East",
-            "40 Side",
+            "40 Side"
         ],
-        "score": 0.67,
+        "score": 2.29,
         "tracks": [
             "EPMD 2 (feat. Eminem & EPMD)",
             "YKTV (feat. A Boogie Wit da Hoodie & YG)",
@@ -112,12 +86,8 @@
         "total_tracks": 4,
         "uri": "spotify:album:7Eoz7hJvaX1eFkbpQxC5PA",
         "image": "https://i.scdn.co/image/ab67616d0000b273ea42191f549dce4d9c8ecd1a",
-        "top_tracks": [
-            
-        ],
-        "good_tracks": [
-            
-        ],
+        "top_tracks": [],
+        "good_tracks": [],
         "score": 0.0,
         "tracks": [
             "A Love Supreme, Pt. I \u2013 Acknowledgement",
