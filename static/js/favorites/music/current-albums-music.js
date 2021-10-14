@@ -36,7 +36,7 @@ $(document).ready(function(){
         else {
             var music_div = `
             <div class="albums" id="albums-div">
-            `   
+            `  
         }
 
         $.each(albums, function(title, values){
@@ -63,7 +63,7 @@ $(document).ready(function(){
 
             // make an array of these albums for nowarp, same with small font
 
-            var album_div = 
+            var album_div =
             `<div class="album__container">
             <a href="https://open.spotify.com/album/${values.id}" class="album__item">
                 <img src="${values.image}" alt="${values.name}" class="portfolio__img">
@@ -71,6 +71,7 @@ $(document).ready(function(){
                 <div class="album-text">
                     <p class="title${title_length}" style="${styles}">${values.name.replace("(Deluxe)", "").replace("(Remastered)", "").replace("(Original Motion Picture Soundtrack)", "").replace("(Legacy Edition)", "").replace(" (Platinum VIP Edition)", "").replace(" (Original Television Series Soundtrack)", "").replace(" [Deluxe Edition]", "").split(" (Original")[0]}</p>
                     <p class="artist${artist_length}">${values.artists}</p>
+                    <p class="artist" style="${track_style}; font-size: 10px"=>${values.score}</p>
                     <div class="the-tracks" style="${track_style}">
                         <ul class="tracklist${tracklist}">
                         <li class="tracks${tracklist}">Top Tracks:</li>
@@ -101,7 +102,7 @@ $(document).ready(function(){
             function myFunction(x) {
                 if (x.matches) { // If media query matches
                     document.getElementById('album-div').style.removeProperty('grid-template-columns')
-                } 
+                }
             }
 
             // document.getElementById('album__container').style.maxWidth = "1000px";
