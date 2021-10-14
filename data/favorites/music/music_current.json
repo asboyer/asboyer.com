@@ -29,22 +29,23 @@
         "total_tracks": 11,
         "uri": "spotify:album:4Carzsnpd6yvuHZ49I0oz8",
         "image": "https://i.scdn.co/image/ab67616d0000b273b08b996d08001270adc8b555",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
+        "top_tracks": [
             "Me and Your Mama",
-            "Have Some Love",
             "Boogieman",
             "Zombies",
             "Riot",
             "Redbone",
+            "Terrified"
+        ],
+        "good_tracks": [
+            "Have Some Love",
             "California",
-            "Terrified",
             "Baby Boy",
             "The Night Me and Your Mama Met",
             "Stand Tall"
-        ]
+        ],
+        "score": 9.24,
+        "tracks": []
     },
     "GINGER": {
         "artists": "BROCKHAMPTON",
@@ -55,23 +56,20 @@
         "total_tracks": 12,
         "uri": "spotify:album:1jToVugwBEzcak8gJNZG2f",
         "image": "https://i.scdn.co/image/ab67616d0000b27346f07fa4f28bf824840ddacb",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
+        "top_tracks": [
             "NO HALO",
             "SUGAR",
             "BOY BYE",
+            "DEARLY DEPARTED"
+        ],
+        "good_tracks": [
             "HEAVEN BELONGS TO YOU",
             "ST. PERCY",
             "IF YOU PRAY RIGHT",
-            "DEARLY DEPARTED",
             "I BEEN BORN AGAIN",
-            "GINGER",
-            "BIG BOY",
-            "LOVE ME FOR LIFE",
-            "VICTOR ROBERTS"
-        ]
+            "LOVE ME FOR LIFE"
+        ],
+        "score": 6.31
     },
     "King's Disease II": {
         "artists": "Nas",
@@ -82,15 +80,17 @@
         "total_tracks": 15,
         "uri": "spotify:album:6CM5qhYBvpgYNek5kYwuOJ",
         "image": "https://i.scdn.co/image/ab67616d0000b273d0673d1dd6938dad8530823b",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
+        "top_tracks": [
             "The Pressure",
+            "Rare"
+        ],
+        "good_tracks": [
             "Death Row East",
             "40 Side",
+        ],
+        "score": 0.67,
+        "tracks": [
             "EPMD 2 (feat. Eminem & EPMD)",
-            "Rare",
             "YKTV (feat. A Boogie Wit da Hoodie & YG)",
             "Store Run",
             "Moments",
@@ -112,8 +112,12 @@
         "total_tracks": 4,
         "uri": "spotify:album:7Eoz7hJvaX1eFkbpQxC5PA",
         "image": "https://i.scdn.co/image/ab67616d0000b273ea42191f549dce4d9c8ecd1a",
-        "top_tracks": [],
-        "good_tracks": [],
+        "top_tracks": [
+            
+        ],
+        "good_tracks": [
+            
+        ],
         "score": 0.0,
         "tracks": [
             "A Love Supreme, Pt. I \u2013 Acknowledgement",
