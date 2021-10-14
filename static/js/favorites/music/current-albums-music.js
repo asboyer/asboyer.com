@@ -36,7 +36,7 @@ $(document).ready(function(){
         else {
             var music_div = `
             <div class="albums" id="albums-div">
-            `   
+            `  
         }
 
         $.each(albums, function(title, values){
@@ -63,7 +63,7 @@ $(document).ready(function(){
 
             // make an array of these albums for nowarp, same with small font
 
-            var album_div = 
+            var album_div =
             `<div class="album__container">
             <a href="https://open.spotify.com/album/${values.id}" class="album__item">
                 <img src="${values.image}" alt="${values.name}" class="portfolio__img">
@@ -102,7 +102,7 @@ $(document).ready(function(){
             function myFunction(x) {
                 if (x.matches) { // If media query matches
                     document.getElementById('album-div').style.removeProperty('grid-template-columns')
-                } 
+                }
             }
 
             // document.getElementById('album__container').style.maxWidth = "1000px";
