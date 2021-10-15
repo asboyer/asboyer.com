@@ -35,18 +35,6 @@
         "uri": "spotify:track:4h5KBcltGefua73AUPYps7",
         "image": "https://i.scdn.co/image/ab67616d0000b2731b3f6f34954118500ed3e7a7"
     },
-    "Let It Happen": {
-        "artists": "Tame Impala",
-        "duration_ms": 467586,
-        "explicit": false,
-        "id": "2X485T9Z5Ly0xyaghN73ed",
-        "name": "Let It Happen",
-        "popularity": 74,
-        "preview_url": null,
-        "track_number": 1,
-        "uri": "spotify:track:2X485T9Z5Ly0xyaghN73ed",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79"
-    },
     "Just the Two of Us": {
         "artists": "Grover Washington, Jr.",
         "duration_ms": 443773,

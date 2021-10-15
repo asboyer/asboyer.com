@@ -55,27 +55,23 @@
         "total_tracks": 15,
         "uri": "spotify:album:6CM5qhYBvpgYNek5kYwuOJ",
         "image": "https://i.scdn.co/image/ab67616d0000b273d0673d1dd6938dad8530823b",
-        "top_tracks": [],
-        "good_tracks": [
+        "top_tracks": [
             "The Pressure",
-            "Rare",
             "Death Row East",
-            "40 Side"
+            "Nobody (feat. Ms. Lauryn Hill)",
+            "Composure (feat. Hit-Boy)"
         ],
-        "score": 2.29,
-        "tracks": [
-            "EPMD 2 (feat. Eminem & EPMD)",
-            "YKTV (feat. A Boogie Wit da Hoodie & YG)",
+        "good_tracks": [
+            "Rare",
+            "40 Side",
             "Store Run",
             "Moments",
-            "Nobody (feat. Ms. Lauryn Hill)",
             "No Phony Love (feat. Charlie Wilson)",
-            "Brunch on Sundays (feat. Blxst)",
             "Count Me In",
-            "Composure (feat. Hit-Boy)",
             "My Bible",
             "Nas is Good"
-        ]
+        ],
+        "score": 6.48
     },
     "A Love Supreme": {
         "artists": "John Coltrane",
@@ -86,14 +82,42 @@
         "total_tracks": 4,
         "uri": "spotify:album:7Eoz7hJvaX1eFkbpQxC5PA",
         "image": "https://i.scdn.co/image/ab67616d0000b273ea42191f549dce4d9c8ecd1a",
+        "top_tracks": [
+            "A Love Supreme, Pt. I \u2013 Acknowledgement",
+            "A Love Supreme, Pt. II - Resolution",
+            "A Love Supreme, Pt. III - Pursuance"
+        ],
+        "good_tracks": [
+            "A Love Supreme, Pt. IV - Psalm"
+        ],
+        "score": 9.29
+    },
+    "Currents": {
+        "artists": "Tame Impala",
+        "id": "79dL7FLiJFOO0EoehUHQBv",
+        "name": "Currents",
+        "popularity": 80,
+        "release_date": "2015-07-17",
+        "total_tracks": 13,
+        "uri": "spotify:album:79dL7FLiJFOO0EoehUHQBv",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
         "top_tracks": [],
         "good_tracks": [],
         "score": 0.0,
         "tracks": [
-            "A Love Supreme, Pt. I \u2013 Acknowledgement",
-            "A Love Supreme, Pt. II - Resolution",
-            "A Love Supreme, Pt. III - Pursuance",
-            "A Love Supreme, Pt. IV - Psalm"
+            "Let It Happen",
+            "Nangs",
+            "The Moment",
+            "Yes I'm Changing",
+            "Eventually",
+            "Gossip",
+            "The Less I Know The Better",
+            "Past Life",
+            "Disciples",
+            "'Cause I'm A Man",
+            "Reality In Motion",
+            "Love/Paranoia",
+            "New Person, Same Old Mistakes"
         ]
     }
 }
