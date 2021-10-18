@@ -119,5 +119,40 @@
             "Love/Paranoia",
             "New Person, Same Old Mistakes"
         ]
+    },
+    "Punk": {
+        "artists": "Young Thug",
+        "id": "7IKkHmEk4It4cRdOYanyvW",
+        "name": "Punk",
+        "popularity": 80,
+        "release_date": "2021-10-15",
+        "total_tracks": 20,
+        "uri": "spotify:album:7IKkHmEk4It4cRdOYanyvW",
+        "image": "https://i.scdn.co/image/ab67616d0000b273bc57cae00bd7cf160b12f2d8",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Die Slow (with Strick)",
+            "Stressed (with J. Cole & T-Shyne)",
+            "Stupid/Asking",
+            "Recognize Real (with Gunna)",
+            "Contagious",
+            "Peepin Out The Window (with Future & Bslime)",
+            "Rich Nigga Shit (with Juice WRLD)",
+            "Livin It Up (with Post Malone & A$AP Rocky)",
+            "Yea Yea Yea",
+            "Insure My Wrist (with Gunna)",
+            "Scoliosis (with Lil Double 0)",
+            "Bubbly (with Drake & Travis Scott)",
+            "Road Rage",
+            "Faces",
+            "Droppin Jewels",
+            "Fifth Day Dead",
+            "Icy Hot (with Doja Cat)",
+            "Love You More (with Nate Ruess, Gunna & Jeff Bhasker)",
+            "Hate The Game",
+            "Day Before (with Mac Miller)"
+        ]
     }
 }

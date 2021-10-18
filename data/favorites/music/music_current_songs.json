@@ -82,5 +82,41 @@
         "track_number": 11,
         "uri": "spotify:track:500l6Cwe40hkPqS7Sf7ufY",
         "image": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194"
+    },
+    "BADASS (with Lil Uzi Vert)": {
+        "artists": "ZillaKami, Lil Uzi Vert",
+        "duration_ms": 186217,
+        "explicit": true,
+        "id": "49KSMJh4teJp40VNJeueja",
+        "name": "BADASS (with Lil Uzi Vert)",
+        "popularity": 60,
+        "preview_url": null,
+        "track_number": 1,
+        "uri": "spotify:track:49KSMJh4teJp40VNJeueja",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738db50a319145d843dea2d9de"
+    },
+    "Doomsday": {
+        "artists": "MF DOOM, Pebbles The Invisible Girl",
+        "duration_ms": 298053,
+        "explicit": true,
+        "id": "7lT1dCz96jANsLAAADlfIg",
+        "name": "Doomsday",
+        "popularity": 69,
+        "preview_url": "https://p.scdn.co/mp3-preview/e1fd7a6e0210ec5a4e4c3420b2a475d49281361a?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 2,
+        "uri": "spotify:track:7lT1dCz96jANsLAAADlfIg",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f56213eede5f2e6a6065fb6d"
+    },
+    "Teen X (feat. Future)": {
+        "artists": "Playboi Carti, Future",
+        "duration_ms": 205995,
+        "explicit": true,
+        "id": "5uYqmEN6TAAE8ss8YmprNV",
+        "name": "Teen X (feat. Future)",
+        "popularity": 62,
+        "preview_url": null,
+        "track_number": 10,
+        "uri": "spotify:track:5uYqmEN6TAAE8ss8YmprNV",
+        "image": "https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb"
     }
 }
