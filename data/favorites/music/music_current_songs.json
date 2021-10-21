@@ -118,5 +118,53 @@
         "track_number": 10,
         "uri": "spotify:track:5uYqmEN6TAAE8ss8YmprNV",
         "image": "https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb"
+    },
+    "Let's Go Crazy": {
+        "artists": "Prince",
+        "duration_ms": 280000,
+        "explicit": true,
+        "id": "0QeI79sp1vS8L3JgpEO7mD",
+        "name": "Let's Go Crazy",
+        "popularity": 63,
+        "preview_url": "https://p.scdn.co/mp3-preview/85dd430202f409d4e960e9169cfdddd38fe46ade?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 1,
+        "uri": "spotify:track:0QeI79sp1vS8L3JgpEO7mD",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b"
+    },
+    "R.I.P. Fredo (feat. Young Nudy) - Notice Me": {
+        "artists": "Playboi Carti, Young Nudy",
+        "duration_ms": 161200,
+        "explicit": true,
+        "id": "45Ln3F9PRPYTXBcMFkZMzS",
+        "name": "R.I.P. Fredo (feat. Young Nudy) - Notice Me",
+        "popularity": 65,
+        "preview_url": null,
+        "track_number": 18,
+        "uri": "spotify:track:45Ln3F9PRPYTXBcMFkZMzS",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194"
+    },
+    "Shoot Out The Roof": {
+        "artists": "Lil Yachty",
+        "duration_ms": 144786,
+        "explicit": true,
+        "id": "3V6J0liPAQPjqlyDOvDmKY",
+        "name": "Shoot Out The Roof",
+        "popularity": 46,
+        "preview_url": null,
+        "track_number": 5,
+        "uri": "spotify:track:3V6J0liPAQPjqlyDOvDmKY",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c63359e56990c0c55d2d7ff0"
+    },
+    "RIP Roach": {
+        "artists": "XXXTENTACION, Ski Mask The Slump God",
+        "duration_ms": 169978,
+        "explicit": true,
+        "id": "658I1uDnmLSiltFCf98AWE",
+        "name": "RIP Roach",
+        "popularity": 74,
+        "preview_url": "https://p.scdn.co/mp3-preview/ebe1838f637df1bdb0a0da641252ed9e2be75fb6?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 7,
+        "uri": "spotify:track:658I1uDnmLSiltFCf98AWE",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735485ea186d6971e18fabcc2f"
     }
 }

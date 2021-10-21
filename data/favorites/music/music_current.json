@@ -154,5 +154,47 @@
             "Hate The Game",
             "Day Before (with Mac Miller)"
         ]
+    },
+    "Lil Boat 3.5": {
+        "artists": "Lil Yachty",
+        "id": "6ufaA5YvSGK3E9KnRFYvvo",
+        "name": "Lil Boat 3.5",
+        "popularity": 63,
+        "release_date": "2020-11-27",
+        "total_tracks": 27,
+        "uri": "spotify:album:6ufaA5YvSGK3E9KnRFYvvo",
+        "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Lil Diamond Boy",
+            "Flex Up (feat. Future & Playboi Carti)",
+            "Coffin",
+            "Certified",
+            "Charmin (feat. Cochise)",
+            "Just How I'm Feelin' (feat. Lil Baby)",
+            "In My Stussy's (feat. Vince Staples)",
+            "Asshole (feat. Oliver Tree)",
+            "Top Down",
+            "Wock In Stock",
+            "Split/Whole Time",
+            "T.D (feat. Tierra Whack, A$AP Rocky & Tyler, The Creator)",
+            "Pardon Me (feat. Future & Mike WiLL Made-It)",
+            "Demon Time (feat. Draft Day)",
+            "Black Jesus",
+            "From Down Bad",
+            "Love Jones",
+            "Can't Go",
+            "Oprah's Bank Account (feat. DaBaby & Drake)",
+            "Range Rover Sports Truck (feat. Lil Keed)",
+            "Lemon Head",
+            "Don't Forget",
+            "Up There Music",
+            "Westside",
+            "Till The Morning (feat. Young Thug & Lil Durk)",
+            "Whew' Chile",
+            "Concrete Boys"
+        ]
     }
 }
