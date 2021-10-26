@@ -196,5 +196,142 @@
             "Whew' Chile",
             "Concrete Boys"
         ]
+    },
+    "Stone Flower (CTI Records 40th Anniversary Edition)": {
+        "artists": "Ant\u00f4nio Carlos Jobim",
+        "id": "2dsmGxE74ufKZgSFpEMxel",
+        "name": "Stone Flower (CTI Records 40th Anniversary Edition)",
+        "popularity": 48,
+        "release_date": "1970",
+        "total_tracks": 10,
+        "uri": "spotify:album:2dsmGxE74ufKZgSFpEMxel",
+        "image": "/static/img/music/albums/stone_flower.png",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Tereza My Love",
+            "Children's Games",
+            "Choro",
+            "Brazil (Aka Aquarela do Brasil)",
+            "Stone Flower",
+            "Amparo",
+            "Andorinha",
+            "God and the Devil In the Land of the Sun",
+            "Sabi\u00e1",
+            "Brazil - Alternate Take"
+        ]
+    },
+    "Lil Boat 2": {
+        "artists": "Lil Yachty",
+        "id": "4nHOF3neSo6Y7OG5OAflkC",
+        "name": "Lil Boat 2",
+        "popularity": 67,
+        "release_date": "2018-03-09",
+        "total_tracks": 17,
+        "uri": "spotify:album:4nHOF3neSo6Y7OG5OAflkC",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732dd3f11b04f31d9acd49015b",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "SELF MADE",
+            "BOOM!",
+            "OOPS",
+            "TALK TO ME NICE",
+            "GET MONEY BROS.",
+            "COUNT ME IN",
+            "she ready",
+            "love me forever",
+            "DAS CAP",
+            "POP OUT",
+            "NBAYOUNGBOAT",
+            "MICKEY",
+            "FWM",
+            "FLEX",
+            "WHOLE lotta GUAP",
+            "BABY DADDY",
+            "66"
+        ]
+    },
+    "Lil Boat": {
+        "artists": "Lil Yachty",
+        "id": "4bJqW1SBOvsfcEzZwsjdjx",
+        "name": "Lil Boat",
+        "popularity": 62,
+        "release_date": "2016-07-05",
+        "total_tracks": 13,
+        "uri": "spotify:album:4bJqW1SBOvsfcEzZwsjdjx",
+        "image": "https://i.scdn.co/image/ab67616d0000b27314d1a203158bed18a4ea7375",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Intro",
+            "Wanna Be Us",
+            "Minnesota",
+            "Not My Bro",
+            "Interlude",
+            "Good Day",
+            "Up Next 2",
+            "Never Switch Up",
+            "One Night",
+            "Out Late",
+            "Fucked Over",
+            "I\u2019m Sorry",
+            "We Did It"
+        ]
+    },
+    "Soy Pablo": {
+        "artists": "boy pablo",
+        "id": "1lESM5Y1VAvrCLEgLmyfOw",
+        "name": "Soy Pablo",
+        "popularity": 65,
+        "release_date": "2018-10-05",
+        "total_tracks": 7,
+        "uri": "spotify:album:1lESM5Y1VAvrCLEgLmyfOw",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738d7d3584e5220d0cd406eea4",
+        "top_tracks": [
+            "Feeling Lonely",
+            "Losing You"
+        ],
+        "good_tracks": [
+            "wtf",
+            "Sick Feeling",
+            "t-shirt",
+            "tkm"
+        ],
+        "score": 6.94,
+        "tracks": []
+    },
+    "Fuzzybrain": {
+        "artists": "Dayglow",
+        "id": "5PFzbdbZRNaoGLCHFPnmv3",
+        "name": "Fuzzybrain",
+        "popularity": 76,
+        "release_date": "2019-11-14",
+        "total_tracks": 10,
+        "uri": "spotify:album:5PFzbdbZRNaoGLCHFPnmv3",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ccd63af052f7e438c05f6c94",
+        "top_tracks": [
+            "False Direction",
+            "Can I Call You Tonight?",
+            "Hot Rod",
+            "Fuzzybrain",
+
+            "Listerine"
+            
+        ],
+        "good_tracks": [
+            "Run the World!!!",
+            "Fair Game",
+            
+        ],
+        "score": 0.0,
+        "tracks": [
+            "Dear Friend,",
+            "Junior Varsity",
+            "Nicknames",
+        ]
     }
 }

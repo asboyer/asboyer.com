@@ -25,7 +25,8 @@ top = ['Kanye West',
     'Miles Davis',
     'Tim McGraw',
     'Kendrick Lamar',
-    'Fleetwood Mac']
+    'Fleetwood Mac'
+    ]
 
 top_a = ['?', 'Hoodie SZN', 'Loose', 'Confessions of a Dangerous Mind', 'So Much Fun', 'Flower Boy', 'Thats What They All Say', 'Sweet Action']
 for album in all_time_data:
