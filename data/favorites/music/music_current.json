@@ -318,20 +318,15 @@
             "Can I Call You Tonight?",
             "Hot Rod",
             "Fuzzybrain",
-
             "Listerine"
-            
         ],
         "good_tracks": [
             "Run the World!!!",
             "Fair Game",
-            
-        ],
-        "score": 0.0,
-        "tracks": [
-            "Dear Friend,",
             "Junior Varsity",
-            "Nicknames",
-        ]
+            "Nicknames"
+        ],
+        "score": 7.86,
+        "tracks": []
     }
 }
