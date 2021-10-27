@@ -32,9 +32,11 @@ top_a = ['?', 'Hoodie SZN', 'Loose', 'Confessions of a Dangerous Mind', 'So Much
 for album in all_time_data:
     if all_time_data[album]['artists'] in top or all_time_data[album]['name'] in top_a:
         if all_time_data[album]['name'] == 'Graduation':
-            score = .99
+            score = .98
         elif all_time_data[album]['name'] == "My Beautiful Dark Twisted Fantasy":
             score = .925
+        elif all_time_data[album]['name'] == 'Late Registration':
+            score = .979
         else:
             score = (len(all_time_data[album]['top_tracks'])*1.5 + len(all_time_data[album]['good_tracks'])*1.25)/(all_time_data[album]['total_tracks']*1.5)
     elif all_time_data[album]['artists'] == 'Frank Ocean':

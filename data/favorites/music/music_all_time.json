@@ -351,7 +351,7 @@
         "name": "Graduation",
         "popularity": 82,
         "release_date": "2007-09-11",
-        "total_tracks": 12,
+        "total_tracks": 13,
         "uri": "spotify:album:5fPglEDz9YEwRgbLRvhCZy",
         "image": "https://i.scdn.co/image/ab67616d0000b2739bbd79106e510d13a9a5ec33",
         "top_tracks": [
@@ -368,7 +368,7 @@
             "Big Brother"
         ],
         "good_tracks": [],
-        "score": 9.9
+        "score": 9.8
     },
     "Death Race For Love": {
         "artists": "Juice WRLD",
@@ -1321,7 +1321,7 @@
             "Drive Slow",
             "Crack Music"
         ],
-        "score": 9.8
+        "score": 9.79
     },
     "?": {
         "artists": "XXXTENTACION",
@@ -3867,5 +3867,125 @@
             "Diamonds All on My Wrist"
         ],
         "score": 8.58
+    },
+    "A Love Supreme": {
+        "artists": "John Coltrane",
+        "id": "7Eoz7hJvaX1eFkbpQxC5PA",
+        "name": "A Love Supreme",
+        "popularity": 54,
+        "release_date": "1965-02",
+        "total_tracks": 4,
+        "uri": "spotify:album:7Eoz7hJvaX1eFkbpQxC5PA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ea42191f549dce4d9c8ecd1a",
+        "top_tracks": [
+            "A Love Supreme, Pt. I \u2013 Acknowledgement",
+            "A Love Supreme, Pt. II - Resolution",
+            "A Love Supreme, Pt. III - Pursuance"
+        ],
+        "good_tracks": [
+            "A Love Supreme, Pt. IV - Psalm"
+        ],
+        "score": 9.29
+    },
+    "Currents": {
+        "artists": "Tame Impala",
+        "id": "79dL7FLiJFOO0EoehUHQBv",
+        "name": "Currents",
+        "popularity": 80,
+        "release_date": "2015-07-17",
+        "total_tracks": 13,
+        "uri": "spotify:album:79dL7FLiJFOO0EoehUHQBv",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
+        "top_tracks": [
+            "Let It Happen",
+            "Nangs",
+            "The Moment",
+            "Yes I'm Changing",
+            "Eventually",
+            "Gossip",
+            "The Less I Know The Better",
+            "Past Life",
+            "Disciples",
+            "'Cause I'm A Man",
+            "Reality In Motion",
+            "Love/Paranoia",
+            "New Person, Same Old Mistakes"
+        ],
+        "good_tracks": [],
+        "score": 10.0,
+        "tracks": []
+    },
+    "Stone Flower (CTI Records 40th Anniversary Edition)": {
+        "artists": "Ant\u00f4nio Carlos Jobim",
+        "id": "2dsmGxE74ufKZgSFpEMxel",
+        "name": "Stone Flower (CTI Records 40th Anniversary Edition)",
+        "popularity": 48,
+        "release_date": "1970",
+        "total_tracks": 10,
+        "uri": "spotify:album:2dsmGxE74ufKZgSFpEMxel",
+        "image": "/static/img/music/albums/stone_flower.png",
+        "top_tracks": [
+            "Tereza My Love",
+            "Children's Games",
+            "Choro",
+            "Brazil (Aka Aquarela do Brasil)",
+            "Stone Flower",
+            "Amparo",
+            "God and the Devil In the Land of the Sun",
+            "Sabi\u00e1",
+            "Brazil - Alternate Take"
+        ],
+        "good_tracks": [
+            "Andorinha"
+        ],
+        "score": 9.71,
+        "tracks": []
+    },
+    "Soy Pablo": {
+        "artists": "boy pablo",
+        "id": "1lESM5Y1VAvrCLEgLmyfOw",
+        "name": "Soy Pablo",
+        "popularity": 65,
+        "release_date": "2018-10-05",
+        "total_tracks": 7,
+        "uri": "spotify:album:1lESM5Y1VAvrCLEgLmyfOw",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738d7d3584e5220d0cd406eea4",
+        "top_tracks": [
+            "Feeling Lonely",
+            "Losing You"
+        ],
+        "good_tracks": [
+            "wtf",
+            "Sick Feeling",
+            "t-shirt",
+            "tkm"
+        ],
+        "score": 6.94,
+        "tracks": []
+    },
+    "Fuzzybrain": {
+        "artists": "Dayglow",
+        "id": "5PFzbdbZRNaoGLCHFPnmv3",
+        "name": "Fuzzybrain",
+        "popularity": 76,
+        "release_date": "2019-11-14",
+        "total_tracks": 10,
+        "uri": "spotify:album:5PFzbdbZRNaoGLCHFPnmv3",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ccd63af052f7e438c05f6c94",
+        "top_tracks": [
+            "False Direction",
+            "Can I Call You Tonight?",
+            "Hot Rod",
+            "Fuzzybrain",
+            "Listerine"
+        ],
+        "good_tracks": [
+            "Run the World!!!",
+            "Fair Game",
+            "Junior Varsity",
+            "Nicknames"
+        ],
+        "score": 7.86,
+        "tracks": []
     }
 }

@@ -27,6 +27,8 @@ $(document).ready(function(){
         var albums = Object.values(json)
         albums.sort((a,b) => (a.popularity < b.popularity) ? 1 : ((b.popularity < a.popularity) ? -1 : 0))
         shuffle(albums)
+        albums.sort((a,b) => (a.score < b.score) ? 1 : ((b.score < a.score) ? -1 : 0))
+
 
         if (albums.length == 1) {
             var music_div = `
