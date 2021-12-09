@@ -1321,7 +1321,7 @@
             "Drive Slow",
             "Crack Music"
         ],
-        "score": 9.79
+        "score": 9.8
     },
     "?": {
         "artists": "XXXTENTACION",
@@ -1480,14 +1480,14 @@
             "Peace of Mind",
             "Foreplay / Long Time",
             "Rock & Roll Band",
+            "Hitch a Ride",
             "Something About You",
             "Let Me Take You Home Tonight"
         ],
         "good_tracks": [
-            "Smokin'",
-            "Hitch a Ride"
+            "Smokin'"
         ],
-        "score": 9.29
+        "score": 9.79
     },
     "The Piano Guys 2": {
         "artists": "The Piano Guys",
@@ -3446,12 +3446,14 @@
         "total_tracks": 10,
         "uri": "spotify:album:6ZvDJs17O3woQirttKRYCG",
         "image": "https://i.scdn.co/image/ab67616d0000b2738e26bf4293c9da7a6439607b",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
+        "top_tracks": [
+            "This Feeling"
+        ],
+        "good_tracks": [
+            "Beach House"
+        ],
+        "score": 1.71,
         "tracks": [
-            "This Feeling",
-            "Beach House",
             "Hope",
             "Somebody",
             "Side Effects",
@@ -3986,6 +3988,76 @@
             "Nicknames"
         ],
         "score": 7.86,
+        "tracks": []
+    },
+    "Madvillainy": {
+        "artists": "Madvillain, Madlib, MF DOOM",
+        "id": "19bQiwEKhXUBJWY6oV3KZk",
+        "name": "Madvillainy",
+        "popularity": 74,
+        "release_date": "2004-03-24",
+        "total_tracks": 22,
+        "uri": "spotify:album:19bQiwEKhXUBJWY6oV3KZk",
+        "image": "https://i.scdn.co/image/ab67616d0000b27374dc897ea75402db37ef239a",
+        "top_tracks": [
+            "Accordion",
+            "Meat Grinder",
+            "Bistro",
+            "Raid"
+        ],
+        "good_tracks": [
+            "The Illest Villains",
+            "America's Most Blunted"
+        ],
+        "score": 2.47,
+        "tracks": [
+            "Sickfit",
+            "Rainbows",
+            "Curls",
+            "Do Not Fire!",
+            "Money Folder",
+            "Shadows of Tomorrow",
+            "Operation Lifesaver aka Mint Test",
+            "Figaro",
+            "Hardcore Hustle",
+            "Strange Ways",
+            "Fancy Clown",
+            "Eye",
+            "Supervillain Theme",
+            "All Caps",
+            "Great Day",
+            "Rhinestone Cowboy"
+        ]
+    },
+    "LoVE me NOw": {
+        "artists": "Tory Lanez",
+        "id": "4QSsoW3XoitQA1NrfoCjwr",
+        "name": "LoVE me NOw",
+        "popularity": 1,
+        "release_date": "2018-10-26",
+        "total_tracks": 15,
+        "uri": "spotify:album:4QSsoW3XoitQA1NrfoCjwr",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738ae490339c5157e9835c797f",
+        "top_tracks": [
+            "SHE tOLd Me",
+            "TAlk tO Me (with Rich The Kid)",
+            "IF iT Ain'T rIGHt (feat. A Boogie wit da Hoodie)",
+            "FeRRis WhEEL (feat. Trippie Redd)",
+            "YoU ThouGHt WrONg"
+        ],
+        "good_tracks": [
+            "Why DON'T You LOVE me?",
+            "DucK my Ex (feat. Chris Brown & 2 Chainz)",
+            "DrIP DrIp Drip (feat. Meek Mill)",
+            "FlEXiBle (feat. Chris Brown & Lil Baby)",
+            "CuT me oFF (feat. NAV)",
+            "ThE RUn oFF",
+            "MiAMi (feat. Gunna)",
+            "KeeP IN tOUcH (feat. Bryson Tiller)",
+            "S.w.I.n.G (feat. PnB Rock & Trey Songz)",
+            "KJm"
+        ],
+        "score": 8.89,
         "tracks": []
     }
 }
