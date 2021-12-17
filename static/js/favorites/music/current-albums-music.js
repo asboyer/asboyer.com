@@ -50,7 +50,7 @@ $(document).ready(function(){
                 tracklist += '-long'
             }
             // do something special if just one album
-            if(values.name == "Donda" || values.name == "The Life Of Pablo") {
+            if(values.name == "Donda" || values.name == "The Life Of Pablo" || values.name == "Scorpion") {
                 tracklist += '-rlong'
                 artist_length = "-long"
                 title_length = "-long"
@@ -64,7 +64,7 @@ $(document).ready(function(){
 
 
             // make an array of these albums for nowarp, same with small font
-
+            if (values.score == null) values.score = ""
             var album_div =
             `<div class="album__container">
             <a href="https://open.spotify.com/album/${values.id}" class="album__item">

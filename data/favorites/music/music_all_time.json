@@ -1203,37 +1203,6 @@
         "good_tracks": [],
         "score": 9.09
     },
-    "Scorpion": {
-        "artists": "Drake",
-        "id": "1ATL5GLyefJaxhQzSPVrLX",
-        "name": "Scorpion",
-        "popularity": 83,
-        "release_date": "2018-06-29",
-        "total_tracks": 25,
-        "uri": "spotify:album:1ATL5GLyefJaxhQzSPVrLX",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
-        "top_tracks": [
-            "Survival",
-            "Nonstop",
-            "Elevate",
-            "Emotionless",
-            "God's Plan",
-            "Mob Ties",
-            "Can't Take A Joke",
-            "Nice For What",
-            "That's How You Feel",
-            "Blue Tint",
-            "In My Feelings",
-            "Don't Matter To Me (with Michael Jackson)"
-        ],
-        "good_tracks": [
-            "I'm Upset",
-            "Is There More",
-            "Finesse",
-            "Final Fantasy"
-        ],
-        "score": 6.13
-    },
     "Sensational": {
         "artists": "Yung Gravy",
         "id": "6xd9phTkcEIsi1JWhbxZM3",
@@ -4059,5 +4028,43 @@
         ],
         "score": 8.89,
         "tracks": []
+    },
+    "Scorpion": {
+        "artists": "Drake",
+        "id": "1ATL5GLyefJaxhQzSPVrLX",
+        "name": "Scorpion",
+        "popularity": 86,
+        "release_date": "2018-06-29",
+        "total_tracks": 25,
+        "uri": "spotify:album:1ATL5GLyefJaxhQzSPVrLX",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
+        "top_tracks": [
+            "Survival",
+            "Nonstop",
+            "Elevate",
+            "Emotionless",
+            "God's Plan",
+            "I'm Upset",
+            "8 Out Of 10",
+            "Mob Ties",
+            "Can\u2019t Take A Joke",
+            "Sandra\u2019s Rose",
+            "Is There More",
+            "Nice For What",
+            "That\u2019s How You Feel",
+            "Blue Tint",
+            "In My Feelings",
+            "Don\u2019t Matter To Me (with Michael Jackson)"
+        ],
+        "good_tracks": [
+            "Talk Up (feat. Jay-Z)",
+            "Peak",
+            "Jaded",
+            "Finesse",
+            "After Dark (feat. Static Major & Ty Dolla $ign)",
+            "Final Fantasy",
+            "March 14"
+        ],
+        "score": 8.73
     }
 }
