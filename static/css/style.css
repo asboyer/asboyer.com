@@ -3098,3 +3098,55 @@ header {
     font-size: 13px;
 
 }
+
+/* quotes css */
+blockquote {
+    margin: 0 auto;
+    width: 50%;
+    background: #111;
+    border-radius: 5px;
+    border: var(--clr-accent) 1px solid;
+    padding: 5px;
+}
+
+.quote_fig {
+
+}
+
+.quote_author {
+    color: var(--clr-accent);
+    text-align: center;
+    font-family: monospace;
+    padding-bottom: 10px;
+}
+
+.quotes {
+    border: var(--clr-accent) 1px solid;
+    padding: 0;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+blockquote p {
+    padding: 10px;
+
+    color: var(--clr-accent);
+    text-align: center;
+    margin: 0 auto;
+    font-size: 1.5em;
+
+}
+
+blockquote p::before {
+    content: '\201C';
+}
+
+blockquote p::after {
+    content: '\201D';
+}
+
+@media (max-width: 900px) {
+    blockquote {
+        width: 75%;
+    }
+}
