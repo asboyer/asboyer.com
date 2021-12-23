@@ -3123,8 +3123,8 @@ blockquote {
 .quotes {
     border: var(--clr-accent) 1px solid;
     padding: 0;
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 blockquote p {
@@ -3135,6 +3135,10 @@ blockquote p {
     margin: 0 auto;
     font-size: 1.5em;
 
+}
+
+figure {
+    padding: 10px;
 }
 
 blockquote p::before {

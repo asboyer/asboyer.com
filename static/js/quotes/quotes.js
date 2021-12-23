@@ -22,20 +22,22 @@ $(document).ready(function(){
     $.getJSON(data_file, function(json) {
         var quotes = Object.values(json)
         shuffle(quotes)
-        quote = quotes[0]
-         quote_div = 
-         `
-         <figure class="quote_fig">
-            <blockquote>
-                <p>
-                ${quote.quote}
-                </p>
-                <figcaption class="quote_author">
-                - ${quote.author}
-                </figcaption>
-            </blockquote>
-         </figure>
-         `
+        quote_div = ""
+        $.each(quotes, function(num, quote){
+             quote_div +=
+             `
+             <figure class="quote_fig">
+                <blockquote>
+                    <p>
+                    ${quote.quote}
+                    </p>
+                    <figcaption class="quote_author">
+                    - ${quote.author}
+                    </figcaption>
+                </blockquote>
+             </figure>
+             `
+        });
         $('#quotes').append(quote_div)
     });
 
