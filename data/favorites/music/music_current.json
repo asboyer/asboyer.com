@@ -8,32 +8,22 @@
         "total_tracks": 21,
         "uri": "spotify:album:3SpBlxme9WbeQdI9kx7KAV",
         "image": "https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
+        "top_tracks": [
             "Champagne Poetry",
             "Papi\u2019s Home",
-            "Girls Want Girls (with Lil Baby)",
-            "In The Bible (with Lil Durk & Giveon)",
-            "Love All (with JAY-Z)",
             "Fair Trade (with Travis Scott)",
             "Way 2 Sexy (with Future & Young Thug)",
             "TSU",
-            "N 2 Deep",
-            "Pipe Down",
-            "Yebba\u2019s Heartbreak",
-            "No Friends In The Industry",
             "Knife Talk (with 21 Savage ft. Project Pat)",
-            "7am On Bridle Path",
-            "Race My Mind",
-            "Fountains (with Tems)",
-            "Get Along Better",
-            "You Only Live Twice (with Lil Wayne & Rick Ross)",
-            "IMY2 (with Kid Cudi)",
-            "F*****g Fans",
-            "The Remorse"
-        ]
+            "IMY2 (with Kid Cudi)"
+        ],
+        "good_tracks": [
+            "Love All (with JAY-Z)",
+            "N 2 Deep",
+            "No Friends In The Industry",
+            "Race My Mind"
+        ],
+        "score": 4.92
     },
     "LIVE LIFE FAST": {
         "artists": "Roddy Ricch",
@@ -44,29 +34,17 @@
         "total_tracks": 18,
         "uri": "spotify:album:1eVrpJbHRLBbioB9sb5b94",
         "image": "https://i.scdn.co/image/ab67616d0000b2738007e1fcf108e4270b6df942",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "llf",
+        "top_tracks": [
             "thailand",
-            "all good (feat. Future)",
-            "rollercoastin",
-            "hibachi (feat. Kodak Black & 21 Savage)",
-            "paid my dues (feat. Takeoff)",
-            "crash the party",
-            "no way (feat. Jamie Foxx)",
-            "slow it down (feat. Ty Dolla $ign & Alex Isley)",
-            "man made",
-            "murda one (feat. Fivio Foreign)",
-            "everything you need",
             "moved to miami (feat. Lil Baby)",
-            "don\u2019t i (feat. Gunna)",
-            "bibi's interlude",
-            "more than a trend",
-            "late at night",
             "25 million"
-        ]
+        ],
+        "good_tracks": [
+            "llf",
+            "all good (feat. Future)",
+            "slow it down (feat. Ty Dolla $ign & Alex Isley)"
+        ],
+        "score": 2.86
     },
     "3.15.20": {
         "artists": "Childish Gambino",
@@ -77,70 +55,22 @@
         "total_tracks": 12,
         "uri": "spotify:album:600ClrWRsAr7jZ0qjaBLHz",
         "image": "https://i.scdn.co/image/ab67616d0000b2734c8974d1d37295694d7d4e8f",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "0.00",
+        "top_tracks": [
             "Algorhythm",
             "Time (feat. Ariana Grande)",
             "12.38 (feat. 21 Savage, Ink & Kadhja Bonet)",
             "19.10",
-            "24.19",
-            "32.22",
-            "35.31",
-            "39.28",
             "42.26",
-            "47.48",
             "53.49"
-        ]
-    },
-    "Donda (Deluxe)": {
-        "artists": "Kanye West",
-        "id": "2Wiyo7LzdeBCsVZiRA6vVZ",
-        "name": "Donda (Deluxe)",
-        "popularity": 80,
-        "release_date": "2021-11-14",
-        "total_tracks": 32,
-        "uri": "spotify:album:2Wiyo7LzdeBCsVZiRA6vVZ",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c5663e50de353981ed2b1a37",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "Donda Chant",
-            "Hurricane",
-            "Moon",
-            "Life Of The Party (with Andr\u00e9 3000)",
-            "Off The Grid",
-            "Jail",
-            "Praise God",
-            "Come to Life",
-            "Believe What I Say",
-            "No Child Left Behind",
-            "Up From The Ashes",
-            "Remote Control pt 2",
-            "God Breathed",
-            "Lord I Need You",
-            "24",
-            "Junya",
-            "Never Abandon Your Family",
-            "Donda",
-            "Keep My Spirit Alive",
-            "Jesus Lord pt 2",
-            "Heaven and Hell",
-            "Remote Control",
-            "Tell The Vision",
-            "Jonah",
-            "Pure Souls",
-            "Ok Ok",
-            "New Again",
-            "Jesus Lord",
-            "Ok Ok pt 2",
-            "Junya pt 2",
-            "Jail pt 2",
-            "Keep My Spirit Alive pt 2"
-        ]
+        ],
+        "good_tracks": [
+            "0.00",
+            "24.19",
+            "35.31",
+            "47.48"
+        ],
+        "score": 7.78,
+        "tracks": []
     },
     "Sweet Action": {
         "artists": "Jack Harlow",
@@ -200,5 +130,81 @@
             "March 14"
         ],
         "score": 8.73
+    },
+    "OK Computer": {
+        "artists": "Radiohead",
+        "id": "6dVIqQ8qmQ5GBnJ9shOYGE",
+        "name": "OK Computer",
+        "popularity": 78,
+        "release_date": "1997-05-28",
+        "total_tracks": 12,
+        "uri": "spotify:album:6dVIqQ8qmQ5GBnJ9shOYGE",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+        "top_tracks": [
+            "Airbag",
+            "Paranoid Android",
+            "Subterranean Homesick Alien",
+            "Exit Music (For A Film)",
+            "Let Down",
+            "Karma Police",
+            "Climbing Up the Walls",
+            "No Surprises",
+            "Lucky",
+            "The Tourist"
+        ],
+        "good_tracks": [
+            "Fitter Happier",
+            "Electioneering"
+        ],
+        "score": 9.52
+    },
+    "In The Court Of The Crimson King (Expanded & Remastered Original Album Mix)": {
+        "artists": "King Crimson",
+        "id": "6tVg2Wl9hVKMpHYcAl2V2M",
+        "name": "In The Court Of The Crimson King (Expanded & Remastered Original Album Mix)",
+        "popularity": 61,
+        "release_date": "1969-10-10",
+        "total_tracks": 5,
+        "uri": "spotify:album:6tVg2Wl9hVKMpHYcAl2V2M",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730e36a62897cf3f5937bf9c16",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "21st Century Schizoid Man - Including \"Mirrors\"",
+            "I Talk To The Wind",
+            "Epitaph - Including \"March for No Reason\" and \"Tomorrow and Tomorrow\"",
+            "Moonchild - Including \"The Dream\" and \"The Illusion\"",
+            "The Court Of The Crimson King - Including \"The Return of the Fire Witch\" and \"The Dance of the Puppets\"",
+            "21st Century Schizoid Man [Bonus Track] - Radio Version",
+            "I Talk To The Wind [Bonus Track] - Duo Version",
+            "A Man A City [Bonus Track] - Live At the Fillmore West"
+        ]
+    },
+    "Kid A": {
+        "artists": "Radiohead",
+        "id": "6GjwtEZcfenmOf6l18N7T7",
+        "name": "Kid A",
+        "popularity": 69,
+        "release_date": "2000-10-02",
+        "total_tracks": 11,
+        "uri": "spotify:album:6GjwtEZcfenmOf6l18N7T7",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Everything In Its Right Place",
+            "Kid A",
+            "The National Anthem",
+            "How to Disappear Completely",
+            "Treefingers",
+            "Optimistic",
+            "In Limbo",
+            "Idioteque",
+            "Morning Bell",
+            "Motion Picture Soundtrack",
+            "Untitled"
+        ]
     }
 }
