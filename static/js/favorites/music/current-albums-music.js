@@ -61,6 +61,7 @@ $(document).ready(function(){
             if(top_tracks){
                 track_style = "display: none;"
             }
+            if (values.name == "In The Court Of The Crimson King (Expanded & Remastered Original Album Mix)") track_style = "white-space: wrap;";
 
 
             // make an array of these albums for nowarp, same with small font
@@ -81,7 +82,7 @@ $(document).ready(function(){
             var track_list = ''
             for (let i = 0; i < values.top_tracks.length; i++) {
                 track_list += `
-                            <li>${values.top_tracks[i]}</li>
+                            <li>${values.top_tracks[i].split("- Including")[0]}</li>
                             `
             }
             var album_div_end = `

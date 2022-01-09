@@ -93,44 +93,6 @@
         ],
         "score": 8.33
     },
-    "Scorpion": {
-        "artists": "Drake",
-        "id": "1ATL5GLyefJaxhQzSPVrLX",
-        "name": "Scorpion",
-        "popularity": 86,
-        "release_date": "2018-06-29",
-        "total_tracks": 25,
-        "uri": "spotify:album:1ATL5GLyefJaxhQzSPVrLX",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
-        "top_tracks": [
-            "Survival",
-            "Nonstop",
-            "Elevate",
-            "Emotionless",
-            "God's Plan",
-            "I'm Upset",
-            "8 Out Of 10",
-            "Mob Ties",
-            "Can\u2019t Take A Joke",
-            "Sandra\u2019s Rose",
-            "Is There More",
-            "Nice For What",
-            "That\u2019s How You Feel",
-            "Blue Tint",
-            "In My Feelings",
-            "Don\u2019t Matter To Me (with Michael Jackson)"
-        ],
-        "good_tracks": [
-            "Talk Up (feat. Jay-Z)",
-            "Peak",
-            "Jaded",
-            "Finesse",
-            "After Dark (feat. Static Major & Ty Dolla $ign)",
-            "Final Fantasy",
-            "March 14"
-        ],
-        "score": 8.73
-    },
     "OK Computer": {
         "artists": "Radiohead",
         "id": "6dVIqQ8qmQ5GBnJ9shOYGE",
@@ -167,19 +129,16 @@
         "total_tracks": 5,
         "uri": "spotify:album:6tVg2Wl9hVKMpHYcAl2V2M",
         "image": "https://i.scdn.co/image/ab67616d0000b2730e36a62897cf3f5937bf9c16",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
+        "top_tracks": [
             "21st Century Schizoid Man - Including \"Mirrors\"",
             "I Talk To The Wind",
             "Epitaph - Including \"March for No Reason\" and \"Tomorrow and Tomorrow\"",
-            "Moonchild - Including \"The Dream\" and \"The Illusion\"",
-            "The Court Of The Crimson King - Including \"The Return of the Fire Witch\" and \"The Dance of the Puppets\"",
-            "21st Century Schizoid Man [Bonus Track] - Radio Version",
-            "I Talk To The Wind [Bonus Track] - Duo Version",
-            "A Man A City [Bonus Track] - Live At the Fillmore West"
-        ]
+            "Moonchild - Including \"The Dream\" and \"The Illusion\""
+        ],
+        "good_tracks": [
+            "The Court Of The Crimson King - Including \"The Return of the Fire Witch\" and \"The Dance of the Puppets\""
+        ],
+        "score": 9.43
     },
     "Kid A": {
         "artists": "Radiohead",
@@ -190,8 +149,12 @@
         "total_tracks": 11,
         "uri": "spotify:album:6GjwtEZcfenmOf6l18N7T7",
         "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
-        "top_tracks": [],
-        "good_tracks": [],
+        "top_tracks": [
+            
+        ],
+        "good_tracks": [
+            
+        ],
         "score": 0.0,
         "tracks": [
             "Everything In Its Right Place",
