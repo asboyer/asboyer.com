@@ -24,7 +24,7 @@ $(document).ready(function(){
         shuffle(quotes)
         quote_div = ""
         $.each(quotes, function(num, quote){
-             quote_div +=
+             quote_div =
              `
              <figure class="quote_fig">
                 <blockquote>

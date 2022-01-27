@@ -150,25 +150,23 @@
         "uri": "spotify:album:6GjwtEZcfenmOf6l18N7T7",
         "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
         "top_tracks": [
-            
+            "Everything In Its Right Place",
+            "Kid A",
+            "How to Disappear Completely",
+            "Optimistic",
+            "In Limbo"
         ],
         "good_tracks": [
-            
+            "The National Anthem",
+            "Treefingers"
         ],
         "score": 0.0,
         "tracks": [
-            "Everything In Its Right Place",
-            "Kid A",
-            "The National Anthem",
-            "How to Disappear Completely",
-            "Treefingers",
-            "Optimistic",
-            "In Limbo",
             "Idioteque",
             "Morning Bell",
             "Motion Picture Soundtrack",
             "Untitled"
-        ]
+        ],
     },
     "Madvillainy": {
         "artists": "Madvillain, Madlib, MF DOOM",
