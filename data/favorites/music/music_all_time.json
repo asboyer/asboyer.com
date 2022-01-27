@@ -21,6 +21,26 @@
         ],
         "score": 9.76
     },
+    "In The Court Of The Crimson King (Expanded & Remastered Original Album Mix)": {
+        "artists": "King Crimson",
+        "id": "6tVg2Wl9hVKMpHYcAl2V2M",
+        "name": "In The Court Of The Crimson King (Expanded & Remastered Original Album Mix)",
+        "popularity": 61,
+        "release_date": "1969-10-10",
+        "total_tracks": 5,
+        "uri": "spotify:album:6tVg2Wl9hVKMpHYcAl2V2M",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730e36a62897cf3f5937bf9c16",
+        "top_tracks": [
+            "21st Century Schizoid Man - Including \"Mirrors\"",
+            "I Talk To The Wind",
+            "Epitaph - Including \"March for No Reason\" and \"Tomorrow and Tomorrow\"",
+            "Moonchild - Including \"The Dream\" and \"The Illusion\""
+        ],
+        "good_tracks": [
+            "The Court Of The Crimson King - Including \"The Return of the Fire Witch\" and \"The Dance of the Puppets\""
+        ],
+        "score": 9.43
+    },
     "Tenet (Original Motion Picture Soundtrack) [Deluxe Edition]": {
         "artists": "Ludwig Goransson",
         "id": "3XVZnD9SKNPcN3YJvho9Y7",
@@ -3959,45 +3979,6 @@
         "score": 7.86,
         "tracks": []
     },
-    "Madvillainy": {
-        "artists": "Madvillain, Madlib, MF DOOM",
-        "id": "19bQiwEKhXUBJWY6oV3KZk",
-        "name": "Madvillainy",
-        "popularity": 74,
-        "release_date": "2004-03-24",
-        "total_tracks": 22,
-        "uri": "spotify:album:19bQiwEKhXUBJWY6oV3KZk",
-        "image": "https://i.scdn.co/image/ab67616d0000b27374dc897ea75402db37ef239a",
-        "top_tracks": [
-            "Accordion",
-            "Meat Grinder",
-            "Bistro",
-            "Raid"
-        ],
-        "good_tracks": [
-            "The Illest Villains",
-            "America's Most Blunted"
-        ],
-        "score": 2.47,
-        "tracks": [
-            "Sickfit",
-            "Rainbows",
-            "Curls",
-            "Do Not Fire!",
-            "Money Folder",
-            "Shadows of Tomorrow",
-            "Operation Lifesaver aka Mint Test",
-            "Figaro",
-            "Hardcore Hustle",
-            "Strange Ways",
-            "Fancy Clown",
-            "Eye",
-            "Supervillain Theme",
-            "All Caps",
-            "Great Day",
-            "Rhinestone Cowboy"
-        ]
-    },
     "LoVE me NOw": {
         "artists": "Tory Lanez",
         "id": "4QSsoW3XoitQA1NrfoCjwr",
@@ -4066,5 +4047,32 @@
             "March 14"
         ],
         "score": 8.73
+    },
+    "OK Computer": {
+        "artists": "Radiohead",
+        "id": "6dVIqQ8qmQ5GBnJ9shOYGE",
+        "name": "OK Computer",
+        "popularity": 78,
+        "release_date": "1997-05-28",
+        "total_tracks": 12,
+        "uri": "spotify:album:6dVIqQ8qmQ5GBnJ9shOYGE",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+        "top_tracks": [
+            "Airbag",
+            "Paranoid Android",
+            "Subterranean Homesick Alien",
+            "Exit Music (For A Film)",
+            "Let Down",
+            "Karma Police",
+            "Climbing Up the Walls",
+            "No Surprises",
+            "Lucky",
+            "The Tourist"
+        ],
+        "good_tracks": [
+            "Fitter Happier",
+            "Electioneering"
+        ],
+        "score": 9.72
     }
 }

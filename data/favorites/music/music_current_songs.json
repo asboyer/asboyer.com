@@ -70,5 +70,65 @@
         "track_number": 8,
         "uri": "spotify:track:6Y4CI6as0a7QjXaPiqU4Jt",
         "image": "https://i.scdn.co/image/ab67616d0000b273e6778eb47c6b217e4412850d"
+    },
+    "Life Of The Party (with Andr\u00e9 3000)": {
+        "artists": "Kanye West, Andr\u00e9 3000",
+        "duration_ms": 391656,
+        "explicit": false,
+        "id": "2yBb1CRq98SSWRuDSn36SZ",
+        "name": "Life Of The Party (with Andr\u00e9 3000)",
+        "popularity": 76,
+        "preview_url": null,
+        "track_number": 4,
+        "uri": "spotify:track:2yBb1CRq98SSWRuDSn36SZ",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c5663e50de353981ed2b1a37"
+    },
+    "Remote Control pt 2": {
+        "artists": "Kanye West",
+        "duration_ms": 323454,
+        "explicit": false,
+        "id": "5TRekQsv96kQezYd8TkilW",
+        "name": "Remote Control pt 2",
+        "popularity": 67,
+        "preview_url": null,
+        "track_number": 12,
+        "uri": "spotify:track:5TRekQsv96kQezYd8TkilW",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c5663e50de353981ed2b1a37"
+    },
+    "Up From The Ashes": {
+        "artists": "Kanye West",
+        "duration_ms": 162364,
+        "explicit": false,
+        "id": "6MTtOV150uwitRZz4anI2h",
+        "name": "Up From The Ashes",
+        "popularity": 66,
+        "preview_url": null,
+        "track_number": 11,
+        "uri": "spotify:track:6MTtOV150uwitRZz4anI2h",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c5663e50de353981ed2b1a37"
+    },
+    "The Book of Boba Fett - From \"The Book of Boba Fett\"": {
+        "artists": "Ludwig Goransson",
+        "duration_ms": 175699,
+        "explicit": false,
+        "id": "1YGJWCGQq7YduP7ENxgCJC",
+        "name": "The Book of Boba Fett - From \"The Book of Boba Fett\"",
+        "popularity": 67,
+        "preview_url": null,
+        "track_number": 1,
+        "uri": "spotify:track:1YGJWCGQq7YduP7ENxgCJC",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731bc2882c8d1a39f1a873de73"
+    },
+    "Ender's War": {
+        "artists": "Steve Jablonsky",
+        "duration_ms": 206933,
+        "explicit": false,
+        "id": "6E0JqlkJrLitJ0F1l6e1mm",
+        "name": "Ender's War",
+        "popularity": 50,
+        "preview_url": null,
+        "track_number": 1,
+        "uri": "spotify:track:6E0JqlkJrLitJ0F1l6e1mm",
+        "image": "https://i.scdn.co/image/ab67616d0000b273774cf34bb53aa8acdcaa6740"
     }
 }
