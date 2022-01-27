@@ -106,5 +106,17 @@
         "track_number": 11,
         "uri": "spotify:track:6MTtOV150uwitRZz4anI2h",
         "image": "https://i.scdn.co/image/ab67616d0000b273c5663e50de353981ed2b1a37"
+    },
+    "The Book of Boba Fett - From \"The Book of Boba Fett\"": {
+        "artists": "Ludwig Goransson",
+        "duration_ms": 175699,
+        "explicit": false,
+        "id": "1YGJWCGQq7YduP7ENxgCJC",
+        "name": "The Book of Boba Fett - From \"The Book of Boba Fett\"",
+        "popularity": 67,
+        "preview_url": null,
+        "track_number": 1,
+        "uri": "spotify:track:1YGJWCGQq7YduP7ENxgCJC",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731bc2882c8d1a39f1a873de73"
     }
 }
