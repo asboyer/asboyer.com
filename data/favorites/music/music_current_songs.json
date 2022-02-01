@@ -130,5 +130,65 @@
         "track_number": 1,
         "uri": "spotify:track:6E0JqlkJrLitJ0F1l6e1mm",
         "image": "https://i.scdn.co/image/ab67616d0000b273774cf34bb53aa8acdcaa6740"
+    },
+    "Walkin": {
+        "artists": "Denzel Curry",
+        "duration_ms": 280004,
+        "explicit": true,
+        "id": "646sbFnyVg1trhqqxqFUJg",
+        "name": "Walkin",
+        "popularity": 71,
+        "preview_url": null,
+        "track_number": 1,
+        "uri": "spotify:track:646sbFnyVg1trhqqxqFUJg",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737d9cdf225d71c12d19cf68a5"
+    },
+    "Main Title (The Godfather Waltz)": {
+        "artists": "Nino Rota",
+        "duration_ms": 185466,
+        "explicit": false,
+        "id": "3WoSJF85H0qywD4qLp4HDd",
+        "name": "Main Title (The Godfather Waltz)",
+        "popularity": 56,
+        "preview_url": null,
+        "track_number": 1,
+        "uri": "spotify:track:3WoSJF85H0qywD4qLp4HDd",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a0fc6fd292bab2be473cbabe"
+    },
+    "Happy Pills": {
+        "artists": "Paul Leonard-Morgan",
+        "duration_ms": 272920,
+        "explicit": false,
+        "id": "7iHbHnQFEb8vJPeDZBwR0k",
+        "name": "Happy Pills",
+        "popularity": 34,
+        "preview_url": null,
+        "track_number": 25,
+        "uri": "spotify:track:7iHbHnQFEb8vJPeDZBwR0k",
+        "image": "https://i.scdn.co/image/ab67616d0000b27379483e92873b450e21bd3e8c"
+    },
+    "Nonstop": {
+        "artists": "Drake",
+        "duration_ms": 238614,
+        "explicit": true,
+        "id": "0TlLq3lA83rQOYtrqBqSct",
+        "name": "Nonstop",
+        "popularity": 80,
+        "preview_url": null,
+        "track_number": 2,
+        "uri": "spotify:track:0TlLq3lA83rQOYtrqBqSct",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5"
+    },
+    "The Electro Suite": {
+        "artists": "Hans Zimmer, The Magnificent Six, Pharrell Williams, Johnny Marr",
+        "duration_ms": 756106,
+        "explicit": false,
+        "id": "7MyNaeme4s4l9MfBjRHRe6",
+        "name": "The Electro Suite",
+        "popularity": 54,
+        "preview_url": "https://p.scdn.co/mp3-preview/c5f9c1a69628df3117fbd8915fb57862659c53e0?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 21,
+        "uri": "spotify:track:7MyNaeme4s4l9MfBjRHRe6",
+        "image": "https://i.scdn.co/image/ab67616d0000b273aedd0ee1a89b21cd9da5c9b3"
     }
 }
