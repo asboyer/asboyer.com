@@ -70,5 +70,19 @@
             "replay_value": 0.0
         },
         "asboyer_score": 0.0
+    },
+    "Mad Men": {
+        "id": "0804503",
+        "title": "Mad Men",
+        "image": "http://image.tmdb.org/t/p/original/vSmz16JRjaLkALDUbzAFCkpw4V9.jpg",
+        "rating": 8.6,
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     }
 }
