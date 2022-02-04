@@ -46,15 +46,15 @@ $(document).ready(function(){
             var artist_length = ""
             var title_length = ""
             var styles = ""
-            if(values.name == "The Search" || values.name == "Whole Lotta Red" || values.name == "From Me To You" || values.name == "The College Dropout" || values.name == "Thats What They All Say") {
-                tracklist += '-long'
-            }
-            // do something special if just one album
-            if(values.name == "Donda" || values.name == "The Life Of Pablo" || values.name == "Scorpion") {
-                tracklist += '-rlong'
-                artist_length = "-long"
-                title_length = "-long"
-            }
+            // if(values.name == "The Search" || values.name == "Whole Lotta Red" || values.name == "From Me To You" || values.name == "The College Dropout" || values.name == "Thats What They All Say") {
+            //     tracklist += '-long'
+            // }
+            // // do something special if just one album
+            // if(values.name == "Donda" || values.name == "The Life Of Pablo" || values.name == "Scorpion") {
+            //     tracklist += '-rlong'
+            //     artist_length = "-long"
+            //     title_length = "-long"
+            // }
             track_style = ""
             top_tracks = false
             if (values.top_tracks.length == 0) top_tracks = true;
@@ -77,12 +77,17 @@ $(document).ready(function(){
                     <p class="artist" style="${track_style}; font-size: 10px"=>${values.score}</p>
                     <div class="the-tracks" style="${track_style}">
                         <ul class="tracklist${tracklist}">
-                        <li class="tracks${tracklist}">Top Tracks:</li>
+                        <li class="tracks${tracklist}">A Few Top Tracks:</li>
             `
             var track_list = ''
-            for (let i = 0; i < values.top_tracks.length; i++) {
+            top_tracks = values.top_tracks
+            shuffle(top_tracks)
+            if (top_tracks.length > 3){
+                top_tracks = top_tracks.slice(0, 4)
+            }
+            for (let i = 0; i < top_tracks.length; i++) {
                 track_list += `
-                            <li>${values.top_tracks[i].split("- Including")[0]}</li>
+                            <li>${top_tracks[i].split("- Including")[0]}</li>
                             `
             }
             var album_div_end = `

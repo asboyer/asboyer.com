@@ -33,6 +33,13 @@ $(document).ready(function(){
             var style = ""
             // make an array of these albums for nowarp, same with small font
             // check length of title and then add special css
+            artists = values.artists.split(',')
+            if (artists.length > 3){
+                artist_string = 'Various Artists'
+            }
+            else {
+                artist_string = values.artists
+            }
             var album_div = 
             ` 
             <div class="song__container">
@@ -41,7 +48,7 @@ $(document).ready(function(){
                 <div class="song_overlay">
                     <div class="album-text">
                         <p class="song-title" style="${style}">${values.name.split('(')[0].split(' (with')[0].split(' (Main')[0].split("- From")[0]}</p>
-                        <p class="song-artist">${values.artists}</p>
+                        <p class="song-artist">${artist_string}</p>
                     </div>
                 </div>
                 </a>
