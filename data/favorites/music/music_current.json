@@ -35,27 +35,21 @@
         "total_tracks": 16,
         "uri": "spotify:album:2nLOHgzXzwFEpl62zAgCEC",
         "image": "https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
+        "top_tracks": [
             "Dawn FM",
             "Gasoline",
             "How Do I Make You Love Me?",
             "Take My Breath",
             "Sacrifice",
-            "A Tale By Quincy",
             "Out of Time",
-            "Here We Go\u2026 Again (feat. Tyler, the Creator)",
-            "Best Friends",
-            "Is There Someone Else?",
-            "Starry Eyes",
-            "Every Angel is Terrifying",
             "Don\u2019t Break My Heart",
-            "I Heard You\u2019re Married (feat. Lil Wayne)",
-            "Less Than Zero",
-            "Phantom Regret by Jim"
-        ]
+            "Less Than Zero"
+        ],
+        "good_tracks": [
+            "Is There Someone Else?",
+            "Starry Eyes"
+        ],
+        "score": 5.89
     },
     "Minecraft - Volume Alpha": {
         "artists": "C418",
@@ -66,14 +60,10 @@
         "total_tracks": 24,
         "uri": "spotify:album:3Gt7rOjcZQoHCfnKl5AkK7",
         "image": "https://i.scdn.co/image/ab67616d0000b273aaeb5c9fb6131977995b7f0e",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
+        "top_tracks": [
             "Key",
             "Door",
             "Subwoofer Lullaby",
-            "Death",
             "Living Mice",
             "Moog City",
             "Haggstrom",
@@ -85,16 +75,15 @@
             "Wet Hands",
             "Clark",
             "Chris",
-            "Thirteen",
-            "Excuse",
             "Sweden",
-            "Cat",
-            "Dog",
-            "Danny",
-            "Beginning",
-            "Droopy Likes Ricochet",
-            "Droopy Likes Your Face"
-        ]
+            "Danny"
+        ],
+        "good_tracks": [
+            "Death",
+            "Excuse",
+            "Beginning"
+        ],
+        "score": 7.56
     },
     "The Bends": {
         "artists": "Radiohead",
