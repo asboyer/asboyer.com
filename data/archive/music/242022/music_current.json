@@ -1,0 +1,143 @@
+{
+    "Certified Lover Boy": {
+        "artists": "Drake",
+        "id": "3SpBlxme9WbeQdI9kx7KAV",
+        "name": "Certified Lover Boy",
+        "popularity": 96,
+        "release_date": "2021-09-03",
+        "total_tracks": 21,
+        "uri": "spotify:album:3SpBlxme9WbeQdI9kx7KAV",
+        "image": "https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f",
+        "top_tracks": [
+            "Champagne Poetry",
+            "Papi\u2019s Home",
+            "Fair Trade (with Travis Scott)",
+            "Way 2 Sexy (with Future & Young Thug)",
+            "TSU",
+            "Knife Talk (with 21 Savage ft. Project Pat)",
+            "IMY2 (with Kid Cudi)"
+        ],
+        "good_tracks": [
+            "Love All (with JAY-Z)",
+            "N 2 Deep",
+            "No Friends In The Industry",
+            "Race My Mind"
+        ],
+        "score": 4.92
+    },
+    "LIVE LIFE FAST": {
+        "artists": "Roddy Ricch",
+        "id": "1eVrpJbHRLBbioB9sb5b94",
+        "name": "LIVE LIFE FAST",
+        "popularity": 0,
+        "release_date": "2021-12-17",
+        "total_tracks": 18,
+        "uri": "spotify:album:1eVrpJbHRLBbioB9sb5b94",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738007e1fcf108e4270b6df942",
+        "top_tracks": [
+            "thailand",
+            "moved to miami (feat. Lil Baby)",
+            "25 million"
+        ],
+        "good_tracks": [
+            "llf",
+            "all good (feat. Future)",
+            "slow it down (feat. Ty Dolla $ign & Alex Isley)"
+        ],
+        "score": 2.86
+    },
+    "3.15.20": {
+        "artists": "Childish Gambino",
+        "id": "600ClrWRsAr7jZ0qjaBLHz",
+        "name": "3.15.20",
+        "popularity": 62,
+        "release_date": "2020-03-22",
+        "total_tracks": 12,
+        "uri": "spotify:album:600ClrWRsAr7jZ0qjaBLHz",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734c8974d1d37295694d7d4e8f",
+        "top_tracks": [
+            "Algorhythm",
+            "Time (feat. Ariana Grande)",
+            "12.38 (feat. 21 Savage, Ink & Kadhja Bonet)",
+            "19.10",
+            "42.26",
+            "53.49"
+        ],
+        "good_tracks": [
+            "0.00",
+            "24.19",
+            "35.31",
+            "47.48"
+        ],
+        "score": 7.78,
+        "tracks": []
+    },
+    "Sweet Action": {
+        "artists": "Jack Harlow",
+        "id": "7AaqMMiYMvnMB3RcS8u3EY",
+        "name": "Sweet Action",
+        "popularity": 74,
+        "release_date": "2020-03-13",
+        "total_tracks": 7,
+        "uri": "spotify:album:7AaqMMiYMvnMB3RcS8u3EY",
+        "image": "https://i.scdn.co/image/ab67616d0000b27305a448540b069450ccfba889",
+        "top_tracks": [
+            "WHATS POPPIN",
+            "2STYLISH",
+            "I WANNA SEE SOME ASS (feat. jetsonmade)",
+            "OUT FRONT",
+            "ONCE MAY COMES"
+        ],
+        "good_tracks": [
+            "SMELLS LIKE INCENSE"
+        ],
+        "score": 8.33
+    },
+    "OK Computer": {
+        "artists": "Radiohead",
+        "id": "6dVIqQ8qmQ5GBnJ9shOYGE",
+        "name": "OK Computer",
+        "popularity": 78,
+        "release_date": "1997-05-28",
+        "total_tracks": 12,
+        "uri": "spotify:album:6dVIqQ8qmQ5GBnJ9shOYGE",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+        "top_tracks": [
+            "Airbag",
+            "Paranoid Android",
+            "Subterranean Homesick Alien",
+            "Exit Music (For A Film)",
+            "Let Down",
+            "Karma Police",
+            "Climbing Up the Walls",
+            "No Surprises",
+            "Lucky",
+            "The Tourist"
+        ],
+        "good_tracks": [
+            "Fitter Happier",
+            "Electioneering"
+        ],
+        "score": 9.72
+    },
+    "In The Court Of The Crimson King (Expanded & Remastered Original Album Mix)": {
+        "artists": "King Crimson",
+        "id": "6tVg2Wl9hVKMpHYcAl2V2M",
+        "name": "In The Court Of The Crimson King (Expanded & Remastered Original Album Mix)",
+        "popularity": 61,
+        "release_date": "1969-10-10",
+        "total_tracks": 5,
+        "uri": "spotify:album:6tVg2Wl9hVKMpHYcAl2V2M",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730e36a62897cf3f5937bf9c16",
+        "top_tracks": [
+            "21st Century Schizoid Man - Including \"Mirrors\"",
+            "I Talk To The Wind",
+            "Epitaph - Including \"March for No Reason\" and \"Tomorrow and Tomorrow\"",
+            "Moonchild - Including \"The Dream\" and \"The Illusion\""
+        ],
+        "good_tracks": [
+            "The Court Of The Crimson King - Including \"The Return of the Fire Witch\" and \"The Dance of the Puppets\""
+        ],
+        "score": 9.43
+    }
+}

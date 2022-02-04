@@ -1,98 +1,4 @@
 {
-    "Certified Lover Boy": {
-        "artists": "Drake",
-        "id": "3SpBlxme9WbeQdI9kx7KAV",
-        "name": "Certified Lover Boy",
-        "popularity": 96,
-        "release_date": "2021-09-03",
-        "total_tracks": 21,
-        "uri": "spotify:album:3SpBlxme9WbeQdI9kx7KAV",
-        "image": "https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f",
-        "top_tracks": [
-            "Champagne Poetry",
-            "Papi\u2019s Home",
-            "Fair Trade (with Travis Scott)",
-            "Way 2 Sexy (with Future & Young Thug)",
-            "TSU",
-            "Knife Talk (with 21 Savage ft. Project Pat)",
-            "IMY2 (with Kid Cudi)"
-        ],
-        "good_tracks": [
-            "Love All (with JAY-Z)",
-            "N 2 Deep",
-            "No Friends In The Industry",
-            "Race My Mind"
-        ],
-        "score": 4.92
-    },
-    "LIVE LIFE FAST": {
-        "artists": "Roddy Ricch",
-        "id": "1eVrpJbHRLBbioB9sb5b94",
-        "name": "LIVE LIFE FAST",
-        "popularity": 0,
-        "release_date": "2021-12-17",
-        "total_tracks": 18,
-        "uri": "spotify:album:1eVrpJbHRLBbioB9sb5b94",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738007e1fcf108e4270b6df942",
-        "top_tracks": [
-            "thailand",
-            "moved to miami (feat. Lil Baby)",
-            "25 million"
-        ],
-        "good_tracks": [
-            "llf",
-            "all good (feat. Future)",
-            "slow it down (feat. Ty Dolla $ign & Alex Isley)"
-        ],
-        "score": 2.86
-    },
-    "3.15.20": {
-        "artists": "Childish Gambino",
-        "id": "600ClrWRsAr7jZ0qjaBLHz",
-        "name": "3.15.20",
-        "popularity": 62,
-        "release_date": "2020-03-22",
-        "total_tracks": 12,
-        "uri": "spotify:album:600ClrWRsAr7jZ0qjaBLHz",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734c8974d1d37295694d7d4e8f",
-        "top_tracks": [
-            "Algorhythm",
-            "Time (feat. Ariana Grande)",
-            "12.38 (feat. 21 Savage, Ink & Kadhja Bonet)",
-            "19.10",
-            "42.26",
-            "53.49"
-        ],
-        "good_tracks": [
-            "0.00",
-            "24.19",
-            "35.31",
-            "47.48"
-        ],
-        "score": 7.78,
-        "tracks": []
-    },
-    "Sweet Action": {
-        "artists": "Jack Harlow",
-        "id": "7AaqMMiYMvnMB3RcS8u3EY",
-        "name": "Sweet Action",
-        "popularity": 74,
-        "release_date": "2020-03-13",
-        "total_tracks": 7,
-        "uri": "spotify:album:7AaqMMiYMvnMB3RcS8u3EY",
-        "image": "https://i.scdn.co/image/ab67616d0000b27305a448540b069450ccfba889",
-        "top_tracks": [
-            "WHATS POPPIN",
-            "2STYLISH",
-            "I WANNA SEE SOME ASS (feat. jetsonmade)",
-            "OUT FRONT",
-            "ONCE MAY COMES"
-        ],
-        "good_tracks": [
-            "SMELLS LIKE INCENSE"
-        ],
-        "score": 8.33
-    },
     "OK Computer": {
         "artists": "Radiohead",
         "id": "6dVIqQ8qmQ5GBnJ9shOYGE",
@@ -120,89 +26,101 @@
         ],
         "score": 9.72
     },
-    "In The Court Of The Crimson King (Expanded & Remastered Original Album Mix)": {
-        "artists": "King Crimson",
-        "id": "6tVg2Wl9hVKMpHYcAl2V2M",
-        "name": "In The Court Of The Crimson King (Expanded & Remastered Original Album Mix)",
-        "popularity": 61,
-        "release_date": "1969-10-10",
-        "total_tracks": 5,
-        "uri": "spotify:album:6tVg2Wl9hVKMpHYcAl2V2M",
-        "image": "https://i.scdn.co/image/ab67616d0000b2730e36a62897cf3f5937bf9c16",
-        "top_tracks": [
-            "21st Century Schizoid Man - Including \"Mirrors\"",
-            "I Talk To The Wind",
-            "Epitaph - Including \"March for No Reason\" and \"Tomorrow and Tomorrow\"",
-            "Moonchild - Including \"The Dream\" and \"The Illusion\""
-        ],
-        "good_tracks": [
-            "The Court Of The Crimson King - Including \"The Return of the Fire Witch\" and \"The Dance of the Puppets\""
-        ],
-        "score": 9.43
-    },
-    "Kid A": {
-        "artists": "Radiohead",
-        "id": "6GjwtEZcfenmOf6l18N7T7",
-        "name": "Kid A",
-        "popularity": 69,
-        "release_date": "2000-10-02",
-        "total_tracks": 11,
-        "uri": "spotify:album:6GjwtEZcfenmOf6l18N7T7",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
-        "top_tracks": [
-            "Everything In Its Right Place",
-            "Kid A",
-            "How to Disappear Completely",
-            "Optimistic",
-            "In Limbo"
-        ],
-        "good_tracks": [
-            "The National Anthem",
-            "Treefingers"
-        ],
-        "score": 0.0,
-        "tracks": [
-            "Idioteque",
-            "Morning Bell",
-            "Motion Picture Soundtrack",
-            "Untitled"
-        ]
-    },
-    "Madvillainy": {
-        "artists": "Madvillain, Madlib, MF DOOM",
-        "id": "19bQiwEKhXUBJWY6oV3KZk",
-        "name": "Madvillainy",
-        "popularity": 75,
-        "release_date": "2004-03-24",
-        "total_tracks": 22,
-        "uri": "spotify:album:19bQiwEKhXUBJWY6oV3KZk",
-        "image": "https://i.scdn.co/image/ab67616d0000b27374dc897ea75402db37ef239a",
+    "Dawn FM": {
+        "artists": "The Weeknd",
+        "id": "2nLOHgzXzwFEpl62zAgCEC",
+        "name": "Dawn FM",
+        "popularity": 100,
+        "release_date": "2022-01-06",
+        "total_tracks": 16,
+        "uri": "spotify:album:2nLOHgzXzwFEpl62zAgCEC",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d",
         "top_tracks": [],
         "good_tracks": [],
         "score": 0.0,
         "tracks": [
-            "The Illest Villains",
-            "Accordion",
-            "Meat Grinder",
-            "Bistro",
-            "Raid",
-            "America's Most Blunted",
-            "Sickfit",
-            "Rainbows",
-            "Curls",
-            "Do Not Fire!",
-            "Money Folder",
-            "Shadows of Tomorrow",
-            "Operation Lifesaver aka Mint Test",
-            "Figaro",
-            "Hardcore Hustle",
-            "Strange Ways",
-            "Fancy Clown",
-            "Eye",
-            "Supervillain Theme",
-            "All Caps",
-            "Great Day",
-            "Rhinestone Cowboy"
+            "Dawn FM",
+            "Gasoline",
+            "How Do I Make You Love Me?",
+            "Take My Breath",
+            "Sacrifice",
+            "A Tale By Quincy",
+            "Out of Time",
+            "Here We Go\u2026 Again (feat. Tyler, the Creator)",
+            "Best Friends",
+            "Is There Someone Else?",
+            "Starry Eyes",
+            "Every Angel is Terrifying",
+            "Don\u2019t Break My Heart",
+            "I Heard You\u2019re Married (feat. Lil Wayne)",
+            "Less Than Zero",
+            "Phantom Regret by Jim"
+        ]
+    },
+    "Minecraft - Volume Alpha": {
+        "artists": "C418",
+        "id": "3Gt7rOjcZQoHCfnKl5AkK7",
+        "name": "Minecraft - Volume Alpha",
+        "popularity": 78,
+        "release_date": "2011-03-04",
+        "total_tracks": 24,
+        "uri": "spotify:album:3Gt7rOjcZQoHCfnKl5AkK7",
+        "image": "https://i.scdn.co/image/ab67616d0000b273aaeb5c9fb6131977995b7f0e",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Key",
+            "Door",
+            "Subwoofer Lullaby",
+            "Death",
+            "Living Mice",
+            "Moog City",
+            "Haggstrom",
+            "Minecraft",
+            "Oxyg\u00e8ne",
+            "\u00c9quinoxe",
+            "Mice On Venus",
+            "Dry Hands",
+            "Wet Hands",
+            "Clark",
+            "Chris",
+            "Thirteen",
+            "Excuse",
+            "Sweden",
+            "Cat",
+            "Dog",
+            "Danny",
+            "Beginning",
+            "Droopy Likes Ricochet",
+            "Droopy Likes Your Face"
+        ]
+    },
+    "The Bends": {
+        "artists": "Radiohead",
+        "id": "35UJLpClj5EDrhpNIi4DFg",
+        "name": "The Bends",
+        "popularity": 77,
+        "release_date": "1995-03-13",
+        "total_tracks": 12,
+        "uri": "spotify:album:35UJLpClj5EDrhpNIi4DFg",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Planet Telex",
+            "The Bends",
+            "High and Dry",
+            "Fake Plastic Trees",
+            "Bones",
+            "(Nice Dream)",
+            "Just",
+            "My Iron Lung",
+            "Bullet Proof ... I Wish I Was",
+            "Black Star",
+            "Sulk",
+            "Street Spirit (Fade Out)"
         ]
     }
 }
