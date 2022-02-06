@@ -16,7 +16,7 @@
         </h3>  
 
         <h3 class="post-date">
-            9.10.21
+            2.7.22
         </h3>  
         
     </div>
@@ -27,7 +27,7 @@
     <br>
     ---
     <br>
-    During February of 2021, one year ago, I created a website where I used Python, HTML (no CSS because I was lazy), and data from <a href="https://www.basketball-reference.com/" target="_blank">Basketball Reference</a> to rank NBA players based on their in-game statistics and display my rankings online. After I uploaded it to the internet, I didn't think too much of it. A few months later, the NBA MVP finalists were announced. To my surprise, my algorithm predicted the top <a href="https://www.nba.com/news/kia-mvp-ladder-nikola-jokic-finishes-no-1-among-pack-of-contenders" target="_blank">two front runners</a> in the race for most valuable player. After <a href="https://www.nba.com/kia-mvp/2021-nikola-jokic" target="_blank">Nikola Jokic</a> was announced the league MVP, it became official: a program I wrote in a weekend had predicted which player was going to win MVP months before the finalists were even announced. This is the story of how I built <a href="https://goatgrade.com" target="_blank">Goat Grade</a>, my current plans to improve it, and why my prediction may have actually been a total fluke after all.
+    During February of 2021, one year ago, I created a website where I used data from <a href="https://www.basketball-reference.com/" target="_blank">Basketball Reference</a> and Python to rank NBA players based on their in-game statistics and display my rankings online. After I uploaded it to the internet, I didn't think too much of it. A few months later, the NBA MVP finalists were announced. To my surprise, my algorithm predicted the top <a href="https://www.nba.com/news/kia-mvp-ladder-nikola-jokic-finishes-no-1-among-pack-of-contenders" target="_blank">two front runners</a> in the race for most valuable player. After <a href="https://www.nba.com/kia-mvp/2021-nikola-jokic" target="_blank">Nikola Jokic</a> was announced the league MVP, it became official: a program I wrote in a weekend had predicted which player was going to win MVP months before the finalists were even announced. This is the story of how I built <a href="https://goatgrade.com" target="_blank">Goat Grade</a>, my current plans to improve it, and why my prediction may have actually been a total fluke after all.
 </p>
 
 <div class="post-line" style="margin-bottom: 20px"></div>
@@ -139,6 +139,21 @@ headers = headers[1:]
     Would you look at that! All the data is there, we just need to clean it up by getting rid of all the html code. I extract the data and store it in the <code class="language-python">stats</code> dictionary by looping through each row,  
 </p>
 
+
+<div class="code-block">
+<pre><code class="language-python">stats = {}
+
+for i in range(len(rows)):
+    tds = rows[i].findAll('td')
+    if len(tds) > 0:
+        h = 0
+        name = tds[0].getText()
+        stats[name] = {}
+        for td in tds:
+            stats[name][headers[h]] = td.getText()
+            h += 1
+</code></pre>
+</div>
 
 <div class="post-line"></div>
 
