@@ -23,11 +23,11 @@
 
 <div class="post-content">
 <p class="post-text-intro" id="preface">
-    My sincerest apologies for my absence on this blog, other things have been eating up my time. Thank you to everyone who supported the <a href="https://asboyer.com/blog/0" target="_blank">last post</a>. <i>Way</i> bigger things are coming soon. Stay tuned for some more posts this month. It is my goal to get a post up every other Monday. Without further ado, on with the highly anticipated story behind <a href="https://goatgrade.com" target="_blank">Goat Grade</a>.
+    My sincerest apologies for my absence on this blog, other things have been eating up my time. Thank you to everyone who supported the <a href="https://asboyer.com/blog/0" target="_blank">last post</a>. <i>Way</i> bigger things are coming soon. It is my goal to get a post up every other Monday. Without further ado, on with the highly anticipated story behind <a href="https://goatgrade.com" target="_blank">Goat Grade</a>.
     <br>
     ---
     <br>
-    During February of 2021, one year ago, I created a website where I used data from <a href="https://www.basketball-reference.com/" target="_blank">Basketball Reference</a> and Python to rank NBA players based on their in-game statistics and display my rankings online. After I uploaded it to the internet, I didn't think too much of it. A few months later, the NBA MVP finalists were announced. To my surprise, my algorithm predicted the top <a href="https://www.nba.com/news/kia-mvp-ladder-nikola-jokic-finishes-no-1-among-pack-of-contenders" target="_blank">two front runners</a> in the race for most valuable player. After <a href="https://www.nba.com/kia-mvp/2021-nikola-jokic" target="_blank">Nikola Jokic</a> was announced the league MVP, it became official: a program I wrote in a weekend had predicted which player was going to win MVP months before the finalists were even announced. This is the story of how I built <a href="https://goatgrade.com" target="_blank">Goat Grade</a>, my current plans to improve it, and why my prediction may have actually been a total fluke after all.
+    During February of 2021, one year ago, I created a website where I used data from <a href="https://www.basketball-reference.com/" target="_blank">Basketball Reference</a> and Python to rank NBA players based on their statistics and display my rankings online. After I uploaded my rankings to the internet, I didn't think too much of it. A few months later, the NBA MVP finalists were announced. To my surprise, my algorithm predicted the top <a href="https://www.nba.com/news/kia-mvp-ladder-nikola-jokic-finishes-no-1-among-pack-of-contenders" target="_blank">two front runners</a> in the race for most valuable player. After <a href="https://www.nba.com/kia-mvp/2021-nikola-jokic" target="_blank">Nikola Jokic</a> was announced the league MVP, it became official: a program I wrote in a weekend had predicted the league MVP months before the finalists were even announced. This is the story of how I built <a href="https://goatgrade.com" target="_blank">Goat Grade</a> and why my prediction may have actually been a total fluke after all.
 </p>
 
 <div class="post-line" style="margin-bottom: 20px"></div>
@@ -35,32 +35,40 @@
 <h3 class="post-text-header" id="beginnings"><a href="/blog/1#beginnings">Beginnings</a></h3>
 
 <p class="post-text">
-    The inspiration behind this project came in multiple ways. I had just finished the first half of my junior year of high school, and was looking for a new project to work on.
+    The inspiration behind this project came in multiple ways. I had just finished the first half of my junior year of high school and was looking for a new project to work on.
     <br>
-    Earlier that year, I officially released <a href="https://github.com/asboyer/reporty" target="_blank">Reporty</a>, a Python library designed for organizing and distributing visual data. The library takes data sets or figures that you pass in to it and generates an HTML page with those figures. You also have the option to send that page in an email, and even send it in an embedded email <a class="footnote-link" href="#footnote1" id="footlink1">[1]</a>. After things were slowing down for this project, I wanted to get started something on new. Building Reporty, with the help of a close friend and mentor <a class="footnote-link" href="#footnote2" id="footlink2">[2]</a>, had given me a solid introduction into the world of <a href="https://en.wikipedia.org/wiki/Data_science#:~:text=Data%20science%20is%20an%20interdisciplinary,broad%20range%20of%20application%20domains." target="_blank">data science</a>. Still, I hadn't quite undertaken a project where I actually organized, cleaned, and modeled data from a real data set. Reporty was about taking figures that were already made with existing (or even fake) data and organizing them into a nice web page that our library generated <a class="footnote-link" href="#footnote3" id="footlink3">[3]</a>.
+    Earlier that year, I released <a href="https://github.com/asboyer/reporty" target="_blank">Reporty</a>, a Python library with tools designed for organizing and distributing visual data. The library takes in data sets or figures and generates an HTML page with said figures. There is also an option to send that page embedded in an email <a class="footnote-link" href="#footnote1" id="footlink1">[1]</a>. 
     <br>
-    I contacted a friend from Boise, Idaho <a class="footnote-link" href="#footnote4" id="footlink4">[4]</a>, and asked him if he wanted to collaborate. We didn't have any particular idea of what we wanted to do at first, other than the project obviously had to be cool. We bounced around a few ideas, and lingered on the subject of web scraping, which both of us were mostly unfamiliar with. But, what better way to learn than through a building a project? We zeroed in on scraping basketball statistics, and using that data and an algorithm to generate some kind of fun set of predictions. 
+    After wrapping up that project, I wanted to get started on something new. Building Reporty, with some help from my mentor <a class="footnote-link" href="#footnote2" id="footlink2">[2]</a>, had given me a solid introduction into the world of <a href="https://en.wikipedia.org/wiki/Data_science" target="_blank">data science</a>. Still, I hadn't quite undertaken a project where I actually organized, cleaned, and modeled data from a real data set. Reporty used figures that were <i>already</i> made with existing (or even fake) data <a class="footnote-link" href="#footnote3" id="footlink3">[3]</a>.
+    <br>
+    So, I contacted a friend from Boise, Idaho <a class="footnote-link" href="#footnote4" id="footlink4">[4]</a>, and asked him if he wanted to collaborate on some kind of data science project. At first, we didn't have any particular idea of what we wanted to do. We bounced around a few ideas and lingered on the subject of web scraping, which both of us interested in, but unfamiliar with. What better way to learn than through building a project? We zeroed in on scraping basketball statistics and using that data to generate some kind of fun set of predictions. We frequently debated who the best basketball player in the world was, so why not settle this debate with some cold hard evidence. The idea of "Goat" (standing for "Greatest of All Time") Grade was born.
 </p>
 <br>
 <h3 class="post-text-header" id="webscraping"><a href="/blog/1#webscraping">Scraping the data</a></h3>
 
 
 <p class="post-text">
-    Before we talk about how we scraped the statistics, allow me to explain "web scraping" in simple terms. 
+    Before we talk about how we scraped the statistics, allow me to explain "<a href="https://en.wikipedia.org/wiki/Web_scraping" target="_blank">web scraping</a>" in simple terms. 
     <br>
     As we all know, the Internet contains almost an unlimited amount information. Whether its Chic-Fil-A's hours on Sunday or the <em>Ocean's Eleven</em> IMDb rating, the information we seek is somewhere on a computer connected to the internet, a simple Google search away. 
     <br>
-    But, what if we could automate this process? Is it really possible to write a program to get the <em>Ocean's Eleven</em> rating without even leaving your terminal? Could it also alert me anytime the rating changes? The answer to these questions is absolutely, thanks to web scraping, which is simply a technique to automate the process of finding information on a website <a class="footnote-link" href="#footnote5" id="footlink5">[5]</a>.
+    But, what if we could automate this process? Is it really possible to write a program to get the <em>Ocean's Eleven</em> rating without even leaving your terminal? Could it also alert me anytime the rating changes? The answer to these questions is absolutely, thanks to web scraping, which is a technique used to automate the process of extracting data from a website <a class="footnote-link" href="#footnote5" id="footlink5">[5]</a>.
     <br>
-    Okay, so now that we know what web scraping is, <i>how</i> do we actually do it with Python? Thanks to some useful libraries, its quite simple. We know that the Basketball Refrence page looks like this:
+    Okay, so now that we know what web scraping is, <i>how</i> do we actually do it with Python? Thanks to some useful libraries, its quite simple. 
+    <br>
+    In our case, we wanted to scrape statistics from <a href="https://www.basketball-reference.com/" target="_blank">Basketball Reference</a>. We knew that the player statistics page looked like this:
     </p>
     <a class="post-link" style="width: 80%" href="https://www.basketball-reference.com/leagues/NBA_2021_per_game.html" target="_blank">
         <img  src="/static/img/blog/python-mvp/refrence.png">
     </a>
-    <figcaption>NBA 2021 Statistics</figcaption>
+    <figcaption>Screenshot from Basketball Reference</figcaption>
     <br>
     <p class="post-text">
-    The following code <a class="footnote-link" href="#footnote6" id="footlink6">[6]</a> imports the <a href="https://docs.python.org/3/library/urllib.html" target="_blank">urllib</a> and <a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank">Beautiful Soup</a> Python modules, opens the website that has the information we want, in this case, <a href="https://www.basketball-reference.com/" target="_blank">Basketball Reference</a> and parses through the html. First, I extract all of the headers and put them into a list.
+        The data is displayed in a table format, where each row contains a specific player's stats. The table headers are the categories and the table rows are the statistics.
+    </p>
+    <br>
+    <p class="post-text">
+    The following code <a class="footnote-link" href="#footnote6" id="footlink6">[6]</a> imports the <a href="https://docs.python.org/3/library/urllib.html" target="_blank">urllib</a> and <a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank">Beautiful Soup</a> Python modules, visits the website, and parses through the HTML. The code extracts all of the headers and stores them in a list.
 
 </p>
 
@@ -85,7 +93,7 @@ headers = headers[1:]
 </div>
 
 <p class="post-text">
-    After we've collected all the headers (the statistical categories we are interested in), we need to gather the actual data, which is stored in the table rows. We can easily get the html code for each row with <a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank">Beautiful Soup</a>!
+    After we collected all the headers (the statistical categories we were interested in), we needed to gather the actual data, which was stored in the table rows. <a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank">Beautiful Soup</a> made it easy to scrape the HTML code for each row. 
 </p>
 
 <div class="code-block">
@@ -94,7 +102,7 @@ headers = headers[1:]
 </div>
 
 <p class="post-text">
-    The <code class="language-python">rows</code> list contains all of the html code for each row in the table. A single item from this list would look like this:
+    The <code class="language-python">rows</code> list contains all of the HTML code for each row in the table. A single item from this list would look like this:
 </p>
 
 <div class="code-block">
@@ -136,7 +144,7 @@ headers = headers[1:]
 </div>
 
 <p class="post-text">
-    Would you look at that! All the data is there, we just need to clean it up by getting rid of all the html code. I extract the data and store it in the <code class="language-python">stats</code> dictionary by looping through each row,  
+    Would you look at that! All the data is there, we just needed to clean it up by getting rid of all the HTML code. I extracted the data and stored it in the <code class="language-python">stats</code> dictionary by looping through each row and extracting all the text between the <code class="language-html">&lt;td&gt;</code> tags, which defines a standard cell in an HTML table. Then, I create a new sub-dictionary for each player and fill each category in the <code class="language-python">headers</code> list with the player's data.
 </p>
 
 
@@ -155,11 +163,188 @@ for i in range(len(rows)):
 </code></pre>
 </div>
 
+<p class="post-text">
+    The <code class="language-python">stats</code> dictionary now contains every player's statistics, neatly organized in the format we want <a class="footnote-link" href="#footnote7" id="footlink7">[7]</a>. Here is what <code class="language-python">stats["Kevin Durant"]</code> would look like:
+</p>
+
+<div class="code-block">
+<pre><code class="language-json">{
+    'Player': 'Kevin Durant',
+    'Pos': 'PF',
+    'Age': '32',
+    'Tm': 'BRK',
+    'G': '35',
+    'GS': '32',
+    'MP': '33.1',
+    'FG': '9.3',
+    'FGA': '17.2',
+    'FG%': '.537',
+    '3P': '2.4',
+    '3PA': '5.4',
+    '3P%': '.450',
+    '2P': '6.8',
+    '2PA': '11.8',
+    '2P%': '.577',
+    'eFG%': '.608',
+    'FT': '6.0',
+    'FTA': '6.8',
+    'FT%': '.882',
+    'ORB': '0.4',
+    'DRB': '6.7',
+    'TRB': '7.1',
+    'AST': '5.6',
+    'STL': '0.7',
+    'BLK': '1.3',
+    'TOV': '3.4',
+    'PF': '2.0',
+    'PTS': '26.9'
+}
+</code></pre>
+</div>
+
+<p class="post-text">
+    All that remains is dumping this dictionary into a JSON file for storage and we can start working with our data.
+</p>
+
+<div class="code-block">
+<pre><code class="language-python">with open('stats.json', 'w+', encoding='utf8') as file:
+    file.write(json.dumps(stats, ensure_ascii=False, indent=4))
+</code></pre>
+</div>
+
+<p class="post-text">
+    This isn't all the data available to us. Basketball Reference also keeps <a href="https://www.basketball-reference.com/leagues/NBA_2021_advanced.html" target="_blank">advanced stats</a>. We can scrape this in the exact same way as before and then combine our data. Just change the url variable like so:
+</p>
+
+<div class="code-block">
+<pre><code class="language-python">url = f"https://www.basketball-reference.com/leagues/NBA_{year}_advanced.html"
+</code></pre>
+</div>
+
+<p class="post-text">
+    Now, we can combine our advanced stats with the regular stats like this: 
+</p>
+
+<div class="code-block">
+<pre><code class="language-python">for player in stats:
+    stats[player].update(advanced_stats[player])
+</code></pre>
+</div>
+
+<p class="post-text">
+    With the added categories, a single player's sub-dictionary looks like this:
+</p>
+
+<div class="code-block">
+<pre><code class="language-json">{
+    'Player': 'Kevin Durant',
+    'Pos': 'PF',
+    'Age': '32',
+    'Tm': 'BRK',
+    'G': '35',
+    'GS': '32',
+    'MP': '33.1',
+    'FG': '9.3',
+    'FGA': '17.2',
+    'FG%': '.537',
+    '3P': '2.4',
+    '3PA': '5.4',
+    '3P%': '.450',
+    '2P': '6.8',
+    '2PA': '11.8',
+    '2P%': '.577',
+    'eFG%': '.608',
+    'FT': '6.0',
+    'FTA': '6.8',
+    'FT%': '.882',
+    'ORB': '0.4',
+    'DRB': '6.7',
+    'TRB': '7.1',
+    'AST': '5.6',
+    'STL': '0.7',
+    'BLK': '1.3',
+    'TOV': '3.4',
+    'PF': '2.0',
+    'PTS': '26.9',
+    'TMP': '1157',
+    'PER': '26.4',
+    'TS%': '.666',
+    '3PAr': '.313',
+    'FTr': '.395',
+    'ORB%': '1.3',
+    'DRB%': '21.3',
+    'TRB%': '11.8',
+    'AST%': '27.5',
+    'STL%': '1.0',
+    'BLK%': '3.4',
+    'TOV%': '14.5',
+    'USG%': '31.2',
+    'OWS': '3.7',
+    'DWS': '1.2',
+    'WS': '5.0',
+    'WS/48': '.206',
+    'OBPM': '6.4',
+    'DBPM': '0.8',
+    'BPM': '7.2',
+    'VORP': '2.7'
+}
+</code></pre>
+</div>
+
+
+<h3 class="post-text-header" id="rankings"><a href="/blog/1#rankings">Ranking the players</a></h3>
+
+<p class="post-text">
+    We now need to develop some kind of algorithm to decide which player better is the best overall. The first step in doing this is discerning what statistical categories are actually important and what categories don't matter. I didn't really put too much thought into this. I'm definitely going to do some more research and tweak this algorithm later. The thirteen categories that I thought would be most important were:
+</p>
+<br>
+<ul class="blog_list">
+  <li>- points</li>
+  <li>- assists</li>
+  <li>- total rebounds</li>
+  <li>- field goal %</li>
+  <li>- free throw %</li>
+  <li>- three point %</li>
+  <li>- steals</li>
+  <li>- blocks</li>
+  <li>- minutes played</li>
+  <li>- player efficiency rating</li>
+  <li>- true shooting %</li>
+  <li>- win shares</li>
+  <li>- box plus/minus</li>
+
+
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div class="post-line"></div>
 
 
 <p class="footnote" id="footnote1">
-<a class="footnote-link" href="#footlink1">[1]</a> I am still currently working on Reporty. There may be a blog post in the near future explaining how I built it and what my plans are for the future of the library. Check out our <a href="https://github.com/asboyer/reporty" target="_blank">GitHub</a> and fork the repository if you would like to contribute!
+<a class="footnote-link" href="#footlink1">[1]</a> I am still improving Reporty. There may be a blog post in the near future explaining how I built it and what my plans are for the future of the library. Check out our <a href="https://github.com/asboyer/reporty" target="_blank">GitHub</a> and fork the repository if you would like to contribute!
 </p>
 
 <br>
@@ -171,7 +356,7 @@ for i in range(len(rows)):
 <br>
 
 <p class="footnote" id="footnote3">
-<a class="footnote-link" href="#footlink3">[3]</a> That being said, building <a href="https://github.com/asboyer/reporty" target="_blank">Reporty</a> taught me a lot about Python modules, image encoding and sending automated emails. Again, blog post on this project soon.
+<a class="footnote-link" href="#footlink3">[3]</a> That being said, building <a href="https://github.com/asboyer/reporty" target="_blank">Reporty</a> taught me a lot about Python modules, image encoding, and automated emails.
 </p>
 
 <br>
@@ -186,6 +371,11 @@ for i in range(len(rows)):
 <br>
 <p class="footnote" id="footnote6">
 <a href="#footlink6">[6]</a> I used some code from <a href="https://medium.com/analytics-vidhya/intro-to-scraping-basketball-reference-data-8adcaa79664a" target="_blank">this article</a> to get started.
+</p>
+<br>
+<p class="footnote" id="footnote7">
+<a class="footnote-link" href="#footlink7">[7]</a> Using a dictionary eliminates the duplicate players issue, which is caused by Basketball Reference having multiple rows for the same player if they switch teams mid-season. See the Basketball Reference screenshot. LaMarcus Aldridge has three rows because he played on the Spurs, Raptors, and Nets all in one season.
+</p>
 </div>
 
 
