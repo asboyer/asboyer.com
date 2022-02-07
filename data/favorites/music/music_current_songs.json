@@ -46,5 +46,17 @@
         "track_number": 3,
         "uri": "spotify:track:4h7qcXBtaOJnmrapxoWxGf",
         "image": "https://i.scdn.co/image/ab67616d0000b273e7e2dac6389a96d8086ae0fe"
+    },
+    "Moth To A Flame (with The Weeknd)": {
+        "artists": "Swedish House Mafia, The Weeknd",
+        "duration_ms": 234000,
+        "explicit": false,
+        "id": "3PHx91cSFc4vNVP7TpICVt",
+        "name": "Moth To A Flame (with The Weeknd)",
+        "popularity": 66,
+        "preview_url": null,
+        "track_number": 19,
+        "uri": "spotify:track:3PHx91cSFc4vNVP7TpICVt",
+        "image": "https://i.scdn.co/image/ab67616d0000b273753dbc62bec07d83b9dcf624"
     }
 }
