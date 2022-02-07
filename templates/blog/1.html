@@ -65,13 +65,13 @@
     <figcaption>Screenshot from Basketball Reference</figcaption>
     <br>
     <p class="post-text">
-        The data is displayed in a table, where each row contains a specific player's stats. The table headers contain the categories and the table rows contain the statistics.
+        The data is displayed in a table, where each row contains each player's stats. The table headers contain the categories and the table rows contain the statistics.
         <br>
-        Heads up, I'm going to be walking through the actual code I wrote for Goat Grade, how it works, and my thought process behind writing said code. If you want to follow along and build your own Goat Grade, make sure you have a decent grip on <a href="https://www.freecodecamp.org/news/introduction-to-computer-programming-and-computer-science-course/" target="_blank">programming fundamentals</a> and <a href="https://www.w3schools.com/python/" target="_blank">Python syntax</a>. If you're just here for the story, don't worry. Simply nod your head and pretend you understand the code.
+        Heads up, I'm going to be walking through the actual code I wrote for Goat Grade, how it works, and my thought process behind writing said code. If you want to follow along and build your own Goat Grade, make sure you have a decent grip on <a href="https://www.freecodecamp.org/news/introduction-to-computer-programming-and-computer-science-course/" target="_blank">programming fundamentals</a> and <a href="https://www.w3schools.com/python/" target="_blank">Python syntax</a>. If you're just here for the story, don't worry. Simply nod your head, pretend you understand, and gloss over the code.
     </p>
     <br>
     <p class="post-text">
-    Before we can make any predictions, we need data to base those predictions off of. To obtain this data, we use web scraping. 
+    Before we can make any predictions, we need data. To obtain this data, we use web scraping. 
     <br>
     The following code <a class="footnote-link" href="#footnote6" id="footlink6">[6]</a> imports the <a href="https://docs.python.org/3/library/urllib.html" target="_blank">urllib</a> and <a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank">Beautiful Soup</a> Python modules, visits the website, and parses through the HTML. The code extracts all of the headers and stores them in a list.
 
@@ -150,7 +150,7 @@ headers = headers[1:]
 </div>
 
 <p class="post-text">
-    Would you look at that! All the data is there, we just need to clean it up by getting rid of all the HTML code. In the code below, I extract the data and store it in the <code class="language-python">stats</code> dictionary by looping through each row and getting all the text between the <code class="language-html">&lt;td&gt;</code> tags, which defines a standard cell in an HTML table. Then, I created a new sub-dictionary for each player and fill each category in the <code class="language-python">headers</code> list with the player's data.
+    Would you look at that! All the data is there, we just need to clean it up by getting rid of all the HTML code.<br>Below I extract the data and store it in the <code class="language-python">stats</code> dictionary by looping through each row and getting all the text between the <code class="language-html">&lt;td&gt;</code> tags. Then, I created a new sub-dictionary for each player and fill each category in the <code class="language-python">headers</code> list with the player's data.
 </p>
 
 
@@ -220,7 +220,7 @@ with open("stats.json", "w+", encoding="utf8") as file:
 </div>
 
 <p class="post-text">
-    This isn't all the data available to us. Basketball Reference also keeps <a href="https://www.basketball-reference.com/leagues/NBA_2021_advanced.html" target="_blank">advanced stats</a>. We can scrape this in the exact same way as before and then combine the advanced statistics with the regular statistics. Just change the url variable like so:
+    There is a lot more data available to us. Basketball Reference keeps track of <a href="https://www.basketball-reference.com/leagues/NBA_2021_advanced.html" target="_blank">advanced stats</a>, giving us more data to base our predictions off of. We can scrape this in the exact same way as before and then combine the advanced statistics with the regular statistics. Just change the url variable like so:
 </p>
 
 <div class="code-block">
@@ -418,7 +418,7 @@ player_2_rankings = {
     "Overall rankings": 17  
 }
 
-# player_2 has a lower overall ranking, therefore that player is better
+# player_2 has a lower overall ranking, therefore player_2 is better
 </code></pre>
 </div>
 
@@ -518,7 +518,7 @@ for category in categories:
 </div>
 
 <p class="post-text">
-The last thing to do is add all of these categorical rankings up into a final score <a class="footnote-link" href="#footnote9" id="footlink9">[9]</a>. 
+The last thing we need to do is add all of these categorical rankings up into a final <code class="language-python">"grade"</code> <a class="footnote-link" href="#footnote9" id="footlink9">[9]</a>. 
 </p>
 
 
@@ -701,26 +701,27 @@ with open('final.txt', 'w+', encoding='utf8') as file:
 <figcaption>Nikola Jokic crowned MVP</figcaption>
 <br>
     <p class="post-text">
-    Of course, I'll be the first to admit that it's very likely this was a fluke. I used no advanced math or statistical analysis to make my predictions and used no existing data sets that defined what made a player valuable or not (no ML or AI, <i>yet</i>). I simply ranked who had the best statistics, weighting each of the thirteen categories the same. 
+    Of course, I'll be the first to admit that it's very likely this was a fluke. I used no advanced math or statistical analysis to make my predictions and used no existing data sets that defined what made a player valuable. I simply ranked players by how high they ranked in the thirteen statistical categories I chose, weighting each of the categories the same.
     <br>
-    I believe the reason this worked so well was because Jokic and Embiid are both centers with elite offensive and defensive skill sets. Because they are bigs, they average a lot of blocks and rebounds, and high shooting percentages <a class="footnote-link" href="#footnote12" id="footlink12">[12]</a> compared to the rest of the league. What makes both of these players special (better than your average big) is that they can shoot and pass very well, not just for a center, but in general. Jokic ranked fourth overall in assists per game! Because of their height and skill, Jokic and Embiid can place very high in all categories.
+    I believe the reason this worked so well is because Jokic and Embiid are both centers with elite offensive and defensive skill sets. Because they are bigs, they average a lot of blocks and rebounds, and high shooting percentages <a class="footnote-link" href="#footnote12" id="footlink12">[12]</a> compared to the rest of the league. What makes both of these players special (better than your average big) is that they can shoot and pass very well, not just for a center, but in general. Jokic ranked fourth overall in assists per game! Because of their height and skill, Jokic and Embiid can place very high in all categories.
     <br>
-    For example, Stephen Curry and Kyrie Irving are both great players that specialize in being quick guards that can shoot and score exceptionally well. In terms of rebounding and defense, their size limits how much they can contribute in those categories. They specialize in scoring. On the other hand, Jokic and Embiid are pretty much good at everything and don't specialize in any one particular skill, which elevates all of their statistical categories, and thus their ranking.
+    For example, Stephen Curry and Kyrie Irving are both great players that specialize in being quick guards that can shoot and score exceptionally well. In terms of rebounding and defense, their size limits how much they can contribute in those categories. They specialize in scoring. On the other hand, Jokic and Embiid are pretty much good at everything and don't specialize in any one particular skill, which elevates all of their statistical categories, and thus their ranking. Is Embiid better than Curry? No. Embiid is just decent in more categories, while Steph exceeds in a few categories.
     <br>
-    That's just my hypothesis. Last year, I personally didn't think Jokic was going to win MVP, as I said many times on <a href="https://soundcloud.com/wspn/sets/all-half-hour-hook-episodes" target="_blank">Half Hour Hook</a>. During January and February, I watched James Harden put the Nets on his back during that stretch when Kyrie Irving and Kevin Durant were both injured. Plus, the Nets had a better record than the Nuggets, with a <i>way</i> weaker supporting cast (after you take away Durant and Irving).
+    That's just my hypothesis. Last year, I personally didn't think Jokic was going to win MVP, as I said many times on <a href="https://soundcloud.com/wspn/sets/all-half-hour-hook-episodes" target="_blank">Half Hour Hook</a>. During January and February, I watched James Harden put the Nets on his back during that stretch when Kyrie Irving and Kevin Durant were both injured. Plus, the Nets had a better record than the Nuggets, with a <i>way</i> weaker supporting cast (after you take away Durant and Irving). In my opinion (as a Harden fan), Harden was the obvious MVP.
     <br>
-    At the end of the day, the biggest shortcoming of Goat Grade is that it lacks <i>the eye test</i>. The eye test is simply determining who is better by <i>watching</i> the players, rather than studying the numbers all day. I believe that to truly determine if a player is great, you need to both watch them <i>and</i> study their numbers. The perfect "Goat Grade" is a combination of statistical analysis and the eye test.
+    At the end of the day, the biggest shortcoming of Goat Grade is that it lacks <i>the eye test</i>. The eye test is simply determining who is better by <i>watching</i> the players, rather than studying the numbers all day. Is the eye test the best way to decide the MVP? No. You could easily get caught up in the hype of athletic dunks and forget about the guy who's been shooting a nearly perfect percentage from mid-range for an entire season. Just like data analysis, the eye test is not the end all be all way to determine greatness.<br>
+    That being said, I believe that to truly determine if a player is great, you need to both watch them <i>and</i> study their numbers. The perfect "Goat Grade" is a combination of statistical analysis and the eye test.
 </p>
 <br>
 
 <h3 class="post-text-header" id="future"><a href="/blog/1#future">The future</a></h3>
 
 <p class="post-text">
-    I'm definitely going add more to this project. It's been a great way to tap into my love of both basketball and programming and I'll continue working on it in my spare time.
+    I'm definitely going add more to this project. It's been a great way to tap into my love of both basketball and programming, and I'll continue working on it in my spare time.
     <br>
-    Aside from the ranking process, there are a lot of things I need to improve on the website. The front end needs a ton of work, and my plan is to have multiple pages for each year's predictions and actual MVP results. After some work, I'll hopefully build a pretty slick UI.
+    Aside from the ranking process, there are a lot of things I need to improve on the website. The front end needs a ton of work, and my plan is to have multiple pages for each year's predictions and actual MVP results. After some work, Goat Grade will hopefully have a pretty slick UI.
     <br>
-    For predictions, I can break out a lot more advanced math and statistical analysis. I'm currently not using any data science libraries like <a href="https://numpy.org/" target="_blank">numpy</a> or <a href="https://pandas.pydata.org/" target="_blank">pandas</a>, and I should definitely look into using some cool machine learning to help me make predictions.
+    For predictions, I can break out a lot more advanced math and statistical analysis. I'm currently not using any data science libraries like <a href="https://numpy.org/" target="_blank">numpy</a> or <a href="https://pandas.pydata.org/" target="_blank">pandas</a>, and I should definitely look into using some cool machine learning techniques to help me make predictions.
     <br>
     On top of that, I could also use data from previous seasons to make predictions for the future. Another useful category to incorporate into rankings could be team statistics, as MVP is largely determined by how good a player's team is and how much the player improves their team. Updating the data frequently is crucial as well. I'll set up some kind of way that automatically runs the web scraping script to update the data more easily.
     <br>
@@ -734,16 +735,19 @@ with open('final.txt', 'w+', encoding='utf8') as file:
 <figcaption>Goat Grade concept</figcaption>
 <br>
 
+<h3 class="post-text-header" id="thanks"><a href="/blog/1#thanks">Thank you</a></h3>
+
+
 <p class="post-text">    
     If you've gotten to the end of this post: congratulations! It was a long one, as I had <i>a lot</i> to talk about. I hope everything made sense, even if you only know a little about basketball, computer science, or both. 
     <br>
-    I've had a ton of fun working on and writing about Goat Grade, and hopefully you had fun reading about it. "I predicted the MVP with my epic coding skills," makes for an interesting conversation starter, even if it was a fluke. <i>Or was it?</i> I guess we have to look to next season's predictions to know for sure...
+    I've had a ton of fun working on and writing about Goat Grade. Hopefully you had fun reading about it. "I predicted the MVP with my epic coding skills," makes for an interesting conversation starter, even if it was a fluke. <i>Or was it?</i> I guess we have to look to next season's predictions to know for sure...
 </p>
 
 <div class="post-line"></div>
 
 <p class="footnote" id="footnote1">
-<a class="footnote-link" href="#footlink1">[1]</a> I am still improving Reporty. I may write a blog post explaining how I built it and what my plans are for the future of the library. Check out our <a href="https://github.com/asboyer/reporty" target="_blank">GitHub</a> and fork the repository if you would like to contribute!
+<a class="footnote-link" href="#footlink1">[1]</a> I am still improving Reporty. I may even write a blog post explaining how I built it and what my plans are for the future of the library. Check out our <a href="https://github.com/asboyer/reporty" target="_blank">GitHub</a> and fork the repository if you would like to contribute!
 </p>
 
 <br>
@@ -765,7 +769,7 @@ with open('final.txt', 'w+', encoding='utf8') as file:
 <br>
 
 <p class="footnote" id="footnote5">
-<a href="#footlink5">[5]</a> Yes, I do acknowledge there are other ways of getting information from websites. A lot of apps their own API, which make things a lot easier when you want to automate the process of collecting data and information. The before mentioned IMDb problem can easily be solved with the <a href="https://imdbpy.readthedocs.io/en/latest/" target="_blank">IMDb python library</a>, which uses the IMDb API. This is what I use for my website's <a href="/movies" target="_blank">movies</a> section. I can get titles, ratings, posters, and more with just a simple Python function. I'll probably post a short tutorial on how to use my favorite APIs soon.
+<a href="#footlink5">[5]</a> Yes, I do acknowledge there are other ways of getting information from websites. A lot of apps have their own API, which make things a lot easier when you want to automate the process of collecting data and information. The before mentioned IMDb problem can easily be solved with the <a href="https://imdbpy.readthedocs.io/en/latest/" target="_blank">IMDb Python library</a>, which uses the IMDb API. This is what I use for my website's <a href="/movies" target="_blank">movies</a> section. I can get titles, ratings, posters, and more with a simple Python function. I'll probably post a short tutorial on how to use my favorite APIs soon.
 </p>
 <br>
 <p class="footnote" id="footnote6">
@@ -781,7 +785,7 @@ with open('final.txt', 'w+', encoding='utf8') as file:
 </p>
 <br>
 <p class="footnote" id="footnote9">
-<a class="footnote-link" href="#footlink9">[9]</a> Going forward, I think the final score should be all the rankings added up and then divided by the amount of categories, yielding an average ranking rather than just a tally of all the rankings. Or that could just be another statistic. I'm still trying to determine the final score that makes the most sense to people.
+<a class="footnote-link" href="#footlink9">[9]</a> Going forward, I think the final score should be all the rankings added up and then divided by the amount of categories, yielding an average ranking rather than just a tally of all the rankings. Or that could just be another statistic. I'm still trying to determine the final score that makes the most sense to users.
 </p>
 <br>
 <p class="footnote" id="footnote10">
@@ -797,7 +801,7 @@ with open('final.txt', 'w+', encoding='utf8') as file:
 </p>    
 <br>
 <p class="footnote" id="footnote13">
-<a class="footnote-link" href="#footlink13">[13]</a> A  I have a lot of other cool ideas that I won't bore you with on this post, but if you want to keep up on updates regarding Goat Grade, check out our <a href="https://github.com/asboyer/goat-grade" target="_blank">GitHub repository</a> and give it a star.  
+<a class="footnote-link" href="#footlink13">[13]</a> I have a lot of other cool ideas that I won't bore you with on this post, but if you want to keep up on updates regarding Goat Grade, check out our <a href="https://github.com/asboyer/goat-grade" target="_blank">GitHub repository</a> and give it a star.  
 </p>    
 <br>
         <div class="post-row">
