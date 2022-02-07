@@ -14,5 +14,13 @@
         "subjects": ["Programming", "Sports"],
         "cover_img": "/static/img/blog/python-mvp/jokic.png",
         "live": true
+    },
+    "blog post index 2": {
+        "title": "???",
+        "id": 2,
+        "date": "2.21.22",
+        "subjects": [],
+        "cover_img": "/static/img/blog/python-mvp/jokic.png",
+        "live": false
     }
 } 
