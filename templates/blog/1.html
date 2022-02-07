@@ -8,7 +8,7 @@
 <section class="post">
     <div class="post-header">
         <h2 class="post-title" id="title">
-            <strong>Predicting the MVP with Python</strong>
+            <strong>Predicting the NBA MVP with Python</strong>
         </h2>
 
         <h3 class="post-author">
@@ -23,11 +23,11 @@
 
 <div class="post-content">
 <p class="post-text-intro" id="preface">
-    My sincerest apologies for my absence on this blog, other things have been eating up my time. Thank you to everyone who supported the <a href="https://asboyer.com/blog/0" target="_blank">last post</a>. <i>Way</i> bigger things are coming soon. It is my goal to get a post up every other Monday. Without further ado, on with the highly anticipated story behind <a href="https://goatgrade.com" target="_blank">Goat Grade</a>.
+    My sincerest apologies for my absence on this blog, other things have been eating up my time. Thank you to everyone who supported the <a href="https://asboyer.com/blog/0" target="_blank">last post</a>. <i>Way</i> bigger things are coming soon. It is my goal to get a post up every other Monday. Ambitious, I know. Without further ado, here is the highly anticipated story behind <a href="https://goatgrade.com" target="_blank">Goat Grade</a> and how <i>you</i> can build <i>your own</i> NBA MVP forecaster.
     <br>
     ---
     <br>
-    During February of 2021, one year ago, I created a website where I used data from <a href="https://www.basketball-reference.com/" target="_blank">Basketball Reference</a> and Python to rank NBA players based on their statistics and display my rankings online. After I uploaded my rankings to the internet, I didn't think too much of it. A few months later, the NBA MVP finalists were announced. To my surprise, my algorithm predicted the top <a href="https://www.nba.com/news/kia-mvp-ladder-nikola-jokic-finishes-no-1-among-pack-of-contenders" target="_blank">two front runners</a> in the race for most valuable player. After <a href="https://www.nba.com/kia-mvp/2021-nikola-jokic" target="_blank">Nikola Jokic</a> was announced the league MVP, it became official: a program I wrote in a weekend had predicted the league MVP months before the finalists were even announced. This is the story of how I built <a href="https://goatgrade.com" target="_blank">Goat Grade</a> and why my prediction may have actually been a total fluke after all.
+    During February of 2021, one year ago, I used data from <a href="https://www.basketball-reference.com/" target="_blank">Basketball Reference</a> and Python to rank NBA players. After I uploaded my rankings to the internet, I didn't think too much of it. A few months later, the NBA MVP finalists were announced. To my surprise, my program predicted the top <a href="https://www.nba.com/news/kia-mvp-ladder-nikola-jokic-finishes-no-1-among-pack-of-contenders" target="_blank">two front runners</a> in the race for most valuable player. After <a href="https://www.nba.com/kia-mvp/2021-nikola-jokic" target="_blank">Nikola Jokic</a> was dubbed league MVP, it became official: a program I wrote in a weekend had predicted the MVP months before finalists were even announced. This is the story of how I built <a href="https://goatgrade.com" target="_blank">Goat Grade</a> and why my prediction may have been a total fluke. Or not?
 </p>
 
 <div class="post-line" style="margin-bottom: 20px"></div>
@@ -35,20 +35,21 @@
 <h3 class="post-text-header" id="beginnings"><a href="/blog/1#beginnings">Beginnings</a></h3>
 
 <p class="post-text">
-    The inspiration behind this project came in multiple ways. I had just finished the first half of my junior year of high school and was looking for a new project to work on.
+    The inspiration behind this project came in a few ways. I had just finished the first semester of junior year (high school) and was looking for a new project to work on.
     <br>
-    Earlier that year, I released <a href="https://github.com/asboyer/reporty" target="_blank">Reporty</a>, a Python library with tools designed for organizing and distributing visual data. The library takes in data sets or figures and generates an HTML page with said figures. There is also an option to send that page embedded in an email <a class="footnote-link" href="#footnote1" id="footlink1">[1]</a>. 
+    Earlier that year, I released <a href="https://github.com/asboyer/reporty" target="_blank">Reporty</a>, a Python library with useful tools for organizing and distributing visual data. The library took in data sets and figures and generated an HTML page with said figures. I also included an option to send that page embedded in an email <a class="footnote-link" href="#footnote1" id="footlink1">[1]</a>. 
     <br>
     After wrapping up that project, I wanted to get started on something new. Building Reporty, with some help from my mentor <a class="footnote-link" href="#footnote2" id="footlink2">[2]</a>, had given me a solid introduction into the world of <a href="https://en.wikipedia.org/wiki/Data_science" target="_blank">data science</a>. Still, I hadn't quite undertaken a project where I actually organized, cleaned, and modeled data from a real data set. Reporty used figures that were <i>already</i> made with existing (or even fake) data <a class="footnote-link" href="#footnote3" id="footlink3">[3]</a>.
     <br>
-    So, I contacted a friend from Boise, Idaho <a class="footnote-link" href="#footnote4" id="footlink4">[4]</a>, and asked him if he wanted to collaborate on some kind of data science project. At first, we didn't have any particular idea of what we wanted to do. We bounced around a few ideas and lingered on the subject of web scraping, which both of us interested in, but unfamiliar with. What better way to learn than through building a project? We zeroed in on scraping basketball statistics and using that data to generate some kind of fun set of predictions. We frequently debated who the best basketball player in the world was, so why not settle this debate with some cold hard evidence. The idea of "Goat" (standing for "Greatest of All Time") Grade was born.
+    So, I contacted a friend from Boise, Idaho <a class="footnote-link" href="#footnote4" id="footlink4">[4]</a>, and asked him if he wanted to collaborate. At first, we didn't have any particular idea of what we wanted to do. We bounced around a few ideas and lingered on the subject of web scraping, which both of us interested in, but unfamiliar with. What better way to learn than through building a project? Because of our love for basketball, we zeroed in on scraping basketball statistics and using that data to generate some kind of fun set of predictions. 
+    <br>We frequently debated who the best basketball player in the world was, so why not settle the debate with some cold hard evidence? The idea of Goat Grade was born.
 </p>
 <br>
 <h3 class="post-text-header" id="webscraping"><a href="/blog/1#webscraping">Scraping the data</a></h3>
 
 
 <p class="post-text">
-    Before we talk about how we scraped the statistics, allow me to explain "<a href="https://en.wikipedia.org/wiki/Web_scraping" target="_blank">web scraping</a>" in simple terms. 
+    Before I talk about how we scraped the statistics, allow me to explain "<a href="https://en.wikipedia.org/wiki/Web_scraping" target="_blank">web scraping</a>" in simple terms. 
     <br>
     As we all know, the Internet contains almost an unlimited amount information. Whether its Chic-Fil-A's hours on Sunday or the <em>Ocean's Eleven</em> IMDb rating, the information we seek is somewhere on a computer connected to the internet, a simple Google search away. 
     <br>
@@ -58,16 +59,20 @@
     <br>
     In our case, we wanted to scrape statistics from <a href="https://www.basketball-reference.com/" target="_blank">Basketball Reference</a>. We knew that the player statistics page looked like this:
     </p>
-    <a class="post-link" style="width: 80%" href="https://www.basketball-reference.com/leagues/NBA_2021_per_game.html" target="_blank">
+    <a id="screenshot-1" class="post-link" style="width: 80%" href="https://www.basketball-reference.com/leagues/NBA_2021_per_game.html" target="_blank">
         <img  src="/static/img/blog/python-mvp/refrence.png">
     </a>
     <figcaption>Screenshot from Basketball Reference</figcaption>
     <br>
     <p class="post-text">
-        The data is displayed in a table format, where each row contains a specific player's stats. The table headers are the categories and the table rows are the statistics.
+        The data is displayed in a table format, where each row contains a specific player's stats. The table headers contain the categories and the table rows contain the statistics.
+        <br>
+        Heads up, I'm going to be walking through the actual code I wrote for Goat Grade, how it works, and my thought process behind writing said code. If you want to follow along and build your own Goat Grade, make sure you have a decent grip on <a href="https://www.freecodecamp.org/news/introduction-to-computer-programming-and-computer-science-course/" target="_blank">programming fundamentals</a> and <a href="https://www.w3schools.com/python/" target="_blank">Python syntax</a>. If you're just here for the story, don't worry! Simply nod your head and pretend you understand the code.
     </p>
     <br>
     <p class="post-text">
+    Before we can make any predictions, we need data to base those predictions off of. To get this data, we use web scraping. 
+    <br>
     The following code <a class="footnote-link" href="#footnote6" id="footlink6">[6]</a> imports the <a href="https://docs.python.org/3/library/urllib.html" target="_blank">urllib</a> and <a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank">Beautiful Soup</a> Python modules, visits the website, and parses through the HTML. The code extracts all of the headers and stores them in a list.
 
 </p>
@@ -76,28 +81,29 @@
 <pre><code class="language-python">from urllib.request import urlopen
 from bs4 import BeautifulSoup
 
+# i will be using data from the 2020 - 2021 NBA season
 year = 2021
-url = f'https://www.basketball-reference.com/leagues/NBA_{year}_per_game.html'
+url = f"https://www.basketball-reference.com/leagues/NBA_{year}_per_game.html"
 html = urlopen(url)
-soup = BeautifulSoup(html, 'html.parser')
+soup = BeautifulSoup(html, "html.parser")
 
-# 'th' means table headers and 'tr' means table rows
-headers = [th.getText() for th in soup.findAll('tr', limit=2)[0].findAll('th')]
+# "th" means table headers and "tr" means table rows
+headers = [th.getText() for th in soup.findAll("tr", limit=2)[0].findAll("th")]
 headers = headers[1:]
 </code></pre>
 </div>
 
 <div class="code-block">
-<pre><code class="language-bash">headers = ['Player', 'Pos', 'Age', 'Tm', 'G', 'GS', 'MP', 'FG', 'FGA', 'FG%', '3P', '3PA', '3P%', '2P', '2PA', '2P%', 'eFG%', 'FT', 'FTA', 'FT%', 'ORB', 'DRB', 'TRB', 'AST', 'STL', 'BLK', 'TOV', 'PF', 'PTS']
+<pre><code class="language-bash">headers = ["Player", "Pos", "Age", "Tm", "G", "GS", "MP", "FG", "FGA", "FG%", "3P", "3PA", "3P%", "2P", "2PA", "2P%", "eFG%", "FT", "FTA", "FT%", "ORB", "DRB", "TRB", "AST", "STL", "BLK", "TOV", "PF", "PTS"]
 </code></pre>
 </div>
 
 <p class="post-text">
-    After we collected all the headers (the statistical categories we were interested in), we needed to gather the actual data, which was stored in the table rows. <a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank">Beautiful Soup</a> made it easy to scrape the HTML code for each row. 
+    After collecting all the headers (the statistical categories we were interested in), we need to gather the actual data, which is stored in the table rows. <a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank">Beautiful Soup</a> makes it easy to scrape the HTML code for each row. 
 </p>
 
 <div class="code-block">
-<pre><code class="language-python">rows = soup.findAll('tr')[1:]
+<pre><code class="language-python">rows = soup.findAll("tr")[1:]
 </code></pre>
 </div>
 
@@ -144,7 +150,7 @@ headers = headers[1:]
 </div>
 
 <p class="post-text">
-    Would you look at that! All the data is there, we just needed to clean it up by getting rid of all the HTML code. I extracted the data and stored it in the <code class="language-python">stats</code> dictionary by looping through each row and extracting all the text between the <code class="language-html">&lt;td&gt;</code> tags, which defines a standard cell in an HTML table. Then, I create a new sub-dictionary for each player and fill each category in the <code class="language-python">headers</code> list with the player's data.
+    Would you look at that! All the data is there, we just need to clean it up by getting rid of all the HTML code. In the code below, I extract the data and store it in the <code class="language-python">stats</code> dictionary by looping through each row and getting all the text between the <code class="language-html">&lt;td&gt;</code> tags, which defines a standard cell in an HTML table. Then, I created a new sub-dictionary for each player and fill each category in the <code class="language-python">headers</code> list with the player's data.
 </p>
 
 
@@ -152,7 +158,7 @@ headers = headers[1:]
 <pre><code class="language-python">stats = {}
 
 for i in range(len(rows)):
-    tds = rows[i].findAll('td')
+    tds = rows[i].findAll("td")
     if len(tds) > 0:
         h = 0
         name = tds[0].getText()
@@ -164,41 +170,41 @@ for i in range(len(rows)):
 </div>
 
 <p class="post-text">
-    The <code class="language-python">stats</code> dictionary now contains every player's statistics, neatly organized in the format we want <a class="footnote-link" href="#footnote7" id="footlink7">[7]</a>. Here is what <code class="language-python">stats["Kevin Durant"]</code> would look like:
+    The <code class="language-python">stats</code> dictionary now contains every player's statistics, neatly organized in the format we want. Here is what <code class="language-python">stats["Kevin Durant"]</code> would look like:
 </p>
 
 <div class="code-block">
 <pre><code class="language-json">{
-    'Player': 'Kevin Durant',
-    'Pos': 'PF',
-    'Age': '32',
-    'Tm': 'BRK',
-    'G': '35',
-    'GS': '32',
-    'MP': '33.1',
-    'FG': '9.3',
-    'FGA': '17.2',
-    'FG%': '.537',
-    '3P': '2.4',
-    '3PA': '5.4',
-    '3P%': '.450',
-    '2P': '6.8',
-    '2PA': '11.8',
-    '2P%': '.577',
-    'eFG%': '.608',
-    'FT': '6.0',
-    'FTA': '6.8',
-    'FT%': '.882',
-    'ORB': '0.4',
-    'DRB': '6.7',
-    'TRB': '7.1',
-    'AST': '5.6',
-    'STL': '0.7',
-    'BLK': '1.3',
-    'TOV': '3.4',
-    'PF': '2.0',
-    'PTS': '26.9'
-}
+    "Player": "Kevin Durant",
+    "Pos": "PF",
+    "Age": "32",
+    "Tm": "BRK",
+    "G": "35",
+    "GS": "32",
+    "MP": "33.1",
+    "FG": "9.3",
+    "FGA": "17.2",
+    "FG%": ".537",
+    "3P": "2.4",
+    "3PA": "5.4",
+    "3P%": ".450",
+    "2P": "6.8",
+    "2PA": "11.8",
+    "2P%": ".577",
+    "eFG%": ".608",
+    "FT": "6.0",
+    "FTA": "6.8",
+    "FT%": ".882",
+    "ORB": "0.4",
+    "DRB": "6.7",
+    "TRB": "7.1",
+    "AST": "5.6",
+    "STL": "0.7",
+    "BLK": "1.3",
+    "TOV": "3.4",
+    "PF": "2.0",
+    "PTS": "26.9"
+    }
 </code></pre>
 </div>
 
@@ -207,13 +213,14 @@ for i in range(len(rows)):
 </p>
 
 <div class="code-block">
-<pre><code class="language-python">with open('stats.json', 'w+', encoding='utf8') as file:
+<pre><code class="language-python">import json
+with open("stats.json", "w+", encoding="utf8") as file:
     file.write(json.dumps(stats, ensure_ascii=False, indent=4))
 </code></pre>
 </div>
 
 <p class="post-text">
-    This isn't all the data available to us. Basketball Reference also keeps <a href="https://www.basketball-reference.com/leagues/NBA_2021_advanced.html" target="_blank">advanced stats</a>. We can scrape this in the exact same way as before and then combine our data. Just change the url variable like so:
+    This isn't all the data available to us. Basketball Reference also keeps <a href="https://www.basketball-reference.com/leagues/NBA_2021_advanced.html" target="_blank">advanced stats</a>. We can scrape this in the exact same way as before and then combine the advanced statistics with the regular statistics. Just change the url variable like so:
 </p>
 
 <div class="code-block">
@@ -237,114 +244,508 @@ for i in range(len(rows)):
 
 <div class="code-block">
 <pre><code class="language-json">{
-    'Player': 'Kevin Durant',
-    'Pos': 'PF',
-    'Age': '32',
-    'Tm': 'BRK',
-    'G': '35',
-    'GS': '32',
-    'MP': '33.1',
-    'FG': '9.3',
-    'FGA': '17.2',
-    'FG%': '.537',
-    '3P': '2.4',
-    '3PA': '5.4',
-    '3P%': '.450',
-    '2P': '6.8',
-    '2PA': '11.8',
-    '2P%': '.577',
-    'eFG%': '.608',
-    'FT': '6.0',
-    'FTA': '6.8',
-    'FT%': '.882',
-    'ORB': '0.4',
-    'DRB': '6.7',
-    'TRB': '7.1',
-    'AST': '5.6',
-    'STL': '0.7',
-    'BLK': '1.3',
-    'TOV': '3.4',
-    'PF': '2.0',
-    'PTS': '26.9',
-    'TMP': '1157',
-    'PER': '26.4',
-    'TS%': '.666',
-    '3PAr': '.313',
-    'FTr': '.395',
-    'ORB%': '1.3',
-    'DRB%': '21.3',
-    'TRB%': '11.8',
-    'AST%': '27.5',
-    'STL%': '1.0',
-    'BLK%': '3.4',
-    'TOV%': '14.5',
-    'USG%': '31.2',
-    'OWS': '3.7',
-    'DWS': '1.2',
-    'WS': '5.0',
-    'WS/48': '.206',
-    'OBPM': '6.4',
-    'DBPM': '0.8',
-    'BPM': '7.2',
-    'VORP': '2.7'
+    "Player": "Kevin Durant",
+    "Pos": "PF",
+    "Age": "32",
+    "Tm": "BRK",
+    "G": "35",
+    "GS": "32",
+    "MP": "33.1",
+    "FG": "9.3",
+    "FGA": "17.2",
+    "FG%": ".537",
+    "3P": "2.4",
+    "3PA": "5.4",
+    "3P%": ".450",
+    "2P": "6.8",
+    "2PA": "11.8",
+    "2P%": ".577",
+    "eFG%": ".608",
+    "FT": "6.0",
+    "FTA": "6.8",
+    "FT%": ".882",
+    "ORB": "0.4",
+    "DRB": "6.7",
+    "TRB": "7.1",
+    "AST": "5.6",
+    "STL": "0.7",
+    "BLK": "1.3",
+    "TOV": "3.4",
+    "PF": "2.0",
+    "PTS": "26.9",
+    "TMP": "1157",
+    "PER": "26.4",
+    "TS%": ".666",
+    "3PAr": ".313",
+    "FTr": ".395",
+    "ORB%": "1.3",
+    "DRB%": "21.3",
+    "TRB%": "11.8",
+    "AST%": "27.5",
+    "STL%": "1.0",
+    "BLK%": "3.4",
+    "TOV%": "14.5",
+    "USG%": "31.2",
+    "OWS": "3.7",
+    "DWS": "1.2",
+    "WS": "5.0",
+    "WS/48": ".206",
+    "OBPM": "6.4",
+    "DBPM": "0.8",
+    "BPM": "7.2",
+    "VORP": "2.7"
 }
 </code></pre>
 </div>
 
+<p class="post-text">
+    After tweaking a few technicalities <a class="footnote-link" href="#footnote7" id="footlink7">[7]</a> to make sure the data is formatted in the correct way, the final web scraping script is done. 
+</p>
+
+<div class="code-block">
+<pre><code class="language-python"># webscrape.py
+
+from urllib.request import urlopen
+from bs4 import BeautifulSoup
+import json
+
+year = 2021
+
+def scrape(url):
+    html = urlopen(url)
+    soup = BeautifulSoup(html, "html.parser")  
+    
+    headers = [th.getText() for th in soup.findAll("tr", limit=2)[0].findAll("th")]
+    headers = headers[1:]
+
+    rows = soup.findAll('tr')[1:]
+
+    stats = {}
+    for i in range(len(rows)):
+        tds = rows[i].findAll("td")
+        if len(tds) > 0:
+            name = tds[0].getText()
+            try:
+                if stats[name] != {}:
+                    h = 0
+                    player_dict = {}
+                    for td in tds:
+                        header = headers[h]
+                        if header == 'MP' and 'advanced' in url:
+                            header = 'TMP'
+                        stats[name][header] = td.getText()
+                    if player_dict["Tm"] == "TOT":
+                        stats[name] = player_dict
+                    else:
+                        pass
+            except:
+                stats[name] = {}
+                h = 0
+                for td in tds:
+                    header = headers[h]
+                    if header == 'MP' and 'advanced' in url:
+                        header = 'TMP'
+                    stats[name][header] = td.getText()
+                    h += 1
+    return stats
+
+reg_stats_url = f"https://www.basketball-reference.com/leagues/NBA_{year}_per_game.html"
+adv_stats_url = f"https://www.basketball-reference.com/leagues/NBA_{year}_advanced.html"
+
+reg_stats = scrape(reg_stats_url)
+adv_stats = scrape(adv_stats_url)
+
+for player in reg_stats:
+    reg_stats[player].update(adv_stats[player])
+    del reg_stats[player]["&lt;0xa0"&gt;]
+
+with open('stats.json', 'w+', encoding='utf8') as file:
+    file.write(json.dumps(reg_stats, ensure_ascii=False, indent =4))
+</code></pre>
+</div>
 
 <h3 class="post-text-header" id="rankings"><a href="/blog/1#rankings">Ranking the players</a></h3>
 
 <p class="post-text">
-    We now need to develop some kind of algorithm to decide which player better is the best overall. The first step in doing this is discerning what statistical categories are actually important and what categories don't matter. I didn't really put too much thought into this. I'm definitely going to do some more research and tweak this algorithm later. The thirteen categories that I thought would be most important were:
+    We now need to develop some kind of algorithm to decide which player is the best overall. The first step in doing this is discerning what statistical categories are actually important and what categories don't matter. The thirteen categories that I thought would be most important were <a class="footnote-link" href="#footnote8" id="footlink8">[8]</a>:
 </p>
+
 <br>
 <ul class="blog_list">
-  <li>- points</li>
-  <li>- assists</li>
-  <li>- total rebounds</li>
-  <li>- field goal %</li>
-  <li>- free throw %</li>
-  <li>- three point %</li>
-  <li>- steals</li>
-  <li>- blocks</li>
-  <li>- minutes played</li>
-  <li>- player efficiency rating</li>
-  <li>- true shooting %</li>
-  <li>- win shares</li>
-  <li>- box plus/minus</li>
-
-
+  <li><code class="language-python">"PTS"</code>: points</li>
+  <li><code class="language-python">"AST"</code>: assists</li>
+  <li><code class="language-python">"TRB"</code>: total rebounds</li>
+  <li><code class="language-python">"FG%"</code>: field goal %</li>
+  <li><code class="language-python">"FT%"</code>: free throw %</li>
+  <li><code class="language-python">"3P%"</code>: three point %</li>
+  <li><code class="language-python">"STL"</code>: steals</li>
+  <li><code class="language-python">"BLK"</code>: blocks</li>
+  <li><code class="language-python">"MP"</code>: minutes played</li>
+  <li><code class="language-python">"PER"</code>: <a href="https://www.basketball-reference.com/about/per.html" target="_blank">player efficiency rating</a></li>
+  <li><code class="language-python">"TS%"</code>: <a href="https://en.wikipedia.org/wiki/True_shooting_percentage" target="_blank">true shooting %</a></li>
+  <li><code class="language-python">"WS"</code>: <a href="https://www.basketball-reference.com/about/ws.html" target="_blank">win shares</a></li>
+  <li><code class="language-python">"BPM"</code>: <a href="https://www.basketball-reference.com/about/bpm2.html" target="_blank">box plus/minus</a></li>
 </ul>
 
+<br>
+
+<div class="code-block">
+<pre><code class="language-python">categories = ["PTS", "AST", "TRB", "FG%", "FT%", "3P%", "STL", "BLK", "MP", "PER", "TS%", "WS", "BPM"]
+</code></pre>
+</div>
 
 
+<p class="post-text">
+    Now that we have the categories by which we will evaluate each player, we have to make some choices. How important is each category? Is field goal percentage more important than three point percentage? <i>Surely</i> points matter more than steals, right? Unfortunately, at the time I was actually writing this code (one year ago), my main goal was to just get my rankings up and I didn't really care about how correct they were. 
+    <br>
+    I determined the easiest and most simple way to rank every player was to give each player a ranking for each category, then add those rankings up to get a final score. Theoretically, the player with the <i>lowest</i> overall score is the best player.
+    <br>
+    For example, lets say a player is fifteenth overall in points and fourth overall in field goal percentage. That player's final score would be nineteen. If another player was eighth overall in points and ninth overall in field goal percentage, that player would have a better score than the first player, with a score of seventeen.
+</p>
+
+<div class="code-block">
+<pre><code class="language-python"># brainstorming:
+
+player_1_rankings = {
+    "PTS": 15,
+    "FG%": 4,
+    "Overall rankings": 19
+}
+
+player_2_rankings = {
+    "PTS": 8,
+    "FG%": 9,
+    "Overall rankings": 17  
+}
+
+# player_2 has a lower overall ranking, therefore that player is better
+</code></pre>
+</div>
+
+<p class="post-text">
+    So, I'm weighting each of the thirteen categories the same. This means that a player with the highest free throw percentage gets same number tacked onto their final score (or "grade") as a player who has the highest points per game. Anyone who knows basketball is probably cringing while reading this, but it <i>did</i> end up working pretty well <i>*foreshadowing*</i>.
+    <br>
+    Let's write some code to get the categorical rankings for each player. I thought it would be best to store our rankings in a new variable, so I made a dictionary called <code class="language-python">ranks</code>, where each player gets their own sub-dictionary.
+</p>
+
+<div class="code-block">
+<pre><code class="language-python">rankings = {}
+for player in stats:
+    rankings[player] = {}
+</code></pre>
+</div>
+
+<p class="post-text">
+    For the purposes of this explanation, let's say the only three players in the league are Stephen Curry, Kevin Durant, and James Harden (my three favorite players). Here is what <code class="language-python">ranks</code> looks like right now:
+</p>
+
+<div class="code-block">
+<pre><code class="language-json">{
+    "Stephen Curry": {},
+    "Kevin Durant": {},
+    "James Harden": {}
+}
+</code></pre>
+</div>
+
+<p class="post-text">
+    The next step is to obviously fill each of these dictionaries with categorical rankings. Let's talk about how to find the player rankings for a given category. If we wanted to find the rankings of the three players in the <code class="language-python">"PTS"</code> category, we would need to loop through all the players, find their points per game average, and compare it with the other players.
+    <br>
+    I did this by using a two-dimensional list: a list storing lists that each contain the player name and the player's statistic in the category of interest. Then, I sorted the list by that statistic and reversed it, leaving the player with the highest number at the beginning of the list. Continuing with the points per game example, the list would be sorted in descending order of points per game.
+</p>
+
+<div class="code-block">
+<pre><code class="language-python">category_rankings = []
+for player in stats:
+    category_rankings.append([player, float(stats[player][category])])
+category_rankings = sorted(category_rankings, key=lambda x: x[1])
+category_rankings.reverse()
+</code></pre>
+</div>
+
+<div class="code-block">
+<pre><code class="language-bash">[['Stephen Curry', 32.0], ['Kevin Durant', 26.9], ['James Harden', 24.6]]
+</code></pre>
+</div>
+
+<p class="post-text">
+    Now that we have this list, we can add rankings to the <code class="language-python">ranks</code> dictionary by looping through the ordered list and storing the index in each sub-dictionary. The list index plus one is that player's ranking in the category. Kevin Durant is at index one in the list, so his ranking for points per game would be two. 
+</p>
+
+<div class="code-block">
+<pre><code class="language-python">for i in range(len(category_rankings)):
+    name = category_rankings[i][0]
+    value = category_rankings[i][1]
+    ranks[name][category] = i + 1
+</code></pre>
+</div>
+
+<div class="code-block">
+<pre><code class="language-json">{
+    "Stephen Curry": {
+        "PTS": 1
+    },
+    "Kevin Durant": {
+        "PTS": 2
+    },
+    "James Harden": {
+        "PTS": 3
+    }
+}
+</code></pre>
+</div>
+
+<p class="post-text">
+We can now loop through every category and gather rankings by putting that code block into a function and calling it for each category in the <code class="language-python">categories</code> list.
+</p>
+
+<div class="code-block">
+<pre><code class="language-python">def rank(category):
+    category_rankings = []
+    for player in stats:
+        category_rankings.append([player, float(stats[player][category])])
+    category_rankings = sorted(category_rankings, key=lambda x: x[1])
+    category_rankings.reverse()
+
+    for i in range(len(category_rankings)):
+        name = category_rankings[i][0]
+        value = category_rankings[i][1]
+        ranks[name][category] = i + 1
+
+for category in categories:
+    rank(category)
+</code></pre>
+</div>
+
+<p class="post-text">
+The last thing to do is add all of these categorical rankings up into a final score <a class="footnote-link" href="#footnote9" id="footlink9">[9]</a>. 
+</p>
 
 
+<div class="code-block">
+<pre><code class="language-python">for player in ranks:
+    score = 0
+    for category in ranks[player]:
+        score += ranks[player][category]
+    ranks[player]['grade'] = score
+</code></pre>
+</div>
+
+<div class="code-block">
+<pre><code class="language-json">{
+    "Stephen Curry": {
+        "PTS": 1,
+        "AST": 2,
+        "TRB": 3,
+        "FG%": 2,
+        "FT%": 1,
+        "3P%": 2,
+        "STL": 2,
+        "BLK": 3,
+        "MP": 2,
+        "PER": 2,
+        "TS%": 2,
+        "WS": 1,
+        "BPM": 1,
+        "grade": 24
+    },
+    "Kevin Durant": {
+        "PTS": 2,
+        "AST": 3,
+        "TRB": 2,
+        "FG%": 1,
+        "FT%": 2,
+        "3P%": 1,
+        "STL": 3,
+        "BLK": 1,
+        "MP": 3,
+        "PER": 1,
+        "TS%": 1,
+        "WS": 3,
+        "BPM": 3,
+        "grade": 26
+    },
+    "James Harden": {
+        "PTS": 3,
+        "AST": 1,
+        "TRB": 1,
+        "FG%": 3,
+        "FT%": 3,
+        "3P%": 3,
+        "STL": 1,
+        "BLK": 2,
+        "MP": 1,
+        "PER": 3,
+        "TS%": 3,
+        "WS": 2,
+        "BPM": 2,
+        "grade": 28
+    }
+}
+</code></pre>
+</div>
+
+<p class="post-text">
+    Let's write write our final rankings to a text file. We just need to sort all the players by the <code class="language-python">"grade"</code> variable, which we can do the same way we sorted players by any other category. Then, we just add the player name and their grade to a string variable and write it to a text file.
+</p>
 
 
+<div class="code-block">
+<pre><code class="language-python">final_ranks = []
+for player in ranks:
+    final_ranks.append([player, int(ranks[player]['grade'])])
+final_ranks = sorted(final_ranks, key=lambda x: x[1])
 
+final_string = ""
+for i in range(len(final_ranks)):
+    name = final_ranks[i][0]
+    grade = final_ranks[i][1]
+    if i == len(final_ranks) - 1:
+        final_string += f"{str(i + 1)}. {name} (score: {str(grade)})"
+    else:
+        final_string += f"{str(i + 1)}. {name} (score: {str(grade)})\n"  
+</code></pre>
+</div>
+<div class="code-block">
+<pre><code class="language-plaintext">1. Stephen Curry (score: 24)
+2. Kevin Durant (score: 26)
+3. James Harden (score: 28) 
+</code></pre>
+</div>
 
+<p class="post-text">
+    Putting it all together <a class="footnote-link" href="#footnote10" id="footlink10">[10]</a>, this is the final ranking script:
+</p>
 
+<div class="code-block">
+<pre><code class="language-python"># rankings.py
 
+import json
 
+with open('stats.json', 'r', encoding='utf8') as file:
+    stats = json.load(file)
 
+ranks = {}
+for player in stats:
+    ranks[player] = {}
 
+categories = ["PTS", "AST", "TRB", "FG%", "FT%", "3P%", "STL", "BLK", "MP", "PER", "TS%", "WS", "BPM"]
 
+def rank(category):
+    category_rankings = []
+    for player in stats:
+        if stats[player][category] != "":
+            category_rankings.append([player, float(stats[player][category])])
+        else:
+            category_rankings.append([player, 0])
+    category_rankings = sorted(category_rankings, key=lambda x: x[1])
+    category_rankings.reverse()
 
+    for i in range(len(category_rankings)):
+        name = category_rankings[i][0]
+        value = category_rankings[i][1]
+        ranks[name][category] = i + 1
 
+for category in categories:
+    rank(category)
 
+for player in ranks:
+    score = 0
+    for category in ranks[player]:
+        score += ranks[player][category]
+    ranks[player]['grade'] = score
 
+final_ranks = []
+for player in ranks:
+    final_ranks.append([player, int(ranks[player]['grade'])])
+final_ranks = sorted(final_ranks, key=lambda x: x[1])
 
+final_string = ""
+for i in range(len(final_ranks)):
+    name = final_ranks[i][0]
+    grade = final_ranks[i][1]
+    if i == len(final_ranks) - 1:
+        final_string += f"{str(i + 1)}. {name} (score: {str(grade)})"
+    else:
+        final_string += f"{str(i + 1)}. {name} (score: {str(grade)})\n"  
 
+with open('ranks.json', 'w+', encoding='utf8') as file:
+    file.write(json.dumps(ranks, ensure_ascii=False, indent =4))
 
+with open('final.txt', 'w+', encoding='utf8') as file:
+    file.write(final_string)
+</code></pre>
+</div>
 
+<h3 class="post-text-header" id="aftermath"><a href="/blog/1#aftermath">Aftermath</a></h3>
 
+<p class="post-text">
+    After I got my rankings, I quickly put together a very basic <a class="footnote-link" href="#footnote11" id="footlink11">[11]</a> webpage displaying my results. This was in February 2021. I updated the site a few more times, extracting the statistics every so often (manually running the web scraping script). The last time I updated my rankings was <a href="https://github.com/asboyer/goat-grade/commit/a113a716d262c3a911b3febae91e67da70fef3ed" target="_blank">April 18, 2021</a>.
+</p>
+
+<a id="screenshot-2" class="post-link" style="width: 87%" href="https://www.goatgrade.com/" target="_blank">
+    <img  src="/static/img/blog/python-mvp/goatgrade.png">
+</a>
+<figcaption>Screenshot from Goat Grade</figcaption>
+<br>
+
+<p class="post-text">
+    After that, I left the page up for fun and forgot about updating it. Then, in late May, the MVP was announced, along with the runner ups. Nikola Jokic was crowned MVP and Joel Embiid was a close second. 
+<br>
+    I couldn't believe it. Looking back at my website, which I hadn't touched since April, Jokic and Embiid were the number one and two players on my list, respectively. In just a weekend of coding, I not only predicted who would win MVP, but also the runner up!
+    </p>
+
+<a id="image-1" class="post-link" style="width: 87%" href="https://www.nba.com/news/kia-mvp-ladder-nikola-jokic-finishes-no-1-among-pack-of-contenders" target="_blank">
+    <img  src="/static/img/blog/python-mvp/jokic_mvp.jpg">
+</a>
+<figcaption>Nikola Jokic crowned MVP</figcaption>
+<br>
+    <p class="post-text">
+    Of course, I'll be the first to admit that it is very likely this was a fluke. I used no advanced math or statistical analysis to make my predictions and used no existing data sets that defined what made a player valuable or not (no ML or AI, <i>yet</i>). I simply ranked who had the best statistics, weighting each of the thirteen categories the same. 
+    <br>
+    I believe the reason this worked so well was because Jokic and Embiid are both centers that have a elite offensive and defensive skill sets. Because they are bigs, they will average a high amount of blocks, rebounds, and shooting percentages (as bigs, they are mostly taking lay-ups and inside shots) compared to the rest of the league. What makes both of these players special (better than your average big) is that they can shoot and pass very well. Jokic ranked fourth overall in assists per game, at center! Because of their height and skill, Jokic and Embiid can place very high in almost all categories, and don't need to specialize in one skill.
+    <br>
+    Stephen Curry and Kyrie Irving are both great players, but they specialize in being quick guards that can shoot and score exceptionally well. In terms of rebounding and defense, their size limits how much they can contribute on that end, which is fine because they don't specialize in those areas. Jokic and Embiid are pretty much good at everything and don't specialize in any one particular skill, which elevates all of their statistical categories.
+    <br>
+    That's just my hypothesis. Last year, I personally didn't think Jokic was going to win MVP, as I said many times on <a href="https://soundcloud.com/wspn/sets/all-half-hour-hook-episodes" target="_blank">Half Hour Hook</a>. James Harden put the Nets on his back for that stretch in January and February when Kyrie Irving and Kevin Durant were both injured. Plus, the Nets had a better record than the Nuggets, with a <i>way</i> weaker supporting cast than the Nuggets (after you take away Durant and Irving).
+    <br>
+    At the end of the day, the main aspect that Goat Grade comes short in is the <i>the eye test</i>. The eye test is simply determining who is better by <i>watching</i> the players, rather than studying the numbers all day. I believe that to truly to determine if a player is great, you need to both watch them <i>and</i> study their numbers. The true "Goat Grade" is a combination of statistics and the eye test.
+</p>
+<br>
+
+<h3 class="post-text-header" id="future"><a href="/blog/1#future">The future</a></h3>
+
+<p class="post-text">
+    I'm definitely going to continue working on this project. It's a great way to tap into my love of both basketball and programming at once. 
+    <br>
+    Obviously, there are a lot of things I need to improve on the website, let alone the actual ranking process. The front end needs a ton of work and my plan is to have multiple pages for each year's predictions and actual MVP results. Hopefully, Goat Grade gets a really slick UI down the line. 
+    <br>
+    For predictions, I can break out a lot more advanced math and statistical analysis. I'm not using any data science libraries like <a href="https://numpy.org/" target="_blank">numpy</a> or <a href="https://pandas.pydata.org/" target="_blank">pandas</a> and I should definitely look into using some cool machine learning to help me make predictions.
+    <br>
+    On top of that, I could also use data from previous seasons to make predictions for the future. Another useful category to incorporate into ranking could be team statistics, as MVP is largely determined by how good a player's team is and how much he improves that team.
+    <br>
+    My end goal is to allow each user to make their own "Goat Grade." The user can determine how much each category is weighted and what they value in a great player. This allows Goat Grade to be absolutely customizable to please any and every basketball fan. 
+    </p>
+
+<a id="image-2" class="post-link" style="width: 87%" target="_blank">
+    <img src="/static/img/blog/python-mvp/concept.png">
+</a>
+
+<figcaption>Goat Grade concept</figcaption>
+<br>
+
+<p class="post-text">    
+    I have a lot of other cool ideas that I won't bore you with on this post, but if you want to keep up on updates regarding Goat Grade, check out our <a href="https://github.com/asboyer/goat-grade" target="_blank">GitHub repository</a> and give it a star.  
+    <br>
+    If you've gotten to the end of this post: congratulations! It was a long one, I had a lot to talk about. I hope everything made sense, even if you only know a little about basketball, computer science, or both. 
+    <br>
+    I've had a ton of fun working on and writing about Goat Grade, and hopefully you had fun reading about it. Its a pretty cool conversation starter to say "I predicted the MVP with my epic coding skills," even if it was a fluke. <i>Or was it?</i> I guess we will truly know after I put out this years predictions in the near future. 
+</p>
 
 <div class="post-line"></div>
 
-
 <p class="footnote" id="footnote1">
-<a class="footnote-link" href="#footlink1">[1]</a> I am still improving Reporty. There may be a blog post in the near future explaining how I built it and what my plans are for the future of the library. Check out our <a href="https://github.com/asboyer/reporty" target="_blank">GitHub</a> and fork the repository if you would like to contribute!
+<a class="footnote-link" href="#footlink1">[1]</a> I am still improving Reporty. I may write a blog post explaining how I built it and what my plans are for the future of the library. Check out our <a href="https://github.com/asboyer/reporty" target="_blank">GitHub</a> and fork the repository if you would like to contribute!
 </p>
 
 <br>
@@ -366,7 +767,7 @@ for i in range(len(rows)):
 <br>
 
 <p class="footnote" id="footnote5">
-<a href="#footlink5">[5]</a> Yes, I do acknowledge there are other ways of getting information from websites. A lot of apps actually have APIs, which make things a lot easier when you want to automate the process of collecting data and information. The before mentioned IMDb problem can easily be solved with the <a href="https://imdbpy.readthedocs.io/en/latest/" target="_blank">IMDb python library</a>, which uses the IMDb API. This is what I use for my website's <a href="/movies" target="_blank">movies</a> section. I can get titles, ratings, posters, and more with just a simple Python function. I'll probably post a short tutorial on how to use my favorite APIs in the future.
+<a href="#footlink5">[5]</a> Yes, I do acknowledge there are other ways of getting information from websites. A lot of apps their own API, which make things a lot easier when you want to automate the process of collecting data and information. The before mentioned IMDb problem can easily be solved with the <a href="https://imdbpy.readthedocs.io/en/latest/" target="_blank">IMDb python library</a>, which uses the IMDb API. This is what I use for my website's <a href="/movies" target="_blank">movies</a> section. I can get titles, ratings, posters, and more with just a simple Python function. I'll probably post a short tutorial on how to use my favorite APIs soon.
 </p>
 <br>
 <p class="footnote" id="footnote6">
@@ -374,11 +775,51 @@ for i in range(len(rows)):
 </p>
 <br>
 <p class="footnote" id="footnote7">
-<a class="footnote-link" href="#footlink7">[7]</a> Using a dictionary eliminates the duplicate players issue, which is caused by Basketball Reference having multiple rows for the same player if they switch teams mid-season. See the Basketball Reference screenshot. LaMarcus Aldridge has three rows because he played on the Spurs, Raptors, and Nets all in one season.
+<a class="footnote-link" href="#footlink7">[7]</a> If a player has played on multiple teams during the same season, Basketball Reference has multiple rows for that player. See the <a href="#screenshot-1">Basketball Reference screenshot</a>. LaMarcus Aldridge has three rows because he played on both the Spurs and Nets in one season. The "TOT" category is his stats in total from both teams. I added a chunk of code in the loop to make sure the player on the "TOT" team is the one added to the dictionary, because Python dictionaries do not allow duplicate keys. Another issue I thought of is if there are two players with the same name, there is no way of knowing if it is a different player or just that player on a different team. Luckily, I don't know of any two NBA players with the same exact name (fingers crossed).
 </p>
+<br>
+<p class="footnote" id="footnote8">
+<a class="footnote-link" href="#footlink8">[8]</a> At the time, I didn't really put too much thought into this. I'm definitely going to do some more research and tweak these categories later.
+</p>
+<br>
+<p class="footnote" id="footnote9">
+<a class="footnote-link" href="#footlink9">[9]</a> Going forward, I think the final score should be all the rankings added up and then divided by the amount of categories, yielding an average ranking rather than just a tally of all the rankings. Or that could just be another statistic. I'm still trying to determine the final score that makes the most sense to people.
+</p>
+<br>
+<p class="footnote" id="footnote10">
+<a class="footnote-link" href="#footlink10">[10]</a> I added a line to check if a statistic was left blank and replaced it with a zero. For example, a player with no free throw percentage would have a percentage of zero rather than one-hundred. 
+</p>
+<br>
+<p class="footnote" id="footnote11">
+<a class="footnote-link" href="#footlink11">[11]</a> <i>Very</i> basic. Zero CSS. I was lazy.
+</p>    
+<br>
+        <div class="post-row">
+
+                <div class="post-column">
+                    <a class="post-link-special" href="/static/img/blog/python-mvp/kd.png" target="_blank">
+                        <img style="border: #B6F29D 1px solid" src="/static/img/blog/python-mvp/kd.png">
+                    </a>
+                    <figcaption>kd / asboyer.com</figcaption>
+                </div>
+
+                <div class="post-column">
+                    <a class="post-link-special" href="/static/img/blog/python-mvp/harden.png" target="_blank">
+                        <img style="border: #B6F29D 1px solid" src="/static/img/blog/python-mvp/harden.png">
+                    </a>
+                    <figcaption>the beard / asboyer.com</figcaption>
+                </div>
+
+                <div class="post-column">
+                    <a class="post-link-special" href="/static/img/blog/python-mvp/curry.png" target="_blank">
+                        <img style="border: #B6F29D 1px solid" src="/static/img/blog/python-mvp/curry.png">
+                    </a>
+                    <figcaption>steph / asboyer.com</figcaption>
+                </div>
+
+            </div>
+
 </div>
-
-
 
 </section> 
 {% endblock %}
