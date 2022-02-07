@@ -34,5 +34,11 @@
         "github": "https://github.com/builtwithcare",
         "image": "/static/img/projects/m.png",
         "title": "Built with Care"  
+    } ,
+    "Twitter Bot": {
+        "link": "https://github.com/asboyer/twitter_bot",
+        "github": "https://github.com/asboyer/twitter_bot",
+        "image": "/static/img/projects/twitter.png",
+        "title": "Twitter Bot"  
     }
 }

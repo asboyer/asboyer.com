@@ -4,8 +4,6 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="Andrew Boyer's personal website.">
-        <meta name="keywords" content="Andrew Boyer, Andrew S Boyer, Andrew, Boyer, Boyer Wayland">
         <meta name="viewport" content="width=device-width, maximum-scale=1.0, minimum-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <meta name="author" content="Andrew Boyer">
@@ -13,15 +11,33 @@
         <meta http-equiv="Pragma" content="no-cache" />
         <meta http-equiv="Expires" content="0" />
         
+        {% block seo %}
+        {% endblock %}
+
         <meta property="og:url" content="https://www.asboyer.com">
         <meta property="og:description" content="Andrew Boyer's personal website.">
         <meta property="og:image" content="https://asboyer.com./static/img/l.png">
         <meta property="og:url" content="https://www.asboyer.com/">
-        <meta name="twitter:card" content="summary">
-        
+
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:creator" content="@asboyer_" />
+        <meta name="twitter:title" content="asboyer.com" />
+        <meta name="twitter:description" content="Hi, I'm Andrew Boyer, and welcome to asboyer.com, my personal website. Here you can find more about what I’m up to, my favorite things, and what I do." />
+        <meta name="twitter:image" content="https://asboyer.com./static/img/l.png" />
+
+        <meta name="description" content="Hi, I'm Andrew Boyer, and welcome to asboyer.com, my personal website. Here you can find more about what I’m up to, my favorite things, and what I do. "/>
+        <meta name="keywords" content="Andrew Boyer, Andrew S Boyer, Andrew, Boyer, Boyer Wayland, asboyer.com, asboyer">
         <title>Andrew Boyer</title>
 
-        <link rel="shortcut icon" href="/static/img/alt-logo.png"/>
+        <link rel="shortcut icon" href="/static/img/favicon.ico"/>
+
+        <link rel="apple-touch-icon" href="/static/img/apple-touch-icon-iphone-60x60.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="/static/img/apple-touch-icon-ipad-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/static/img/apple-touch-icon-iphone-retina-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/static/apple-touch-icon-ipad-retina-152x152.png">
+
+        <link rel="icon" type="image/png" sizes="32x32" href="/static/img/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/static/img/favicon-16x16.png">
 
         <!-- Font awesome -->
         <script src="https://kit.fontawesome.com/222493b4df.js" crossorigin="anonymous"></script>
@@ -65,18 +81,7 @@
 
     <body>
         <header>
-
-            <div class="logo">
-                <a href="/">
-                    <img src="/static/img/alt-logo.png" alt="">
-                </a>
-            </div>
-
-            <button class="nav-toggle" aria-label="toggle navigation">
-                <span class="hamburger"></span>
-            </button>
-
-            <nav class="nav">
+            <nav class="nav" id="topnavbar">
                 <ul class="nav__list">
                     <li class="nav__itm"><a href="/#home" class="nav__link">Home <i class="fas fa-home"></i></a></li>
                     <li class="nav__itm"><a href="/#projects" class="nav__link">Projects <i class="fas fa-file-code"></i></a></li>
@@ -87,6 +92,16 @@
                     <li class="nav__itm"><a href="/#about" class="nav__link">About <i class="fas fa-address-card"></i></a></li>
                 </ul>
             </nav>
+
+            <div class="logo">
+                <a href="/">
+                    <img src="/static/img/alt-logo.png" alt="">
+                </a>
+            </div>
+
+            <button class="nav-toggle" aria-label="toggle navigation">
+                <span class="hamburger"></span>
+            </button>
 
         </header>
         
