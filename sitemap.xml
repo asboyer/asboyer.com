@@ -49,6 +49,7 @@
         <priority>0.5</priority>
         <changefreq>weekly</changefreq>
     </url>
+    <url>
         <loc>https://www.asboyer.com/shows</loc>
         <priority>0.5</priority>
         <changefreq>weekly</changefreq>
