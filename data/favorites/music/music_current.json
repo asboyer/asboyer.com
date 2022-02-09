@@ -94,10 +94,7 @@
         "total_tracks": 12,
         "uri": "spotify:album:35UJLpClj5EDrhpNIi4DFg",
         "image": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
+        "top_tracks": [
             "Planet Telex",
             "The Bends",
             "High and Dry",
@@ -105,11 +102,15 @@
             "Bones",
             "(Nice Dream)",
             "Just",
+            "Black Star",
+            "Sulk"
+        ],
+        "good_tracks": [
             "My Iron Lung",
             "Bullet Proof ... I Wish I Was",
-            "Black Star",
-            "Sulk",
             "Street Spirit (Fade Out)"
-        ]
+        ],
+        "score": 9.58,
+        "tracks": []
     }
 }
