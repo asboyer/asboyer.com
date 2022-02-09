@@ -7,59 +7,39 @@
 </div>
 
 # Andrew Boyer's Personal Website
-> *blocked at Wayland High School for some reason, currently working on getting it approved on the network*
 
-
-## Sections:
+## Notable pages:
 * [Home](https://asboyer.com/#home)
-    * Just the home page, working on adding some cool JavaScript animation to open with
-* [Projects](https://asboyer.com/#projects)
-    * Links the all my notable projects, tried to give each project an appealing "card", with the project logo taking the user to the main page of the project, and providing the subsequent GitHub link below
-* [Experience](https://asboyer.com/#work)
-    * Shows all current jobs and internships, as well as providing a resume link below
-* [Skills](https://asboyer.com/#services)
-    * Just a description of my skills, and what value I bring as a leader/developer
-* [Blog](https://asboyer.com/#blog)
-    * I see the most potential here, yet I haven't made a single blog post
-    * Possible blog post ideas:
-        * How GoatGrade predicted the NBA MVP *(in the works)*
-        * Resources for self-leaning programming *(I like this idea)*
-        * What I will be trying to learn over the summer *(I like this idea)*
-        * Prepping for the AP Computer Science Exam *(shelved for now)*
-        * Tutorials *(maybe a guide through some cool projects for beginners?)*
-        * Historical accuracy of *Saving Private Ryan* *(history paper but I could post it on the blog)*
-    * Would like to set up some kind of RSS feed that notifies subscribers about new posts
-        * to add on that, it might be cool to set up a newspaper to automatically send out the blog post to subscribers over email
-* [Tools](https://asboyer.com/#tools)
-    * Section is an archive of my favorite tools or tools that I use a lot
-    * Maybe could add the programming language or tool that I am currently using
-    * Could add favorite Python library
-* [About](https://asboyer.com/#about)
-    * A little blurb about myself, who I am, and what I believe
-    * Buttons with links to articles I've been in, awards I've won, and my podcasts
-        * [In the news](https://asboyer.com/news)
-        * Awards and honors *coming soon*
-        * Podcasts *coming soon*
-    * Buttons with links to all my favorite things
-        * [Music](https://asboyer.com/music.html)
-            * [Current favorites](https://asboyer.com/music-at-the-moment.html)
-            * [All time favorites](https://asboyer.com/music-all-time.html)
-        * [Books](https://asboyer.com/books.html)
-            * Reading list *coming soon*
-            * [Bookshelf](https://asboyer.com/bookshelf.html)
-            * [Library](https://asboyer.com/library.html)
-                * Non-fiction *coming soon*
-                * Series *coming soon*
-                * Fiction *coming soon*
-        * [Movies](https://asboyer.com/movies.html)
-        * Shows *coming soon*
-        * Games *coming soon*
-        * Other *coming soon*
-
+    * The opening page, has some cool sections
+    * [Projects](https://asboyer.com/#projects)
+        * Links the all my notable projects, tried to give each project an appealing "card", with the project logo taking the user to the main page of the project, and providing the subsequent GitHub link below
+    * [Experience](https://asboyer.com/#work)
+        * Shows all current jobs and internships, as well as providing a resume link below
+    * [Skills](https://asboyer.com/#skills)
+        * Just a description of my skills, and what value I bring as a leader/developer
+    * [Blog](https://asboyer.com/#blog)
+        * Blog post ideas I am working on:
+            > - [x] Predicting NBA with Python
+            > - [ ] Resources for self-leaning programming
+            > - [ ] What I will be trying to learn in 2022
+            > - [ ] Preparing for the AP Computer Science Exam
+            > - [ ] An introduction to modern stoicism
+            > - [ ] Fitness related
+            > - [ ] Best albums of the decade so far (2022)
+        * Would like to set up some kind of RSS feed that notifies subscribers about new posts
+        * Would also like to add a sign up link for email list for notifications whenever a new post goes live
+    * [Tools](https://asboyer.com/#tools)
+        * Section is an archive of my favorite tools or tools that I use a lot
+        * Maybe could add the programming language or tool that I am currently using
+        * Could add favorite Python library
+    * [About](https://asboyer.com/#about)
+        * A little blurb about myself, who I am, and what I believe
+        * Buttons with links to articles I've been in, awards I've won, and my podcasts
+        * Buttons that link to my favorite things
 
 
 ### Working on:
-> - [ ] Predicting NBA with Python blog post
+> - [x] Predicting NBA with Python blog post
 > - [ ] All time books section
 > - [ ] Reading list section
 > - [ ] Awards and honors section
@@ -69,8 +49,6 @@
 > - [x] Page organization
 
 ### Ideas:
-> - [ ] Self learning computer science resources
-> - [ ] What I am trying to learn this summer and resources I am using
 > - [ ] Add language I am learning in technologies section
 > - [ ] Favorite Spotify playlists music section
 > - [ ] Mixes available for download music section 
