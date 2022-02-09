@@ -36,6 +36,7 @@ $(document).ready(function(){
 
         var jobs = Object.values(json)
         jobs.sort((a,b) => (a.start_date < b.start_date) ? 1 : ((b.start_date < a.start_date) ? -1 : 0))
+        console.log(jobs)
         jobs = jobs.slice(0, 3)
 
         jobs.sort(function(a, b) {
@@ -59,19 +60,22 @@ $(document).ready(function(){
             var roles = Object.values(values.roles)
             if(values.roles.length != 1){
                 roles.sort((a,b) => (a.start_date < b.start_date) ? 1 : ((b.start_date < a.start_date) ? -1 : 0))
+                console.log(roles)
             }
             var role = roles[0]
 
+
             if(values.end_date.toLowerCase() != "present"){
                 var dates = values.end_date.split("-")
-                var end_date = new Date(values.end_date)
-                var end_string = month[end_date.getMonth()] + " " + end_date.getFullYear()
+                var end_date = new Date(parseInt(dates[0]), parseInt(dates[1]), parseInt(dates[2]));
+                var end_string = month[end_date.getMonth() - 1] + " " + end_date.getFullYear()
             }
             else {
                 var end_string = "Present"
             }
-            var start_date = new Date(values.start_date)
-            var start_string = month[start_date.getMonth()] + " " + start_date.getFullYear()
+            var dates = values.start_date.split("-")
+            var start_date = new Date(parseInt(dates[0]), parseInt(dates[1]), parseInt(dates[2]));
+            var start_string = month[start_date.getMonth()  - 1] + " " + start_date.getFullYear()
 
             var job = 
             `
