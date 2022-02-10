@@ -166,7 +166,7 @@ headers = headers[1:]
 </div>
 
 <p class="post-text">
-    Would you look at that! All the data is there, we just need to clean it up by getting rid of all the HTML code.<br>Below I extract the data and store it in the <code class="language-python">stats</code> dictionary by looping through each row and getting all the text between the <code class="language-html">&lt;td&gt;</code> tags. Then, I created a new sub-dictionary for each player and fill each category in the <code class="language-python">headers</code> list with the player's data.
+    Would you look at that! All the data is there, we just need to clean it up by getting rid of all the HTML code.<br>Below I extract the data and store it in the <code class="language-python">stats</code> dictionary by looping through each row and getting all the text between the <code class="language-html">&lt;td&gt;</code> tags. Then, I created a new sub-dictionary for each player and used a double loop to fill each category in the <code class="language-python">headers</code> list with the player's data.
 </p>
 
 
@@ -236,7 +236,7 @@ with open("stats.json", "w+", encoding="utf8") as file:
 </div>
 
 <p class="post-text">
-    There is a lot more data available to us. Basketball Reference keeps track of <a href="https://www.basketball-reference.com/leagues/NBA_2021_advanced.html" target="_blank">advanced stats</a>, giving us more data to base our predictions off of. We can scrape this in the exact same way as before and then combine the advanced statistics with the regular statistics. Just change the url variable like so:
+    There is a lot more data available to us. Basketball Reference keeps track of <a href="https://www.basketball-reference.com/leagues/NBA_2021_advanced.html" target="_blank">advanced stats</a>, giving us more data to base our predictions off of. We can scrape this in the exact same way as before and then combine the advanced statistics with the regular statistics. Just change the <code class="language-python">url</code> variable like so:
 </p>
 
 <div class="code-block">
