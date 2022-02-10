@@ -1,8 +1,12 @@
 import os
 import json
 import inflect
-from flask import Flask, render_template, send_from_directory
+from flask import Flask, render_template, send_from_directory, redirect, url_for
 from datetime import date
+from flask_bootstrap import Bootstrap
+from flask_wtf import FlaskForm
+from wtforms import StringField, SubmitField
+from wtforms.validators import DataRequired
  
 grade = "senior"
 school = "Wayland High School"
