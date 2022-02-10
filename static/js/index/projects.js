@@ -23,6 +23,13 @@ $(document).ready(function(){
         shuffle(projects)
 
         $.each(projects, function(title, values){
+            if (values.title == "Goat Grade") {
+                console.log('hi')
+                var special = `<a style="padding-left: 10px" class="project_logo" href="https://asboyer.com/blog/1" target="_blank"><i class="fas fa-book"></i></a>`
+            }
+            else {
+                var special = ""
+            }
             var project = 
             `
             <div class="project">
@@ -31,6 +38,7 @@ $(document).ready(function(){
                 </a>
                 <h3>${values.title}</h3>
                 <a class="project_logo" href="${values.github}" target="_blank"><i class="fab fa-github fa-lg" aria-hidden="true"></i></a>
+                ${special}
             </div>
             `
         $('#projects-div').append(project)
