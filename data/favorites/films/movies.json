@@ -5,13 +5,13 @@
         "rating": 8.5,
         "title": "The Departed",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 10.0,
+            "acting": 10.0,
+            "score": 8.0,
+            "cinematography": 8.0,
+            "replay_value": 9.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 8.92
     },
     "Dead Poets Society": {
         "id": "0097165",
@@ -19,13 +19,13 @@
         "rating": 8.1,
         "title": "Dead Poets Society",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 10.0,
+            "acting": 10.0,
+            "score": 10.0,
+            "cinematography": 10.0,
+            "replay_value": 10.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 10.0
     },
     "Indiana Jones and the Raiders of the Lost Ark": {
         "id": "0082971",
@@ -33,13 +33,13 @@
         "rating": 8.4,
         "title": "Indiana Jones and the Raiders of the Lost Ark",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 8.0,
+            "acting": 8.0,
+            "score": 10.0,
+            "cinematography": 8.0,
+            "replay_value": 9.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 8.57
     },
     "Catch Me If You Can": {
         "id": "0264464",
@@ -47,13 +47,13 @@
         "rating": 8.1,
         "title": "Catch Me If You Can",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 10.0,
+            "acting": 10.0,
+            "score": 9.0,
+            "cinematography": 9.0,
+            "replay_value": 10.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 9.35
     },
     "Pulp Fiction": {
         "id": "0110912",
@@ -61,13 +61,13 @@
         "rating": 8.9,
         "title": "Pulp Fiction",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 10.0,
+            "acting": 10.0,
+            "score": 7.0,
+            "cinematography": 10.0,
+            "replay_value": 8.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 8.98
     },
     "Good Will Hunting": {
         "id": "0119217",
@@ -75,13 +75,13 @@
         "rating": 8.3,
         "title": "Good Will Hunting",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 9.0,
+            "acting": 10.0,
+            "score": 8.0,
+            "cinematography": 9.0,
+            "replay_value": 8.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 8.72
     },
     "The Social Network": {
         "id": "1285016",
@@ -95,7 +95,7 @@
             "cinematography": 10.0,
             "replay_value": 10.0
         },
-        "asboyer_score": 100.0
+        "asboyer_score": 10.0
     },
     "The Shawshank Redemption": {
         "id": "0111161",
@@ -103,13 +103,13 @@
         "rating": 9.3,
         "title": "The Shawshank Redemption",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 10.0,
+            "acting": 10.0,
+            "score": 7.0,
+            "cinematography": 10.0,
+            "replay_value": 10.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 9.38
     },
     "Se7en": {
         "id": "0114369",
@@ -117,13 +117,13 @@
         "rating": 8.6,
         "title": "Se7en",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 9.0,
+            "acting": 9.0,
+            "score": 5.0,
+            "cinematography": 8.0,
+            "replay_value": 7.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 7.77
     },
     "The Dark Knight": {
         "id": "0468569",
@@ -131,13 +131,13 @@
         "rating": 9.0,
         "title": "The Dark Knight",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 10.0,
+            "acting": 10.0,
+            "score": 10.0,
+            "cinematography": 10.0,
+            "replay_value": 10.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 10.0
     },
     "The Dark Knight Rises": {
         "id": "1345836",
@@ -145,13 +145,13 @@
         "rating": 8.4,
         "title": "The Dark Knight Rises",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 9.0,
+            "acting": 9.0,
+            "score": 10.0,
+            "cinematography": 10.0,
+            "replay_value": 10.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 9.4
     },
     "La La Land": {
         "id": "3783958",
@@ -159,13 +159,13 @@
         "rating": 8.0,
         "title": "La La Land",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 8.0,
+            "acting": 8.0,
+            "score": 10.0,
+            "cinematography": 10.0,
+            "replay_value": 8.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 8.67
     },
     "TRON: Legacy": {
         "id": "1104001",
@@ -179,7 +179,7 @@
             "cinematography": 10.0,
             "replay_value": 10.0
         },
-        "asboyer_score": 100.0
+        "asboyer_score": 10.0
     },
     "WarGames": {
         "id": "0086567",
@@ -187,13 +187,13 @@
         "rating": 7.1,
         "title": "WarGames",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 10.0,
+            "acting": 7.0,
+            "score": 5.0,
+            "cinematography": 7.0,
+            "replay_value": 7.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 7.18
     },
     "The Pursuit of Happyness": {
         "id": "0454921",
@@ -201,13 +201,13 @@
         "rating": 8.0,
         "title": "The Pursuit of Happyness",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 9.0,
+            "acting": 9.0,
+            "score": 9.0,
+            "cinematography": 7.0,
+            "replay_value": 8.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 8.33
     },
     "Limitless": {
         "id": "1219289",
@@ -215,13 +215,13 @@
         "rating": 7.4,
         "title": "Limitless",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 10.0,
+            "acting": 8.0,
+            "score": 10.0,
+            "cinematography": 7.0,
+            "replay_value": 10.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 8.73
     },
     "Interstellar": {
         "id": "0816692",
@@ -229,27 +229,13 @@
         "rating": 8.6,
         "title": "Interstellar",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 8.0,
+            "acting": 8.0,
+            "score": 10.0,
+            "cinematography": 10.0,
+            "replay_value": 7.0
         },
-        "asboyer_score": 0.0
-    },
-    "The Matrix": {
-        "id": "0133093",
-        "image": "http://image.tmdb.org/t/p/original/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
-        "rating": 8.7,
-        "title": "The Matrix",
-        "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
-        },
-        "asboyer_score": 0.0
+        "asboyer_score": 8.6
     },
     "Ocean's Eleven": {
         "id": "0240772",
@@ -257,13 +243,13 @@
         "rating": 7.7,
         "title": "Ocean's Eleven",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 10.0,
+            "acting": 10.0,
+            "score": 10.0,
+            "cinematography": 10.0,
+            "replay_value": 10.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 10.0
     },
     "Ocean's Twelve": {
         "id": "0349903",
@@ -271,13 +257,13 @@
         "rating": 6.5,
         "title": "Ocean's Twelve",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 7.0,
+            "acting": 7.0,
+            "score": 10.0,
+            "cinematography": 10.0,
+            "replay_value": 10.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 8.42
     },
     "Ocean's Thirteen": {
         "id": "0496806",
@@ -285,13 +271,13 @@
         "rating": 6.9,
         "title": "Ocean's Thirteen",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 9.0,
+            "acting": 10.0,
+            "score": 10.0,
+            "cinematography": 10.0,
+            "replay_value": 10.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 9.32
     },
     "Star Wars: Episode V - The Empire Strikes Back": {
         "id": "0080684",
@@ -299,13 +285,13 @@
         "rating": 8.7,
         "title": "Star Wars: Episode V - The Empire Strikes Back",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 9.0,
+            "acting": 7.0,
+            "score": 10.0,
+            "cinematography": 7.0,
+            "replay_value": 8.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 8.28
     },
     "Star Wars: Episode IV - A New Hope": {
         "id": "0076759",
@@ -313,13 +299,13 @@
         "rating": 8.6,
         "title": "Star Wars: Episode IV - A New Hope",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 10.0,
+            "acting": 8.0,
+            "score": 10.0,
+            "cinematography": 6.0,
+            "replay_value": 9.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 8.6
     },
     "Star Wars: Episode III - Revenge of the Sith": {
         "id": "0121766",
@@ -327,13 +313,13 @@
         "rating": 7.5,
         "title": "Star Wars: Episode III - Revenge of the Sith",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 10.0,
+            "acting": 9.0,
+            "score": 10.0,
+            "cinematography": 9.0,
+            "replay_value": 10.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 9.25
     },
     "Rogue One: A Star Wars Story": {
         "id": "3748528",
@@ -341,13 +327,13 @@
         "rating": 7.8,
         "title": "Rogue One: A Star Wars Story",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 10.0,
+            "acting": 9.0,
+            "score": 9.0,
+            "cinematography": 8.0,
+            "replay_value": 10.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 8.97
     },
     "Avengers: Infinity War": {
         "id": "4154756",
@@ -355,13 +341,13 @@
         "rating": 8.4,
         "title": "Avengers: Infinity War",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 10.0,
+            "acting": 8.0,
+            "score": 8.0,
+            "cinematography": 8.0,
+            "replay_value": 9.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 8.57
     },
     "Captain America: The Winter Soldier": {
         "id": "1843866",
@@ -369,13 +355,13 @@
         "rating": 7.7,
         "title": "Captain America: The Winter Soldier",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 10.0,
+            "acting": 8.0,
+            "score": 9.0,
+            "cinematography": 10.0,
+            "replay_value": 10.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 9.12
     },
     "Spider-Man: Into the Spider-Verse": {
         "id": "4633694",
@@ -383,13 +369,13 @@
         "rating": 8.4,
         "title": "Spider-Man: Into the Spider-Verse",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 8.0,
+            "acting": 8.0,
+            "score": 9.0,
+            "cinematography": 10.0,
+            "replay_value": 9.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 8.73
     },
     "The Amazing Spider-Man 2": {
         "id": "1872181",
@@ -397,13 +383,13 @@
         "rating": 6.6,
         "title": "The Amazing Spider-Man 2",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 8.0,
+            "acting": 8.0,
+            "score": 10.0,
+            "cinematography": 9.0,
+            "replay_value": 10.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 8.6
     },
     "The Lord of the Rings: The Fellowship of the Ring": {
         "id": "0120737",
@@ -411,13 +397,13 @@
         "rating": 8.8,
         "title": "The Lord of the Rings: The Fellowship of the Ring",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 8.0,
+            "acting": 8.0,
+            "score": 10.0,
+            "cinematography": 8.0,
+            "replay_value": 7.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 8.3
     },
     "The Lord of the Rings: The Two Towers": {
         "id": "0167261",
@@ -425,13 +411,13 @@
         "rating": 8.7,
         "title": "The Lord of the Rings: The Two Towers",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 7.0,
+            "acting": 8.0,
+            "score": 10.0,
+            "cinematography": 8.0,
+            "replay_value": 7.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 8.12
     },
     "The Lord of the Rings: The Return of the King": {
         "id": "0167260",
@@ -439,13 +425,13 @@
         "rating": 8.9,
         "title": "The Lord of the Rings: The Return of the King",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 10.0,
+            "acting": 8.0,
+            "score": 10.0,
+            "cinematography": 9.0,
+            "replay_value": 8.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 8.98
     },
     "Back to the Future": {
         "id": "0088763",
@@ -455,11 +441,11 @@
         "scorecard": {
             "screenplay": 10.0,
             "acting": 8.0,
-            "score": 10.0,
-            "cinematography": 10.0,
-            "replay_value": 10.0
+            "score": 9.0,
+            "cinematography": 7.0,
+            "replay_value": 9.0
         },
-        "asboyer_score": 96.0
+        "asboyer_score": 8.58
     },
     "Back to the Future Part III": {
         "id": "0099088",
@@ -467,13 +453,13 @@
         "rating": 7.4,
         "title": "Back to the Future Part III",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 9.0,
+            "acting": 8.0,
+            "score": 8.0,
+            "cinematography": 7.0,
+            "replay_value": 7.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 7.73
     },
     "Home Alone": {
         "id": "0099785",
@@ -481,13 +467,13 @@
         "rating": 7.6,
         "title": "Home Alone",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 10.0,
+            "acting": 8.0,
+            "score": 10.0,
+            "cinematography": 7.0,
+            "replay_value": 10.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 8.77
     },
     "Monsters University": {
         "id": "1453405",
@@ -495,13 +481,13 @@
         "rating": 7.2,
         "title": "Monsters University",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 9.0,
+            "acting": 8.0,
+            "score": 8.0,
+            "cinematography": 8.0,
+            "replay_value": 8.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 8.03
     },
     "Cars": {
         "id": "0317219",
@@ -509,13 +495,13 @@
         "rating": 7.1,
         "title": "Cars",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 10.0,
+            "acting": 9.0,
+            "score": 9.0,
+            "cinematography": 9.0,
+            "replay_value": 9.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 8.85
     },
     "Cars 2": {
         "id": "1216475",
@@ -523,13 +509,13 @@
         "rating": 6.1,
         "title": "Cars 2",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 10.0,
+            "acting": 10.0,
+            "score": 10.0,
+            "cinematography": 9.5,
+            "replay_value": 10.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 9.27
     },
     "21": {
         "id": "0478087",
@@ -537,13 +523,13 @@
         "rating": 6.8,
         "title": "21",
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 8.0,
+            "acting": 7.0,
+            "score": 5.0,
+            "cinematography": 6.0,
+            "replay_value": 8.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 6.8
     },
     "Whiplash": {
         "id": "2582802",
@@ -555,23 +541,9 @@
             "acting": 10.0,
             "score": 10.0,
             "cinematography": 10.0,
-            "replay_value": 0.0
+            "replay_value": 10.0
         },
-        "asboyer_score": 80.0
-    },
-    "Saving Private Ryan": {
-        "id": "0120815",
-        "image": "http://image.tmdb.org/t/p/original/1wY4psJ5NVEhCuOYROwLH2XExM2.jpg",
-        "rating": 8.6,
-        "title": "Saving Private Ryan",
-        "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
-        },
-        "asboyer_score": 0.0
+        "asboyer_score": 10.0
     },
     "Inception": {
         "id": "1375666",
@@ -583,9 +555,9 @@
             "acting": 10.0,
             "score": 10.0,
             "cinematography": 10.0,
-            "replay_value": 10.0
+            "replay_value": 9.5
         },
-        "asboyer_score": 100.0
+        "asboyer_score": 9.72
     },
     "The Martian": {
         "id": "3659388",
@@ -593,13 +565,13 @@
         "image": "http://image.tmdb.org/t/p/original/5BHuvQ6p9kfc091Z8RiFNhCwL4b.jpg",
         "rating": 8.0,
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 7.0,
+            "acting": 7.0,
+            "score": 7.0,
+            "cinematography": 10.0,
+            "replay_value": 8.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 7.83
     },
     "Tenet": {
         "id": "6723592",
@@ -611,9 +583,9 @@
             "acting": 7.0,
             "score": 10.0,
             "cinematography": 10.0,
-            "replay_value": 10.0
+            "replay_value": 7.0
         },
-        "asboyer_score": 90.0
+        "asboyer_score": 8.23
     },
     "Sneakers": {
         "id": "0105435",
@@ -621,13 +593,13 @@
         "image": "http://image.tmdb.org/t/p/original/pY7wNO4J0QMAH9Q4nJL3QLlPVvC.jpg",
         "rating": 7.1,
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 8.0,
+            "acting": 6.0,
+            "score": 5.0,
+            "cinematography": 5.0,
+            "replay_value": 7.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 6.35
     },
     "The Godfather: Part II": {
         "id": "0071562",
@@ -635,13 +607,13 @@
         "image": "http://image.tmdb.org/t/p/original/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
         "rating": 9.0,
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 10.0,
+            "acting": 10.0,
+            "score": 10.0,
+            "cinematography": 10.0,
+            "replay_value": 9.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 9.67
     },
     "The Godfather": {
         "id": "0068646",
@@ -649,13 +621,13 @@
         "image": "http://image.tmdb.org/t/p/original/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
         "rating": 9.2,
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 9.0,
+            "acting": 10.0,
+            "score": 10.0,
+            "cinematography": 10.0,
+            "replay_value": 8.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 9.37
     },
     "Pirates of the Caribbean: The Curse of the Black Pearl": {
         "id": "0325980",
@@ -663,13 +635,13 @@
         "image": "http://image.tmdb.org/t/p/original/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",
         "rating": 8.0,
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 7.0,
+            "acting": 6.0,
+            "score": 10.0,
+            "cinematography": 10.0,
+            "replay_value": 9.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 8.33
     },
     "Batman Begins": {
         "id": "0372784",
@@ -677,13 +649,13 @@
         "image": "http://image.tmdb.org/t/p/original/8RW2runSEc34IwKN2D1aPcJd2UL.jpg",
         "rating": 8.2,
         "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
+            "screenplay": 7.0,
+            "acting": 9.0,
+            "score": 10.0,
+            "cinematography": 9.0,
+            "replay_value": 7.0
         },
-        "asboyer_score": 0.0
+        "asboyer_score": 8.37
     },
     "500 Days of Summer": {
         "id": "1022603",
@@ -692,11 +664,11 @@
         "rating": 7.7,
         "scorecard": {
             "screenplay": 8.0,
-            "acting": 9.0,
-            "score": 6.0,
+            "acting": 8.0,
+            "score": 5.0,
             "cinematography": 9.0,
-            "replay_value": 8.0
+            "replay_value": 7.0
         },
-        "asboyer_score": 80.0
+        "asboyer_score": 7.45
     }
 }

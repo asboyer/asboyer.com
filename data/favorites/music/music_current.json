@@ -46,10 +46,12 @@
             "Less Than Zero"
         ],
         "good_tracks": [
+            "Here We Go... Again (feat. Tyler, the Creator)",
+            "Best Friends",
             "Is There Someone Else?",
             "Starry Eyes"
         ],
-        "score": 5.89
+        "score": 6.79
     },
     "Minecraft - Volume Alpha": {
         "artists": "C418",
@@ -111,6 +113,53 @@
             "Street Spirit (Fade Out)"
         ],
         "score": 9.58,
+        "tracks": []
+    },
+    "DS4EVER": {
+        "artists": "Gunna",
+        "id": "02uWB8Kekadkl3yGBoOOcx",
+        "name": "DS4EVER",
+        "popularity": 90,
+        "release_date": "2022-01-07",
+        "total_tracks": 20,
+        "uri": "spotify:album:02uWB8Kekadkl3yGBoOOcx",
+        "image": "https://i.scdn.co/image/ab67616d0000b273aef0f12483b295ec6a9fcc0f",
+        "top_tracks": [
+            "pushin P (feat. Young Thug)",
+            "too easy",
+            "south to west"
+        ],
+        "good_tracks": [
+            "mop (feat. Young Thug)",
+            "thought i was playing",
+            "too easy (Remix) [feat. Future & Roddy Ricch]",
+            "25k jacket (feat. Lil Baby)",
+            "livin wild"
+        ],
+        "score": 3.29,
+        "tracks": []
+    },
+    "From a Birds Eye View": {
+        "artists": "Cordae",
+        "id": "3N3alcn9EvmanafUt70Vxh",
+        "name": "From a Birds Eye View",
+        "popularity": 82,
+        "release_date": "2022-01-14",
+        "total_tracks": 11,
+        "uri": "spotify:album:3N3alcn9EvmanafUt70Vxh",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731dc2c95232e77b22c32e5985",
+        "top_tracks": [
+            "Super"
+        ],
+        "good_tracks": [
+            "Shiloh\u2019s Intro",
+            "Jean-Michel",
+            "Today (feat. Gunna)",
+            "Champagne Glasses (feat. Freddie Gibbs & Stevie Wonder)",
+            "Westlake High",
+            "Chronicles (feat. H.E.R. & Lil Durk)"
+        ],
+        "score": 4.81,
         "tracks": []
     }
 }

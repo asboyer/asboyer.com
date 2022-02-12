@@ -11,18 +11,6 @@
         "uri": "spotify:track:2WaQeMpYMZbySM3DYiv6VJ",
         "image": "https://i.scdn.co/image/ab67616d0000b27391459011a0d035e45e9cd638"
     },
-    "pushin P (feat. Young Thug)": {
-        "artists": "Gunna, Future, Young Thug",
-        "duration_ms": 136266,
-        "explicit": true,
-        "id": "3XOalgusokruzA5ZBA2Qcb",
-        "name": "pushin P (feat. Young Thug)",
-        "popularity": 86,
-        "preview_url": "https://p.scdn.co/mp3-preview/9c86c0aede44b2ef701adf3d894b17433c89cb3b?cid=cd0e3cb02aee4de099b024ac33ba782e",
-        "track_number": 2,
-        "uri": "spotify:track:3XOalgusokruzA5ZBA2Qcb",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c9fe7f7818e58b590afbd383"
-    },
     "Reverse Engineering": {
         "artists": "Paul Haslinger",
         "duration_ms": 145939,

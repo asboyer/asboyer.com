@@ -25,8 +25,9 @@ $(document).ready(function(){
     $.getJSON(data_file, function(json) {
 
         var movies = Object.values(json)
-        movies.sort((a,b) => (a.rating < b.rating) ? 1 : ((b.rating < a.rating) ? -1 : 0))
         shuffle(movies)
+        
+        movies.sort((a,b) => (a.asboyer_score < b.asboyer_score) ? 1 : ((b.asboyer_score < a.asboyer_score) ? -1 : 0))
 
         $.each(movies, function(title, values){
             var movie_div = 
@@ -37,6 +38,8 @@ $(document).ready(function(){
                 <div class="movie_overlay">
                     <div class="movie-text">
                         <p class="movie-title">${values.title}</p>
+                        <p class="artist" style="font-size: 10px">${values.asboyer_score}</p>
+
                     </div>
                 </div>
                 </a>

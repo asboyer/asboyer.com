@@ -72,26 +72,30 @@
         "score": 7.78,
         "tracks": []
     },
-    "Sweet Action": {
-        "artists": "Jack Harlow",
-        "id": "7AaqMMiYMvnMB3RcS8u3EY",
-        "name": "Sweet Action",
-        "popularity": 74,
-        "release_date": "2020-03-13",
-        "total_tracks": 7,
-        "uri": "spotify:album:7AaqMMiYMvnMB3RcS8u3EY",
-        "image": "https://i.scdn.co/image/ab67616d0000b27305a448540b069450ccfba889",
+    "An Evening With Silk Sonic": {
+        "artists": "Bruno Mars, Anderson .Paak, Silk Sonic",
+        "id": "0S0r2RFucaW9kVjBtcBOV1",
+        "name": "An Evening With Silk Sonic",
+        "popularity": 82,
+        "release_date": "2021-11-12",
+        "total_tracks": 9,
+        "uri": "spotify:album:0S0r2RFucaW9kVjBtcBOV1",
+        "image": "https://i.scdn.co/image/ab67616d0000b27310f084209eab3dfecf7d5f8e",
         "top_tracks": [
-            "WHATS POPPIN",
-            "2STYLISH",
-            "I WANNA SEE SOME ASS (feat. jetsonmade)",
-            "OUT FRONT",
-            "ONCE MAY COMES"
+            "Leave The Door Open",
+            "After Last Night (with Thundercat & Bootsy Collins)",
+            "Smokin Out The Window",
+            "Put On A Smile",
+            "Skate"
         ],
         "good_tracks": [
-            "SMELLS LIKE INCENSE"
+            "Silk Sonic Intro",
+            "Fly As Me",
+            "777",
+            "Blast Off"
         ],
-        "score": 8.33
+        "score": 8.73,
+        "tracks": []
     },
     "OK Computer": {
         "artists": "Radiohead",

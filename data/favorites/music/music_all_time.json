@@ -4074,5 +4074,86 @@
             "Electioneering"
         ],
         "score": 9.72
+    },
+    "An Evening With Silk Sonic": {
+        "artists": "Bruno Mars, Anderson .Paak, Silk Sonic",
+        "id": "0S0r2RFucaW9kVjBtcBOV1",
+        "name": "An Evening With Silk Sonic",
+        "popularity": 82,
+        "release_date": "2021-11-12",
+        "total_tracks": 9,
+        "uri": "spotify:album:0S0r2RFucaW9kVjBtcBOV1",
+        "image": "https://i.scdn.co/image/ab67616d0000b27310f084209eab3dfecf7d5f8e",
+        "top_tracks": [
+            "Leave The Door Open",
+            "After Last Night (with Thundercat & Bootsy Collins)",
+            "Smokin Out The Window",
+            "Put On A Smile",
+            "Skate"
+        ],
+        "good_tracks": [
+            "Silk Sonic Intro",
+            "Fly As Me",
+            "777",
+            "Blast Off"
+        ],
+        "score": 8.73
+    },
+    "Minecraft - Volume Alpha": {
+        "artists": "C418",
+        "id": "3Gt7rOjcZQoHCfnKl5AkK7",
+        "name": "Minecraft - Volume Alpha",
+        "popularity": 78,
+        "release_date": "2011-03-04",
+        "total_tracks": 24,
+        "uri": "spotify:album:3Gt7rOjcZQoHCfnKl5AkK7",
+        "image": "https://i.scdn.co/image/ab67616d0000b273aaeb5c9fb6131977995b7f0e",
+        "top_tracks": [
+            "Key",
+            "Door",
+            "Subwoofer Lullaby",
+            "Living Mice",
+            "Moog City",
+            "Haggstrom",
+            "Minecraft",
+            "Oxyg\u00e8ne",
+            "\u00c9quinoxe",
+            "Mice On Venus",
+            "Dry Hands",
+            "Wet Hands",
+            "Clark",
+            "Chris",
+            "Sweden",
+            "Danny"
+        ],
+        "good_tracks": [
+            "Death",
+            "Excuse",
+            "Beginning"
+        ],
+        "score": 7.56
+    },
+    "The Melodic Blue": {
+        "artists": "Baby Keem",
+        "id": "3r46DPIQeBQbjvjjV5mXGg",
+        "name": "The Melodic Blue",
+        "popularity": 85,
+        "release_date": "2021-09-10",
+        "total_tracks": 16,
+        "uri": "spotify:album:3r46DPIQeBQbjvjjV5mXGg",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731bfa23b13d0504fb90c37b39",
+        "top_tracks": [
+            "trademark usa",
+            "family ties (with Kendrick Lamar)",
+            "durag activity (with Travis Scott)",
+            "booman",
+            "vent"
+        ],
+        "good_tracks": [
+            "gorgeous",
+            "first order of business",
+            "16"
+        ],
+        "score": 4.46
     }
 }
