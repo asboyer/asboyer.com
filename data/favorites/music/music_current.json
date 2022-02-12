@@ -46,10 +46,12 @@
             "Less Than Zero"
         ],
         "good_tracks": [
+            "Here We Go... Again (feat. Tyler, the Creator)",
+            "Best Friends",
             "Is There Someone Else?",
             "Starry Eyes"
         ],
-        "score": 5.89
+        "score": 6.79
     },
     "Minecraft - Volume Alpha": {
         "artists": "C418",
@@ -147,20 +149,17 @@
         "uri": "spotify:album:3N3alcn9EvmanafUt70Vxh",
         "image": "https://i.scdn.co/image/ab67616d0000b2731dc2c95232e77b22c32e5985",
         "top_tracks": [
-            "Jean-Michel",
-            "Super",
-            "Champagne Glasses (feat. Freddie Gibbs & Stevie Wonder)",
-            "Westlake High"
+            "Super"
         ],
         "good_tracks": [
             "Shiloh\u2019s Intro",
-            "Momma\u2019s Hood",
-            "Want From Me",
+            "Jean-Michel",
             "Today (feat. Gunna)",
-            "C Carter",
+            "Champagne Glasses (feat. Freddie Gibbs & Stevie Wonder)",
+            "Westlake High",
             "Chronicles (feat. H.E.R. & Lil Durk)"
         ],
-        "score": 7.53,
+        "score": 4.81,
         "tracks": []
     }
 }
