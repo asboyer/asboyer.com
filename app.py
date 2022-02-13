@@ -1,13 +1,21 @@
 import os
 import json
 import inflect
+import smtplib
+import re
+import requests
+
 from flask import Flask, render_template, send_from_directory, redirect, url_for
 from datetime import date
+from datetime import datetime
+from pytz import timezone
 from flask_bootstrap import Bootstrap
 from flask_wtf import FlaskForm
 from wtforms import StringField, SubmitField
 from wtforms.validators import DataRequired
- 
+
+from secret import secret_key, EMAIL_ADDRESS, EMAIL_PASS
+
 grade = "senior"
 school = "Wayland High School"
 
@@ -38,6 +46,14 @@ for post in posts:
 app = Flask(__name__)
 app.debug = True
 
+
+app.config['SECRET_KEY'] = secret_key
+Bootstrap(app)
+
+class NameForm(FlaskForm):
+    name = StringField('your favorite email: ', validators=[DataRequired()])
+    submit = SubmitField('Submit')    
+
 @app.route("/")
 def index():
     return render_template("index.html", age=age_string, grade=grade, school=school)
@@ -55,9 +71,67 @@ def press():
 
 # blogs
 
-@app.route("/blog")
+def get_emails():
+    with open(f'./emails.json', 'r') as json_file:
+        emails = json.load(json_file)
+    return emails
+
+def store_emails(emails):
+    with open('./emails.json', 'w') as json_file:
+        json.dump(emails, json_file, indent=4)
+
+def send_email(reciever, subject, body):
+    server = smtplib.SMTP('smtp.gmail.com', 587)
+    server.starttls()
+    server.login(EMAIL_ADDRESS, EMAIL_PASS)
+    msg = f'Subject: {subject}\n\n{body}'
+    return server.sendmail(EMAIL_ADDRESS, reciever, msg)
+    
+def confirm_email(email):
+    #Step 1: Check email
+    #Check using Regex that an email meets minimum requirements, throw an error if not
+    addressToVerify = email
+    match = re.match('^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$', addressToVerify)
+
+    if match == None:
+        return "this email is in an invalid format!"
+
+    emails = get_emails()
+    if addressToVerify in list(emails.keys()):
+        return "you have already signed up with this email!"
+
+    response = requests.get(
+        "https://isitarealemail.com/api/email/validate",
+        params = {'email': addressToVerify})
+
+    status = response.json()['status']
+    if status == 'valid':
+        return True
+    else:
+        return "this email does not exist!"
+
+def add_email(email, emails):
+    emails[email] = {
+        'date': datetime.now(timezone('US/Eastern')).strftime("%d/%m/%Y %H:%M:%S")
+    }
+    store_emails(emails)
+
+@app.route("/blog", methods=['GET', 'POST'])
 def blog():
-    return render_template("blog/blog.html")
+    # you must tell the variable 'form' what you named the class, above
+    # 'form' is the variable name used in this template: index.html
+    form = NameForm()
+    message = ""
+    if form.validate_on_submit():
+        email = form.name.data
+        message = confirm_email(email.strip())
+        if message == True:
+            # send_email(email, 'Welcome to asboyer.com!', 'You are signed on for future updates regarding asboyer.com and Boyer\'s Blog!')
+            form.name.data = ""
+            add_email(email, get_emails())
+            message = "thanks, you are signed up for updates!"
+
+    return render_template("blog/blog.html", form=form, message=message)
 
 @app.route("/blog/<name>")
 def blog_post(name):

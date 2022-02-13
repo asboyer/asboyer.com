@@ -1,4 +1,11 @@
 {% extends "layout.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block styles %}
+{{ super() }}
+<link rel="stylesheet"
+      href="{{url_for('static', filename='style.css')}}">
+{% endblock %}
 
 {% block content %}
 <section class="my-blog" id="blog" style="border: #111 1px solid; margin-top: 0px; padding-top: 0px">
@@ -6,5 +13,11 @@
     <div class="posts" id="posts">
         <script type="text/javascript" src="/static/js/blog/posts.js"></script>
     </div>
+
+    <div class="email_form">
+        {{ wtf.quick_form(form) }}
+        <p class="form_message">{{ message }}</p>
+    </div>
 </section>
+
 {% endblock %}
