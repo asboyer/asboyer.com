@@ -57,7 +57,7 @@ subjects: {subject_str}
         msg = MIMEText(status)
         msg['Subject'] = data['title']
         msg['To'] = EMAIL_ADDRESS
-        send_email(get_emails(), msg.as_string())
+        send_email(get_emails().remove(EMAIL_ADDRESS), msg.as_string())
         print('emails sent for new blog post')
 
 
