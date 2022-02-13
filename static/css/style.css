@@ -93,6 +93,45 @@ html {
     border-radius: 25px;
 }
 
+input#submit {
+    display: none;
+    border-style: solid;
+    border-width: 0px;
+    font-family: var(--ff-primary)
+    /*margin-top: 15px*/
+}
+
+input#name {
+    border-radius: 5px;
+    font-family: monospace;
+    padding: 5px;
+    font-size: 1.2em;
+    color: var(--clr-accent);
+    background-color: var(--clr-darker);
+    outline: none !important;
+    border: none !important
+}
+
+input#name:focus {
+    border: 2px solid #B6F29D !important;
+}
+
+label.form-control-label {
+    font-size: 1.2em;
+    font-family: monospace
+}
+
+.email_form {
+    margin-top: 2.5em;
+    margin-bottom: 0px;
+    padding-bottom: 0px
+}
+
+.form_message {
+    letter-spacing: 0em;
+    font-family: monospace
+}
+
 .btn:hover {
     transform: scale(1.25);
 }
