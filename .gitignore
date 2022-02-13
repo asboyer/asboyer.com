@@ -9,3 +9,7 @@ to-do.txt
 progress    
 *.pyc
 notebooks
+secret.py
+emails.json
+email_backup.json
+blog.json
