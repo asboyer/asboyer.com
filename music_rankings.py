@@ -26,7 +26,8 @@ top = ['Kanye West',
     'Tim McGraw',
     'Kendrick Lamar',
     'Fleetwood Mac',
-    'Radiohead'
+    'Radiohead',
+    'Ariana Grande'
     ]
 
 top_a = ['?', 'Boston', 'Hoodie SZN', 'Loose', 'Confessions of a Dangerous Mind', 'So Much Fun', 'Flower Boy', 'Thats What They All Say', 'Sweet Action']

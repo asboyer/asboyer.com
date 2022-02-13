@@ -161,5 +161,32 @@
         ],
         "score": 4.81,
         "tracks": []
+    },
+    "Yours Truly": {
+        "artists": "Ariana Grande",
+        "id": "5xSvNPstcxHtR4ap2vvN8A",
+        "name": "Yours Truly",
+        "popularity": 69,
+        "release_date": "2013-01-01",
+        "total_tracks": 12,
+        "uri": "spotify:album:5xSvNPstcxHtR4ap2vvN8A",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734bb9f35da9ff34b1e2314d8e",
+        "top_tracks": [
+            "Honeymoon Avenue",
+            "Right There",
+            "The Way",
+        ],
+        "good_tracks": [
+            "Baby I",
+            "Lovin' It",
+            "Daydreamin'",
+            "Piano",
+            "You\u2019ll Never Know",
+            "Better Left Unsaid",
+            "Popular Song",
+            "Almost Is Never Enough"
+        ],
+        "score": 7.74,
+        "tracks": []
     }
 }
