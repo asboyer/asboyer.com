@@ -123,7 +123,7 @@ def blog():
     form = NameForm()
     message = ""
     if form.validate_on_submit():
-        email = form.name.data
+        email = form.name.data.lower()
         message = confirm_email(email.strip())
         if message == True:
             # send_email(email, 'Welcome to asboyer.com!', 'You are signed on for future updates regarding asboyer.com and Boyer\'s Blog!')
