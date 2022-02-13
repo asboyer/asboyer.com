@@ -112,7 +112,7 @@ def confirm_email(email):
 
 def add_email(email, emails):
     emails[email] = {
-        'date': datetime.now(timezone('US/Eastern')).strftime("%d/%m/%Y %H:%M:%S")
+        'date': datetime.now(timezone('US/Eastern')).strftime("%d/%m/%Y %I:%M:%S")
     }
     store_emails(emails)
 
