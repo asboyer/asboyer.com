@@ -173,24 +173,20 @@
         "image": "https://i.scdn.co/image/ab67616d0000b2734bb9f35da9ff34b1e2314d8e",
         "top_tracks": [
             "Honeymoon Avenue",
-            
+            "Right There",
+            "The Way",
         ],
         "good_tracks": [
-            
-        ],
-        "score": 0.0,
-        "tracks": [
             "Baby I",
-            "Right There",
-            "Tattooed Heart",
             "Lovin' It",
-            "Piano",
             "Daydreamin'",
-            "The Way",
+            "Piano",
             "You\u2019ll Never Know",
-            "Almost Is Never Enough",
+            "Better Left Unsaid",
             "Popular Song",
-            "Better Left Unsaid"
-        ]
+            "Almost Is Never Enough"
+        ],
+        "score": 7.74,
+        "tracks": []
     }
 }
