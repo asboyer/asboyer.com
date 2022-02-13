@@ -1,6 +1,23 @@
 {% extends "layout.html" %}
 {% import "bootstrap/wtf.html" as wtf %}
 
+
+{% block seo %}
+<meta property="og:url" content="https://www.asboyer.com/blog/">
+<meta property="og:description" content="Hi, I'm Andrew Boyer and welcome to my blog. I post articles on here about the things I'm interested in.">
+<meta property="og:image" content="https://asboyer.com/static/img/l.png">
+
+<title>Boyer's Blog</title>
+<meta name="description" content="Hi, I'm Andrew Boyer and welcome to my blog. I post articles on here about the things I'm interested in."/>
+<meta name="keywords" content="asboyer, blog, boyer's blog">
+{% endblock %}
+
+{% block tweet %}
+<meta name="twitter:title" content="Boyer's Blog"/>
+<meta name="twitter:description" content="Hi, I'm Andrew Boyer and welcome to my blog. I post articles on here about the things I'm interested in."/>
+<meta name="twitter:image:src" content="https://asboyer.com/static/img/l.png"/>
+{% endblock %}
+
 {% block styles %}
 {{ super() }}
 <link rel="stylesheet"
