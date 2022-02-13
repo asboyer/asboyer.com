@@ -15,7 +15,7 @@ def get_new_post():
     if posts['live_posts'] != current_post_titles:
         r =  list(set(current_post_titles) - set(posts['live_posts']))
         posts['live_posts'] = current_post_titles
-        with open(f'/opt/asboyer/asboyer/blog.json.json', 'w') as json_file: 
+        with open(f'/opt/asboyer/asboyer/blog.json', 'w') as json_file: 
             json.dump(posts, json_file, indent=4)
         data = {}
         data['title'] = r[0]
