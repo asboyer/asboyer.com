@@ -11,12 +11,12 @@ msg['Subject'] = 'Welcome to asboyer.com!'
 msg['To'] = EMAIL_ADDRESS
 
 def get_new_emails():
-    with open(f'./emails.json', 'r') as json_file:
+    with open(f'/opt/asboyer/asboyer/emails.json', 'r') as json_file:
         new_emails = json.load(json_file)
     return new_emails
 
 def get_old_emails():
-    with open(f'./email_backup.json', 'r') as json_file:
+    with open(f'/opt/asboyer/asboyer/email_backup.json', 'r') as json_file:
         old_emails = json.load(json_file)
     return old_emails
 
@@ -27,7 +27,7 @@ def send_email(recievers, msg):
     return server.sendmail(EMAIL_ADDRESS, [EMAIL_ADDRESS] + recievers, msg)
 
 def store_emails(emails):
-    with open('./email_backup.json', 'w') as json_file:
+    with open('/opt/asboyer/asboyer/email_backup.json', 'w') as json_file:
         json.dump(emails, json_file, indent=4)
 
 def prep_emails():
