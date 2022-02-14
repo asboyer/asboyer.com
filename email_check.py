@@ -43,4 +43,6 @@ def prep_emails():
             emails.append(diff['dictionary_item_added'][i][6:-2])
         send_email(emails, msg.as_string())
         store_emails(new_emails)
-        print('new emails added and notified')
+        print('new emails added and notified:')
+        for email in emails:
+            print(email)
