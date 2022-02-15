@@ -40,5 +40,11 @@
         "github": "https://github.com/asboyer/twitter_bot",
         "image": "/static/img/projects/twitter.png",
         "title": "Twitter Bot"  
+    },
+    "Boyer's Beats": {
+        "link": "https://github.com/asboyer/boyers_beats",
+        "github": "https://github.com/asboyer/boyers_beats",
+        "image": "/static/img/projects/spotify.png",
+        "title": "Boyer's Beats"  
     }
 }
