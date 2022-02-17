@@ -46,5 +46,65 @@
         "track_number": 19,
         "uri": "spotify:track:3PHx91cSFc4vNVP7TpICVt",
         "image": "https://i.scdn.co/image/ab67616d0000b273753dbc62bec07d83b9dcf624"
+    },
+    "Keating's Triumph - From \"Dead Poets Society\"": {
+        "artists": "Maurice Jarre",
+        "duration_ms": 359000,
+        "explicit": false,
+        "id": "3FiOsc2z39WRO2pWMH3mFW",
+        "name": "Keating's Triumph - From \"Dead Poets Society\"",
+        "popularity": 32,
+        "preview_url": "https://p.scdn.co/mp3-preview/50da45cbdf900ad2871a4d2e93b58213878218a2?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 4,
+        "uri": "spotify:track:3FiOsc2z39WRO2pWMH3mFW",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734ddfb33ec90693414698d301"
+    },
+    "Football Training - Extract from \"Symphony No. 9 in D Minor, Op. 125: IV. Presto\" From \"Dead Poets Society\"": {
+        "artists": "Chicago Symphony Orchestra, Chorus, Fritz Reiner, Phyllis Curtin, Florence Kopleff, John McCollum, Donald Gramm",
+        "duration_ms": 154626,
+        "explicit": false,
+        "id": "2X9xRmqPNTM9W5fVEeDKTh",
+        "name": "Football Training - Extract from \"Symphony No. 9 in D Minor, Op. 125: IV. Presto\" From \"Dead Poets Society\"",
+        "popularity": 25,
+        "preview_url": "https://p.scdn.co/mp3-preview/2655ce8b2c2adcdeb25a719f7c7d9c7342a8cf14?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 5,
+        "uri": "spotify:track:2X9xRmqPNTM9W5fVEeDKTh",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734ddfb33ec90693414698d301"
+    },
+    "Happy Pills": {
+        "artists": "Paul Leonard-Morgan",
+        "duration_ms": 272920,
+        "explicit": false,
+        "id": "7iHbHnQFEb8vJPeDZBwR0k",
+        "name": "Happy Pills",
+        "popularity": 34,
+        "preview_url": null,
+        "track_number": 25,
+        "uri": "spotify:track:7iHbHnQFEb8vJPeDZBwR0k",
+        "image": "https://i.scdn.co/image/ab67616d0000b27379483e92873b450e21bd3e8c"
+    },
+    "Off The Grid": {
+        "artists": "Kanye West",
+        "duration_ms": 339249,
+        "explicit": false,
+        "id": "6LNoArVBBVZzUTUiAX2aKO",
+        "name": "Off The Grid",
+        "popularity": 81,
+        "preview_url": null,
+        "track_number": 4,
+        "uri": "spotify:track:6LNoArVBBVZzUTUiAX2aKO",
+        "image": "https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd"
+    },
+    "405.3 Thumb CAD": {
+        "artists": "Mac Quayle",
+        "duration_ms": 187113,
+        "explicit": false,
+        "id": "2eO9QzBF1PDYWckGPr4L7B",
+        "name": "405.3 Thumb CAD",
+        "popularity": 35,
+        "preview_url": "https://p.scdn.co/mp3-preview/9e365a1ff946a40d5e1749cbabc154f5bb402f25?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 15,
+        "uri": "spotify:track:2eO9QzBF1PDYWckGPr4L7B",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735d2e9d52689c15722a7fc0f2"
     }
 }
