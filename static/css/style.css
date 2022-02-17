@@ -2504,6 +2504,14 @@ header {
     margin: 0 auto;
 }
 
+.all-pods {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    max-width: 1100px;
+    gap: 50px;
+    margin: 0 auto;
+}
+
 .news__container {
     border: #111 5px solid;
     margin:  0 auto;
@@ -2511,6 +2519,8 @@ header {
 
 
 }
+
+
 
 
 .news__item {
