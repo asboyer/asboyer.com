@@ -1,0 +1,51 @@
+{
+	"0": {
+		"title": "WHS Computer Science Club organizes Hack-a-thon",
+		"publication": "WSPN",
+		"date": "2019-11-24",
+		"link": "https://waylandstudentpress.com/82342/articles/whs-computer-science-club-organizes-hack-a-thon/#/",
+		"img": "/static/img/news/wspn-hackaway.png"
+	},
+	"1": {
+		"title": "Computer science club launches into coding",
+		"publication": "WSPN",
+		"date": "2020-11-20",
+		"link": "https://waylandstudentpress.com/90503/news/computer-science-club-launches-into-coding/#/",
+		"img": "/static/img/news/wspn-club.png"		
+	},
+	"2": {
+		"title": "WHS Computer Science club plans hackathon",
+		"publication": "WSPN",
+		"date": "2021-1-21",
+		"link": "https://waylandstudentpress.com/92608/news/whs-computer-science-club-plans-hackathon/#/",
+		"img": "/static/img/news/wspn-hack.png"
+	},
+	"3": {
+		"title": "Wayland Students Host Virtual 'Hackathon' This Weekend",
+		"publication": "Patch",
+		"date": "2021-3-26",
+		"link": "https://patch.com/massachusetts/wayland/wayland-students-host-virtual-hackathon-weekend",
+		"img": "/static/img/news/patch.png"
+	},
+	"4": {
+		"title": "Wayland High's Computer Science Club will hold hackathon focused on how to improve remote learning",
+		"publication": "Milford Daily News",
+		"date": "2021-3-26",
+		"link": "https://www.milforddailynews.com/story/news/education/2021/03/26/wayland-high-hackathon-kicks-off-friday/6973145002/?fbclid=IwAR0W9qhi8sYirnzfx7gC-2cSdk1o-FnfS1_ptm9oed-kQIZ6KaX7i6ng_PY",
+		"img": "/static/img/news/milford-reboot.png"	
+	},
+	"5": {
+		"title": "Wayland students bring hackathon online, look at ways to improve remote learning",
+		"publication": "The Boston Globe",
+		"date": "2021-3-28",
+		"link": "https://www.bostonglobe.com/2021/03/28/metro/wayland-students-bring-hackathon-online-look-ways-improve-remote-learning/",
+		"img": "/static/img/news/globe.png"	
+	},
+	"6": {
+		"title": "Fashionistas of the Month: September",
+		"publication": "WSPN",
+		"date": "2021-9-29",
+		"link": "https://waylandstudentpress.com/97452/ae/fashionistas-of-the-month-september-andrew-boyer-and-mia-djafari-video/",
+		"img": "/static/img/news/fashionista.png"	
+	}
+}

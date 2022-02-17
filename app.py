@@ -14,7 +14,7 @@ from flask_wtf import FlaskForm
 from wtforms import StringField, SubmitField
 from wtforms.validators import DataRequired
 
-from secret import secret_key, EMAIL_ADDRESS, EMAIL_PASS
+# from secret import secret_key, EMAIL_ADDRESS, EMAIL_PASS
 
 grade = "senior"
 school = "Wayland High School"
@@ -47,7 +47,7 @@ app = Flask(__name__)
 app.debug = True
 
 
-app.config['SECRET_KEY'] = secret_key
+# app.config['SECRET_KEY'] = secret_key
 Bootstrap(app)
 
 class NameForm(FlaskForm):
@@ -213,6 +213,18 @@ def load_projects():
     data = json.load(f)
     return data
 
+@app.route("/data/news.json")
+def load_news():
+    f = open('data/about/press/news.json')
+    data = json.load(f)
+    return data
+
+@app.route("/data/podcasts.json")
+def load_news():
+    f = open('data/about/press/podcasts.json')
+    data = json.load(f)
+    return data
+
 @app.route("/data/work.json")
 def load_work():
     f = open('data/work/index.json')
@@ -254,6 +266,10 @@ def midnight_parts_tools():
 @app.route("/quotes")
 def quotes():
     return render_template("quotes.html")
+
+@app.route("/podcasts")
+def pods():
+    return render_template("about/podcasts.html")
 
 @app.route("/data/quotes.json")
 def load_quotes():

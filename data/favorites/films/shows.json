@@ -84,5 +84,19 @@
             "replay_value": 0.0
         },
         "asboyer_score": 0.0
+    },
+    "Jeen-yuhs: A Kanye Trilogy": {
+        "id": "14599438",
+        "title": "Jeen-yuhs: A Kanye Trilogy",
+        "image": "http://image.tmdb.org/t/p/original/pDrZvecNSRHGU8Wma6KsBi4DdAX.jpg",
+        "rating": 7.5,
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     }
 }
