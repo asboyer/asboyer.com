@@ -1,0 +1,53 @@
+.iframe_container {
+    margin-bottom: 100px;
+    width: 500px;
+    height: 250px;
+    position: relative;
+    /*margin: 0;*/
+    /*position: absolute;*/
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.title-book {
+    margin-bottom: 150px;
+}
+
+.game-text {
+    font-family: monospace;
+    text-align: left;
+    margin: 0px;
+    color: #B6F29D;
+}
+
+.game-text-date {
+    font-family: monospace;
+    text-align: left;
+    margin: 0px;
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
+    width: 500px;
+    height: 250px;
+    /*width: 75%;*/
+    /*height: 75%;*/
+    border: 1px solid #B6F29D;
+}
+
+@media (max-width: 572px) {
+    .responsive-iframe {
+        width: 275px;
+        height: 140px;
+    }
+    .iframe_container {
+        width: 275px;
+        height: 140px;     
+    }
+    .title-book {
+        margin-bottom: 75px;
+    }
+}

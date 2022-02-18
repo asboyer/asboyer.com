@@ -861,10 +861,6 @@ header {
     text-align: center;
 }
 
-
-
-
-
 /* Blog */
 
 .my-blog {
@@ -902,8 +898,9 @@ header {
     max-width: 1500px;
     gap: 50px;
     margin: 0 auto;
-
 }
+
+
 
 .blog__container {
     margin:  0 auto;

@@ -271,6 +271,16 @@ def quotes():
 def pods():
     return render_template("about/podcasts.html")
 
+@app.route("/highlights/bball_2022")
+def bball_2022():
+    return render_template("highlights/bball_2022.html")
+
+@app.route("/data/highlights/bball_2022.json")
+def load_bball_2022():
+    f = open('data/highlights/bball_2022.json')
+    data = json.load(f)
+    return data  
+
 @app.route("/data/quotes.json")
 def load_quotes():
     f = open('data/quotes/quotes.json')
