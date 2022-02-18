@@ -2575,6 +2575,11 @@ header {
         grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     }
 
+    .all-pods {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));  
+    }
+
     .news-title {
         font-size: 14px;
         font-weight: var(--fw-bold)
