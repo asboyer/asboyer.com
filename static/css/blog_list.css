@@ -1,0 +1,21 @@
+#list-title {
+    font-family: monospace;
+    font-size: 1.5rem;
+    color: var(--clr-accent);
+    text-decoration: underline;
+    margin-bottom: 0px;
+}
+
+#list-subtitle {
+    font-family: monospace;
+}
+
+#list-img {
+    float: left;
+    position: relative;
+    margin-top: 10px;
+    margin-right: 15px;
+    border: #B6F29D 1px solid;
+    margin-left: 50px;
+
+}

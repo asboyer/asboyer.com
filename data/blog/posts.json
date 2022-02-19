@@ -16,11 +16,11 @@
         "live": true
     },
     "blog post index 2": {
-        "title": "???",
+        "title": "Top 5 fictional series",
         "id": 2,
         "date": "2.21.22",
-        "subjects": [],
-        "cover_img": "/static/img/blog/python-mvp/jokic.png",
-        "live": false
+        "subjects": ["Books", "Rankings"],
+        "cover_img": "/static/img/blog/fiction/cover.png",
+        "live": true
     }
 } 

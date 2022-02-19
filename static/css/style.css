@@ -2202,11 +2202,11 @@ header {
 }
 
 .book__container {
-    position: relative;
-    border: #111 5px solid;
+    /*position: relative;*/
+    /*border: #111 5px solid;*/
     max-width: 400px;
     min-width: 300px;
-    margin: 0 auto;
+    /*margin: 0 auto;*/
 
 }
 
@@ -2226,7 +2226,7 @@ header {
     width: 100%;
     opacity: 0;
     transition: 0.75s ease-in-out;
-    background-color: var(--clr-darker);
+    background-color: var(--clr-accent);
 }
 
 .book__container:hover .book_overlay {
@@ -2322,7 +2322,7 @@ header {
 }
 
 .notes-book-text {
-    color: var(--clr-accent);
+    color: var(--clr-darker);
     position: absolute;
     top: 50%;
     left: 50%;
@@ -2348,12 +2348,12 @@ header {
 
 .link {
     margin: 12.5px;
-    color: var(--clr-accent);
+    color: var(--clr-darker);
 }
 
 .list__link {
     font-size: 30px;
-    color:  var(--clr-accent);
+    color:  var(--clr-darker) !important;
 }
 
 .list__link:focus,
