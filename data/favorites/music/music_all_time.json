@@ -2375,7 +2375,7 @@
             "Just A Little Bit Of Your Heart",
             "My Everything"
         ],
-        "score": 7.24
+        "score": 7.56
     },
     "JACKBOYS": {
         "artists": "JACKBOYS, Travis Scott",
@@ -4155,5 +4155,85 @@
             "16"
         ],
         "score": 4.46
+    },
+    "Yours Truly": {
+        "artists": "Ariana Grande",
+        "id": "5xSvNPstcxHtR4ap2vvN8A",
+        "name": "Yours Truly",
+        "popularity": 69,
+        "release_date": "2013-01-01",
+        "total_tracks": 12,
+        "uri": "spotify:album:5xSvNPstcxHtR4ap2vvN8A",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734bb9f35da9ff34b1e2314d8e",
+        "top_tracks": [
+            "Honeymoon Avenue",
+            "Right There",
+            "The Way"
+        ],
+        "good_tracks": [
+            "Baby I",
+            "Lovin' It",
+            "Daydreamin'",
+            "You\u2019ll Never Know",
+            "Better Left Unsaid",
+            "Popular Song"
+        ],
+        "score": 6.67,
+        "tracks": []
+    },
+    "The Bends": {
+        "artists": "Radiohead",
+        "id": "35UJLpClj5EDrhpNIi4DFg",
+        "name": "The Bends",
+        "popularity": 77,
+        "release_date": "1995-03-13",
+        "total_tracks": 12,
+        "uri": "spotify:album:35UJLpClj5EDrhpNIi4DFg",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
+        "top_tracks": [
+            "Planet Telex",
+            "The Bends",
+            "High and Dry",
+            "Fake Plastic Trees",
+            "Bones",
+            "(Nice Dream)",
+            "Just",
+            "Black Star",
+            "Sulk"
+        ],
+        "good_tracks": [
+            "My Iron Lung",
+            "Bullet Proof ... I Wish I Was",
+            "Street Spirit (Fade Out)"
+        ],
+        "score": 9.58,
+        "tracks": []
+    },
+    "Dawn FM": {
+        "artists": "The Weeknd",
+        "id": "2nLOHgzXzwFEpl62zAgCEC",
+        "name": "Dawn FM",
+        "popularity": 100,
+        "release_date": "2022-01-06",
+        "total_tracks": 16,
+        "uri": "spotify:album:2nLOHgzXzwFEpl62zAgCEC",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d",
+        "top_tracks": [
+            "Dawn FM",
+            "Gasoline",
+            "How Do I Make You Love Me?",
+            "Take My Breath",
+            "Sacrifice",
+            "Out of Time",
+            "Don\u2019t Break My Heart",
+            "Less Than Zero"
+        ],
+        "good_tracks": [
+            "Here We Go... Again (feat. Tyler, the Creator)",
+            "Best Friends",
+            "Is There Someone Else?",
+            "Starry Eyes"
+        ],
+        "score": 6.79
     }
 }
