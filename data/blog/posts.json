@@ -15,12 +15,20 @@
         "cover_img": "/static/img/blog/python-mvp/jokic.png",
         "live": true
     },
-    "blog post index 2": {
-        "title": "Top 5 fictional series",
+    "Make your habits unstoppable": {
+        "title": "Make your habits unstoppable",
         "id": 2,
-        "date": "2.21.22",
+        "date": "3.14.22",
+        "subjects": ["Self improvement", "Philosophy", "Guides"],
+        "cover_img": "/static/img/blog/fiction/cover.png",
+        "live": false
+    },
+    "My Top 5 fictional series": {
+        "title": "My Top 5 fictional series",
+        "id": 3,
+        "date": "3.21.22",
         "subjects": ["Books", "Rankings"],
         "cover_img": "/static/img/blog/fiction/cover.png",
-        "live": true
+        "live": false
     }
 } 
