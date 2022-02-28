@@ -138,7 +138,11 @@ def blog_post(name):
     if name in soon_posts:
         return render_template("soon.html")
     elif os.path.exists(f'templates/blog/{name}.html'):
-        return render_template(f"blog/{name}.html")
+        try:
+            blog_id = int(name)
+            return render_template(f"blog/{name}.html")
+        except:
+            return render_template("error.html")
     else:
         # make error page
         return render_template("error.html")
