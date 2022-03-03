@@ -584,20 +584,20 @@
         "uri": "spotify:album:7D2NdGvBHIavgLhmcwhluK",
         "image": "https://i.scdn.co/image/ab67616d0000b2731dacfbc31cc873d132958af9",
         "top_tracks": [
+            "On Sight",
+            "I Am A God",
+            "Hold My Liquor",
             "Black Skinhead",
             "New Slaves",
             "Blood On The Leaves",
             "Bound 2"
         ],
         "good_tracks": [
-            "On Sight",
-            "I Am A God",
-            "Hold My Liquor",
             "Guilt Trip",
             "I'm In It",
             "Send It Up"
         ],
-        "score": 9.0
+        "score": 9.5
     },
     "Gentle Boy": {
         "artists": "Elijah Who",
@@ -4235,5 +4235,38 @@
             "Starry Eyes"
         ],
         "score": 6.79
+    },
+    "WUNNA": {
+        "artists": "Gunna",
+        "id": "0gA0nZrZ55PLUp7ARfrICu",
+        "name": "WUNNA",
+        "popularity": 78,
+        "release_date": "2020-05-22",
+        "total_tracks": 18,
+        "uri": "spotify:album:0gA0nZrZ55PLUp7ARfrICu",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d7547a7624116ac5f8a51fd2",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "ARGENTINA",
+            "GIMMICK",
+            "MOTW",
+            "FEIGNING",
+            "DOLLAZ ON MY HEAD (feat. Young Thug)",
+            "ADDYS (feat. Nechie)",
+            "SKYBOX",
+            "WUNNA",
+            "BLINDFOLD (feat. Lil Baby)",
+            "ROCKSTAR BIKERS & CHAINS",
+            "MET GALA",
+            "NASTY GIRL / ON CAMERA",
+            "COOLER THAN A BITCH (feat. Roddy Ricch)",
+            "I'M ON SOME",
+            "TOP FLOOR (feat. Travis Scott)",
+            "DON'T PLAY AROUND",
+            "DO BETTER",
+            "FAR (feat. Young Thug)"
+        ]
     }
 }
