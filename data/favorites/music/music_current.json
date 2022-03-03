@@ -211,5 +211,32 @@
             "Send It Up"
         ],
         "score": 9.5
+    },
+    "Donda 2": {
+        "artists": "Kanye West",
+        "name": "Donda 2",
+        "total_tracks": 16,
+        "image": "/static/img/donda2.jpg",
+        "top_tracks": [
+            "True Love",
+            "Broken Road",
+            "Flowers",
+            "Security",
+            "We Did It Kid",
+            "Pablo",
+            "Louie Bags",
+            "Happy",
+            "Sci Fi",
+            "Lord Lift Me Up",
+            "Keep It Burning",
+            "City of Gods",
+            "First Time in a Long Time"
+        ],
+        "good_tracks": [
+            "Get Lost",
+            "Too Easy",
+            "Selfish"
+        ],
+        "score": 9.69
     }
 }

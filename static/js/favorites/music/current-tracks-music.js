@@ -43,7 +43,7 @@ $(document).ready(function(){
             var album_div = 
             ` 
             <div class="song__container">
-                <a href="https://open.spotify.com/track/${values.id}" class="song__item">
+                <a href="https://open.spotify.com/track/${values.id}" class="song__item" target="_blank">
                     <img src="${values.image}" alt="${values.name}" class="portfolio__img">
                 <div class="song_overlay">
                     <div class="album-text">

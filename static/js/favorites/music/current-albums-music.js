@@ -62,13 +62,18 @@ $(document).ready(function(){
                 track_style = "display: none;"
             }
             if (values.name == "In The Court Of The Crimson King (Expanded & Remastered Original Album Mix)") track_style = "white-space: wrap;";
-
+            if (values.name == "Donda 2") {
+                link = "/qban2"
+            }
+            else {
+                link = `https://open.spotify.com/album/${values.id}`
+            }
 
             // make an array of these albums for nowarp, same with small font
             if (values.score == null) values.score = ""
             var album_div =
             `<div class="album__container">
-            <a href="https://open.spotify.com/album/${values.id}" class="album__item">
+            <a href="${link}" class="album__item" target="_blank">
                 <img src="${values.image}" alt="${values.name}" class="portfolio__img">
             <div class="album_overlay">
                 <div class="album-text">
