@@ -24,7 +24,6 @@ $(document).ready(function(){
 
         $.each(projects, function(title, values){
             if (values.title == "Goat Grade") {
-                console.log('hi')
                 var special = `<a style="padding-left: 10px" class="project_logo" href="https://asboyer.com/blog/1" target="_blank"><i class="fas fa-book"></i></a>`
             }
             else {

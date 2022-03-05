@@ -36,7 +36,6 @@ $(document).ready(function(){
 
         var jobs = Object.values(json)
         jobs.sort((a,b) => (a.start_date < b.start_date) ? 1 : ((b.start_date < a.start_date) ? -1 : 0))
-        console.log(jobs)
         jobs = jobs.slice(0, 3)
 
         jobs.sort(function(a, b) {
@@ -60,7 +59,6 @@ $(document).ready(function(){
             var roles = Object.values(values.roles)
             if(values.roles.length != 1){
                 roles.sort((a,b) => (a.start_date < b.start_date) ? 1 : ((b.start_date < a.start_date) ? -1 : 0))
-                console.log(roles)
             }
             var role = roles[0]
 
