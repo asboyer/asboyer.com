@@ -373,7 +373,7 @@ adv_stats = scrape(adv_stats_url)
 
 for player in reg_stats:
     reg_stats[player].update(adv_stats[player])
-    del reg_stats[player]["&lt;0xa0"&gt;]
+    del reg_stats[player]["&lt;0xa0&gt;"]
 
 with open('stats.json', 'w+', encoding='utf8') as file:
     file.write(json.dumps(reg_stats, ensure_ascii=False, indent =4))
