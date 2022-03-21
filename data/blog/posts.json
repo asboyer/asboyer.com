@@ -16,9 +16,9 @@
         "live": true
     },
     "blog post index 2": {
-        "title": "???",
+        "title": "My process for building good habits and breaking bad ones",
         "id": 2,
-        "date": "3.7.22",
+        "date": "3.28.22",
         "subjects": [],
         "cover_img": "/static/img/blog/python-mvp/jokic.png",
         "live": false
