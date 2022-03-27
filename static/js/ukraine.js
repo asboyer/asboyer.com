@@ -1,4 +1,4 @@
-console.log(window.innerWidth)
+// console.log(window.innerWidth)
 if(window.innerWidth > 900) {
     var width = '300px'
     var height = '84px'
@@ -7,7 +7,7 @@ else {
     var width = '150px'
     var height = '42px'
 }
-console.log(width)
+// console.log(width)
 var SWU__currentScript = document.currentScript || {};
 var SWU__DOMReady = function(callback) {
   document.readyState === 'interactive' || document.readyState === 'complete' ? callback() : document.addEventListener('DOMContentLoaded', callback);

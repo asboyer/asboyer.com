@@ -23,13 +23,16 @@ $(document).ready(function(){
         var quotes = Object.values(json)
         shuffle(quotes)
         quote_div = ""
+
         $.each(quotes, function(num, quote){
-             quote_div =
+            var q = quote.quote
+            q = q.replace(" ", "  ")
+             quote_div +=
              `
              <figure class="quote_fig">
                 <blockquote>
                     <p>
-                    ${quote.quote}
+                    ${q}
                     </p>
                     <figcaption class="quote_author">
                     - ${quote.author}

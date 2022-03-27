@@ -3195,7 +3195,7 @@ blockquote {
 
 blockquote p {
     padding: 10px;
-
+    letter-spacing: 1px;
     color: var(--clr-accent);
     text-align: center;
     margin: 0 auto;
