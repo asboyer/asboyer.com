@@ -9,7 +9,8 @@
         "link": "https://www.goatgrade.com/",
         "github": "https://github.com/asboyer2/goat-grade",
         "image": "/static/img/projects/nba.png",
-        "title": "Goat Grade"
+        "title": "Goat Grade",
+        "blog_link": "https://asboyer.com/blog/1"
     },
     "Project Reboot": {
         "link": "https://www.reboothacks.com",
@@ -46,5 +47,11 @@
         "github": "https://github.com/asboyer/boyers_beats",
         "image": "/static/img/projects/spotify.png",
         "title": "Boyer's Beats"  
+    },
+    "March Madness Predictor": {
+        "link": "https://github.com/asboyer/march_madness_goat_grade",
+        "github": "https://github.com/asboyer/march_madness_goat_grade",
+        "image": "/static/img/projects/bracket.png",
+        "title": "March Madness Predictor"
     }
 }
