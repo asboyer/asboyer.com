@@ -1,0 +1,242 @@
+{
+    "OK Computer": {
+        "artists": "Radiohead",
+        "id": "6dVIqQ8qmQ5GBnJ9shOYGE",
+        "name": "OK Computer",
+        "popularity": 78,
+        "release_date": "1997-05-28",
+        "total_tracks": 12,
+        "uri": "spotify:album:6dVIqQ8qmQ5GBnJ9shOYGE",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+        "top_tracks": [
+            "Airbag",
+            "Paranoid Android",
+            "Subterranean Homesick Alien",
+            "Exit Music (For A Film)",
+            "Let Down",
+            "Karma Police",
+            "Climbing Up the Walls",
+            "No Surprises",
+            "Lucky",
+            "The Tourist"
+        ],
+        "good_tracks": [
+            "Fitter Happier",
+            "Electioneering"
+        ],
+        "score": 9.72
+    },
+    "Dawn FM": {
+        "artists": "The Weeknd",
+        "id": "2nLOHgzXzwFEpl62zAgCEC",
+        "name": "Dawn FM",
+        "popularity": 100,
+        "release_date": "2022-01-06",
+        "total_tracks": 16,
+        "uri": "spotify:album:2nLOHgzXzwFEpl62zAgCEC",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d",
+        "top_tracks": [
+            "Dawn FM",
+            "Gasoline",
+            "How Do I Make You Love Me?",
+            "Take My Breath",
+            "Sacrifice",
+            "Out of Time",
+            "Don\u2019t Break My Heart",
+            "Less Than Zero"
+        ],
+        "good_tracks": [
+            "Here We Go... Again (feat. Tyler, the Creator)",
+            "Best Friends",
+            "Is There Someone Else?",
+            "Starry Eyes"
+        ],
+        "score": 6.79
+    },
+    "Minecraft - Volume Alpha": {
+        "artists": "C418",
+        "id": "3Gt7rOjcZQoHCfnKl5AkK7",
+        "name": "Minecraft - Volume Alpha",
+        "popularity": 78,
+        "release_date": "2011-03-04",
+        "total_tracks": 24,
+        "uri": "spotify:album:3Gt7rOjcZQoHCfnKl5AkK7",
+        "image": "https://i.scdn.co/image/ab67616d0000b273aaeb5c9fb6131977995b7f0e",
+        "top_tracks": [
+            "Key",
+            "Door",
+            "Subwoofer Lullaby",
+            "Living Mice",
+            "Moog City",
+            "Haggstrom",
+            "Minecraft",
+            "Oxyg\u00e8ne",
+            "\u00c9quinoxe",
+            "Mice On Venus",
+            "Dry Hands",
+            "Wet Hands",
+            "Clark",
+            "Chris",
+            "Sweden",
+            "Danny"
+        ],
+        "good_tracks": [
+            "Death",
+            "Excuse",
+            "Beginning"
+        ],
+        "score": 7.56
+    },
+    "The Bends": {
+        "artists": "Radiohead",
+        "id": "35UJLpClj5EDrhpNIi4DFg",
+        "name": "The Bends",
+        "popularity": 77,
+        "release_date": "1995-03-13",
+        "total_tracks": 12,
+        "uri": "spotify:album:35UJLpClj5EDrhpNIi4DFg",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
+        "top_tracks": [
+            "Planet Telex",
+            "The Bends",
+            "High and Dry",
+            "Fake Plastic Trees",
+            "Bones",
+            "(Nice Dream)",
+            "Just",
+            "Black Star",
+            "Sulk"
+        ],
+        "good_tracks": [
+            "My Iron Lung",
+            "Bullet Proof ... I Wish I Was",
+            "Street Spirit (Fade Out)"
+        ],
+        "score": 9.58,
+        "tracks": []
+    },
+    "DS4EVER": {
+        "artists": "Gunna",
+        "id": "02uWB8Kekadkl3yGBoOOcx",
+        "name": "DS4EVER",
+        "popularity": 90,
+        "release_date": "2022-01-07",
+        "total_tracks": 20,
+        "uri": "spotify:album:02uWB8Kekadkl3yGBoOOcx",
+        "image": "https://i.scdn.co/image/ab67616d0000b273aef0f12483b295ec6a9fcc0f",
+        "top_tracks": [
+            "pushin P (feat. Young Thug)",
+            "too easy",
+            "south to west"
+        ],
+        "good_tracks": [
+            "mop (feat. Young Thug)",
+            "thought i was playing",
+            "too easy (Remix) [feat. Future & Roddy Ricch]",
+            "25k jacket (feat. Lil Baby)",
+            "livin wild"
+        ],
+        "score": 3.29,
+        "tracks": []
+    },
+    "From a Birds Eye View": {
+        "artists": "Cordae",
+        "id": "3N3alcn9EvmanafUt70Vxh",
+        "name": "From a Birds Eye View",
+        "popularity": 82,
+        "release_date": "2022-01-14",
+        "total_tracks": 11,
+        "uri": "spotify:album:3N3alcn9EvmanafUt70Vxh",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731dc2c95232e77b22c32e5985",
+        "top_tracks": [
+            "Super"
+        ],
+        "good_tracks": [
+            "Shiloh\u2019s Intro",
+            "Jean-Michel",
+            "Today (feat. Gunna)",
+            "Champagne Glasses (feat. Freddie Gibbs & Stevie Wonder)",
+            "Westlake High",
+            "Chronicles (feat. H.E.R. & Lil Durk)"
+        ],
+        "score": 4.81,
+        "tracks": []
+    },
+    "Yours Truly": {
+        "artists": "Ariana Grande",
+        "id": "5xSvNPstcxHtR4ap2vvN8A",
+        "name": "Yours Truly",
+        "popularity": 69,
+        "release_date": "2013-01-01",
+        "total_tracks": 12,
+        "uri": "spotify:album:5xSvNPstcxHtR4ap2vvN8A",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734bb9f35da9ff34b1e2314d8e",
+        "top_tracks": [
+            "Honeymoon Avenue",
+            "Right There",
+            "The Way"
+        ],
+        "good_tracks": [
+            "Baby I",
+            "Lovin' It",
+            "Daydreamin'",
+            "You\u2019ll Never Know",
+            "Better Left Unsaid",
+            "Popular Song"
+        ],
+        "score": 6.67,
+        "tracks": []
+    },
+    "Yeezus": {
+        "artists": "Kanye West",
+        "id": "7D2NdGvBHIavgLhmcwhluK",
+        "name": "Yeezus",
+        "popularity": 77,
+        "release_date": "2013-06-18",
+        "total_tracks": 10,
+        "uri": "spotify:album:7D2NdGvBHIavgLhmcwhluK",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731dacfbc31cc873d132958af9",
+        "top_tracks": [
+            "On Sight",
+            "I Am A God",
+            "Hold My Liquor",
+            "Black Skinhead",
+            "New Slaves",
+            "Blood On The Leaves",
+            "Bound 2"
+        ],
+        "good_tracks": [
+            "Guilt Trip",
+            "I'm In It",
+            "Send It Up"
+        ],
+        "score": 9.5
+    },
+    "Donda 2": {
+        "artists": "Kanye West",
+        "name": "Donda 2",
+        "total_tracks": 16,
+        "image": "/static/img/donda2.jpg",
+        "top_tracks": [
+            "True Love",
+            "Broken Road",
+            "Flowers",
+            "Security",
+            "We Did It Kid",
+            "Pablo",
+            "Louie Bags",
+            "Happy",
+            "Sci Fi",
+            "Lord Lift Me Up",
+            "Keep It Burning",
+            "City of Gods",
+            "First Time in a Long Time"
+        ],
+        "good_tracks": [
+            "Get Lost",
+            "Too Easy",
+            "Selfish"
+        ],
+        "score": 9.69
+    }
+}

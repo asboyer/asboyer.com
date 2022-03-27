@@ -453,3 +453,22 @@ def load_music_current_songs_242022():
 def music_archive_242022():
     return render_template("archive/music/242022.html")
     
+#####################3/27/2022 music backup here#####################
+
+@app.route("/data/archive/music/3272022/music_current.json")
+def load_music_current_3272022():
+    f = open('data/archive/music/3272022/music_current.json')
+    data = json.load(f)
+    return data
+
+@app.route("/data/archive/music/3272022/music_current_songs.json")
+def load_music_current_songs_3272022():
+    f = open('data/archive/music/3272022/music_current_songs.json')
+    data = json.load(f)
+    return data
+
+@app.route("/archive/music/9")
+def music_archive_3272022():
+    return render_template("archive/music/3272022.html")
+    
+#####################3/27/2022 music backup here#####################
