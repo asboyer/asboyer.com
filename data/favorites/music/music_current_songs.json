@@ -60,16 +60,16 @@
         "image": "https://i.scdn.co/image/ab67616d0000b27384ada64b904a330540171d99"
     },
     "Skylark": {
-        "artists": "Joseph Lawrence",
-        "duration_ms": 438625,
+        "artists": "Ella Fitzgerald",
+        "duration_ms": 192000,
         "explicit": false,
-        "id": "4GMJNNA04YDBVixAWiK5zD",
+        "id": "6rXu9cqyoX4jKxWZ2TBJ9c",
         "name": "Skylark",
-        "popularity": 46,
-        "preview_url": "https://p.scdn.co/mp3-preview/025255eb3cdb635fe046a5f7bb6a7db52905833a?cid=cd0e3cb02aee4de099b024ac33ba782e",
-        "track_number": 2,
-        "uri": "spotify:track:4GMJNNA04YDBVixAWiK5zD",
-        "image": "https://i.scdn.co/image/ab67616d0000b27376ff4f270628b74d9cefdad9"
+        "popularity": 27,
+        "preview_url": null,
+        "track_number": 6,
+        "uri": "spotify:track:6rXu9cqyoX4jKxWZ2TBJ9c",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732a186adec3f7308fb6832760"
     },
     "The End Of A Love Affair": {
         "artists": "Eric Rowland",
@@ -274,5 +274,53 @@
         "track_number": 1,
         "uri": "spotify:track:3yaYgjEFkRw3PVjW9mV1TO",
         "image": "https://i.scdn.co/image/ab67616d0000b273da2e107c18f265a861bba576"
+    },
+    "Sky's the Limit (feat. 112) - 2014 Remaster": {
+        "artists": "The Notorious B.I.G., 112",
+        "duration_ms": 277133,
+        "explicit": false,
+        "id": "7INC3WxVXhhfkTHe2xhpgF",
+        "name": "Sky's the Limit (feat. 112) - 2014 Remaster",
+        "popularity": 41,
+        "preview_url": "https://p.scdn.co/mp3-preview/c2fea4ae676eb88a2f380a1293f8ded45b6f2f74?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 11,
+        "uri": "spotify:track:7INC3WxVXhhfkTHe2xhpgF",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e23b9fcd567ce9f9e58af7b9"
+    },
+    "My Flame": {
+        "artists": "Bobby Caldwell",
+        "duration_ms": 252080,
+        "explicit": false,
+        "id": "1FgyYm1kcXjkdR1VZmaiVo",
+        "name": "My Flame",
+        "popularity": 53,
+        "preview_url": "https://p.scdn.co/mp3-preview/ca87ba7821c65d9e0d3288e09f164a6f35a70c27?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 2,
+        "uri": "spotify:track:1FgyYm1kcXjkdR1VZmaiVo",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730f98789111606f77a27d6f67"
+    },
+    "You Go To My Head - Remastered": {
+        "artists": "Frank Sinatra",
+        "duration_ms": 268333,
+        "explicit": false,
+        "id": "0ycoGsyVxT7ekdsUBhd21e",
+        "name": "You Go To My Head - Remastered",
+        "popularity": 30,
+        "preview_url": null,
+        "track_number": 5,
+        "uri": "spotify:track:0ycoGsyVxT7ekdsUBhd21e",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735084cb3fdc277a00c5ae18b6"
+    },
+    "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster": {
+        "artists": "The Notorious B.I.G., Mase, Diddy",
+        "duration_ms": 257399,
+        "explicit": true,
+        "id": "4INDiWSKvqSKDEu7mh8HFz",
+        "name": "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
+        "popularity": 79,
+        "preview_url": "https://p.scdn.co/mp3-preview/a32cdf00c93f70f87aed3802b3d0f4d7de106bc2?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 10,
+        "uri": "spotify:track:4INDiWSKvqSKDEu7mh8HFz",
+        "image": "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30"
     }
 }
