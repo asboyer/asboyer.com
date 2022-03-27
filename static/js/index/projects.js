@@ -23,11 +23,10 @@ $(document).ready(function(){
         shuffle(projects)
 
         $.each(projects, function(title, values){
-            if (values.title == "Goat Grade") {
-                var special = `<a style="padding-left: 10px" class="project_logo" href="https://asboyer.com/blog/1" target="_blank"><i class="fas fa-book"></i></a>`
-            }
-            else {
-                var special = ""
+            if (values.blog_link != undefined) {
+              var special = `<a style="padding-left: 10px" class="project_logo" href="${values.blog_link}" target="_blank"><i class="fas fa-book"></i></a>`
+            } else {
+              var special = ""
             }
             var project = 
             `

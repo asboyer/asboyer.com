@@ -57,20 +57,6 @@
         },
         "asboyer_score": 0.0
     },
-    "Community": {
-        "id": "1439629",
-        "title": "Community",
-        "image": "http://image.tmdb.org/t/p/original/3KUjDt8XY7w2Ku70UE0SECmv1zP.jpg",
-        "rating": 8.5,
-        "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
-        },
-        "asboyer_score": 0.0
-    },
     "Mad Men": {
         "id": "0804503",
         "title": "Mad Men",
@@ -118,6 +104,20 @@
         "title": "Studio C",
         "image": "http://image.tmdb.org/t/p/original/2dhfFEidQPdoP8L9YKhI8ZndD4C.jpg",
         "rating": 8.7,
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
+    },
+    "The Last Dance": {
+        "id": "8420184",
+        "title": "The Last Dance",
+        "image": "http://image.tmdb.org/t/p/original/oVf4xGGbDtwVHiKn8uTuSriY7PH.jpg",
+        "rating": 9.1,
         "scorecard": {
             "screenplay": 0.0,
             "acting": 0.0,

@@ -27,7 +27,7 @@ $(document).ready(function(){
         var movies = Object.values(json)
         shuffle(movies)
         
-        movies.sort((a,b) => (a.asboyer_score < b.asboyer_score) ? 1 : ((b.asboyer_score < a.asboyer_score) ? -1 : 0))
+        // movies.sort((a,b) => (a.asboyer_score < b.asboyer_score) ? 1 : ((b.asboyer_score < a.asboyer_score) ? -1 : 0))
 
         $.each(movies, function(title, values){
             var movie_div = 
@@ -38,13 +38,14 @@ $(document).ready(function(){
                 <div class="movie_overlay">
                     <div class="movie-text">
                         <p class="movie-title">${values.title}</p>
-                        <p class="artist" style="font-size: 10px">${values.asboyer_score}</p>
 
                     </div>
                 </div>
                 </a>
             </div>
             `
+            // <p class="artist" style="font-size: 10px">${values.asboyer_score}</p>
+
             movies_div = movies_div + movie_div
         });
         movies_div = movies_div + `
