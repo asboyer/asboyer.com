@@ -670,5 +670,33 @@
             "replay_value": 7.0
         },
         "asboyer_score": 7.45
+    },
+    "The Town": {
+        "id": "0840361",
+        "title": "The Town",
+        "image": "http://image.tmdb.org/t/p/original/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
+        "rating": 7.5,
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
+    },
+    "The Prestige": {
+        "id": "0482571",
+        "title": "The Prestige",
+        "image": "http://image.tmdb.org/t/p/original/gcphM7ZLxS5HPeCZgjZobfz907x.jpg",
+        "rating": 8.5,
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     }
 }

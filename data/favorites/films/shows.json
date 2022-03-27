@@ -98,5 +98,33 @@
             "replay_value": 0.0
         },
         "asboyer_score": 0.0
+    },
+    "Granite Flats": {
+        "id": "2624370",
+        "title": "Granite Flats",
+        "image": "http://image.tmdb.org/t/p/original/v8F7SitvRjWU4puDIZ0eb9ycXC6.jpg",
+        "rating": 8.1,
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
+    },
+    "Studio C": {
+        "id": "2445666",
+        "title": "Studio C",
+        "image": "http://image.tmdb.org/t/p/original/2dhfFEidQPdoP8L9YKhI8ZndD4C.jpg",
+        "rating": 8.7,
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     }
 }
