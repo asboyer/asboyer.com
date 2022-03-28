@@ -1,0 +1,215 @@
+{
+    "A World Without Heroes": {
+        "author": "Brandon Mull",
+        "img": "https://m.media-amazon.com/images/I/51v2ZfnwLgL._AC_SY780_.jpg",
+        "title": "A World Without Heroes",
+        "link": "https://amzn.to/36OLeZ1",
+        "color": "#182231",
+        "series_num": 1
+    },
+    "Can't Hurt Me: Master Your Mind and Defy the Odds": {
+        "author": "David Goggins",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81uqknwH30L.jpg",
+        "link": "https://amzn.to/3wEjC3P",
+        "title": "Can't Hurt Me: Master Your Mind and Defy the Odds",
+        "color": "#B78E3E"
+    },
+    "Ender's Game": {
+        "author": "Orson Scott Card",
+        "img": "https://cdn.shoplightspeed.com/shops/611345/files/5301045/tor-teen-the-ender-quintet-01-enders-game.jpg",
+        "link": "https://amzn.to/3wJNBau",
+        "title": "Ender's Game",
+        "color": "#064E51"
+    },
+    "Ender's Shadow": {
+        "author": "Oliver Burkeman",
+        "img": "https://upload.wikimedia.org/wikipedia/en/1/1d/Ender%27s_shadow_cover.jpg",
+        "link": "https://amzn.to/3DgR55y",
+        "title": "Ender's Shadow",
+        "color": "#262B2C"
+    },
+    "Jack Blank": {
+        "title": "The Accidental Hero",
+        "author": "Matt Myklusch",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51nJGktduQL._SX333_BO1,204,203,200_.jpg",
+        "link": "https://amzn.to/3DdWOZX",
+        "color": "#2F0204"
+    },
+    "1984": {
+        "title": "1984",
+        "author": "George Orwell",
+        "img": "https://rjslaternet.files.wordpress.com/2021/01/1984-cover.png",
+        "link": "https://amzn.to/38b4TTT",
+        "color": "#E23438"
+    },
+    "Animal Farm": {
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPNcURfbHztpF6k88WJDw-D7QIaPCFxFqrF5SqUO-6nr0Bs-E2_2KZhzqRmJwxSzETAV0&usqp=CAU",
+        "link": "https://amzn.to/36zs5KW",
+        "color": "#FFFFFF"
+    },
+    "Make Your Bed: Little Things That Can Change Your Life...And Maybe the World": {
+        "title": "Make Your Bed: Little Things That Can Change Your Life...And Maybe the World",
+        "author": "Admiral William H. McRaven",
+        "img": "https://m.media-amazon.com/images/I/41rFCQxh5TL._AC_SY780_.jpg",
+        "link": "https://amzn.to/3tLLQb6",
+        "color": "#A28B44"
+    },
+    "Scythe": {
+        "title": "Scythe",
+        "author": "Neal Shusterman",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/91jIvX0SeuL.jpg",
+        "link": "https://amzn.to/3Li3bOD",
+        "color": "#4B1B16"
+    },
+    "39 Clues": {
+        "title": "39 Clues",
+        "author": "Various Authors",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/511BdJ3MhsL.jpg",
+        "link": "https://amzn.to/3LCcDg7",
+        "color": "#134F83"
+    },
+    "Seeds of Rebellion": {
+        "title": "Seeds of Rebellion",
+        "author": "Brandon Mull",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81TrisnZ5CL.jpg",
+        "link": "https://amzn.to/3DgwZZ3",
+        "color": "#576365",
+        "series_num": 2
+    },
+    "Chasing the Prophecy": {
+        "title": "Chasing the Prophecy",
+        "author": "Brandon Mull",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51rD3Q-VWkL.jpg",
+        "link": "https://amzn.to/3tK7T1H",
+        "color": "#1A090A",
+        "series_num": 3
+    },
+    "Harry Potter": {
+        "title": "Harry Potter",
+        "author": "J. K. Rowling",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81iqZ2HHD-L.jpg",
+        "link": "https://amzn.to/3qFGSKG",
+        "color": "#474869"
+    },
+    "The Hobbit": {
+        "title": "The Hobbit",
+        "author": "J. R. R. Tolkien",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/413V3sIKSJL._SX331_BO1,204,203,200_.jpg",
+        "link": "https://amzn.to/3qHIPq3",
+        "color": "#000000"
+    },
+    "The Catcher in the Rye": {
+        "title": "The Catcher in the Rye",
+        "author": "J. D. Salinger",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81OthjkJBuL.jpg",
+        "link": "https://amzn.to/3DeF40B",
+        "color": "#F3F1D8"
+    },
+    "Ashfall": {
+        "title": "Ashfall",
+        "author": "Mike Mullin",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81Rk8U3OQiL.jpg",
+        "link": "https://amzn.to/37Ukkzp",
+        "color": "#997972"
+    },
+    "The Unwanteds": {
+        "title": "The Unwanteds",
+        "author": "Lisa McMann",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81Y+nfE9N8L.jpg",
+        "link": "https://amzn.to/3tFRvzb",
+        "color": "#2A2A2A"
+    },
+    "Ready Player One": {
+        "title": "Ready Player One",
+        "author": "Ernest Cline",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/9193hRad9yL.jpg",
+        "link": "https://amzn.to/35h3dH7",
+        "color": "#8E6F56"
+    },
+    "Master of Sorrows": {
+        "title": "Master of Sorrows",
+        "author": "Justin Call",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81v-JDxew-L.jpg",
+        "link": "https://amzn.to/3qFBV4Q",
+        "color": "#7D783C"
+    },
+    "The Male Advantage": {
+        "title": "The Male Advantage",
+        "author": "Kris Sturmey",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1635337233l/59463331._SY475_.jpg",
+        "link": "https://1st-man.com/product/the-male-advantage-paperback-book/",
+        "color": "#E9E9E9"
+    },
+    "Fablehaven": {
+        "title": "Fablehaven",
+        "author": "Brandon Mull",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/71E9LoK5y2L.jpg",
+        "link": "https://amzn.to/3tL1V0H",
+        "color": "#725B42"
+    },
+    "The Secret War": {
+        "title": "The Secret War",
+        "author": "Matt Myklusch",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/512OJtcYMLL.jpg",
+        "link": "https://amzn.to/3tGhwyq",
+        "color": "#2E632A"
+    },
+    "The End of Infinity": {
+        "title": "The End of Infinity",
+        "author": "Matt Myklusch",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51bXsi3AiXL.jpg",
+        "link": "https://amzn.to/3JNJhL9",
+        "color": "#5B3634"
+    },
+    "The Odyssey": {
+        "title": "The Odyssey",
+        "author": "Homer",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81QAAnCNM7L.jpg",
+        "link": "https://amzn.to/3NoK2wh",
+        "color": "#D19A47"
+    },
+    "I Am Number Four": {
+        "title": "I Am Number Four",
+        "author": "Pittacus Lore",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/4156w7F+GBL._SX319_BO1,204,203,200_.jpg",
+        "link": "https://amzn.to/3wMxOaS",
+        "color": "#FF3D24"
+    },
+    "Darkstalker (Wings of Fire: Legends)": {
+        "title": "Darkstalker (Wings of Fire: Legends)",
+        "author": "Tui T. Sutherland",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81zOUcIMuKL.jpg",
+        "link": "https://amzn.to/3iE13EA",
+        "color": "#3A3630"
+    },
+    "Troublemaker": {
+        "title": "Troublemaker",
+        "author": "Andrew Clements",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/512CHD9EuvL.jpg",
+        "link": "https://amzn.to/3tKjQVe",
+        "color": "#004273"
+    },
+    "Lunch Money": {
+        "title": "Lunch Money",
+        "author": "Andrew Clements",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81Ul82csGIL.jpg",
+        "link": "https://amzn.to/3IItyvp",
+        "color": "#006E41"
+    },
+    "Frindle": {
+        "title": "Frindle",
+        "author": "Andrew Clements",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/71fEABJk4sL.jpg",
+        "link": "https://amzn.to/3iIVZyW",
+        "color": "#A01F11"
+    },
+    "Lost and Found": {
+        "title": "Lost and Found",
+        "author": "Andrew Clements",
+        "img": "https://m.media-amazon.com/images/I/51mHz05HPFL.jpg",
+        "link": "https://amzn.to/3DjBxhC",
+        "color": "#FCD540"
+    }
+}

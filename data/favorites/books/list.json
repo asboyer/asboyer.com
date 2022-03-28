@@ -1,0 +1,37 @@
+{
+    "The 48 Laws of Power": {
+        "author": "Robert Greene",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1634897112l/1303._SX318_.jpg",
+        "title": "The 48 Laws of Power",
+        "link": "https://amzn.to/3wDPl57",
+        "color": "#FF3645"
+    },
+    "Deep Work": {
+        "author": "Cal Newport",
+        "img": "https://m.media-amazon.com/images/I/417yjF+Z5zL.jpg",
+        "link": "https://amzn.to/3DiMGPm",
+        "title": "Deep Work",
+        "color": "#FFFFFF"
+    },
+    "Think and Grow Rich": {
+        "author": "Napoleon Hill",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463241782l/30186948._SY475_.jpg",
+        "link": "https://amzn.to/3DdT8HD",
+        "title": "Think and Grow Rich",
+        "color": "#FFFFFF"
+    },
+    "Four Thousand Weeks: Time Management for Mortals": {
+        "author": "Oliver Burkeman",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627425434l/54785515._SY475_.jpg",
+        "link": "https://amzn.to/3qJDIpp",
+        "title": "Four Thousand Weeks: Time Management for Mortals",
+        "color": "#F2EBDB"
+    },
+    "Dune": {
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81ym3QUd3KL.jpg",
+        "link": "https://amzn.to/3JPeDkk",
+        "color": "#FF5C51"
+    }
+}

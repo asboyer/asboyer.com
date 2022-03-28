@@ -1,0 +1,44 @@
+{
+    "12 Rules for Life: An Antidote to Chaos": {
+        "author": "Jordan B. Peterson",
+        "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1512705866i/30257963.jpg",
+        "title": "12 Rules for Life: An Antidote to Chaos",
+        "link": "https://amzn.to/3qIqiKu",
+        "color": "#FFFFFF"
+    },
+    "The Power of Habit: Why We Do What We Do in Life and Business": {
+        "author": "Charles Duhigg",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545854312l/12609433._SY475_.jpg",
+        "title": "The Power of Habit: Why We Do What We Do in Life and Business",
+        "link": "https://amzn.to/3IKBmg7",
+        "color": "#FFE815"
+    },
+    "Brain Rules": {
+        "author": "John Medina",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328763686l/2251306.jpg",
+        "title": "Brain Rules: 12 Principles for Surviving and Thriving at Work, Home, and School",
+        "link": "https://amzn.to/3DnTKKL",
+        "color": "#FFFFFF"
+    },
+    "Shadow Puppets": {
+        "author": "Orson Scott Card",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81LXQUuPFnL.jpg",
+        "title": "Shadow Puppets",
+        "link": "https://amzn.to/3LlcugC",
+        "color": "#210F07"
+    },
+    "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones": {
+        "author": "James Clear",
+        "link": "https://amzn.to/36C9OfT",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535115320l/40121378._SY475_.jpg",
+        "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+        "color": "#F6F6EA"
+    },
+    "Meditations: A New Translation": {
+        "author": "Marcus Aurelius, Gregory Hays",
+        "link": "https://amzn.to/38aWmQR",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/41iW9a+nyZL._SX319_BO1,204,203,200_.jpg",
+        "title": "Meditations: A New Translation",
+        "color": "#040809"
+    }
+}
