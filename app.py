@@ -14,7 +14,7 @@ from flask_wtf import FlaskForm
 from wtforms import StringField, SubmitField
 from wtforms.validators import DataRequired
 
-from secret import secret_key, EMAIL_ADDRESS, EMAIL_PASS
+# from secret import secret_key, EMAIL_ADDRESS, EMAIL_PASS
 
 grade = "senior"
 school = "Wayland High School"
@@ -47,7 +47,7 @@ app = Flask(__name__)
 app.debug = True
 
 
-app.config['SECRET_KEY'] = secret_key
+# app.config['SECRET_KEY'] = secret_key
 Bootstrap(app)
 
 class NameForm(FlaskForm):
