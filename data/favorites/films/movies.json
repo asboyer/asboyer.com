@@ -698,5 +698,19 @@
             "replay_value": 8.0
         },
         "asboyer_score": 7.92
+    },
+    "Dune": {
+        "id": "1160419",
+        "title": "Dune",
+        "image": "http://image.tmdb.org/t/p/original/8hoD5BQuUV9dDecAbiyVIxLjzZ9.jpg",
+        "rating": 8.1,
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     }
 }

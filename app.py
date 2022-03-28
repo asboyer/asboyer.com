@@ -164,6 +164,38 @@ def music_path(name):
         return render_template("error.html")
 
 
+# books
+@app.route("/books")
+def books():
+    return render_template("favorites/books/books.html")
+
+@app.route("/books/<name>")
+def books_path(name):
+    if os.path.exists(f'templates/favorites/books/{name}.html'):
+        return render_template(f"favorites/books/{name}.html")
+    else:
+        # make error page
+        return render_template("error.html")
+
+@app.route("/data/books/shelf.json")
+def bookshelf_json():
+    f = open('data/favorites/books/shelf.json')
+    data = json.load(f)
+    return data
+
+
+@app.route("/data/books/library.json")
+def library_json():
+    f = open('data/favorites/books/library.json')
+    data = json.load(f)
+    return data
+
+@app.route("/data/books/list.json")
+def booklist_json():
+    f = open('data/favorites/books/list.json')
+    data = json.load(f)
+    return data
+
 # movies
 @app.route("/movies")
 def movies():
