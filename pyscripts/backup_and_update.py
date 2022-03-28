@@ -150,6 +150,17 @@ def music_archive_{date_string}():
     f.write(date_string_string)
     f.close()
 
+    f = open('./update_message.txt', 'w')
+    f.write(f"""New asboyer.com music reviews!
+
+Check out what I've been listening to during {date_range_string}:
+
+https://asboyer.com/archive/music/{archive_num}
+
+- asboyer
+""")
+    f.close()
+
 def update_all_data():
     update_movies()
     update_music('all')
