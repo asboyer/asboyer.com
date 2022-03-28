@@ -1,10 +1,10 @@
 {
     "The 48 Laws of Power": {
         "author": "Robert Greene",
-        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1634897112l/1303._SX318_.jpg",
+        "img": "https://m.media-amazon.com/images/I/418WzmONssL._AC_SY1000_.jpg",
         "title": "The 48 Laws of Power",
         "link": "https://amzn.to/3wDPl57",
-        "color": "#FF3645"
+        "color": "#E63C1A"
     },
     "Deep Work": {
         "author": "Cal Newport",
@@ -30,8 +30,15 @@
     "Dune": {
         "title": "Dune",
         "author": "Frank Herbert",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/81ym3QUd3KL.jpg",
+        "img": "https://th-test-11.slatic.net/p/607af2de4fb8806f811cdbd7ebac191d.jpg",
         "link": "https://amzn.to/3JPeDkk",
         "color": "#FF5C51"
+    },
+    "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones": {
+        "author": "James Clear",
+        "link": "https://amzn.to/36C9OfT",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535115320l/40121378._SY475_.jpg",
+        "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+        "color": "#F6F6EA"
     }
 }
