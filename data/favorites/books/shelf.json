@@ -33,5 +33,12 @@
         "img": "https://images-na.ssl-images-amazon.com/images/I/41iW9a+nyZL._SX319_BO1,204,203,200_.jpg",
         "title": "Meditations: A New Translation",
         "color": "#040809"
+    },
+    "The Remains of the Day": {
+        "title": "The Remains of the Day",
+        "author": "Kazuo Ishiguro",
+        "img": "https://m.media-amazon.com/images/I/41-oNcLyoZL.jpg",
+        "link": "https://amzn.to/36Vj8ey",
+        "color": "#FFFFFFF"
     }
 }
