@@ -91,16 +91,17 @@
         "total_tracks": 5,
         "uri": "spotify:album:2Z11cXWEa2qqYQBGkJrCga",
         "image": "https://i.scdn.co/image/ab67616d0000b273611ea3fb281f7956ffd33b77",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "Blue Train - Remastered",
-            "Moment's Notice - Remastered",
-            "Locomotion - Remastered",
-            "I'm Old Fashioned - Remastered",
-            "Lazy Bird - Remastered"
-        ]
+        "top_tracks": [
+            "Blue Train",
+            "Moment's Notice",
+            "I'm Old Fashioned",
+            "Lazy Bird"
+        ],
+        "good_tracks": [
+            "Locomotion - Remastered"
+        ],
+        "score": 9.43,
+        "tracks": []
     },
     "Giant Steps (2020 Remaster)": {
         "artists": "John Coltrane",
@@ -111,17 +112,18 @@
         "total_tracks": 7,
         "uri": "spotify:album:6NkgPYCMAzttRIKDpuJrFp",
         "image": "https://i.scdn.co/image/ab67616d0000b273b51f29d1c278ef1e738d6e4b",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "Giant Steps - 2020 Remaster",
-            "Cousin Mary - 2020 Remaster",
+        "top_tracks": [
+            "Giant Steps",
+            "Spiral",
+            "Cousin Mary",
+            "Naima",
+            "Syeeda's Song Flute"
+        ],
+        "good_tracks": [
             "Countdown - 2020 Remaster",
-            "Spiral - 2020 Remaster",
-            "Syeeda's Song Flute - 2020 Remaster",
-            "Naima - 2020 Remaster",
             "Mr. P.C. - 2020 Remaster"
-        ]
+        ],
+        "score": 9.18,
+        "tracks": []
     }
 }
