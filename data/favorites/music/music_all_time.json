@@ -437,16 +437,17 @@
         "uri": "spotify:album:0ptlfJfwGTy0Yvrk14JK1I",
         "image": "https://i.scdn.co/image/ab67616d0000b2732090f4f6cc406e6d3c306733",
         "top_tracks": [
+            "Legend",
             "Energy",
             "10 Bands",
             "Know Yourself",
             "No Tellin'",
             "6 God",
             "Star67",
-            "6 Man"
+            "6 Man",
+            "Jungle"
         ],
         "good_tracks": [
-            "Legend",
             "Madonna",
             "Preach",
             "Wednesday Night Interlude",
@@ -454,10 +455,9 @@
             "Now & Forever",
             "Company",
             "You & The 6",
-            "Jungle",
             "6PM In New York"
         ],
-        "score": 9.02
+        "score": 9.22
     },
     "good kid, m.A.A.d city": {
         "artists": "Kendrick Lamar",

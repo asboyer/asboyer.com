@@ -1,0 +1,387 @@
+{
+    "Beyonders": {
+        "author": "Brandon Mull",
+        "img": "https://m.media-amazon.com/images/I/51v2ZfnwLgL._AC_SY780_.jpg",
+        "title": "A World Without Heroes",
+        "link": "https://amzn.to/36OLeZ1",
+        "color": "#182231"
+    },
+    "Can't Hurt Me: Master Your Mind and Defy the Odds": {
+        "author": "David Goggins",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81uqknwH30L.jpg",
+        "link": "https://amzn.to/3wEjC3P",
+        "title": "Can't Hurt Me: Master Your Mind and Defy the Odds",
+        "color": "#B78E3E"
+    },
+    "Ender's Game": {
+        "author": "Orson Scott Card",
+        "img": "https://cdn.shoplightspeed.com/shops/611345/files/5301045/tor-teen-the-ender-quintet-01-enders-game.jpg",
+        "link": "https://amzn.to/3wJNBau",
+        "title": "Ender's Game",
+        "color": "#064E51"
+    },
+    "Ender's Shadow": {
+        "author": "Oliver Burkeman",
+        "img": "https://upload.wikimedia.org/wikipedia/en/1/1d/Ender%27s_shadow_cover.jpg",
+        "link": "https://amzn.to/3DgR55y",
+        "title": "Ender's Shadow",
+        "color": "#262B2C"
+    },
+    "Jack Blank": {
+        "title": "The Accidental Hero",
+        "author": "Matt Myklusch",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51nJGktduQL._SX333_BO1,204,203,200_.jpg",
+        "link": "https://amzn.to/3DdWOZX",
+        "color": "#2F0204"
+    },
+    "1984": {
+        "title": "1984",
+        "author": "George Orwell",
+        "img": "https://rjslaternet.files.wordpress.com/2021/01/1984-cover.png",
+        "link": "https://amzn.to/38b4TTT",
+        "color": "#E23438"
+    },
+    "Animal Farm": {
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPNcURfbHztpF6k88WJDw-D7QIaPCFxFqrF5SqUO-6nr0Bs-E2_2KZhzqRmJwxSzETAV0&usqp=CAU",
+        "link": "https://amzn.to/36zs5KW",
+        "color": "#FFFFFF"
+    },
+    "Make Your Bed: Little Things That Can Change Your Life...And Maybe the World": {
+        "title": "Make Your Bed: Little Things That Can Change Your Life...And Maybe the World",
+        "author": "Admiral William H. McRaven",
+        "img": "https://m.media-amazon.com/images/I/41rFCQxh5TL._AC_SY780_.jpg",
+        "link": "https://amzn.to/3tLLQb6",
+        "color": "#A28B44"
+    },
+    "Scythe": {
+        "title": "Scythe",
+        "author": "Neal Shusterman",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/91jIvX0SeuL.jpg",
+        "link": "https://amzn.to/3Li3bOD",
+        "color": "#4B1B16"
+    },
+    "39 Clues": {
+        "title": "39 Clues",
+        "author": "Various Authors",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/511BdJ3MhsL.jpg",
+        "link": "https://amzn.to/3LCcDg7",
+        "color": "#134F83"
+    },
+    "Harry Potter": {
+        "title": "Harry Potter",
+        "author": "J. K. Rowling",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81iqZ2HHD-L.jpg",
+        "link": "https://amzn.to/3qFGSKG",
+        "color": "#474869"
+    },
+    "The Hobbit": {
+        "title": "The Hobbit",
+        "author": "J. R. R. Tolkien",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/413V3sIKSJL._SX331_BO1,204,203,200_.jpg",
+        "link": "https://amzn.to/3qHIPq3",
+        "color": "#000000"
+    },
+    "The Catcher in the Rye": {
+        "title": "The Catcher in the Rye",
+        "author": "J. D. Salinger",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81OthjkJBuL.jpg",
+        "link": "https://amzn.to/3DeF40B",
+        "color": "#F3F1D8"
+    },
+    "Ashfall": {
+        "title": "Ashfall",
+        "author": "Mike Mullin",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81Rk8U3OQiL.jpg",
+        "link": "https://amzn.to/37Ukkzp",
+        "color": "#997972"
+    },
+    "The Unwanteds": {
+        "title": "The Unwanteds",
+        "author": "Lisa McMann",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81Y+nfE9N8L.jpg",
+        "link": "https://amzn.to/3tFRvzb",
+        "color": "#2A2A2A"
+    },
+    "Ready Player One": {
+        "title": "Ready Player One",
+        "author": "Ernest Cline",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/9193hRad9yL.jpg",
+        "link": "https://amzn.to/35h3dH7",
+        "color": "#8E6F56"
+    },
+    "Master of Sorrows": {
+        "title": "Master of Sorrows",
+        "author": "Justin Call",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81v-JDxew-L.jpg",
+        "link": "https://amzn.to/3qFBV4Q",
+        "color": "#7D783C"
+    },
+    "The Male Advantage": {
+        "title": "The Male Advantage",
+        "author": "Kris Sturmey",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1635337233l/59463331._SY475_.jpg",
+        "link": "https://1st-man.com/product/the-male-advantage-paperback-book/",
+        "color": "#E9E9E9"
+    },
+    "Fablehaven": {
+        "title": "Fablehaven",
+        "author": "Brandon Mull",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/71E9LoK5y2L.jpg",
+        "link": "https://amzn.to/3tL1V0H",
+        "color": "#725B42"
+    },
+    "The Odyssey": {
+        "title": "The Odyssey",
+        "author": "Homer",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81QAAnCNM7L.jpg",
+        "link": "https://amzn.to/3NoK2wh",
+        "color": "#D19A47"
+    },
+    "I Am Number Four": {
+        "title": "I Am Number Four",
+        "author": "Pittacus Lore",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/4156w7F+GBL._SX319_BO1,204,203,200_.jpg",
+        "link": "https://amzn.to/3wMxOaS",
+        "color": "#FF3D24"
+    },
+    "Darkstalker (Wings of Fire: Legends)": {
+        "title": "Darkstalker (Wings of Fire: Legends)",
+        "author": "Tui T. Sutherland",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81zOUcIMuKL.jpg",
+        "link": "https://amzn.to/3iE13EA",
+        "color": "#3A3630"
+    },
+    "Troublemaker": {
+        "title": "Troublemaker",
+        "author": "Andrew Clements",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/512CHD9EuvL.jpg",
+        "link": "https://amzn.to/3tKjQVe",
+        "color": "#004273"
+    },
+    "Lunch Money": {
+        "title": "Lunch Money",
+        "author": "Andrew Clements",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81Ul82csGIL.jpg",
+        "link": "https://amzn.to/3IItyvp",
+        "color": "#006E41"
+    },
+    "Frindle": {
+        "title": "Frindle",
+        "author": "Andrew Clements",
+        "img": "https://www.andrewclements.com/img/asset/Ym9va19jb3ZlcnMvY292ZXJfZnJpbmRsZV8wMl9FTi1VUy5qcGc=?w=600&h=700&fit=contain",
+        "link": "https://amzn.to/3iIVZyW",
+        "color": "#9B1C21"
+    },
+    "Lost and Found": {
+        "title": "Lost and Found",
+        "author": "Andrew Clements",
+        "img": "https://m.media-amazon.com/images/I/51mHz05HPFL.jpg",
+        "link": "https://amzn.to/3DjBxhC",
+        "color": "#FCD540"
+    },
+    "The Maze Runner": {
+        "title": "The Maze Runner",
+        "author": "James Dashner",
+        "img": "https://i5.walmartimages.com/asr/aa0c7afc-9a95-44e6-aa35-3b8e87ce3ec5.3a7a32cc0d0b42e05e9d137f16ec17cf.jpeg",
+        "link": "https://amzn.to/36YvtPu",
+        "color": "#336638"
+    },
+    "CHERUB": {
+        "title": "CHERUB",
+        "author": "Robert Muchamore",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/515dmjfGYKL.jpg",
+        "link": "https://amzn.to/3JSmFcj",
+        "color": "#272928"
+    },
+    "The Candy Shop War": {
+        "title": "The Candy Shop War",
+        "author": "Brandon Mull",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/5129HYHDYeL.jpg",
+        "link": "https://amzn.to/3uBOUp8",
+        "color": "#551913"
+    },
+    "Janitors": {
+        "title": "Janitors",
+        "author": "Tyler Whitesides",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/91-AbO2JyUL.jpg",
+        "link": "https://amzn.to/3iZF6jH",
+        "color": "#6CB5A9"
+    },
+    "The Inventor's Secret": {
+        "title": "The Inventor's Secret",
+        "author": "Chad Morris",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/91njnQBMfRL.jpg",
+        "link": "https://amzn.to/3tHfRbP",
+        "color": "#2D63B8"
+    },
+    "Percy Jackson": {
+        "title": "Percy Jackson",
+        "author": "Rick Riodan",
+        "img": "https://embed.cdn.pais.scholastic.com/v1/channels/sso/products/identifiers/isbn/9780786838653/alternate/0/renditions/500",
+        "link": "https://amzn.to/37VBcFZ",
+        "color": "#024B55"
+    },
+    "Foul Trouble": {
+        "title": "Foul Trouble",
+        "author": "John Feinstein",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81vrC1P3GpL.jpg",
+        "link": "https://amzn.to/3Llm8zR",
+        "color": "#5B2109"
+    },
+    "QB 1": {
+        "title": "QB 1",
+        "author": "Mike Lupica",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/8142MyXwiAL.jpg",
+        "link": "https://amzn.to/3JMWBPX",
+        "color": "#493D2D"
+    },
+    "The Underdogs": {
+        "title": "The Underdogs",
+        "author": "Mike Lupica",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/71RcU2fiJML.jpg",
+        "link": "https://amzn.to/3NwIzEq",
+        "color": "#000008"
+    },
+    "Baseball Card Adventures": {
+        "title": "Baseball Card Adventures",
+        "author": "Dan Gutman",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81zTwzQCUeL.jpg",
+        "link": "https://amzn.to/3qGXrGr",
+        "color": "#835B67"
+    },
+    "Popular Clone": {
+        "title": "Popular Clone",
+        "author": "M.E. Castle",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81NNloFBmtL.jpg",
+        "link": "https://amzn.to/3tHjKNX",
+        "color": "#2F5B86"
+    },
+    "Ungifted": {
+        "title": "Ungifted",
+        "author": "Gordan Korman",
+        "img": "https://m.media-amazon.com/images/I/41RNPh4TUaL.jpg",
+        "link": "https://amzn.to/3IFuzo4",
+        "color": "#53BAB1"
+    },
+    "Shoe Dog": {
+        "title": "Shoe Dog",
+        "author": "Phil Knight",
+        "img": "http://prodimage.images-bn.com/pimages/9781501135927_p0_v4_s1200x630.jpg",
+        "link": "https://amzn.to/3ILTl61",
+        "color": "#231F20"
+    },
+    "Killing Lincoln": {
+        "title": "Killing Lincoln",
+        "author": "Bill O'Reilly",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/810OTk5+cSL.jpg",
+        "link": "https://amzn.to/3IFyHo4",
+        "color": "#010D19"
+    },
+    "Unbroken": {
+        "title": "Unbroken",
+        "author": "Laura Hillenbrand",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/91S4DE6x+TL.jpg",
+        "link": "https://amzn.to/3qIjNqW",
+        "color": "#190403"
+    },
+    "Killing Kennedy": {
+        "title": "Killing Kennedy",
+        "author": "Bill O'Reilly",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81CBVWXtvYL.jpg",
+        "link": "https://amzn.to/3JPdQjB",
+        "color": "#080E15"
+    },
+    "A Wrinkle in time": {
+        "title": "A Wrinkle in time",
+        "author": "Madeleine L'Engle",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81oqdz4hkeL.jpg",
+        "link": "https://amzn.to/3NsUwuz",
+        "color": "#9C742E"
+    },
+    "Treasure Island": {
+        "title": "Treasure Island",
+        "author": "Robert Louis Stevenson",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/71jX9SL21BL.jpg",
+        "link": "https://amzn.to/3uweRXn",
+        "color": "#051A25"
+    },
+    "Fareinheit 451": {
+        "title": "Fareinheit 451",
+        "author": "Ray Bradbury",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/71OFqSRFDgL.jpg",
+        "link": "https://amzn.to/35gm2tY",
+        "color": "#000000"
+    },
+    "The Adventures of Tintin": {
+        "title": "The Adventures of Tintin",
+        "author": "Herge",
+        "img": "https://www.lbyr.com/wp-content/uploads/2017/06/9780316359405.jpg?fit=1815%2C2600",
+        "link": "https://amzn.to/3DfGYhq",
+        "color": "#AF4067"
+    },
+    "The Time Machine": {
+        "title": "The Time Machine",
+        "author": "H.G. Wells",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/61ZPzLlTaCL.jpg",
+        "link": "https://amzn.to/3wJM4kQ",
+        "color": "#15070E"
+    },
+    "The Adventures of Huckleberry Finn": {
+        "title": "The Adventures of Huckleberry Finn",
+        "author": "Mark Twain",
+        "img": "https://images.ucpress.edu/covers/isbn13/9780520343641.jpg",
+        "link": "https://amzn.to/3iIEChv",
+        "color": "#8B4F1E"
+    },
+    "The Adventures of Tom Sawyer": {
+        "title": "The Adventures of Tom Sawyer",
+        "author": "Mark Twain",
+        "img": "https://images.ucpress.edu/covers/isbn13/9780520343634.jpg",
+        "link": "https://amzn.to/35lf9Yw",
+        "color": "#8B4F1E"
+    },
+    "Pegasus": {
+        "title": "Pegasus",
+        "author": "Kate O'Hearn",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51ONk5oUqpL.jpg",
+        "link": "https://amzn.to/3DkqB2U",
+        "color": "#0E0A09"
+    },
+    "Phantoms In The Snow": {
+        "title": "Phantoms In The Snow",
+        "author": "Kathleen Benner Duble",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51kuO8iRp+L.jpg",
+        "link": "https://amzn.to/36YIPeA",
+        "color": "#BECDBD"
+    },
+    "Legend": {
+        "title": "Legend",
+        "author": "Marie Lu",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/A1MEgpPSzIL.jpg",
+        "link": "https://amzn.to/36TTV49",
+        "color": "#807B77"
+    },
+    "The War of the Worlds": {
+        "title": "The War of the Worlds",
+        "author": "H.G. Wells",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81cP98OAsmL.jpg",
+        "link": "https://amzn.to/3IG5J7D",
+        "color": "#6D5604"
+    },
+    "Higgins Hole": {
+        "title": "Higgins Hole",
+        "author": "Kevin Boreen",
+        "img": "https://kbimages1-a.akamaihd.net/3de316a2-5805-40e8-8ab1-9e1bed312e57/1200/1200/False/higgins-hole.jpg",
+        "link": "https://amzn.to/3tJe0n0",
+        "color": "#D4FFFF"
+    },
+    "The Boys in the Boat": {
+        "title": "The Boys in the Boat",
+        "author": "Daniel James Brown",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/814AgqjL0EL.jpg",
+        "link": "https://amzn.to/3DkYOzn",
+        "color": "#010101"
+    }
+}
