@@ -55,33 +55,6 @@
         ],
         "score": 9.22
     },
-    "The Temptations Sing Smokey": {
-        "artists": "The Temptations",
-        "id": "7C4vMPQR8KcbZv4e2ZI0lc",
-        "name": "The Temptations Sing Smokey",
-        "popularity": 0,
-        "release_date": "1965-01-01",
-        "total_tracks": 12,
-        "uri": "spotify:album:7C4vMPQR8KcbZv4e2ZI0lc",
-        "image": "https://i.scdn.co/image/ab67616d0000b27329b5c592db812fb819f605a3",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "The Way You Do The Things You Do",
-            "Baby, Baby I Need You",
-            "My Girl",
-            "What Love Has Joined Together - Album Version / Stereo",
-            "You'll Lose A Precious Love - Album Version / Stereo",
-            "It's Growing - Album Version / Stereo",
-            "Who's Lovin' You - Album Version / Stereo",
-            "What's So Good About Goodbye",
-            "You Beat Me To The Punch",
-            "Way Over There",
-            "You've Really Got A Hold On Me",
-            "(You Can) Depend On Me"
-        ]
-    },
     "Blue Train": {
         "artists": "John Coltrane",
         "id": "2Z11cXWEa2qqYQBGkJrCga",
@@ -148,6 +121,34 @@
             "Breaking News Outro"
         ],
         "score": 4.69,
+        "tracks": []
+    },
+    "The Temptations Sing Smokey": {
+        "artists": "The Temptations",
+        "id": "45tweuKI0zdh8zgKo05cTw",
+        "name": "The Temptations Sing Smokey",
+        "popularity": 74,
+        "release_date": "1965-03-22",
+        "total_tracks": 12,
+        "uri": "spotify:album:45tweuKI0zdh8zgKo05cTw",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e",
+        "top_tracks": [
+            "The Way You Do The Things You Do",
+            "Baby, Baby I Need You",
+            "My Girl",
+            "What Love Has Joined Together",
+            "You'll Lose A Precious Love",
+            "It's Growing",
+            "You Beat Me To The Punch",
+            "Way Over There",
+            "(You Can) Depend On Me"
+        ],
+        "good_tracks": [
+            "Who's Lovin' You",
+            "What's So Good About Goodbye",
+            "You've Really Got A Hold On Me"
+        ],
+        "score": 9.29,
         "tracks": []
     }
 }
