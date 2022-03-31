@@ -125,5 +125,29 @@
         ],
         "score": 9.18,
         "tracks": []
+    },
+    "Emergency Tsunami": {
+        "artists": "NAV",
+        "id": "1tihFpzHHM9mDSoFbhMoZL",
+        "name": "Emergency Tsunami",
+        "popularity": 68,
+        "release_date": "2020-11-06",
+        "total_tracks": 14,
+        "uri": "spotify:album:1tihFpzHHM9mDSoFbhMoZL",
+        "image": "https://i.scdn.co/image/ab67616d0000b27392621d7615b7f5d056f5bbfe",
+        "top_tracks": [
+            "Friends & Family",
+            "Young Wheezy (with Gunna)",
+            "Don't Need Friends (feat. Lil Baby)"
+        ],
+        "good_tracks": [
+            "Breaking News Intro",
+            "Repercussions (with Young Thug)",
+            "Vetement Socks",
+            "Make It Right Back",
+            "Breaking News Outro"
+        ],
+        "score": 4.69,
+        "tracks": []
     }
 }
