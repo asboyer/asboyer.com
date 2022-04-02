@@ -258,7 +258,7 @@
             "Intro (Difference)",
             "The Sequence"
         ],
-        "score": 9.59
+        "score": 9.76
     },
     "Future & Juice WRLD Present... WRLD ON DRUGS": {
         "artists": "Future, Juice WRLD",
@@ -4268,5 +4268,26 @@
             "DO BETTER",
             "FAR (feat. Young Thug)"
         ]
+    },
+    "Blue Train": {
+        "artists": "John Coltrane",
+        "id": "2Z11cXWEa2qqYQBGkJrCga",
+        "name": "Blue Train",
+        "popularity": 43,
+        "release_date": "1958-01-01",
+        "total_tracks": 5,
+        "uri": "spotify:album:2Z11cXWEa2qqYQBGkJrCga",
+        "image": "https://i.scdn.co/image/ab67616d0000b273611ea3fb281f7956ffd33b77",
+        "top_tracks": [
+            "Blue Train",
+            "Moment's Notice",
+            "I'm Old Fashioned",
+            "Lazy Bird"
+        ],
+        "good_tracks": [
+            "Locomotion - Remastered"
+        ],
+        "score": 9.43,
+        "tracks": []
     }
 }

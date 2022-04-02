@@ -41,6 +41,8 @@ $(document).ready(function(){
             `  
         }
 
+
+
         $.each(albums, function(title, values){
             var tracklist = ""
             var artist_length = ""
@@ -67,6 +69,9 @@ $(document).ready(function(){
             }
             else {
                 link = `https://open.spotify.com/album/${values.id}`
+            }
+            if(values.name == "T R A P S O U L" || values.name == "A N N I V E R S A R Y") {
+                styles = "white-space: nowrap"
             }
 
             // make an array of these albums for nowarp, same with small font
