@@ -15,12 +15,12 @@
         "cover_img": "/static/img/blog/python-mvp/jokic.png",
         "live": true
     },
-    "blog post index 2": {
-        "title": "My process for building good habits and breaking bad ones",
+    "Stoicism: become mentally unstoppable": {
+        "title": "Stoicism: become mentally unstoppable",
         "id": 2,
         "date": "4.24.22",
-        "subjects": [],
-        "cover_img": "/static/img/blog/python-mvp/jokic.png",
+        "subjects": ["Philosophy", "Self-improvement"],
+        "cover_img": "/static/img/blog/stoicism/marcus.jpg",
         "live": false
     }
 } 
