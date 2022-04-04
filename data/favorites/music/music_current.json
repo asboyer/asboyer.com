@@ -205,5 +205,31 @@
         ],
         "score": 9.33,
         "tracks": []
+    },
+    "Duke Ellington & John Coltrane": {
+        "artists": "Duke Ellington, John Coltrane",
+        "id": "1OvmilWKtrabJGEpPRlgK5",
+        "name": "Duke Ellington & John Coltrane",
+        "popularity": 65,
+        "release_date": "1963-02",
+        "total_tracks": 7,
+        "uri": "spotify:album:1OvmilWKtrabJGEpPRlgK5",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732def9ef3f6a82c8d6fd8c143",
+        "top_tracks": [
+            "In A Sentimental Mood",
+            
+        ],
+        "good_tracks": [
+            
+        ],
+        "score": 0.0,
+        "tracks": [
+            "Take The Coltrane",
+            "Big Nick",
+            "Stevie",
+            "My Little Brown Book",
+            "Angelica",
+            "The Feeling Of Jazz"
+        ]
     }
 }
