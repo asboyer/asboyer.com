@@ -2827,3 +2827,9 @@ blockquote p::after {
         width: 75%;
     }
 }
+
+@media (max-width: 900px) {
+    blockquote p {
+        font-size: .75em;
+    }
+}
