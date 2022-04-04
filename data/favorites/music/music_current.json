@@ -216,7 +216,6 @@
         "uri": "spotify:album:1OvmilWKtrabJGEpPRlgK5",
         "image": "https://i.scdn.co/image/ab67616d0000b2732def9ef3f6a82c8d6fd8c143",
         "top_tracks": [
-            "In A Sentimental Mood",
             
         ],
         "good_tracks": [
@@ -224,6 +223,7 @@
         ],
         "score": 0.0,
         "tracks": [
+            "In A Sentimental Mood",
             "Take The Coltrane",
             "Big Nick",
             "Stevie",
