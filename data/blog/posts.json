@@ -94,5 +94,21 @@
         "subjects": ["Lifestyle"],
         "cover_img": "/static/img/blog/stoicism/marcus.jpg",
         "live": false        
-    }    
+    },
+    "How they built: WordBord": {
+        "title": "How they built: WordBord",
+        "id": 12,
+        "date": "8.8.22",
+        "subjects": ["Programming"],
+        "cover_img": "/static/img/blog/stoicism/marcus.jpg",
+        "live": false        
+    },
+    "Overcome your smartphone and internet addiction": {
+        "title": "Overcome your smartphone and internet addiction",
+        "id": 13,
+        "date": "8.15.22",
+        "subjects": ["Self-improvement"],
+        "cover_img": "/static/img/blog/stoicism/marcus.jpg",
+        "live": false        
+    }        
 } 
