@@ -15,12 +15,84 @@
         "cover_img": "/static/img/blog/python-mvp/jokic.png",
         "live": true
     },
-    "Stoicism: become mentally unstoppable": {
-        "title": "Stoicism: become mentally unstoppable",
+    "Become mentally unstoppable with Stoicism": {
+        "title": "Become mentally unstoppable with Stoicism",
         "id": 2,
-        "date": "4.24.22",
-        "subjects": ["Philosophy", "Self-improvement"],
+        "date": "4.21.22",
+        "subjects": ["Philosophy", "Life"],
         "cover_img": "/static/img/blog/stoicism/marcus.jpg",
         "live": false
-    }
+    },
+    "College admissions: a broken system": {
+        "title": "College admissions: a broken system",
+        "id": 3,
+        "date": "5.5.22",
+        "subjects": ["Life", "School"],
+        "cover_img": "/static/img/blog/stoicism/marcus.jpg",
+        "live": false
+    },
+    "High school: the \"best\" years of our lives": {
+        "title": "High school: the \"best\" years of our lives",
+        "id": 4,
+        "date": "5.24.22",
+        "subjects": ["Life", "School"],
+        "cover_img": "/static/img/blog/stoicism/marcus.jpg",
+        "live": false
+    },
+    "Becoming a 'man'": {
+        "title": "Becoming a 'man'",
+        "id": 5,
+        "date": "6.2.22",
+        "subjects": ["Life", "Self-improvement"],
+        "cover_img": "/static/img/blog/stoicism/marcus.jpg",
+        "live": false
+    },   
+    "Breaking bad habits and building good ones": {
+        "title": "Breaking bad habits and building good ones",
+        "id": 6,
+        "date": "6.13.22",
+        "subjects": ["Self-improvement"],
+        "cover_img": "/static/img/blog/stoicism/marcus.jpg",
+        "live": false
+    },
+    "Becoming a 'man': bulking": {
+        "title": "Becoming a man: bulking",
+        "id": 7,
+        "date": "7.1.22",
+        "subjects": ["Fitness"],
+        "cover_img": "/static/img/blog/stoicism/marcus.jpg",
+        "live": false        
+    },
+    "Masterpieces: Whiplash": {
+        "title": "Masterpieces: Whiplash",
+        "id": 8,
+        "date": "7.14.22",
+        "subjects": ["Film", "Culture"],
+        "cover_img": "/static/img/blog/stoicism/marcus.jpg",
+        "live": false        
+    },
+    "Masterpieces: Because the Internet": {
+        "title": "Masterpieces: Because the Internet",
+        "id": 9,
+        "date": "7.21.22",
+        "subjects": ["Music", "Culture"],
+        "cover_img": "/static/img/blog/stoicism/marcus.jpg",
+        "live": false        
+    },
+    "10 things Andrew Boyer can't live without": {
+        "title": "10 things Andrew Boyer can't live without",
+        "id": 10,
+        "date": "8.1.22",
+        "subjects": ["Lifestyle"],
+        "cover_img": "/static/img/blog/stoicism/marcus.jpg",
+        "live": false        
+    },
+    "Severely underrated habits": {
+        "title": "Severely underrated habits",
+        "id": 11,
+        "date": "8.8.22",
+        "subjects": ["Lifestyle"],
+        "cover_img": "/static/img/blog/stoicism/marcus.jpg",
+        "live": false        
+    }    
 } 
