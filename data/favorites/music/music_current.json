@@ -215,19 +215,45 @@
         "total_tracks": 7,
         "uri": "spotify:album:1OvmilWKtrabJGEpPRlgK5",
         "image": "https://i.scdn.co/image/ab67616d0000b2732def9ef3f6a82c8d6fd8c143",
-        "top_tracks": [
-        ],
-        "good_tracks": [
-        ],
+        "top_tracks": [],
+        "good_tracks": [],
         "score": 0.0,
         "tracks": [
             "In A Sentimental Mood",
-            "Take The Coltrane",            
+            "Take The Coltrane",
             "Big Nick",
             "Stevie",
             "My Little Brown Book",
             "Angelica",
             "The Feeling Of Jazz"
+        ]
+    },
+    "Drip Harder": {
+        "artists": "Lil Baby, Gunna",
+        "id": "2yXnY2NiaZk9QiJJittS81",
+        "name": "Drip Harder",
+        "popularity": 83,
+        "release_date": "2018-10-05",
+        "total_tracks": 13,
+        "uri": "spotify:album:2yXnY2NiaZk9QiJJittS81",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ce159a3ba2096e13fa9d4b4c",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Off White VLONE (Lil Baby & Gunna feat. Lil Durk & NAV)",
+            "Business Is Business (Lil Baby & Gunna)",
+            "Belly (Lil Baby & Gunna)",
+            "Deep End (Lil Baby & Gunna)",
+            "World Is Yours (Lil Baby & Gunna)",
+            "Underdog (Lil Baby & Gunna)",
+            "I Am (Lil Baby & Gunna)",
+            "Seals Pills (Lil Baby & Gunna)",
+            "My Jeans (Lil Baby & Gunna feat. Young Thug)",
+            "Style Stealer (Lil Baby & Gunna)",
+            "Close Friends (Lil Baby & Gunna)",
+            "Drip Too Hard (Lil Baby & Gunna)",
+            "Never Recover (Lil Baby & Gunna, Drake)"
         ]
     }
 }

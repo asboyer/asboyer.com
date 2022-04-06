@@ -358,5 +358,29 @@
         "track_number": 1,
         "uri": "spotify:track:4qM461TqtpnP4GLRIXwEnW",
         "image": "https://i.scdn.co/image/ab67616d0000b27379553c4dcec1846d3a5c49ab"
+    },
+    "Spicy (feat. Fivio Foreign & A$AP Ferg)": {
+        "artists": "Nas, Fivio Foreign, A$AP Ferg",
+        "duration_ms": 166523,
+        "explicit": true,
+        "id": "661wc0CTq5MbppEG6zYP5n",
+        "name": "Spicy (feat. Fivio Foreign & A$AP Ferg)",
+        "popularity": 62,
+        "preview_url": null,
+        "track_number": 13,
+        "uri": "spotify:track:661wc0CTq5MbppEG6zYP5n",
+        "image": "https://i.scdn.co/image/ab67616d0000b273cfae92bfa188457b4bee0055"
+    },
+    "No Stylist (feat. Drake)": {
+        "artists": "French Montana, Drake",
+        "duration_ms": 192172,
+        "explicit": true,
+        "id": "04MLEeAMuV9IlHEsD8vF6A",
+        "name": "No Stylist (feat. Drake)",
+        "popularity": 70,
+        "preview_url": "https://p.scdn.co/mp3-preview/10dc9a81f7da91b04000b2e71f27d494fd7d297a?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 1,
+        "uri": "spotify:track:04MLEeAMuV9IlHEsD8vF6A",
+        "image": "https://i.scdn.co/image/ab67616d0000b273816673ed1db2aa75cfa91843"
     }
 }
