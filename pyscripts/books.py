@@ -30,8 +30,8 @@ def add_list():
     f = open('./data/add/list.txt', 'w+')
     f.close()
     books = []
-    for l in range(0, len(lines), 5):
-        books.append([lines[l].strip(), lines[l+1].strip(), lines[l+2].strip(), lines[l+3].strip(), lines[l+4].strip()] )
+    for l in range(0, len(lines), 6):
+        books.append([lines[l].strip(), lines[l+1].strip(), lines[l+2].strip(), lines[l+3].strip(), lines[l+4].strip(), lines[l+5].strip()] )
 
     for book in books:
         data[book[0]] = {
@@ -39,7 +39,8 @@ def add_list():
             "author": book[1],
             "img": book[2],
             "link": book[3],
-            "color": book[4]
+            "color": book[4],
+            "year": int(book[5])
         }
 
     with open(f'./data/favorites/books/list.json', 'w') as json_file:
@@ -53,8 +54,8 @@ def add_shelf():
     f = open('./data/add/shelf.txt', 'w+')
     f.close()
     books = []
-    for l in range(0, len(lines), 5):
-        books.append([lines[l].strip(), lines[l+1].strip(), lines[l+2].strip(), lines[l+3].strip(), lines[l+4].strip()] )
+    for l in range(0, len(lines), 6):
+        books.append([lines[l].strip(), lines[l+1].strip(), lines[l+2].strip(), lines[l+3].strip(), lines[l+4].strip(), lines[l+5].strip()])
 
     for book in books:
         data[book[0]] = {
@@ -62,7 +63,8 @@ def add_shelf():
             "author": book[1],
             "img": book[2],
             "link": book[3],
-            "color": book[4]
+            "color": book[4],
+            "status": book[5]
         }
 
     with open(f'./data/favorites/books/shelf.json', 'w') as json_file:

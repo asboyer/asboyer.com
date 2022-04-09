@@ -24,6 +24,9 @@ $(document).ready(function(){
         var books = Object.values(json)
         shuffle(books)
 
+        
+
+
 
         $.each(books, function(title, values){
             var movie_div = 
@@ -41,16 +44,8 @@ $(document).ready(function(){
             </div>
             `
             // <p class="artist" style="font-size: 10px">${values.asboyer_score}</p>
-        
-            console.log(values.status)
 
-        if (values.status == "reading") {
-            $('#reading').append(movie_div)
-        }
-        if (values.status == "want") {
-            $('#want').append(movie_div)
-
-        }
+        $('#books_div').append(movie_div)
 
         });
     });

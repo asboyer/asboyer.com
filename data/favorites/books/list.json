@@ -1,44 +1,34 @@
 {
-    "The 48 Laws of Power": {
-        "author": "Robert Greene",
-        "img": "https://m.media-amazon.com/images/I/418WzmONssL._AC_SY1000_.jpg",
-        "title": "The 48 Laws of Power",
-        "link": "https://amzn.to/3wDPl57",
-        "color": "#E63C1A"
+    "Ender's Game": {
+        "author": "Orson Scott Card",
+        "img": "https://cdn.shoplightspeed.com/shops/611345/files/5301045/tor-teen-the-ender-quintet-01-enders-game.jpg",
+        "link": "https://amzn.to/3wJNBau",
+        "title": "Ender's Game",
+        "color": "#064E51",
+        "year": 2022
     },
-    "Deep Work": {
-        "author": "Cal Newport",
-        "img": "https://m.media-amazon.com/images/I/417yjF+Z5zL.jpg",
-        "link": "https://amzn.to/3DiMGPm",
-        "title": "Deep Work",
-        "color": "#FFFFFF"
-    },
-    "Think and Grow Rich": {
-        "author": "Napoleon Hill",
-        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463241782l/30186948._SY475_.jpg",
-        "link": "https://amzn.to/3DdT8HD",
-        "title": "Think and Grow Rich",
-        "color": "#FFFFFF"
-    },
-    "Four Thousand Weeks: Time Management for Mortals": {
+    "Ender's Shadow": {
         "author": "Oliver Burkeman",
-        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627425434l/54785515._SY475_.jpg",
-        "link": "https://amzn.to/3qJDIpp",
-        "title": "Four Thousand Weeks: Time Management for Mortals",
-        "color": "#F2EBDB"
+        "img": "https://upload.wikimedia.org/wikipedia/en/1/1d/Ender%27s_shadow_cover.jpg",
+        "link": "https://amzn.to/3DgR55y",
+        "title": "Ender's Shadow",
+        "color": "#262B2C",
+        "year": 2022
     },
-    "Dune": {
-        "title": "Dune",
-        "author": "Frank Herbert",
-        "img": "https://th-test-11.slatic.net/p/607af2de4fb8806f811cdbd7ebac191d.jpg",
-        "link": "https://amzn.to/3JPeDkk",
-        "color": "#FF5C51"
+    "The Male Advantage": {
+        "title": "The Male Advantage",
+        "author": "Kris Sturmey",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1635337233l/59463331._SY475_.jpg",
+        "link": "https://1st-man.com/product/the-male-advantage-paperback-book/",
+        "color": "#E9E9E9",
+        "year": 2022
     },
-    "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones": {
-        "author": "James Clear",
-        "link": "https://amzn.to/36C9OfT",
-        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535115320l/40121378._SY475_.jpg",
-        "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
-        "color": "#F6F6EA"
+    "Shadow of the Hegemon": {
+        "title": "Shadow of the Hegemon",
+        "author": "Orson Scott Card",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51Adqx99PyS._SX314_BO1,204,203,200_.jpg",
+        "link": "https://amzn.to/3xaKLvs",
+        "color": "#EDEEEA",
+        "year": 2022
     }
 }

@@ -4,41 +4,95 @@
         "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1512705866i/30257963.jpg",
         "title": "12 Rules for Life: An Antidote to Chaos",
         "link": "https://amzn.to/3qIqiKu",
-        "color": "#FFFFFF"
+        "color": "#FFFFFF",
+        "status": "reading"
     },
     "The Power of Habit: Why We Do What We Do in Life and Business": {
         "author": "Charles Duhigg",
         "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545854312l/12609433._SY475_.jpg",
         "title": "The Power of Habit: Why We Do What We Do in Life and Business",
         "link": "https://amzn.to/3IKBmg7",
-        "color": "#FFE815"
+        "color": "#FFE815",
+        "status": "reading"
     },
     "Brain Rules": {
         "author": "John Medina",
         "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328763686l/2251306.jpg",
         "title": "Brain Rules: 12 Principles for Surviving and Thriving at Work, Home, and School",
         "link": "https://amzn.to/3DnTKKL",
-        "color": "#FFFFFF"
+        "color": "#FFFFFF",
+        "status": "reading"
     },
     "Shadow Puppets": {
         "author": "Orson Scott Card",
         "img": "https://images-na.ssl-images-amazon.com/images/I/81LXQUuPFnL.jpg",
         "title": "Shadow Puppets",
         "link": "https://amzn.to/3LlcugC",
-        "color": "#210F07"
+        "color": "#210F07",
+        "status": "reading"
     },
     "Meditations: A New Translation": {
         "author": "Marcus Aurelius, Gregory Hays",
         "link": "https://amzn.to/38aWmQR",
         "img": "https://images-na.ssl-images-amazon.com/images/I/41iW9a+nyZL._SX319_BO1,204,203,200_.jpg",
         "title": "Meditations: A New Translation",
-        "color": "#040809"
+        "color": "#040809",
+        "status": "reading"
     },
     "The Remains of the Day": {
         "title": "The Remains of the Day",
         "author": "Kazuo Ishiguro",
         "img": "https://m.media-amazon.com/images/I/41-oNcLyoZL.jpg",
         "link": "https://amzn.to/36Vj8ey",
-        "color": "#FFFFFF"
+        "color": "#FFFFFF",
+        "status": "reading"
+    },
+    "The 48 Laws of Power": {
+        "author": "Robert Greene",
+        "img": "https://m.media-amazon.com/images/I/418WzmONssL._AC_SY1000_.jpg",
+        "title": "The 48 Laws of Power",
+        "link": "https://amzn.to/3wDPl57",
+        "color": "#E63C1A",
+        "status": "want"
+    },
+    "Deep Work": {
+        "author": "Cal Newport",
+        "img": "https://m.media-amazon.com/images/I/417yjF+Z5zL.jpg",
+        "link": "https://amzn.to/3DiMGPm",
+        "title": "Deep Work",
+        "color": "#FFFFFF",
+        "status": "want"
+    },
+    "Think and Grow Rich": {
+        "author": "Napoleon Hill",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463241782l/30186948._SY475_.jpg",
+        "link": "https://amzn.to/3DdT8HD",
+        "title": "Think and Grow Rich",
+        "color": "#FFFFFF",
+        "status": "want"
+    },
+    "Four Thousand Weeks: Time Management for Mortals": {
+        "author": "Oliver Burkeman",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627425434l/54785515._SY475_.jpg",
+        "link": "https://amzn.to/3qJDIpp",
+        "title": "Four Thousand Weeks: Time Management for Mortals",
+        "color": "#F2EBDB",
+        "status": "want"
+    },
+    "Dune": {
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "img": "https://th-test-11.slatic.net/p/607af2de4fb8806f811cdbd7ebac191d.jpg",
+        "link": "https://amzn.to/3JPeDkk",
+        "color": "#FF5C51",
+        "status": "want"
+    },
+    "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones": {
+        "author": "James Clear",
+        "link": "https://amzn.to/36C9OfT",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535115320l/40121378._SY475_.jpg",
+        "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+        "color": "#F6F6EA",
+        "status": "want"
     }
 }
