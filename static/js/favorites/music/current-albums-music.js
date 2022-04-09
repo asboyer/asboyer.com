@@ -76,6 +76,7 @@ $(document).ready(function(){
 
             // make an array of these albums for nowarp, same with small font
             if (values.score == null) values.score = ""
+            if (values.score == 0.0) values.score = ""
             var album_div =
             `<div class="album__container">
             <a href="${link}" class="album__item" target="_blank">
