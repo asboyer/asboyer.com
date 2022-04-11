@@ -1,214 +1,81 @@
 {
-    "If You're Reading This It's Too Late": {
-        "artists": "Drake",
-        "id": "0ptlfJfwGTy0Yvrk14JK1I",
-        "name": "If You're Reading This It's Too Late",
-        "popularity": 75,
-        "release_date": "2015-02-12",
-        "total_tracks": 17,
-        "uri": "spotify:album:0ptlfJfwGTy0Yvrk14JK1I",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732090f4f6cc406e6d3c306733",
-        "top_tracks": [
-            "Legend",
-            "Energy",
-            "10 Bands",
-            "Know Yourself",
-            "No Tellin'",
-            "6 God",
-            "Star67",
-            "6 Man",
-            "Jungle"
-        ],
-        "good_tracks": [
-            "Madonna",
-            "Preach",
-            "Wednesday Night Interlude",
-            "Used To",
-            "Now & Forever",
-            "Company",
-            "You & The 6",
-            "6PM In New York"
-        ],
-        "score": 9.22
-    },
-    "Blue Train": {
-        "artists": "John Coltrane",
-        "id": "2Z11cXWEa2qqYQBGkJrCga",
-        "name": "Blue Train",
-        "popularity": 43,
-        "release_date": "1958-01-01",
-        "total_tracks": 5,
-        "uri": "spotify:album:2Z11cXWEa2qqYQBGkJrCga",
-        "image": "https://i.scdn.co/image/ab67616d0000b273611ea3fb281f7956ffd33b77",
-        "top_tracks": [
-            "Blue Train",
-            "Moment's Notice",
-            "I'm Old Fashioned",
-            "Lazy Bird"
-        ],
-        "good_tracks": [
-            "Locomotion - Remastered"
-        ],
-        "score": 9.43,
-        "tracks": []
-    },
-    "Emergency Tsunami": {
-        "artists": "NAV",
-        "id": "1tihFpzHHM9mDSoFbhMoZL",
-        "name": "Emergency Tsunami",
-        "popularity": 68,
-        "release_date": "2020-11-06",
-        "total_tracks": 14,
-        "uri": "spotify:album:1tihFpzHHM9mDSoFbhMoZL",
-        "image": "https://i.scdn.co/image/ab67616d0000b27392621d7615b7f5d056f5bbfe",
-        "top_tracks": [
-            "Friends & Family",
-            "Young Wheezy (with Gunna)",
-            "Don't Need Friends (feat. Lil Baby)"
-        ],
-        "good_tracks": [
-            "Breaking News Intro",
-            "Repercussions (with Young Thug)",
-            "Vetement Socks",
-            "Make It Right Back",
-            "Breaking News Outro"
-        ],
-        "score": 4.69,
-        "tracks": []
-    },
-    "T R A P S O U L": {
-        "artists": "Bryson Tiller",
-        "id": "6eZdwrhB97A3EYx9QppGfl",
-        "name": "T R A P S O U L",
-        "popularity": 75,
-        "release_date": "2015-10-02",
-        "total_tracks": 14,
-        "uri": "spotify:album:6eZdwrhB97A3EYx9QppGfl",
-        "image": "https://i.scdn.co/image/ab67616d0000b273d5f3cea8affdca01a0dc754f",
-        "top_tracks": [
-            "Let Em' Know",
-            "Exchange",
-            "For However Long",
-            "Don't",
-            "Open Interlude",
-            "Ten Nine Fourteen",
-            "Rambo",
-            "502 Come Up",
-            "Sorry Not Sorry",
-            "Been That Way",
-            "Overtime",
-            "Right My Wrongs"
-        ],
-        "good_tracks": [
-            "Intro (Difference)",
-            "The Sequence"
-        ],
-        "score": 9.76
-    },
-    "A N N I V E R S A R Y": {
-        "artists": "Bryson Tiller",
-        "id": "5KpXxX7OUDXRs25qLyN8NA",
-        "name": "A N N I V E R S A R Y",
-        "popularity": 76,
-        "release_date": "2020-10-02",
-        "total_tracks": 10,
-        "uri": "spotify:album:5KpXxX7OUDXRs25qLyN8NA",
-        "image": "https://i.scdn.co/image/ab67616d0000b273008d8077814ce15da0085b47",
-        "top_tracks": [
-            "Always Forever",
-            "I'm Ready For You",
-            "Things Change",
-            "Timeless Interlude",
-            "Sorrows",
-            "Next To You"
-        ],
-        "good_tracks": [
-            "Years Go By",
-            "Inhale",
-            "Outta Time (feat. Drake)",
-            "Keep Doing What You're Doing"
-        ],
-        "score": 9.33,
-        "tracks": []
-    },
-    "Duke Ellington & John Coltrane": {
-        "artists": "Duke Ellington, John Coltrane",
-        "id": "1OvmilWKtrabJGEpPRlgK5",
-        "name": "Duke Ellington & John Coltrane",
-        "popularity": 65,
-        "release_date": "1963-02",
-        "total_tracks": 7,
-        "uri": "spotify:album:1OvmilWKtrabJGEpPRlgK5",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732def9ef3f6a82c8d6fd8c143",
-        "top_tracks": [
-            "In A Sentimental Mood"
-        ],
-        "good_tracks": [
-            "Take The Coltrane"
-        ],
-        "score": 0.0,
-        "tracks": [
-            "Big Nick",
-            "Stevie",
-            "My Little Brown Book",
-            "Angelica",
-            "The Feeling Of Jazz"
-        ]
-    },
-    "Drip Harder": {
-        "artists": "Lil Baby, Gunna",
-        "id": "2yXnY2NiaZk9QiJJittS81",
-        "name": "Drip Harder",
-        "popularity": 83,
-        "release_date": "2018-10-05",
+    "Currents": {
+        "artists": "Tame Impala",
+        "id": "79dL7FLiJFOO0EoehUHQBv",
+        "name": "Currents",
+        "popularity": 80,
+        "release_date": "2015-07-17",
         "total_tracks": 13,
-        "uri": "spotify:album:2yXnY2NiaZk9QiJJittS81",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ce159a3ba2096e13fa9d4b4c",
+        "uri": "spotify:album:79dL7FLiJFOO0EoehUHQBv",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
         "top_tracks": [
-            "I Am (Lil Baby & Gunna)",
-            "Never Recover (Lil Baby & Gunna, Drake)",
-            "Drip Too Hard (Lil Baby & Gunna)",
-            "Close Friends (Lil Baby & Gunna)"
+            "Let It Happen",
+            "Nangs",
+            "The Moment",
+            "Yes I'm Changing",
+            "Eventually",
+            "Gossip",
+            "The Less I Know The Better",
+            "Past Life",
+            "Disciples",
+            "'Cause I'm A Man",
+            "Reality In Motion",
+            "Love/Paranoia",
+            "New Person, Same Old Mistakes"
+        ],
+        "good_tracks": [],
+        "score": 10.0,
+        "tracks": []
+    },
+    "OK Computer": {
+        "artists": "Radiohead",
+        "id": "6dVIqQ8qmQ5GBnJ9shOYGE",
+        "name": "OK Computer",
+        "popularity": 78,
+        "release_date": "1997-05-28",
+        "total_tracks": 12,
+        "uri": "spotify:album:6dVIqQ8qmQ5GBnJ9shOYGE",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+        "top_tracks": [
+            "Airbag",
+            "Paranoid Android",
+            "Subterranean Homesick Alien",
+            "Exit Music (For A Film)",
+            "Let Down",
+            "Karma Police",
+            "Climbing Up the Walls",
+            "No Surprises",
+            "Lucky",
+            "The Tourist"
         ],
         "good_tracks": [
-            "My Jeans (Lil Baby & Gunna feat. Young Thug)"
+            "Fitter Happier",
+            "Electioneering"
         ],
-        "score": 0.0,
-        "tracks": [
-            "Off White VLONE (Lil Baby & Gunna feat. Lil Durk & NAV)",
-            "Business Is Business (Lil Baby & Gunna)",
-            "Belly (Lil Baby & Gunna)",
-            "Deep End (Lil Baby & Gunna)",
-            "World Is Yours (Lil Baby & Gunna)",
-            "Underdog (Lil Baby & Gunna)",
-            "Seals Pills (Lil Baby & Gunna)",
-            "Style Stealer (Lil Baby & Gunna)"
-        ]
+        "score": 9.72
     },
     "The Slow Rush": {
         "artists": "Tame Impala",
         "id": "31qVWUdRrlb8thMvts0yYL",
         "name": "The Slow Rush",
-        "popularity": 81,
+        "popularity": 80,
         "release_date": "2020-02-14",
         "total_tracks": 12,
         "uri": "spotify:album:31qVWUdRrlb8thMvts0yYL",
         "image": "https://i.scdn.co/image/ab67616d0000b27358267bd34420a00d5cf83a49",
-        "top_tracks": [
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
             "One More Year",
+            "Instant Destiny",
             "Borderline",
             "Posthumous Forgiveness",
             "Breathe Deeper",
             "Tomorrow's Dust",
             "On Track",
             "Lost In Yesterday",
-            "Is It True"
-        ],
-        "good_tracks": [
-            "Instant Destiny"
-        ],
-        "score": 0.0,
-        "tracks": [
+            "Is It True",
             "It Might Be Time",
             "Glimmer",
             "One More Hour"
