@@ -361,6 +361,12 @@ header {
     right: 0;
 }
 
+. {
+    font-size: 20px;
+    font-weight: var(--fw-bold)
+
+}
+
 .hamburger::before {
     top: 6px;
 }
@@ -424,6 +430,18 @@ header {
 }
 
 .title-book {
+    background: #111;
+    margin bottom: 1em;
+    font-family: var(--ff-secondary);
+    font-weight: var(--fw-bold);
+    color: var(--clr-dark);
+    margin-top: 1em;
+    padding: 0.5em;
+    border-radius: 5px;
+    display: inline-block;
+    margin-bottom: 3em;
+}
+.title-music {
     background: #111;
     margin bottom: 1em;
     font-family: var(--ff-secondary);
