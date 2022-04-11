@@ -155,7 +155,7 @@ def music_archive_{date_string}():
 
 Check out what I've been listening to during {date_range_string}:
 
-https://asboyer.com/archive/music/{archive_num}
+https://asboyer.com/archive/music/{archive_num - 1}
 
 - asboyer
 """)
