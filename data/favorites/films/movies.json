@@ -712,5 +712,33 @@
             "replay_value": 0.0
         },
         "asboyer_score": 0.0
+    },
+    "Casino Royale": {
+        "id": "0381061",
+        "title": "Casino Royale",
+        "image": "http://image.tmdb.org/t/p/original/8Gv1dylImVuoj3bZtEWoL1TLl2q.jpg",
+        "rating": 8.0,
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
+    },
+    "Fight Club": {
+        "id": "0137523",
+        "title": "Fight Club",
+        "image": "http://image.tmdb.org/t/p/original/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+        "rating": 8.8,
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
     }
 }

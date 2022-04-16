@@ -1,4 +1,5 @@
 import json
+from datetime import datetime
 def add_library():
     with open(f'./data/favorites/books/library.json', 'r') as json_file:  
         data = json.load(json_file)
@@ -53,6 +54,18 @@ def add_shelf():
         lines = f.readlines()
     f = open('./data/add/shelf.txt', 'w+')
     f.close()
+
+    for book in list(data):
+        if data[book]['status'] == 'done':
+            del data[book]['status']
+            data[book]['year'] = datetime.now().year
+            with open(f'./data/favorites/books/list.json', 'r') as json_file:  
+                book_list = json.load(json_file)
+                book_list[book] = data[book]
+            with open(f'./data/favorites/books/list.json', 'w') as json_file:
+                json.dump(book_list, json_file, indent=4)
+            del data[book]            
+
     books = []
     for l in range(0, len(lines), 6):
         books.append([lines[l].strip(), lines[l+1].strip(), lines[l+2].strip(), lines[l+3].strip(), lines[l+4].strip(), lines[l+5].strip()])
