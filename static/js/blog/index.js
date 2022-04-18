@@ -38,13 +38,13 @@ $(document).ready(function(){
 
         soon_posts.sort((a,b) => (a.id > b.id) ? 1 : ((b.id > a.id) ? -1 : 0))  
 
-        if (posts.length > 3){
-            posts = posts.splice(0, 3)
-            soon_posts.splice(0, soon_posts.length)
-        }
-        else if (posts.length == 2) {
-            soon_posts = soon_posts.splice(0, 1)
-        }
+        // if (posts.length > 3){
+        //     posts = posts.splice(0, 3)
+        //     soon_posts.splice(0, soon_posts.length)
+        // }
+        // else if (posts.length == 2) {
+        soon_posts = soon_posts.splice(0, 1)
+        // }
 
         $.each(soon_posts, function(title, values){
             var subject_str = ""
@@ -85,6 +85,8 @@ $(document).ready(function(){
             `
             $('#posts').append(post)
         });
+
+        posts = posts.splice(0, 2)
 
         $.each(posts, function(title, values){
 

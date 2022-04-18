@@ -21,7 +21,7 @@
         "date": "4.21.22",
         "subjects": ["Life", "Philosophy", "Self-improvement"],
         "cover_img": "/static/img/blog/stoicism/marcus.jpg",
-        "live": false
+        "live": true
     },
     "College admissions: a broken system": {
         "title": "College admissions: a broken system",
