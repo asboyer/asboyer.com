@@ -22,7 +22,7 @@
     <div class="projects" id="projects-div">
         <script type="text/javascript" src="/static/js/index/projects.js"></script>
     </div>
-    <a href="/#skills" class="btn" style="margin-top: 30px">my skills</a>
+    <a href="/skills" class="btn" target="_blank" style="margin-top: 30px">my skills</a>
 </section>
 <!-- END PROJECTS -->
 
@@ -36,16 +36,6 @@
 </section>
 <!-- END WORK -->
 
-<!-- BEGIN SKILLS -->
-<section class="my-services" id="skills">
-    <h2 class="section__title section__title--services">What I do</h2>
-    <div class="services" id="skills-div">
-        <script type="text/javascript" src="/static/js/index/skills.js"></script>
-    </div>
-    <a href="/#tools" class="btn" >preferred tools</a>
-</section>
-<!-- END SKILLS -->
-
 <!-- BEGIN BLOG -->
 <section class="my-blog" id="blog">
     <h2 class="section__title section__title--blog"><strong>Boyer's</strong> Blog</h2>
@@ -55,20 +45,6 @@
 <a href="/blog" class="btn" style="margin-top: 50px">blog</a>
 </section>
 <!-- END BLOG -->
-
-<!-- BEGIN TOOLS -->
-<section class="my-tools" id="tools">
-
-    <h2 class="section__title section__title--tools">Technologies I use</h2>
-    
-    <div class="tools" id="tools-div">
-        <script type="text/javascript" src="/static/js/index/tools.js"></script>
-    </div>
-
-    <a href="/#skills" class="btn"  style="margin-top: 30px">What i do</a>
-
-</section>
-<!-- END TOOLS -->
 
 <!-- BEGIN ABOUT -->
 <section class="who" id="about">
@@ -159,5 +135,8 @@
 {% block scripts %}
 <script type="text/javascript" src="/static/js/typing.js"></script>
 <script src="static/js/ukraine.js" title="Help Ukraine Win" url="https://standforukraine.com" async></script>
+<script type="text/javascript">
+    document.getElementById("header").style.borderBottomColor = "#B6F29D";
+</script>
 
 {% endblock %}
