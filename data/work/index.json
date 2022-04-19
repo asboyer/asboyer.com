@@ -3,16 +3,16 @@
         "roles": {
             "Research Student": {
                 "role": "Research Student",
-                "description": "Developing machine learning models for Department of Neurology & Research.",
+                "description": "Developed machine learning models for Department of Neurology & Research.",
                 "start_date": "2021-8-1", 
-                "end_date": "PRESENT"
+                "end_date": "2022-3-7"
             }
         },
         "website": "https://www.massgeneral.org/",
         "image": "/static/img/work/mgh.png",
         "company": "Massachusetts General Hospital",
         "start_date": "2021-8-1",
-        "end_date": "PRESENT"
+        "end_date": "2022-3-7"
     },
     "IntelyCare": {
         "roles": {
