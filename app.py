@@ -68,7 +68,13 @@ def main_page(page):
 @app.route("/press")
 def press():
     return render_template("about/news.html")
+@app.route("/tools")
+def tool():
+    return render_template("tech.html")
 
+@app.route("/skills")
+def skills():
+    return render_template("skills.html")
 # blogs
 
 def get_emails():
