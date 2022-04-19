@@ -239,7 +239,8 @@ header {
     justify-content: space-between;
     /*padding: 1em;*/
     padding-right: 25px;
-    background: var(--clr-darker)
+    background: var(--clr-darker);
+    border: #111 1px solid;
 }
 
 .logo {
@@ -396,12 +397,13 @@ header {
 /* Services section */
 
 .my-services {
-    background-color: var(--clr-dark);
-    background-image: url(../img/backgrounds/code/code6.jpeg);
+    background-color: var(--clr-darker);
+    /*background-image: url(../img/backgrounds/code/code5.jpeg);*/
     color: var(--clr-light);
-    background-size: cover;
-    background-blend-mode: multiply;
+    /*background-size: cover;*/
+    /*background-blend-mode: multiply;*/
     text-align: center;
+    outline: var(--clr-accent) 1px solid;
 }
 
 .section__title--services {
@@ -489,6 +491,9 @@ header {
     text-align: center;
     padding: 2em 2em;
     padding-bottom: 5em;
+    border-bottom: var(--clr-accent) 1px solid;
+    border-top: var(--clr-accent) 1px solid;
+
 
 }
 
@@ -548,6 +553,8 @@ header {
     background-size: cover;
     background-blend-mode: multiply;
     text-align: center;
+    border-top: var(--clr-accent) 1px solid;
+
 
 }
 
@@ -669,6 +676,9 @@ header {
 .who {
     background-color: var(--clr-darker);
     padding: 100px;
+    border-bottom: var(--clr-accent) 1px solid;
+    border-top: var(--clr-accent) 1px solid;
+
 }
 
 .about-me {
@@ -905,7 +915,7 @@ header {
     color: var(--clr-light);
     text-align: center;
     padding: 2em 2em;
-    margin-bottom: 50px;
+    padding-bottom: 50px;
 }
 
 .section__subtitle--blog {
@@ -1069,12 +1079,14 @@ header {
 
 /* tools */
 .my-tools {
-    background-color: var(--clr-dark);
-    background-image: url(../img/backgrounds/code/code5.jpeg);
+    background-color: var(--clr-darker);
+    /*background-image: url(../img/backgrounds/code/code5.jpeg);*/
     color: var(--clr-light);
-    background-size: cover;
-    background-blend-mode: multiply;
+    /*background-size: cover;*/
+    /*background-blend-mode: multiply;*/
     text-align: center;
+    outline: var(--clr-accent) 1px solid;
+    
 /*    padding-right: 100px;
     padding-left: 100px;*/
 }
@@ -1108,6 +1120,7 @@ header {
     margin: 0 auto;
     font-family: var(--ff-secondary);
     border: #111 10px solid;
+    outline: var(--clr-accent) 1px solid;
     background: #282923;
     transition: transform 250ms ease-in-out;
     margin: 0 auto;
