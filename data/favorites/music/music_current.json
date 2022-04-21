@@ -63,22 +63,22 @@
         "total_tracks": 12,
         "uri": "spotify:album:31qVWUdRrlb8thMvts0yYL",
         "image": "https://i.scdn.co/image/ab67616d0000b27358267bd34420a00d5cf83a49",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
+        "top_tracks": [
             "One More Year",
-            "Instant Destiny",
             "Borderline",
             "Posthumous Forgiveness",
             "Breathe Deeper",
-            "Tomorrow's Dust",
             "On Track",
             "Lost In Yesterday",
-            "Is It True",
+            "Is It True"
+        ],
+        "good_tracks": [
+            "Instant Destiny",
+            "Tomorrow's Dust",
             "It Might Be Time",
-            "Glimmer",
             "One More Hour"
-        ]
+        ],
+        "score": 8.21,
+        "tracks": []
     }
 }
