@@ -166,5 +166,17 @@
         "track_number": 3,
         "uri": "spotify:track:34XwFfq1XGOF0HHyVQl1nx",
         "image": "https://i.scdn.co/image/ab67616d0000b2735ef1268e93052d36435e59fe"
+    },
+    "Ready (feat. Gunna)": {
+        "artists": "Lil Baby, Gunna",
+        "duration_ms": 213287,
+        "explicit": true,
+        "id": "4F6yN5FsFW10Ucx7cLCzBh",
+        "name": "Ready (feat. Gunna)",
+        "popularity": 75,
+        "preview_url": null,
+        "track_number": 5,
+        "uri": "spotify:track:4F6yN5FsFW10Ucx7cLCzBh",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737cb0c4f7761f6dd66aaca065"
     }
 }

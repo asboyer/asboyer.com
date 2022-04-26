@@ -18,7 +18,7 @@
     "Become unstoppable with Stoicism": {
         "title": "Become unstoppable with Stoicism",
         "id": 2,
-        "date": "4.25.22",
+        "date": "4.29.22",
         "subjects": ["Life", "Philosophy", "Self-improvement"],
         "cover_img": "/static/img/blog/stoicism/marcus.jpg",
         "live": false
@@ -26,7 +26,7 @@
     "College admissions: a broken system": {
         "title": "College admissions: a broken system",
         "id": 3,
-        "date": "5.5.22",
+        "date": "5.25.22",
         "subjects": ["Life", "School"],
         "cover_img": "/static/img/blog/stoicism/marcus.jpg",
         "live": false
@@ -34,7 +34,7 @@
     "High school: the \"best\" years of our lives": {
         "title": "High school: the \"best\" years of our lives",
         "id": 4,
-        "date": "5.24.22",
+        "date": "5.25.22",
         "subjects": ["Life", "School"],
         "cover_img": "/static/img/blog/stoicism/marcus.jpg",
         "live": false
@@ -50,7 +50,7 @@
     "Breaking bad habits and building good ones": {
         "title": "Breaking bad habits and building good ones",
         "id": 6,
-        "date": "6.13.22",
+        "date": "6.1.22",
         "subjects": ["Self-improvement"],
         "cover_img": "/static/img/blog/stoicism/marcus.jpg",
         "live": false
