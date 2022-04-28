@@ -86,7 +86,20 @@ $(document).ready(function(){
             $('#posts').append(post)
         });
 
-        posts = posts.splice(0, 2)
+        // if width between 1221px and 821px, show three posts
+
+        // still a work in progress
+
+        // if (window.screen.width <= 1221 && window.screen.width >= 822) {
+        //     var pub_posts = 3
+        //     console.log('hello')
+        // }
+
+        // else {
+        //     var pub_posts = 2
+        // }
+
+        posts = posts.splice(0, pub_posts)
 
         $.each(posts, function(title, values){
 
@@ -126,3 +139,4 @@ $(document).ready(function(){
 
     });
 });
+
