@@ -178,5 +178,41 @@
         "track_number": 5,
         "uri": "spotify:track:4F6yN5FsFW10Ucx7cLCzBh",
         "image": "https://i.scdn.co/image/ab67616d0000b2737cb0c4f7761f6dd66aaca065"
+    },
+    "Watermelon Man - Remastered": {
+        "artists": "Herbie Hancock",
+        "duration_ms": 429266,
+        "explicit": false,
+        "id": "38xcUjiTP1ivfb7ObwjyGA",
+        "name": "Watermelon Man - Remastered",
+        "popularity": 53,
+        "preview_url": null,
+        "track_number": 1,
+        "uri": "spotify:track:38xcUjiTP1ivfb7ObwjyGA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d1bac93adf4492db2e6ff9f8"
+    },
+    "KEEP IT BURNIN (feat. Kanye West)": {
+        "artists": "Future, Kanye West",
+        "duration_ms": 207213,
+        "explicit": true,
+        "id": "7rWCWzPRftzZTZtIyQtaDU",
+        "name": "KEEP IT BURNIN (feat. Kanye West)",
+        "popularity": 0,
+        "preview_url": "https://p.scdn.co/mp3-preview/1f3a71c09c64858d17131711763d5963c7faaabe?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 3,
+        "uri": "spotify:track:7rWCWzPRftzZTZtIyQtaDU",
+        "image": "https://i.scdn.co/image/ab67616d0000b27386badd635b69aea887862214"
+    },
+    "I'M ON ONE (feat. Drake)": {
+        "artists": "Future, Drake",
+        "duration_ms": 236186,
+        "explicit": true,
+        "id": "6wyhUr4Xw8z5uSy0AhoZfU",
+        "name": "I'M ON ONE (feat. Drake)",
+        "popularity": 0,
+        "preview_url": "https://p.scdn.co/mp3-preview/30757b367f9116bd4a721365edadd84bba030639?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 15,
+        "uri": "spotify:track:6wyhUr4Xw8z5uSy0AhoZfU",
+        "image": "https://i.scdn.co/image/ab67616d0000b27386badd635b69aea887862214"
     }
 }
