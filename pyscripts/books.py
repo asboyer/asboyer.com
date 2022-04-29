@@ -59,11 +59,20 @@ def add_shelf():
         if data[book]['status'] == 'done':
             del data[book]['status']
             data[book]['year'] = datetime.now().year
+            data[book]['stars'] = int(input(f'How many stars would you rate {data[book]["title"]}: '))
             with open(f'./data/favorites/books/list.json', 'r') as json_file:  
                 book_list = json.load(json_file)
                 book_list[book] = data[book]
             with open(f'./data/favorites/books/list.json', 'w') as json_file:
                 json.dump(book_list, json_file, indent=4)
+            if data[book]['stars'] == 5:
+                del data[book]['stars']
+                del data[book]['year']
+                with open(f'./data/favorites/books/library.json', 'r') as json_file:
+                    library = json.load(json_file)
+                    library[book] = data[book]
+                with open(f'./data/favorites/books/library.json', 'w') as json_file:
+                    json.dump(library, json_file, indent=4)
             del data[book]            
 
     books = []

@@ -23,6 +23,7 @@ $(document).ready(function(){
 
         var books = Object.values(json)
         shuffle(books)
+        books.sort((a,b) => (a.stars < b.stars) ? 1 : ((b.stars < a.stars) ? -1 : 0))
         
         const years = new Set()
 
@@ -43,6 +44,12 @@ $(document).ready(function(){
 
             $.each(books, function(title, values){
 
+                var star_string = ""
+                for (var i = 0; i < values.stars; i++) {
+                    star_string += `<i class="fas fa-star"></i>`
+                }
+
+
                 if (values.year == year) {
                 year_div += 
                 `
@@ -53,6 +60,7 @@ $(document).ready(function(){
                         <div class="book-text">
                             <p class="book-title">${values.title}</p>
                             <p class="author">${values.author}</p>
+                            <p class="author">${star_string}</p>
                         </div>
                     </div>
                     </a>

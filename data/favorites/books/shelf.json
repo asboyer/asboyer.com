@@ -70,5 +70,37 @@
         "title": "Atomic Habits",
         "color": "#F6F6EA",
         "status": "want"
+    },
+    "The Way of the Superior Man": {
+        "title": "The Way of the Superior Man",
+        "author": "David Deida",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/91gWSXWDVoL.jpg",
+        "link": "https://amzn.to/3760Vf2",
+        "color": "#C35A12",
+        "status": "want"
+    },
+    "Why We Sleep": {
+        "title": "Why We Sleep",
+        "author": "Matthew Walker",
+        "img": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781501144325/why-we-sleep-9781501144325_hr.jpg",
+        "link": "https://amzn.to/39kUl4R",
+        "color": "#001A37",
+        "status": "want"
+    },
+    "How to Become a Straight-A Student": {
+        "title": "How to Become a Straight-A Student",
+        "author": "Cal Newport",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/41KEh8IqY6L._SX322_BO1,204,203,200_.jpg",
+        "link": "https://amzn.to/3LLDua1",
+        "color": "#DF2028",
+        "status": "want"
+    },
+    "How to Win at College": {
+        "title": "How to Win at College",
+        "author": "Cal Newport",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/71BsKYSP9uL.jpg",
+        "link": "https://amzn.to/3EZ1jZe",
+        "color": "#FFC60C",
+        "status": "want"
     }
 }
