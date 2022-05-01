@@ -99,10 +99,18 @@ $(document).ready(function(){
         //     var pub_posts = 2
         // }
 
-        posts = posts.splice(0, pub_posts)
+        pub_posts = 3
+
+        posts = posts.splice(0, 3)
+
+        var post_counter = 0
 
         $.each(posts, function(title, values){
 
+            var style = ""
+            if (post_counter == 2) {
+                style = "special-cont"
+            }
             var subject_str = ""
 
             if (values.subjects.length == 2) {
@@ -121,7 +129,7 @@ $(document).ready(function(){
 
             var post = 
             `
-            <div class="blog__container">
+            <div class="blog__container" id="${style}">
                 <a href="/blog/${values.id}" class="blog__item">
                     <img src="${values.cover_img}" alt="${values.title}" class="blog__img">
                     <div class="overlay">
@@ -135,6 +143,7 @@ $(document).ready(function(){
             </div>
             `
             $('#posts').append(post)
+            post_counter += 1
         });
 
     });

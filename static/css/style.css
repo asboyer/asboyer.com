@@ -2864,3 +2864,17 @@ blockquote p::after {
         font-size: .75em;
     }
 }
+
+
+@media (min-width: 1221px) {
+    #special-cont {
+        display: none;
+    }
+}
+
+
+@media (max-width: 822px) {
+    #special-cont {
+        display: none;
+    }
+}
