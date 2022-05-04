@@ -102,5 +102,13 @@
         "link": "https://amzn.to/3EZ1jZe",
         "color": "#FFC60C",
         "status": "want"
+    },
+    "Animal Farm": {
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPNcURfbHztpF6k88WJDw-D7QIaPCFxFqrF5SqUO-6nr0Bs-E2_2KZhzqRmJwxSzETAV0&usqp=CAU",
+        "link": "https://amzn.to/36zs5KW",
+        "color": "#FFFFFF",
+        "status": "reading"
     }
 }
