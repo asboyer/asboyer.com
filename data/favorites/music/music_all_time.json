@@ -387,8 +387,11 @@
             "Homecoming",
             "Big Brother"
         ],
-        "good_tracks": [],
-        "score": 9.8
+        "good_tracks": [
+            "Barry Bonds",
+            "Good Night"
+        ],
+        "score": 9.74
     },
     "Death Race For Love": {
         "artists": "Juice WRLD",
@@ -1299,20 +1302,20 @@
             "My Way Home",
             "Roses",
             "Bring Me Down",
-            "Addiction",
             "Diamonds From Sierra Leone - Remix",
             "We Major",
-            "Hey Mama",
-            "Celebration",
+            "Hey Mama"
+        ],
+        "good_tracks": [
             "Gone",
+            "Addiction",
+            "Celebration",
+            "Drive Slow",
+            "Crack Music",
             "Diamonds From Sierra Leone - Bonus Track",
             "Late"
         ],
-        "good_tracks": [
-            "Drive Slow",
-            "Crack Music"
-        ],
-        "score": 9.8
+        "score": 9.31
     },
     "?": {
         "artists": "XXXTENTACION",

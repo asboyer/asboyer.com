@@ -38,6 +38,7 @@ $(document).ready(function(){
                 <div class="movie_overlay">
                     <div class="movie-text">
                         <p class="movie-title">${values.title}</p>
+                        <p class="artist">${values.director}</p>
 
                     </div>
                 </div>

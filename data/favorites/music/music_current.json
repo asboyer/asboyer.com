@@ -114,5 +114,31 @@
         ],
         "score": 6.3,
         "tracks": []
+    },
+    "Kid A": {
+        "artists": "Radiohead",
+        "id": "6GjwtEZcfenmOf6l18N7T7",
+        "name": "Kid A",
+        "popularity": 70,
+        "release_date": "2000-10-02",
+        "total_tracks": 11,
+        "uri": "spotify:album:6GjwtEZcfenmOf6l18N7T7",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Everything In Its Right Place",
+            "Kid A",
+            "The National Anthem",
+            "How to Disappear Completely",
+            "Treefingers",
+            "Optimistic",
+            "In Limbo",
+            "Idioteque",
+            "Morning Bell",
+            "Motion Picture Soundtrack",
+            "Untitled"
+        ]
     }
 }

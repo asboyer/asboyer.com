@@ -34,9 +34,9 @@ top = ['Kanye West',
 top_a = ['?', 'Boston', 'Hoodie SZN', 'Loose', 'Confessions of a Dangerous Mind', 'So Much Fun', 'Flower Boy', 'Thats What They All Say', 'Sweet Action']
 for album in all_time_data:
     if all_time_data[album]['artists'] in top or all_time_data[album]['name'] in top_a:
-        if all_time_data[album]['name'] == 'Graduation':
-            score = .98
-        elif all_time_data[album]['name'] == "My Beautiful Dark Twisted Fantasy":
+        # if all_time_data[album]['name'] == 'Graduation':
+        #     score = .98
+        if all_time_data[album]['name'] == "My Beautiful Dark Twisted Fantasy":
             score = .925
         # elif all_time_data[album]['name'] == 'Late Registration':
         #     score = .979

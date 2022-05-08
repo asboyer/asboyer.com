@@ -207,6 +207,12 @@ def booklist_json():
 def movies():
     return render_template("favorites/movies/movies.html")
 
+
+# movies
+@app.route("/movies/to_watch")
+def movies_to_watch():
+    return render_template("favorites/movies/to_watch.html")
+
 @app.route("/shows")
 def shows():
     return render_template("favorites/shows/shows.html")
@@ -223,6 +229,12 @@ def se2():
 @app.route("/data/movies.json")
 def movies_json():
     f = open('data/favorites/films/movies.json')
+    data = json.load(f)
+    return data
+
+@app.route("/data/to_watch.json")
+def movies_json_to_watch():
+    f = open('data/favorites/films/to_watch.json')
     data = json.load(f)
     return data
 
