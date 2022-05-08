@@ -61,5 +61,14 @@
         "color": "#FFE815",
         "year": 2022,
         "stars": 5
+    },
+    "Animal Farm": {
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPNcURfbHztpF6k88WJDw-D7QIaPCFxFqrF5SqUO-6nr0Bs-E2_2KZhzqRmJwxSzETAV0&usqp=CAU",
+        "link": "https://amzn.to/36zs5KW",
+        "color": "#FFFFFF",
+        "year": 2022,
+        "stars": 5
     }
 }

@@ -191,30 +191,6 @@
         "uri": "spotify:track:38xcUjiTP1ivfb7ObwjyGA",
         "image": "https://i.scdn.co/image/ab67616d0000b273d1bac93adf4492db2e6ff9f8"
     },
-    "KEEP IT BURNIN (feat. Kanye West)": {
-        "artists": "Future, Kanye West",
-        "duration_ms": 207213,
-        "explicit": true,
-        "id": "7rWCWzPRftzZTZtIyQtaDU",
-        "name": "KEEP IT BURNIN (feat. Kanye West)",
-        "popularity": 0,
-        "preview_url": "https://p.scdn.co/mp3-preview/1f3a71c09c64858d17131711763d5963c7faaabe?cid=cd0e3cb02aee4de099b024ac33ba782e",
-        "track_number": 3,
-        "uri": "spotify:track:7rWCWzPRftzZTZtIyQtaDU",
-        "image": "https://i.scdn.co/image/ab67616d0000b27386badd635b69aea887862214"
-    },
-    "I'M ON ONE (feat. Drake)": {
-        "artists": "Future, Drake",
-        "duration_ms": 236186,
-        "explicit": true,
-        "id": "6wyhUr4Xw8z5uSy0AhoZfU",
-        "name": "I'M ON ONE (feat. Drake)",
-        "popularity": 0,
-        "preview_url": "https://p.scdn.co/mp3-preview/30757b367f9116bd4a721365edadd84bba030639?cid=cd0e3cb02aee4de099b024ac33ba782e",
-        "track_number": 15,
-        "uri": "spotify:track:6wyhUr4Xw8z5uSy0AhoZfU",
-        "image": "https://i.scdn.co/image/ab67616d0000b27386badd635b69aea887862214"
-    },
     "Moanin' - Remastered": {
         "artists": "Art Blakey",
         "duration_ms": 570720,
@@ -226,5 +202,65 @@
         "track_number": 2,
         "uri": "spotify:track:4Vkk3iD1VrENHJEACNddvt",
         "image": "https://i.scdn.co/image/ab67616d0000b273c653150f8ed1f6a12348ba79"
+    },
+    "Slippery (feat. Gucci Mane)": {
+        "artists": "Migos, Gucci Mane",
+        "duration_ms": 304041,
+        "explicit": true,
+        "id": "0TBgMKD86t1VP3IzhxCoUl",
+        "name": "Slippery (feat. Gucci Mane)",
+        "popularity": 62,
+        "preview_url": null,
+        "track_number": 6,
+        "uri": "spotify:track:0TBgMKD86t1VP3IzhxCoUl",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736275aeac316378b0dd4f31fd"
+    },
+    "Let It Happen": {
+        "artists": "Tame Impala",
+        "duration_ms": 467586,
+        "explicit": false,
+        "id": "2X485T9Z5Ly0xyaghN73ed",
+        "name": "Let It Happen",
+        "popularity": 73,
+        "preview_url": null,
+        "track_number": 1,
+        "uri": "spotify:track:2X485T9Z5Ly0xyaghN73ed",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79"
+    },
+    "Karma Police": {
+        "artists": "Radiohead",
+        "duration_ms": 264066,
+        "explicit": false,
+        "id": "63OQupATfueTdZMWTxW03A",
+        "name": "Karma Police",
+        "popularity": 73,
+        "preview_url": "https://p.scdn.co/mp3-preview/88a13fba024a917d8186cd4b63d0382c05c53772?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 6,
+        "uri": "spotify:track:63OQupATfueTdZMWTxW03A",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856"
+    },
+    "New Person, Same Old Mistakes": {
+        "artists": "Tame Impala",
+        "duration_ms": 363240,
+        "explicit": false,
+        "id": "52ojopYMUzeNcudsoz7O9D",
+        "name": "New Person, Same Old Mistakes",
+        "popularity": 76,
+        "preview_url": null,
+        "track_number": 13,
+        "uri": "spotify:track:52ojopYMUzeNcudsoz7O9D",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79"
+    },
+    "Petty Too (feat. Future)": {
+        "artists": "Lil Durk, Future",
+        "duration_ms": 159926,
+        "explicit": true,
+        "id": "0VlpgNPHWCyh8xxLcaK2fp",
+        "name": "Petty Too (feat. Future)",
+        "popularity": 76,
+        "preview_url": "https://p.scdn.co/mp3-preview/469e0d00416109113d484a79b922f47e6257801c?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 7,
+        "uri": "spotify:track:0VlpgNPHWCyh8xxLcaK2fp",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739984d05ec46e029f7b942aca"
     }
 }

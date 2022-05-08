@@ -758,8 +758,10 @@
             "Baxter Avenue",
             "Whats Poppin (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix] - Bonus Track"
         ],
-        "good_tracks": [],
-        "score": 8.0,
+        "good_tracks": [
+            "Way Out"
+        ],
+        "score": 8.56,
         "tracks": []
     },
     "Sweet Action": {
@@ -4289,5 +4291,36 @@
         ],
         "score": 9.43,
         "tracks": []
+    },
+    "Ella Mai": {
+        "artists": "Ella Mai",
+        "id": "67ErXRS9s9pVG8JmFbrdJ0",
+        "name": "Ella Mai",
+        "popularity": 76,
+        "release_date": "2018-10-12",
+        "total_tracks": 16,
+        "uri": "spotify:album:67ErXRS9s9pVG8JmFbrdJ0",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737ce0faf0620ab9c1779e1fbf",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Emotion",
+            "Good Bad",
+            "Dangerous",
+            "Sauce",
+            "Whatchamacallit (feat. Chris Brown)",
+            "Cheap Shot",
+            "Shot Clock",
+            "Boo'd Up",
+            "Everything (feat. John Legend)",
+            "Own It",
+            "Run My Mouth",
+            "Gut Feeling (feat. H.E.R.)",
+            "Trip",
+            "Close",
+            "Easy",
+            "Naked - Bonus Track"
+        ]
     }
 }
