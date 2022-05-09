@@ -36,7 +36,6 @@
         "uri": "spotify:album:2eE8BVirX9VF8Di9hD90iw",
         "image": "https://i.scdn.co/image/ab67616d0000b273ec07298019a2e122b64f0054",
         "top_tracks": [
-            "Young Harleezy",
             "I'd Do Anything To Make You Smile",
             "Dua Lipa",
             "Side Piece",
@@ -47,13 +46,11 @@
             "State Fair"
         ],
         "good_tracks": [
+            "Young Harleezy",
             "Talk Of The Town",
-            "First Class",
-            "Movie Star (feat. Pharrell Williams)",
-            "Lil Secret",
             "Nail Tech"
         ],
-        "score": 8.38,
+        "score": 6.76,
         "tracks": []
     },
     "Stone Flower (CTI Records 40th Anniversary Edition)": {
@@ -96,7 +93,6 @@
             "KEEP IT BURNIN (feat. Kanye West)",
             "PUFFIN ON ZOOTIEZ",
             "WAIT FOR U (feat. Drake & Tems)",
-            "MASSAGING ME",
             "I'M ON ONE (feat. Drake)"
         ],
         "good_tracks": [
@@ -112,7 +108,7 @@
             "WORST DAY",
             "JUST THE BEGINNING"
         ],
-        "score": 6.3,
+        "score": 5.84,
         "tracks": []
     }
 }

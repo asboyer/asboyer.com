@@ -21,6 +21,108 @@
         ],
         "score": 9.76
     },
+    "The Slow Rush": {
+        "artists": "Tame Impala",
+        "id": "31qVWUdRrlb8thMvts0yYL",
+        "name": "The Slow Rush",
+        "popularity": 80,
+        "release_date": "2020-02-14",
+        "total_tracks": 12,
+        "uri": "spotify:album:31qVWUdRrlb8thMvts0yYL",
+        "image": "https://i.scdn.co/image/ab67616d0000b27358267bd34420a00d5cf83a49",
+        "top_tracks": [
+            "One More Year",
+            "Borderline",
+            "Posthumous Forgiveness",
+            "Breathe Deeper",
+            "On Track",
+            "Lost In Yesterday",
+            "Is It True"
+        ],
+        "good_tracks": [
+            "Instant Destiny",
+            "Tomorrow's Dust",
+            "It Might Be Time",
+            "One More Hour"
+        ],
+        "score": 8.21,
+        "tracks": []
+    },
+    "Emergency Tsunami": {
+        "artists": "NAV",
+        "id": "1tihFpzHHM9mDSoFbhMoZL",
+        "name": "Emergency Tsunami",
+        "popularity": 68,
+        "release_date": "2020-11-06",
+        "total_tracks": 14,
+        "uri": "spotify:album:1tihFpzHHM9mDSoFbhMoZL",
+        "image": "https://i.scdn.co/image/ab67616d0000b27392621d7615b7f5d056f5bbfe",
+        "top_tracks": [
+            "Friends & Family",
+            "Young Wheezy (with Gunna)",
+            "Don't Need Friends (feat. Lil Baby)"
+        ],
+        "good_tracks": [
+            "Breaking News Intro",
+            "Repercussions (with Young Thug)",
+            "Vetement Socks",
+            "Make It Right Back",
+            "Breaking News Outro"
+        ],
+        "score": 4.69,
+        "tracks": []
+    },
+    "A N N I V E R S A R Y": {
+        "artists": "Bryson Tiller",
+        "id": "5KpXxX7OUDXRs25qLyN8NA",
+        "name": "A N N I V E R S A R Y",
+        "popularity": 76,
+        "release_date": "2020-10-02",
+        "total_tracks": 10,
+        "uri": "spotify:album:5KpXxX7OUDXRs25qLyN8NA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273008d8077814ce15da0085b47",
+        "top_tracks": [
+            "Always Forever",
+            "I'm Ready For You",
+            "Timeless Interlude",
+            "Sorrows",
+            "Things Change",
+            "Next To You"
+        ],
+        "good_tracks": [
+            "Years Go By",
+            "Outta Time (feat. Drake)",
+            "Keep Doing What You're Doing"
+        ],
+        "score": 8.5,
+        "tracks": []
+    },
+    "3.15.20": {
+        "artists": "Childish Gambino",
+        "id": "600ClrWRsAr7jZ0qjaBLHz",
+        "name": "3.15.20",
+        "popularity": 62,
+        "release_date": "2020-03-22",
+        "total_tracks": 12,
+        "uri": "spotify:album:600ClrWRsAr7jZ0qjaBLHz",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734c8974d1d37295694d7d4e8f",
+        "top_tracks": [
+            "Algorhythm",
+            "Time (feat. Ariana Grande)",
+            "12.38 (feat. 21 Savage, Ink & Kadhja Bonet)",
+            "19.10",
+            "42.26",
+            "53.49"
+        ],
+        "good_tracks": [
+            "0.00",
+            "24.19",
+            "35.31",
+            "47.48"
+        ],
+        "score": 7.78,
+        "tracks": []
+    },
     "In The Court Of The Crimson King (Expanded & Remastered Original Album Mix)": {
         "artists": "King Crimson",
         "id": "6tVg2Wl9hVKMpHYcAl2V2M",
@@ -303,9 +405,9 @@
             "Nate",
             "Time",
             "Returns",
+            "Let Me Go",
             "When I Grow Up",
             "Only",
-            "Let Me Go",
             "-Interlude-",
             "Hate Myself",
             "I Miss The Days",
@@ -4072,13 +4174,12 @@
             "Climbing Up the Walls",
             "No Surprises",
             "Lucky",
-            "The Tourist"
-        ],
-        "good_tracks": [
+            "The Tourist",
             "Fitter Happier",
             "Electioneering"
         ],
-        "score": 9.72
+        "good_tracks": [],
+        "score": 10.0
     },
     "An Evening With Silk Sonic": {
         "artists": "Bruno Mars, Anderson .Paak, Silk Sonic",
@@ -4325,5 +4426,37 @@
             "Easy",
             "Naked - Bonus Track"
         ]
+    },
+    "Certified Lover Boy": {
+        "artists": "Drake",
+        "id": "3SpBlxme9WbeQdI9kx7KAV",
+        "name": "Certified Lover Boy",
+        "popularity": 94,
+        "release_date": "2021-09-03",
+        "total_tracks": 21,
+        "uri": "spotify:album:3SpBlxme9WbeQdI9kx7KAV",
+        "image": "https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f",
+        "top_tracks": [
+            "Champagne Poetry",
+            "Papi\u2019s Home",
+            "In The Bible (with Lil Durk & Giveon)",
+            "Way 2 Sexy (with Future & Young Thug)",
+            "TSU",
+            "N 2 Deep",
+            "No Friends In The Industry",
+            "Knife Talk (with 21 Savage ft. Project Pat)",
+            "IMY2 (with Kid Cudi)"
+        ],
+        "good_tracks": [
+            "Love All (with JAY-Z)",
+            "Fair Trade (with Travis Scott)",
+            "Pipe Down",
+            "7am On Bridle Path",
+            "Race My Mind",
+            "Fountains (with Tems)",
+            "Get Along Better"
+        ],
+        "score": 7.06,
+        "tracks": []
     }
 }

@@ -8,22 +8,23 @@
         "total_tracks": 11,
         "uri": "spotify:album:6GjwtEZcfenmOf6l18N7T7",
         "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
+        "top_tracks": [
             "Everything In Its Right Place",
-            "Kid A",
             "The National Anthem",
             "How to Disappear Completely",
-            "Treefingers",
             "Optimistic",
+            "Idioteque"
+        ],
+        "good_tracks": [
+            "Kid A",
+            "Treefingers",
             "In Limbo",
-            "Idioteque",
             "Morning Bell",
             "Motion Picture Soundtrack",
             "Untitled"
-        ]
+        ],
+        "score": 9.09,
+        "tracks": []
     },
     "Nevermind (Remastered)": {
         "artists": "Nirvana",
@@ -34,24 +35,24 @@
         "total_tracks": 13,
         "uri": "spotify:album:2guirTSEqLizK7j9i1MTTZ",
         "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "Smells Like Teen Spirit",
-            "In Bloom",
-            "Come As You Are",
-            "Breed",
-            "Lithium",
-            "Polly",
-            "Territorial Pissings",
-            "Drain You",
-            "Lounge Act",
-            "Stay Away",
-            "On A Plain",
+        "top_tracks": [
             "Something In The Way",
-            "Endless, Nameless"
-        ]
+            "In Bloom",
+            "Smells Like Teen Spirit",
+            "Come As You Are",
+            "Lithium",
+            "Drain You",
+            "Stay Away"
+        ],
+        "good_tracks": [
+            "Breed",
+            "Polly",
+            "Territorial Pissing",
+            "Lounge Act",
+            "On A Plain"
+        ],
+        "score": 8.59,
+        "tracks": []
     },
     "Duke Ellington & John Coltrane": {
         "artists": "Duke Ellington, John Coltrane",
@@ -75,34 +76,6 @@
             "The Feeling Of Jazz"
         ]
     },
-    "Deathconsciousness": {
-        "artists": "Have A Nice Life",
-        "id": "6MH3CAXp8AN8ELrbex18dM",
-        "name": "Deathconsciousness",
-        "popularity": 64,
-        "release_date": "2008-01-01",
-        "total_tracks": 13,
-        "uri": "spotify:album:6MH3CAXp8AN8ELrbex18dM",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a54f2b401501b3569990c256",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "A Quick One Before the Eternal Worm Devours Connecticut",
-            "Bloodhail",
-            "The Big Gloom",
-            "Hunter",
-            "Telephony",
-            "Who Would Leave Their Son out in the Sun?",
-            "There Is No Food",
-            "Waiting for Black Metal Records to Come in the Mail",
-            "Holy Fucking Shit: 40,000",
-            "The Future",
-            "Deep, Deep",
-            "I Don't Love",
-            "Earthmover"
-        ]
-    },
     "Little Dark Age": {
         "artists": "MGMT",
         "id": "7GjVWG39IOj4viyWplJV4H",
@@ -112,15 +85,18 @@
         "total_tracks": 10,
         "uri": "spotify:album:7GjVWG39IOj4viyWplJV4H",
         "image": "https://i.scdn.co/image/ab67616d0000b273b47d309281c66820b7137f5d",
-        "top_tracks": [],
-        "good_tracks": [],
+        "top_tracks": [
+            "Little Dark Age",
+            "TSLAMP"
+        ],
+        "good_tracks": [
+            
+        ],
         "score": 0.0,
         "tracks": [
             "She Works Out Too Much",
-            "Little Dark Age",
             "When You Die",
             "Me and Michael",
-            "TSLAMP",
             "James",
             "Days That Got Away",
             "One Thing Left to Try",
@@ -137,12 +113,13 @@
         "total_tracks": 13,
         "uri": "spotify:album:7KvKuWUxxNPEU80c4i5AQk",
         "image": "https://i.scdn.co/image/ab67616d0000b273ea177a7959b9adec2d1434fe",
-        "top_tracks": [],
+        "top_tracks": [
+            "Main Theme From Trouble Man - 2",
+            "\"T\" Plays It Cool"
+        ],
         "good_tracks": [],
         "score": 0.0,
         "tracks": [
-            "Main Theme From Trouble Man - 2",
-            "\"T\" Plays It Cool",
             "Poor Abbey Walsh",
             "The Break In (Police Shoot Big)",
             "Cleo's Apartment",
@@ -154,6 +131,32 @@
             "Deep In It",
             "Don't Mess With Mister \"T\"",
             "There Goes Mister \"T\""
+        ]
+    },
+    "In the Aeroplane Over the Sea": {
+        "artists": "Neutral Milk Hotel",
+        "id": "0vVekV45lOaVKs6RZQQNob",
+        "name": "In the Aeroplane Over the Sea",
+        "popularity": 68,
+        "release_date": "1998-02-20",
+        "total_tracks": 11,
+        "uri": "spotify:album:0vVekV45lOaVKs6RZQQNob",
+        "image": "https://i.scdn.co/image/ab67616d0000b273589ce9a911c6e65b1f80c558",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "King of Carrot Flowers Pt. 1",
+            "King of Carrot Flowers Pts. 2 & 3",
+            "In the Aeroplane Over the Sea",
+            "Two-Headed Boy",
+            "The Fool",
+            "Holland, 1945",
+            "Communist Daughter",
+            "Oh Comely",
+            "Ghost",
+            "[untitled]",
+            "Two-Headed Boy Pt. 2"
         ]
     }
 }
