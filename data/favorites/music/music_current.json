@@ -86,23 +86,21 @@
         "uri": "spotify:album:7GjVWG39IOj4viyWplJV4H",
         "image": "https://i.scdn.co/image/ab67616d0000b273b47d309281c66820b7137f5d",
         "top_tracks": [
-            "Little Dark Age",
-            "TSLAMP"
-        ],
-        "good_tracks": [
-            
-        ],
-        "score": 0.0,
-        "tracks": [
             "She Works Out Too Much",
+            "Little Dark Age",
             "When You Die",
             "Me and Michael",
+            "TSLAMP",
+            "One Thing Left to Try"
+        ],
+        "good_tracks": [
             "James",
             "Days That Got Away",
-            "One Thing Left to Try",
             "When You're Small",
             "Hand It Over"
-        ]
+        ],
+        "score": 8.86,
+        "tracks": []
     },
     "Trouble Man": {
         "artists": "Marvin Gaye",
@@ -142,14 +140,14 @@
         "total_tracks": 11,
         "uri": "spotify:album:0vVekV45lOaVKs6RZQQNob",
         "image": "https://i.scdn.co/image/ab67616d0000b273589ce9a911c6e65b1f80c558",
-        "top_tracks": [],
+        "top_tracks": [
+            "King of Carrot Flowers Pt. 1",
+            "In the Aeroplane Over the Sea",
+            "Two-Headed Boy"
+        ],
         "good_tracks": [],
         "score": 0.0,
         "tracks": [
-            "King of Carrot Flowers Pt. 1",
-            "King of Carrot Flowers Pts. 2 & 3",
-            "In the Aeroplane Over the Sea",
-            "Two-Headed Boy",
             "The Fool",
             "Holland, 1945",
             "Communist Daughter",
