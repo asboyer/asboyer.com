@@ -143,14 +143,18 @@
         "top_tracks": [
             "King of Carrot Flowers Pt. 1",
             "In the Aeroplane Over the Sea",
-            "Two-Headed Boy"
+            "Two-Headed Boy",
+            "Communist Daughter",
+
         ],
-        "good_tracks": [],
+        "good_tracks": [
+            "The Fool",
+            "Holland, 1945"
+
+            
+        ],
         "score": 0.0,
         "tracks": [
-            "The Fool",
-            "Holland, 1945",
-            "Communist Daughter",
             "Oh Comely",
             "Ghost",
             "[untitled]",

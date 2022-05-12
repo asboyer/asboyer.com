@@ -208,5 +208,12 @@
         "image": "http://image.tmdb.org/t/p/original/iAq0sq42vKTLneVGqHn1D4GzgrM.jpg",
         "rating": 8.6,
         "director": "Akira Kurosawa"
+    },
+    "Hara-Kiri": {
+        "id": "0056058",
+        "title": "Hara-Kiri",
+        "image": "http://image.tmdb.org/t/p/original/w7pWcLaYQkbtRUn99K6ome0DblL.jpg",
+        "rating": 8.6,
+        "director": "Masaki Kobayashi"
     }
 }
