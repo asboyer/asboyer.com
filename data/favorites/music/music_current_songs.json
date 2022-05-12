@@ -70,5 +70,65 @@
         "track_number": 3,
         "uri": "spotify:track:1OJxI8lIWRqBvouJxW1nzN",
         "image": "https://i.scdn.co/image/ab67616d0000b273aaeb5c9fb6131977995b7f0e"
+    },
+    "The Tourist": {
+        "artists": "Radiohead",
+        "duration_ms": 326533,
+        "explicit": false,
+        "id": "1UuaWKypSkIHxFZD03zw4m",
+        "name": "The Tourist",
+        "popularity": 54,
+        "preview_url": "https://p.scdn.co/mp3-preview/9f6a7f68ba8fd20a1af9979d0f3c8a604718138b?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 12,
+        "uri": "spotify:track:1UuaWKypSkIHxFZD03zw4m",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856"
+    },
+    "A Quick One Before the Eternal Worm Devours Connecticut": {
+        "artists": "Have A Nice Life",
+        "duration_ms": 472695,
+        "explicit": false,
+        "id": "34dkZZNQJzEJRqPkywYmEY",
+        "name": "A Quick One Before the Eternal Worm Devours Connecticut",
+        "popularity": 55,
+        "preview_url": "https://p.scdn.co/mp3-preview/0fe97ddf11f1e9a9d025cad797591298c17029ef?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 1,
+        "uri": "spotify:track:34dkZZNQJzEJRqPkywYmEY",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a54f2b401501b3569990c256"
+    },
+    "Mr. Glock": {
+        "artists": "Key Glock",
+        "duration_ms": 146880,
+        "explicit": true,
+        "id": "1ipSpQfzBbhPFhYm6tfVIz",
+        "name": "Mr. Glock",
+        "popularity": 71,
+        "preview_url": "https://p.scdn.co/mp3-preview/b1095ad0c49a023b0a2d73a8f82eb929d7874eb0?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 13,
+        "uri": "spotify:track:1ipSpQfzBbhPFhYm6tfVIz",
+        "image": "https://i.scdn.co/image/ab67616d0000b27377d6678d66fd48ecfed2cfe8"
+    },
+    "family ties (with Kendrick Lamar)": {
+        "artists": "Baby Keem, Kendrick Lamar",
+        "duration_ms": 252262,
+        "explicit": true,
+        "id": "3QFInJAm9eyaho5vBzxInN",
+        "name": "family ties (with Kendrick Lamar)",
+        "popularity": 77,
+        "preview_url": "https://p.scdn.co/mp3-preview/9f0df5316dd59b390d68f6ebcb87ec2cc98c1fac?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 10,
+        "uri": "spotify:track:3QFInJAm9eyaho5vBzxInN",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731bfa23b13d0504fb90c37b39"
+    },
+    "Thank God for the Rain": {
+        "artists": "Bernard Herrmann",
+        "duration_ms": 101466,
+        "explicit": false,
+        "id": "34OJUOcKvRrMMVpY3Ow9jL",
+        "name": "Thank God for the Rain",
+        "popularity": 39,
+        "preview_url": "https://p.scdn.co/mp3-preview/76f3937855fef51ef3803448242fa4412f997f5f?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 2,
+        "uri": "spotify:track:34OJUOcKvRrMMVpY3Ow9jL",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730ceb10ceef56846ba1282d15"
     }
 }

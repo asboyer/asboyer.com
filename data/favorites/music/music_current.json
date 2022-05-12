@@ -63,18 +63,19 @@
         "total_tracks": 7,
         "uri": "spotify:album:1OvmilWKtrabJGEpPRlgK5",
         "image": "https://i.scdn.co/image/ab67616d0000b2732def9ef3f6a82c8d6fd8c143",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
+        "top_tracks": [
             "In A Sentimental Mood",
-            "Take The Coltrane",
             "Big Nick",
             "Stevie",
-            "My Little Brown Book",
+            "My Little Brown Book"
+        ],
+        "good_tracks": [
+            "Take The Coltrane",
             "Angelica",
             "The Feeling Of Jazz"
-        ]
+        ],
+        "score": 8.78,
+        "tracks": []
     },
     "Little Dark Age": {
         "artists": "MGMT",
@@ -113,23 +114,21 @@
         "image": "https://i.scdn.co/image/ab67616d0000b273ea177a7959b9adec2d1434fe",
         "top_tracks": [
             "Main Theme From Trouble Man - 2",
-            "\"T\" Plays It Cool"
+            "Main Theme From Trouble Man - 1",
+            "Trouble Man"
         ],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
+        "good_tracks": [
+            "\"T\" Stands For Trouble",
+            "Theme From Trouble Man",
+            "Don't Mess With Mister \"T\"",
+            "There Goes Mister \"T\"",
+            "\"T\" Plays It Cool",
             "Poor Abbey Walsh",
             "The Break In (Police Shoot Big)",
-            "Cleo's Apartment",
-            "Trouble Man",
-            "Theme From Trouble Man",
-            "\"T\" Stands For Trouble",
-            "Main Theme From Trouble Man - 1",
-            "Life Is A Gamble",
-            "Deep In It",
-            "Don't Mess With Mister \"T\"",
-            "There Goes Mister \"T\""
-        ]
+            "Cleo's Apartment"
+        ],
+        "score": 6.7,
+        "tracks": []
     },
     "In the Aeroplane Over the Sea": {
         "artists": "Neutral Milk Hotel",
@@ -144,21 +143,15 @@
             "King of Carrot Flowers Pt. 1",
             "In the Aeroplane Over the Sea",
             "Two-Headed Boy",
-            "Communist Daughter",
-
+            "Communist Daughter"
         ],
         "good_tracks": [
             "The Fool",
-            "Holland, 1945"
-
-            
-        ],
-        "score": 0.0,
-        "tracks": [
-            "Oh Comely",
+            "Holland, 1945",
             "Ghost",
-            "[untitled]",
             "Two-Headed Boy Pt. 2"
-        ]
+        ],
+        "score": 6.23,
+        "tracks": []
     }
 }
