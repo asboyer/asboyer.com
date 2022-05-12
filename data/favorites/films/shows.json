@@ -5,12 +5,6 @@
         "rating": 7.7,
         "title": "Limitless"
     },
-    "Cobra Kai": {
-        "id": "7221388",
-        "image": "http://image.tmdb.org/t/p/original/4CkQvdUAtoLW3qkjWi7t1MTnW7R.jpg",
-        "rating": 8.6,
-        "title": "Cobra Kai"
-    },
     "Silicon Valley": {
         "id": "2575988",
         "title": "Silicon Valley",
@@ -33,20 +27,6 @@
         "id": "2085059",
         "title": "Black Mirror",
         "image": "http://image.tmdb.org/t/p/original/7PRddO7z7mcPi21nZTCMGShAyy1.jpg",
-        "rating": 8.8,
-        "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
-        },
-        "asboyer_score": 0.0
-    },
-    "Seinfeld": {
-        "id": "0098904",
-        "title": "Seinfeld",
-        "image": "http://image.tmdb.org/t/p/original/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
         "rating": 8.8,
         "scorecard": {
             "screenplay": 0.0,
@@ -126,5 +106,19 @@
             "replay_value": 0.0
         },
         "asboyer_score": 0.0
+    },
+    "Cobra Kai": {
+        "id": "7221388",
+        "title": "Cobra Kai",
+        "image": "http://image.tmdb.org/t/p/original/6POBWybSBDBKjSs1VAQcnQC1qyt.jpg",
+        "rating": 8.6,
+        "creator": "Josh Heald"
+    },
+    "Seinfeld": {
+        "id": "0098904",
+        "title": "Seinfeld",
+        "image": "http://image.tmdb.org/t/p/original/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
+        "rating": 8.9,
+        "creator": "Larry David"
     }
 }

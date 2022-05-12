@@ -53,6 +53,19 @@ def directors_list(id_, ia):
             d_string += f'{str(l[i])}, '
 
     return d_string
+
+
+def creators_list(id_, ia):
+    l = list(set(ia.get_movie(id_).data['writer']))
+    d_string = ''
+    for i in range(len(l)):
+        if i == len(l) - 1:
+            d_string += str(l[i])
+        else:
+            d_string += f'{str(l[i])}, '
+
+    return d_string
+
 def update_movie_database(spec):
     with open(f'./data/add/{spec}.txt', 'r') as f:
         movies = f.readlines()
@@ -77,7 +90,10 @@ def update_movie_database(spec):
             new_movies[movie]['title'] = movie
             new_movies[movie]['image'] = get_movie_url(new_movies[movie]['id'], spec)
             new_movies[movie]['rating'] = ia.get_movie(new_movies[movie]['id']).data['rating']
-            new_movies[movie]['director'] = directors_list(new_movies[movie]['id'], ia)
+            if spec == 'shows':
+                new_movies[movie]['creator'] = creators_list(new_movies[movie]['id'], ia)
+            else:
+                new_movies[movie]['director'] = directors_list(new_movies[movie]['id'], ia)
 
     data.update(new_movies)        
 
