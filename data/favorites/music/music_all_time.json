@@ -21,6 +21,137 @@
         ],
         "score": 9.76
     },
+    "Trouble Man": {
+        "artists": "Marvin Gaye",
+        "id": "7KvKuWUxxNPEU80c4i5AQk",
+        "name": "Trouble Man",
+        "popularity": 42,
+        "release_date": "1972-12-08",
+        "total_tracks": 13,
+        "uri": "spotify:album:7KvKuWUxxNPEU80c4i5AQk",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ea177a7959b9adec2d1434fe",
+        "top_tracks": [
+            "Main Theme From Trouble Man - 2",
+            "Main Theme From Trouble Man - 1",
+            "Trouble Man"
+        ],
+        "good_tracks": [
+            "\"T\" Stands For Trouble",
+            "Theme From Trouble Man",
+            "Don't Mess With Mister \"T\"",
+            "There Goes Mister \"T\"",
+            "\"T\" Plays It Cool",
+            "Poor Abbey Walsh",
+            "The Break In (Police Shoot Big)",
+            "Cleo's Apartment"
+        ],
+        "score": 6.7,
+        "tracks": []
+    },
+    "Duke Ellington & John Coltrane": {
+        "artists": "Duke Ellington, John Coltrane",
+        "id": "1OvmilWKtrabJGEpPRlgK5",
+        "name": "Duke Ellington & John Coltrane",
+        "popularity": 64,
+        "release_date": "1963-02",
+        "total_tracks": 7,
+        "uri": "spotify:album:1OvmilWKtrabJGEpPRlgK5",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732def9ef3f6a82c8d6fd8c143",
+        "top_tracks": [
+            "In A Sentimental Mood",
+            "Big Nick",
+            "Stevie",
+            "My Little Brown Book"
+        ],
+        "good_tracks": [
+            "Take The Coltrane",
+            "Angelica",
+            "The Feeling Of Jazz"
+        ],
+        "score": 8.78,
+        "tracks": []
+    },
+    "Kid A": {
+        "artists": "Radiohead",
+        "id": "6GjwtEZcfenmOf6l18N7T7",
+        "name": "Kid A",
+        "popularity": 70,
+        "release_date": "2000-10-02",
+        "total_tracks": 11,
+        "uri": "spotify:album:6GjwtEZcfenmOf6l18N7T7",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
+        "top_tracks": [
+            "Everything In Its Right Place",
+            "The National Anthem",
+            "How to Disappear Completely",
+            "Optimistic",
+            "Idioteque"
+        ],
+        "good_tracks": [
+            "Kid A",
+            "Treefingers",
+            "In Limbo",
+            "Morning Bell",
+            "Motion Picture Soundtrack",
+            "Untitled"
+        ],
+        "score": 9.09,
+        "tracks": []
+    },
+    "Nevermind (Remastered)": {
+        "artists": "Nirvana",
+        "id": "2guirTSEqLizK7j9i1MTTZ",
+        "name": "Nevermind (Remastered)",
+        "popularity": 85,
+        "release_date": "1991-09-26",
+        "total_tracks": 13,
+        "uri": "spotify:album:2guirTSEqLizK7j9i1MTTZ",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+        "top_tracks": [
+            "Something In The Way",
+            "In Bloom",
+            "Smells Like Teen Spirit",
+            "Come As You Are",
+            "Lithium",
+            "Drain You",
+            "Stay Away"
+        ],
+        "good_tracks": [
+            "Breed",
+            "Polly",
+            "Territorial Pissing",
+            "Lounge Act",
+            "On A Plain"
+        ],
+        "score": 8.59,
+        "tracks": []
+    },
+    "Little Dark Age": {
+        "artists": "MGMT",
+        "id": "7GjVWG39IOj4viyWplJV4H",
+        "name": "Little Dark Age",
+        "popularity": 79,
+        "release_date": "2018-02-09",
+        "total_tracks": 10,
+        "uri": "spotify:album:7GjVWG39IOj4viyWplJV4H",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b47d309281c66820b7137f5d",
+        "top_tracks": [
+            "She Works Out Too Much",
+            "Little Dark Age",
+            "When You Die",
+            "Me and Michael",
+            "TSLAMP",
+            "One Thing Left to Try"
+        ],
+        "good_tracks": [
+            "James",
+            "Days That Got Away",
+            "When You're Small",
+            "Hand It Over"
+        ],
+        "score": 8.86,
+        "tracks": []
+    },
     "The Slow Rush": {
         "artists": "Tame Impala",
         "id": "31qVWUdRrlb8thMvts0yYL",
@@ -289,6 +420,8 @@
             "You Better Move",
             "Homecoming",
             "Celebration Station",
+            "Bigger Than Life",
+            "Bust Me",
             "Prices",
             "Venetia",
             "P2",
@@ -296,12 +429,11 @@
             "That Way - Bonus Track"
         ],
         "good_tracks": [
+            "POP",
             "I'm Sorry",
-            "Bigger Than Life",
-            "Bust Me",
             "Secure The Bag"
         ],
-        "score": 7.96
+        "score": 8.78
     },
     "The Piano Guys": {
         "artists": "The Piano Guys",
@@ -379,15 +511,16 @@
             "Ain't Livin Right (feat. Gunna)",
             "Hard Work Pays Off",
             "Astronauts",
-            "Shorty"
+            "Shorty",
+            "WRLD On Drugs"
         ],
         "good_tracks": [
             "Red Bentley (feat. Young Thug)",
             "7 Am Freestyle",
-            "WRLD On Drugs",
-            "Different"
+            "Different",
+            "Afterlife"
         ],
-        "score": 7.08
+        "score": 7.96
     },
     "The Search": {
         "artists": "NF",
@@ -1703,20 +1836,20 @@
             "Alone Again",
             "Heartless",
             "Blinding Lights",
-            "In Your Eyes"
-        ],
-        "good_tracks": [
-            "Too Late",
-            "Hardest To Love",
-            "Scared To Live",
-            "Snowchild",
+            "In Your Eyes",
             "Save Your Tears",
+            "Scared To Live",
             "Faith",
             "Repeat After Me (Interlude)",
+            "Too Late",
             "After Hours",
+            "Hardest To Love"
+        ],
+        "good_tracks": [
+            "Snowchild",
             "Until I Bleed Out"
         ],
-        "score": 8.21
+        "score": 9.05
     },
     "LoVE me NOw (ReLoAdeD)": {
         "artists": "Tory Lanez",
@@ -1738,7 +1871,7 @@
             "Freaky",
             "MiAMi (feat. Gunna)"
         ],
-        "score": 3.92
+        "score": 3.78
     },
     "Blonde": {
         "artists": "Frank Ocean",
@@ -1890,17 +2023,17 @@
             "Black & White",
             "Lean Wit Me",
             "I'll Be Fine",
-            "Long Gone"
+            "Long Gone",
+            "Candles",
+            "Hurt Me",
+            "Scared Of Love"
         ],
         "good_tracks": [
             "Used To",
-            "Candles",
-            "Scared Of Love",
-            "Hurt Me",
             "I'm Still",
             "End Of The Road"
         ],
-        "score": 8.78
+        "score": 9.39
     },
     "Happy Endings": {
         "artists": "Old Dominion",
@@ -2121,17 +2254,20 @@
             "Fell in Luv (feat Bryson Tiller)",
             "Foreign",
             "FlatBed Freestyle",
-            "Poke It Out (with Nicki Minaj)"
+            "Poke It Out (with Nicki Minaj)",
+            "R.I.P. Fredo (feat. Young Nudy) - Notice Me"
         ],
         "good_tracks": [
             "Right Now (feat. Pi'erre Bourne)",
+            "Home (KOD)",
             "Pull Up",
             "Mileage",
             "Choppa Won't Miss",
-            "R.I.P. Fredo (feat. Young Nudy) - Notice Me",
-            "Top (feat. Pi'erre Bourne)"
+            "Top (feat. Pi'erre Bourne)",
+            "No Time",
+            "Middle of the summer"
         ],
-        "score": 7.89
+        "score": 9.3
     },
     "Gazebo": {
         "artists": "Jack Harlow",
@@ -2171,7 +2307,7 @@
         "good_tracks": [
             "You Was Right"
         ],
-        "score": 3.15
+        "score": 3.02
     },
     "Night Visions": {
         "artists": "Imagine Dragons",
@@ -2242,18 +2378,19 @@
             "Over",
             "ILoveUIHateU",
             "Not PLaying",
-            "M3tamorphosis (feat. Kid Cudi)"
+            "M3tamorphosis (feat. Kid Cudi)",
+            "Stop Breathing",
+            "On That Time"
         ],
         "good_tracks": [
-            "Stop Breathing",
             "No Sl33p",
             "Meh",
-            "On That Time",
             "King Vamp",
             "Die4Guy",
-            "F33l Lik3 Dyin"
+            "F33l Lik3 Dyin",
+            "Beno!"
         ],
-        "score": 8.26
+        "score": 9.0
     },
     "The 3rd Generation": {
         "artists": "Freddy Leone, Apollo1027",
@@ -2529,7 +2666,7 @@
             "Have a Drink on Me",
             "Rock and Roll Ain't Noise Pollution"
         ],
-        "score": 7.57
+        "score": 8.17
     },
     "Die A Legend": {
         "artists": "Polo G",
@@ -2658,10 +2795,9 @@
         ],
         "good_tracks": [
             "Early Afternoon Stroll",
-            "Suavecito",
             "Clock"
         ],
-        "score": 8.78
+        "score": 7.76
     },
     "We Love You Tecca": {
         "artists": "Lil Tecca",
@@ -4088,7 +4224,7 @@
             "S.w.I.n.G (feat. PnB Rock & Trey Songz)",
             "KJm"
         ],
-        "score": 8.89,
+        "score": 8.1,
         "tracks": []
     },
     "Scorpion": {
@@ -4227,14 +4363,16 @@
             "family ties (with Kendrick Lamar)",
             "durag activity (with Travis Scott)",
             "booman",
-            "vent"
+            "vent",
+            "first order of business",
+            "16",
+            "coca (with Don Toliver)"
         ],
         "good_tracks": [
             "gorgeous",
-            "first order of business",
-            "16"
+            "range brothers"
         ],
-        "score": 4.46
+        "score": 6.04
     },
     "Yours Truly": {
         "artists": "Ariana Grande",
@@ -4325,17 +4463,19 @@
         "total_tracks": 18,
         "uri": "spotify:album:0gA0nZrZ55PLUp7ARfrICu",
         "image": "https://i.scdn.co/image/ab67616d0000b273d7547a7624116ac5f8a51fd2",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
+        "top_tracks": [
             "ARGENTINA",
+            "DOLLAZ ON MY HEAD (feat. Young Thug)",
+            "SKYBOX",
+            "TOP FLOOR (feat. Travis Scott)"
+        ],
+        "good_tracks": [],
+        "score": 2.22,
+        "tracks": [
             "GIMMICK",
             "MOTW",
             "FEIGNING",
-            "DOLLAZ ON MY HEAD (feat. Young Thug)",
             "ADDYS (feat. Nechie)",
-            "SKYBOX",
             "WUNNA",
             "BLINDFOLD (feat. Lil Baby)",
             "ROCKSTAR BIKERS & CHAINS",
@@ -4343,7 +4483,6 @@
             "NASTY GIRL / ON CAMERA",
             "COOLER THAN A BITCH (feat. Roddy Ricch)",
             "I'M ON SOME",
-            "TOP FLOOR (feat. Travis Scott)",
             "DON'T PLAY AROUND",
             "DO BETTER",
             "FAR (feat. Young Thug)"
@@ -4439,24 +4578,55 @@
         "total_tracks": 14,
         "uri": "spotify:album:4eLPsYPBmXABThSJ821sqY",
         "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "BLOOD.",
+        "top_tracks": [
             "DNA.",
-            "YAH.",
             "ELEMENT.",
-            "FEEL.",
             "LOYALTY. FEAT. RIHANNA.",
             "PRIDE.",
             "HUMBLE.",
-            "LUST.",
             "LOVE. FEAT. ZACARI.",
             "XXX. FEAT. U2.",
-            "FEAR.",
-            "GOD.",
             "DUCKWORTH."
-        ]
+        ],
+        "good_tracks": [
+            "BLOOD.",
+            "FEEL.",
+            "LUST.",
+            "FEAR.",
+            "GOD."
+        ],
+        "score": 8.69,
+        "tracks": []
+    },
+    "Legends Never Die": {
+        "artists": "Juice WRLD",
+        "id": "6n9DKpOxwifT5hOXtgLZSL",
+        "name": "Legends Never Die",
+        "popularity": 84,
+        "release_date": "2020-07-10",
+        "total_tracks": 18,
+        "uri": "spotify:album:6n9DKpOxwifT5hOXtgLZSL",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb",
+        "top_tracks": [
+            "Conversations",
+            "Smile (with The Weeknd)",
+            "Hate The Other Side (with Marshmello & The Kid Laroi)",
+            "Life's A Mess (feat. Halsey)",
+            "Come & Go (with Marshmello)",
+            "I Want It",
+            "Wishing Well",
+            "Screw Juice",
+            "Fighting Demons"
+        ],
+        "good_tracks": [
+            "Titanic",
+            "Righteous",
+            "Up Up And Away",
+            "Stay High",
+            "Can't Die",
+            "Man Of The Year"
+        ],
+        "score": 7.38,
+        "tracks": []
     }
 }
