@@ -163,28 +163,30 @@
         "total_tracks": 18,
         "uri": "spotify:album:1atjqOZTCdrjxjMyCPZc2g",
         "image": "https://i.scdn.co/image/ab67616d0000b27311c9e3983553deb5a9ad8594",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "United In Grief",
+        "top_tracks": [
             "N95",
-            "Worldwide Steppers",
             "Die Hard",
             "Father Time (feat. Sampha)",
-            "Rich - Interlude",
             "Rich Spirit",
-            "We Cry Together",
             "Purple Hearts",
             "Count Me Out",
             "Crown",
             "Silent Hill",
-            "Savior - Interlude",
-            "Savior",
-            "Auntie Diaries",
             "Mr. Morale",
+            "Savior",
             "Mother I Sober (feat. Beth Gibbons of Portishead)",
             "Mirror"
+            
+        ],
+        "good_tracks": [
+            "United In Grief",
+            "We Cry Together",
+            "Savior - Interlude",
+            "Auntie Diaries",
+            
+        ],
+        "score": 0.0,
+        "tracks": [
         ]
     }
 }
