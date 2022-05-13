@@ -153,5 +153,38 @@
         ],
         "score": 6.23,
         "tracks": []
+    },
+    "Mr. Morale & The Big Steppers": {
+        "artists": "Kendrick Lamar",
+        "id": "1atjqOZTCdrjxjMyCPZc2g",
+        "name": "Mr. Morale & The Big Steppers",
+        "popularity": 0,
+        "release_date": "2022-05-13",
+        "total_tracks": 18,
+        "uri": "spotify:album:1atjqOZTCdrjxjMyCPZc2g",
+        "image": "https://i.scdn.co/image/ab67616d0000b27311c9e3983553deb5a9ad8594",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "United In Grief",
+            "N95",
+            "Worldwide Steppers",
+            "Die Hard",
+            "Father Time (feat. Sampha)",
+            "Rich - Interlude",
+            "Rich Spirit",
+            "We Cry Together",
+            "Purple Hearts",
+            "Count Me Out",
+            "Crown",
+            "Silent Hill",
+            "Savior - Interlude",
+            "Savior",
+            "Auntie Diaries",
+            "Mr. Morale",
+            "Mother I Sober (feat. Beth Gibbons of Portishead)",
+            "Mirror"
+        ]
     }
 }

@@ -38,19 +38,20 @@
         "top_tracks": [
             "I'd Do Anything To Make You Smile",
             "Dua Lipa",
-            "Side Piece",
-            "I Got A Shot",
-            "Churchill Downs (feat. Drake)",
             "Like A Blade Of Grass",
-            "Parent Trap (feat. Justin Timberlake)",
-            "State Fair"
+            "Parent Trap (feat. Justin Timberlake)"
         ],
         "good_tracks": [
             "Young Harleezy",
             "Talk Of The Town",
-            "Nail Tech"
+            "Nail Tech",
+            "State Fair",
+            "Movie Star",
+            "Side Piece",
+            "I Got A Shot",
+            "Churchill Downs (feat. Drake)"
         ],
-        "score": 6.76,
+        "score": 6.48,
         "tracks": []
     },
     "Stone Flower (CTI Records 40th Anniversary Edition)": {
@@ -92,23 +93,19 @@
             "712PM",
             "KEEP IT BURNIN (feat. Kanye West)",
             "PUFFIN ON ZOOTIEZ",
-            "WAIT FOR U (feat. Drake & Tems)",
             "I'M ON ONE (feat. Drake)"
         ],
         "good_tracks": [
             "I'M DAT N****",
             "FOR A NUT (feat. Gunna & Young Thug)",
-            "GOLD STACKS",
-            "CHICKENS (feat. EST Gee)",
-            "WE JUS WANNA GET HIGH",
-            "HOLY GHOST",
             "BACK TO THE BASICS",
             "LIKE ME (feat. 42 Dugg & Lil Baby)",
             "AFFILIATED (feat. Lil Durk)",
             "WORST DAY",
-            "JUST THE BEGINNING"
+            "JUST THE BEGINNING",
+            "WAIT FOR U (feat. Drake & Tems)"
         ],
-        "score": 5.84,
+        "score": 4.42,
         "tracks": []
     }
 }

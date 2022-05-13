@@ -377,16 +377,17 @@
             "Make It Back",
             "Realer N Realer",
             "Ain't Livin Right (feat. Gunna)",
-            "Hard Work Pays Off"
+            "Hard Work Pays Off",
+            "Astronauts",
+            "Shorty"
         ],
         "good_tracks": [
-            "Astronauts",
             "Red Bentley (feat. Young Thug)",
             "7 Am Freestyle",
-            "Shorty",
-            "WRLD On Drugs"
+            "WRLD On Drugs",
+            "Different"
         ],
-        "score": 6.35
+        "score": 7.08
     },
     "The Search": {
         "artists": "NF",
@@ -854,7 +855,6 @@
             "21C/Delta",
             "Funny Seeing You Here",
             "Keep It Light",
-            "Creme",
             "Same Guy (feat. Adam Levine)",
             "Route 66 (feat. EST Gee)",
             "Tyler Herro",
@@ -864,9 +864,10 @@
             "Whats Poppin (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix] - Bonus Track"
         ],
         "good_tracks": [
-            "Way Out"
+            "Way Out",
+            "Creme"
         ],
-        "score": 8.56,
+        "score": 8.44,
         "tracks": []
     },
     "Sweet Action": {
@@ -886,9 +887,10 @@
             "ONCE MAY COMES"
         ],
         "good_tracks": [
+            "HEY BIG HEAD",
             "SMELLS LIKE INCENSE"
         ],
-        "score": 8.33
+        "score": 9.15
     },
     "Confetti": {
         "artists": "Jack Harlow",
@@ -3873,34 +3875,6 @@
             "Vanish"
         ]
     },
-    "Justice (Triple Chucks Deluxe)": {
-        "artists": "Justin Bieber",
-        "id": "6mzpIm84OXCBxw6Tuhp1OA",
-        "name": "Justice (Triple Chucks Deluxe)",
-        "popularity": 72,
-        "release_date": "2021-03-26",
-        "total_tracks": 21,
-        "uri": "spotify:album:6mzpIm84OXCBxw6Tuhp1OA",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a01fed49fe3a84a9919cef29",
-        "top_tracks": [
-            "As I Am (feat. Khalid)",
-            "Unstable (feat. The Kid LAROI)",
-            "Hold On",
-            "Ghost",
-            "Peaches (feat. Daniel Caesar & Giveon)"
-        ],
-        "good_tracks": [
-            "Deserve You",
-            "Holy (feat. Chance The Rapper)",
-            "Die For You (feat. Dominic Fike)",
-            "Love You Different (feat. BEAM)",
-            "Anyone",
-            "There She Go (feat. Lil Uzi Vert)",
-            "I Can't Be Myself (feat. Jaden)",
-            "Know No Better (feat. DaBaby)"
-        ],
-        "score": 5.1
-    },
     "So Much Fun": {
         "artists": "Young Thug",
         "id": "1bnHPO4dKK7IjvgrtVBcQh",
@@ -4451,12 +4425,9 @@
             "Love All (with JAY-Z)",
             "Fair Trade (with Travis Scott)",
             "Pipe Down",
-            "7am On Bridle Path",
-            "Race My Mind",
-            "Fountains (with Tems)",
-            "Get Along Better"
+            "7am On Bridle Path"
         ],
-        "score": 7.06,
+        "score": 5.87,
         "tracks": []
     },
     "DAMN.": {

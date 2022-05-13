@@ -39,6 +39,8 @@ for album in all_time_data:
         #     score = .98
         if all_time_data[album]['name'] == "My Beautiful Dark Twisted Fantasy":
             score = .925
+        elif all_time_data[album]['name'] == 'Sweet Action':
+            score = .915
         # elif all_time_data[album]['name'] == 'Late Registration':
         #     score = .979
         else:
