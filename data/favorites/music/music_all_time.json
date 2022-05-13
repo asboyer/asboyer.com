@@ -575,6 +575,7 @@
         "uri": "spotify:album:6PBZN8cbwkqm1ERj2BGXJ1",
         "image": "https://i.scdn.co/image/ab67616d0000b273d28d2ebdedb220e479743797",
         "top_tracks": [
+            "Sherane a.k.a Master Splinter\u2019s Daughter",
             "Bitch, Don\u2019t Kill My Vibe",
             "Backseat Freestyle",
             "The Art of Peer Pressure",
@@ -584,13 +585,12 @@
             "Swimming Pools (Drank) - Extended Version"
         ],
         "good_tracks": [
-            "Sherane a.k.a Master Splinter\u2019s Daughter",
             "good kid",
             "Sing About Me, I'm Dying Of Thirst",
             "Real",
             "Compton"
         ],
-        "score": 9.31
+        "score": 9.44
     },
     "True 2 Myself": {
         "artists": "Lil Tjay",
@@ -2971,22 +2971,22 @@
             "King Kunta",
             "These Walls",
             "Alright",
-            "i"
+            "i",
+            "Mortal Man",
+            "How Much A Dollar Cost",
+            "u"
         ],
         "good_tracks": [
             "For Free? - Interlude",
             "Institutionalized",
-            "u",
             "For Sale? - Interlude",
             "Momma",
             "Hood Politics",
-            "How Much A Dollar Cost",
-            "Mortal Man",
             "Complexion (A Zulu Love)",
             "The Blacker The Berry",
             "You Ain't Gotta Lie (Momma Said)"
         ],
-        "score": 8.85
+        "score": 9.17
     },
     "Inception (Music From The Motion Picture)": {
         "artists": "Hans Zimmer",
