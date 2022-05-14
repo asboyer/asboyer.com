@@ -226,30 +226,27 @@
             "Accordion",
             "Meat Grinder",
             "Raid",
-            "Rainbows",
-            "Curls"
-            
-        ],
-        "good_tracks": [
-            "Bistro",
-            "Sickfit"
-            
-        ],
-        "score": 0.0,
-        "tracks": [
-            "Do Not Fire!",
+            "Curls",
             "Money Folder",
-            "Shadows of Tomorrow",
             "Operation Lifesaver aka Mint Test",
-            "Figaro",
-            "Hardcore Hustle",
-            "Strange Ways",
             "Fancy Clown",
             "Eye",
             "Supervillain Theme",
             "All Caps",
             "Great Day",
-            "Rhinestone Cowboy"
-        ]
+            "Rhinestone Cowboy",
+            "Strange Ways"
+        ],
+        "good_tracks": [
+            "Bistro",
+            "America's Most Blunted",
+            "Sickfit",
+            "Rainbows",
+            "Do Not Fire!",
+            "Figaro",
+            "Shadows of Tomorrow"
+        ],
+        "score": 9.02,
+        "tracks": []
     }
 }

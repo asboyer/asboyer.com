@@ -21,6 +21,43 @@
         ],
         "score": 9.76
     },
+    "Madvillainy": {
+        "artists": "Madvillain, Madlib, MF DOOM",
+        "id": "01FCoGEQ3NFWF4fHJzdiax",
+        "name": "Madvillainy",
+        "popularity": 0,
+        "release_date": "2004-03-24",
+        "total_tracks": 22,
+        "uri": "spotify:album:01FCoGEQ3NFWF4fHJzdiax",
+        "image": "https://i.scdn.co/image/ab67616d0000b27302abe1eaf9da931f42629b4a",
+        "top_tracks": [
+            "The Illest Villains",
+            "Accordion",
+            "Meat Grinder",
+            "Raid",
+            "Curls",
+            "Money Folder",
+            "Operation Lifesaver aka Mint Test",
+            "Fancy Clown",
+            "Eye",
+            "Supervillain Theme",
+            "All Caps",
+            "Great Day",
+            "Rhinestone Cowboy",
+            "Strange Ways"
+        ],
+        "good_tracks": [
+            "Bistro",
+            "America's Most Blunted",
+            "Sickfit",
+            "Rainbows",
+            "Do Not Fire!",
+            "Figaro",
+            "Shadows of Tomorrow"
+        ],
+        "score": 9.02,
+        "tracks": []
+    },
     "Trouble Man": {
         "artists": "Marvin Gaye",
         "id": "7KvKuWUxxNPEU80c4i5AQk",
@@ -1292,14 +1329,14 @@
         "top_tracks": [
             "D.N.A.",
             "Grave",
-            "Ksubi",
-            "Under My Skin"
+            "Ksubi"
         ],
         "good_tracks": [
             "Birthday",
-            "Poolside Queen"
+            "Poolside Queen",
+            "Under My Skin"
         ],
-        "score": 9.05
+        "score": 8.57
     },
     "Subluxe": {
         "artists": "Healy",
@@ -1323,7 +1360,7 @@
             "Chaparral",
             "Python"
         ],
-        "score": 5.83
+        "score": 6.53
     },
     "Heaven Or Hell": {
         "artists": "Don Toliver",
@@ -4628,6 +4665,38 @@
             "Man Of The Year"
         ],
         "score": 7.38,
+        "tracks": []
+    },
+    "Lil Boat 2": {
+        "artists": "Lil Yachty",
+        "id": "4nHOF3neSo6Y7OG5OAflkC",
+        "name": "Lil Boat 2",
+        "popularity": 66,
+        "release_date": "2018-03-09",
+        "total_tracks": 17,
+        "uri": "spotify:album:4nHOF3neSo6Y7OG5OAflkC",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732dd3f11b04f31d9acd49015b",
+        "top_tracks": [
+            "SELF MADE",
+            "BOOM!",
+            "TALK TO ME NICE",
+            "she ready",
+            "DAS CAP",
+            "NBAYOUNGBOAT",
+            "MICKEY",
+            "FLEX",
+            "BABY DADDY",
+            "66"
+        ],
+        "good_tracks": [
+            "OOPS",
+            "GET MONEY BROS.",
+            "COUNT ME IN",
+            "POP OUT",
+            "FWM",
+            "WHOLE lotta GUAP"
+        ],
+        "score": 8.4,
         "tracks": []
     }
 }
