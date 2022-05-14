@@ -29,7 +29,8 @@ top = ['Kanye West',
     'AC/DC',
     'Baby Keem',
     "BROCKHAMPTON",
-    'Polo G'
+    'Polo G',
+    'Duke Ellington, John Coltrane'
     ]
 
 top_a = ['?', 'Boston', 'Hoodie SZN', 'Loose', 'Confessions of a Dangerous Mind', 'So Much Fun', 'Flower Boy', 'Thats What They All Say', 'Sweet Action', "Die Lit", "Luv Is Rage 2 (Deluxe)"]

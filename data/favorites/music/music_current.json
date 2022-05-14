@@ -65,16 +65,15 @@
         "image": "https://i.scdn.co/image/ab67616d0000b2732def9ef3f6a82c8d6fd8c143",
         "top_tracks": [
             "In A Sentimental Mood",
-            "Big Nick",
-            "Stevie",
             "My Little Brown Book"
         ],
         "good_tracks": [
-            "Take The Coltrane",
             "Angelica",
-            "The Feeling Of Jazz"
+            "The Feeling Of Jazz",
+            "Big Nick",
+            "Stevie"
         ],
-        "score": 8.78,
+        "score": 7.62,
         "tracks": []
     },
     "Little Dark Age": {
@@ -183,5 +182,74 @@
         ],
         "score": 7.31,
         "tracks": []
+    },
+    "Pet Sounds (Mono)": {
+        "artists": "The Beach Boys",
+        "id": "0BBduHWw9CbB5dctxFp48f",
+        "name": "Pet Sounds (Mono)",
+        "popularity": 0,
+        "release_date": "1966-06-16",
+        "total_tracks": 13,
+        "uri": "spotify:album:0BBduHWw9CbB5dctxFp48f",
+        "image": "https://i.scdn.co/image/ab67616d0000b27330165560a27ea0d2c87ee783",
+        "top_tracks": [
+            "Wouldn't It Be Nice",
+            "You Still Believe In Me - Mono / Remastered 2012"
+        ],
+        "good_tracks": [
+            "That's Not Me",
+            "I'm Waiting For The Day"
+        ],
+        "score": 0.0,
+        "tracks": [
+            "Let's Go Away For Awhile",
+            "Sloop John B",
+            "God Only Knows",
+            "I Know There's An Answer",
+            "Here Today",
+            "I Just Wasn't Made For These Times",
+            "Pet Sounds",
+            "Caroline, No"
+        ]
+    },
+    "Madvillainy": {
+        "artists": "Madvillain, Madlib, MF DOOM",
+        "id": "01FCoGEQ3NFWF4fHJzdiax",
+        "name": "Madvillainy",
+        "popularity": 0,
+        "release_date": "2004-03-24",
+        "total_tracks": 22,
+        "uri": "spotify:album:01FCoGEQ3NFWF4fHJzdiax",
+        "image": "https://i.scdn.co/image/ab67616d0000b27302abe1eaf9da931f42629b4a",
+        "top_tracks": [
+            "The Illest Villains",
+            "Accordion",
+            "Meat Grinder",
+            "Raid",
+            "Rainbows",
+            "Curls"
+            
+        ],
+        "good_tracks": [
+            "Bistro",
+            "Sickfit"
+            
+        ],
+        "score": 0.0,
+        "tracks": [
+            "Do Not Fire!",
+            "Money Folder",
+            "Shadows of Tomorrow",
+            "Operation Lifesaver aka Mint Test",
+            "Figaro",
+            "Hardcore Hustle",
+            "Strange Ways",
+            "Fancy Clown",
+            "Eye",
+            "Supervillain Theme",
+            "All Caps",
+            "Great Day",
+            "Rhinestone Cowboy"
+        ]
     }
 }

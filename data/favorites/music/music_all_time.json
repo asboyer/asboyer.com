@@ -59,16 +59,15 @@
         "image": "https://i.scdn.co/image/ab67616d0000b2732def9ef3f6a82c8d6fd8c143",
         "top_tracks": [
             "In A Sentimental Mood",
-            "Big Nick",
-            "Stevie",
             "My Little Brown Book"
         ],
         "good_tracks": [
-            "Take The Coltrane",
             "Angelica",
-            "The Feeling Of Jazz"
+            "The Feeling Of Jazz",
+            "Big Nick",
+            "Stevie"
         ],
-        "score": 8.78,
+        "score": 7.62,
         "tracks": []
     },
     "Kid A": {
@@ -1952,9 +1951,13 @@
         ],
         "good_tracks": [
             "Saved",
-            "8TEEN"
+            "8TEEN",
+            "Hopeless",
+            "Cold Blooded",
+            "Winter",
+            "Keep Me"
         ],
-        "score": 4.44
+        "score": 6.67
     },
     "My Beautiful Dark Twisted Fantasy": {
         "artists": "Kanye West",
@@ -2348,12 +2351,11 @@
             "So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
             "Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers)",
             "Blue in Green (feat. John Coltrane & Bill Evans)",
-            "Flamenco Sketches (feat. John Coltrane, Cannonball Adderley & Bill Evans)"
-        ],
-        "good_tracks": [
+            "Flamenco Sketches (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
             "All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans)"
         ],
-        "score": 9.67
+        "good_tracks": [],
+        "score": 10.0
     },
     "Whole Lotta Red": {
         "artists": "Playboi Carti",
@@ -4132,7 +4134,7 @@
         "name": "Stone Flower (CTI Records 40th Anniversary Edition)",
         "popularity": 48,
         "release_date": "1970",
-        "total_tracks": 10,
+        "total_tracks": 9,
         "uri": "spotify:album:2dsmGxE74ufKZgSFpEMxel",
         "image": "/static/img/music/albums/stone_flower.png",
         "top_tracks": [
@@ -4143,13 +4145,12 @@
             "Stone Flower",
             "Amparo",
             "God and the Devil In the Land of the Sun",
-            "Sabi\u00e1",
-            "Brazil - Alternate Take"
+            "Sabi\u00e1"
         ],
         "good_tracks": [
             "Andorinha"
         ],
-        "score": 9.71,
+        "score": 9.68,
         "tracks": []
     },
     "Soy Pablo": {
@@ -4305,18 +4306,17 @@
         "image": "https://i.scdn.co/image/ab67616d0000b27310f084209eab3dfecf7d5f8e",
         "top_tracks": [
             "Leave The Door Open",
-            "After Last Night (with Thundercat & Bootsy Collins)",
             "Smokin Out The Window",
-            "Put On A Smile",
             "Skate"
         ],
         "good_tracks": [
+            "After Last Night (with Thundercat & Bootsy Collins)",
             "Silk Sonic Intro",
             "Fly As Me",
-            "777",
-            "Blast Off"
+            "Blast Off",
+            "Put On A Smile"
         ],
-        "score": 8.73
+        "score": 7.3
     },
     "Minecraft - Volume Alpha": {
         "artists": "C418",
@@ -4416,18 +4416,18 @@
             "The Bends",
             "High and Dry",
             "Fake Plastic Trees",
-            "Bones",
             "(Nice Dream)",
             "Just",
             "Black Star",
-            "Sulk"
-        ],
-        "good_tracks": [
-            "My Iron Lung",
             "Bullet Proof ... I Wish I Was",
+            "My Iron Lung",
             "Street Spirit (Fade Out)"
         ],
-        "score": 9.58,
+        "good_tracks": [
+            "Sulk",
+            "Bones"
+        ],
+        "score": 9.72,
         "tracks": []
     },
     "Dawn FM": {
