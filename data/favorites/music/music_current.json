@@ -169,7 +169,6 @@
             "Father Time (feat. Sampha)",
             "Purple Hearts",
             "Count Me Out",
-            "Crown",
             "Silent Hill",
             "Mr. Morale",
             "Savior",
@@ -182,36 +181,7 @@
             "Mother I Sober (feat. Beth Gibbons of Portishead)",
             "Rich Spirit"
         ],
-        "score": 7.87,
-        "tracks": []
-    },
-    "DAMN.": {
-        "artists": "Kendrick Lamar",
-        "id": "4eLPsYPBmXABThSJ821sqY",
-        "name": "DAMN.",
-        "popularity": 87,
-        "release_date": "2017-04-14",
-        "total_tracks": 14,
-        "uri": "spotify:album:4eLPsYPBmXABThSJ821sqY",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
-        "top_tracks": [
-            "DNA.",
-            "ELEMENT.",
-            "LOYALTY. FEAT. RIHANNA.",
-            "PRIDE.",
-            "HUMBLE.",
-            "LOVE. FEAT. ZACARI.",
-            "XXX. FEAT. U2.",
-            "DUCKWORTH."
-        ],
-        "good_tracks": [
-            "BLOOD.",
-            "FEEL.",
-            "LUST.",
-            "FEAR.",
-            "GOD."
-        ],
-        "score": 8.69,
+        "score": 7.31,
         "tracks": []
     }
 }

@@ -509,18 +509,18 @@
             "Make It Back",
             "Realer N Realer",
             "Ain't Livin Right (feat. Gunna)",
-            "Hard Work Pays Off",
-            "Astronauts",
-            "Shorty",
-            "WRLD On Drugs"
+            "Hard Work Pays Off"
         ],
         "good_tracks": [
             "Red Bentley (feat. Young Thug)",
             "7 Am Freestyle",
             "Different",
-            "Afterlife"
+            "Afterlife",
+            "Astronauts",
+            "Shorty",
+            "WRLD On Drugs"
         ],
-        "score": 7.96
+        "score": 7.84
     },
     "The Search": {
         "artists": "NF",
@@ -2025,15 +2025,15 @@
             "I'll Be Fine",
             "Long Gone",
             "Candles",
-            "Hurt Me",
-            "Scared Of Love"
+            "Hurt Me"
         ],
         "good_tracks": [
             "Used To",
             "I'm Still",
-            "End Of The Road"
+            "End Of The Road",
+            "Scared Of Love"
         ],
-        "score": 9.39
+        "score": 9.18
     },
     "Happy Endings": {
         "artists": "Old Dominion",
@@ -2254,11 +2254,11 @@
             "Fell in Luv (feat Bryson Tiller)",
             "Foreign",
             "FlatBed Freestyle",
-            "Poke It Out (with Nicki Minaj)",
             "R.I.P. Fredo (feat. Young Nudy) - Notice Me"
         ],
         "good_tracks": [
             "Right Now (feat. Pi'erre Bourne)",
+            "Poke It Out (with Nicki Minaj)",
             "Home (KOD)",
             "Pull Up",
             "Mileage",
@@ -2267,7 +2267,7 @@
             "No Time",
             "Middle of the summer"
         ],
-        "score": 9.3
+        "score": 9.21
     },
     "Gazebo": {
         "artists": "Jack Harlow",
@@ -2585,16 +2585,17 @@
             "Better Now",
             "92 Explorer",
             "Candy Paint",
-            "Sugar Wraith"
+            "Sugar Wraith",
+            "Spoil My Night (feat. Swae Lee)"
         ],
         "good_tracks": [
             "Paranoid",
-            "Spoil My Night (feat. Swae Lee)",
             "Takin' Shots",
             "Psycho (feat. Ty Dolla $ign)",
-            "Stay"
+            "Stay",
+            "Ball For Me"
         ],
-        "score": 6.2
+        "score": 6.76
     },
     "My Everything (Deluxe)": {
         "artists": "Ariana Grande",
@@ -2683,14 +2684,15 @@
             "Pop Out (feat. Lil Tjay)",
             "Finer Things",
             "Picture This",
-            "Deep Wounds"
+            "Deep Wounds",
+            "Chosen 1"
         ],
         "good_tracks": [
             "Lost Files",
-            "Chosen 1",
+            "BST",
             "Pop Out Again (feat. Lil Baby & Gunna)"
         ],
-        "score": 5.82
+        "score": 6.79
     },
     "LIFE'S A TRIP": {
         "artists": "Trippie Redd",
@@ -3109,8 +3111,7 @@
             "Alright",
             "i",
             "Mortal Man",
-            "How Much A Dollar Cost",
-            "u"
+            "How Much A Dollar Cost"
         ],
         "good_tracks": [
             "For Free? - Interlude",
@@ -3120,9 +3121,10 @@
             "Hood Politics",
             "Complexion (A Zulu Love)",
             "The Blacker The Berry",
-            "You Ain't Gotta Lie (Momma Said)"
+            "You Ain't Gotta Lie (Momma Said)",
+            "u"
         ],
-        "score": 9.17
+        "score": 9.06
     },
     "Inception (Music From The Motion Picture)": {
         "artists": "Hans Zimmer",
@@ -3188,17 +3190,17 @@
         "top_tracks": [
             "NO HALO",
             "SUGAR",
-            "BOY BYE"
+            "BOY BYE",
+            "DEARLY DEPARTED"
         ],
         "good_tracks": [
             "HEAVEN BELONGS TO YOU",
             "ST. PERCY",
             "IF YOU PRAY RIGHT",
-            "DEARLY DEPARTED",
             "I BEEN BORN AGAIN",
             "LOVE ME FOR LIFE"
         ],
-        "score": 6.07
+        "score": 6.81
     },
     "Revenge Of The Dreamers III": {
         "artists": "Dreamville, J. Cole",
@@ -3867,9 +3869,10 @@
         ],
         "good_tracks": [
             "Drippin'",
+            "Tattoos",
             "Problem"
         ],
-        "score": 5.54
+        "score": 6.43
     },
     "Confessions of a Dangerous Mind": {
         "artists": "Logic",
@@ -4590,12 +4593,10 @@
         ],
         "good_tracks": [
             "BLOOD.",
-            "FEEL.",
             "LUST.",
-            "FEAR.",
-            "GOD."
+            "FEAR."
         ],
-        "score": 8.69,
+        "score": 7.5,
         "tracks": []
     },
     "Legends Never Die": {
