@@ -120,5 +120,12 @@
         "image": "http://image.tmdb.org/t/p/original/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
         "rating": 8.9,
         "creator": "Larry David"
+    },
+    "Breaking Bad": {
+        "id": "0903747",
+        "title": "Breaking Bad",
+        "image": "http://image.tmdb.org/t/p/original/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
+        "rating": 9.5,
+        "creator": "Vince Gilligan, Peter Gould"
     }
 }
