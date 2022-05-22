@@ -359,7 +359,7 @@
     "Fight Club": {
         "id": "0137523",
         "title": "Fight Club",
-        "image": "http://image.tmdb.org/t/p/original/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+        "image": "/static/img/movies/fight_club.jpg",
         "rating": 8.8,
         "director": "David Fincher"
     },
@@ -405,11 +405,11 @@
         "rating": 6.5,
         "director": "John Landis"
     },
-    "Rise of the Planet of the Apes": {
-        "id": "1318514",
-        "title": "Rise of the Planet of the Apes",
-        "image": "http://image.tmdb.org/t/p/original/cjLsuP75UDlRdJVMXzXg3TJ4umX.jpg",
-        "rating": 7.6,
-        "director": "Rupert Wyatt"
+    "The Good, the Bad and the Ugly": {
+        "id": "0060196",
+        "title": "The Good, the Bad and the Ugly",
+        "image": "http://image.tmdb.org/t/p/original/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+        "rating": 8.8,
+        "director": "Sergio Leone"
     }
 }
