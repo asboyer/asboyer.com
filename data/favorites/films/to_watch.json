@@ -187,5 +187,61 @@
         "image": "http://image.tmdb.org/t/p/original/w7pWcLaYQkbtRUn99K6ome0DblL.jpg",
         "rating": 8.6,
         "director": "Masaki Kobayashi"
+    },
+    "The Searchers": {
+        "id": "0049730",
+        "title": "The Searchers",
+        "image": "http://image.tmdb.org/t/p/original/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg",
+        "rating": 7.9,
+        "director": "John Ford"
+    },
+    "High Noon": {
+        "id": "0044706",
+        "title": "High Noon",
+        "image": "http://image.tmdb.org/t/p/original/nUSLv12qQWhHB60PqXDBRP1wmJa.jpg",
+        "rating": 8.0,
+        "director": "Fred Zinnemann"
+    },
+    "A Fistful of Dollars": {
+        "id": "0058461",
+        "title": "A Fistful of Dollars",
+        "image": "http://image.tmdb.org/t/p/original/lBwOEpwVeUAmrmglcstnaGcJq3Y.jpg",
+        "rating": 7.9,
+        "director": "Sergio Leone"
+    },
+    "For a Few Dollars More": {
+        "id": "0059578",
+        "title": "For a Few Dollars More",
+        "image": "http://image.tmdb.org/t/p/original/vVUIAVsh2lMzweyrbdsOgiZoQuy.jpg",
+        "rating": 8.2,
+        "director": "Sergio Leone"
+    },
+    "The Outlaw Josey Wales": {
+        "id": "0075029",
+        "title": "The Outlaw Josey Wales",
+        "image": "http://image.tmdb.org/t/p/original/92BZIFPbyCPNhExyFScxA3xF1dy.jpg",
+        "rating": 7.8,
+        "director": "Clint Eastwood"
+    },
+    "Pale Rider": {
+        "id": "0089767",
+        "title": "Pale Rider",
+        "image": "http://image.tmdb.org/t/p/original/kpAN5WnDEVWYzMDPkXHTbrDQuak.jpg",
+        "rating": 7.3,
+        "director": "Clint Eastwood"
+    },
+    "High Plains Drifter": {
+        "id": "0068699",
+        "title": "High Plains Drifter",
+        "image": "http://image.tmdb.org/t/p/original/zEpttlC8KOzjkBqmDqZgy3Y6LC8.jpg",
+        "rating": 7.5,
+        "director": "Clint Eastwood"
+    },
+    "Eternal Sunshine of the Spotless Mind": {
+        "id": "0338013",
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "image": "http://image.tmdb.org/t/p/original/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+        "rating": 8.3,
+        "director": "Michel Gondry"
     }
 }
