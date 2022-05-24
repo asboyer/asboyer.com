@@ -1,84 +1,223 @@
 {
-    "Currents": {
-        "artists": "Tame Impala",
-        "id": "79dL7FLiJFOO0EoehUHQBv",
-        "name": "Currents",
-        "popularity": 80,
-        "release_date": "2015-07-17",
-        "total_tracks": 13,
-        "uri": "spotify:album:79dL7FLiJFOO0EoehUHQBv",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
+    "Kid A": {
+        "artists": "Radiohead",
+        "id": "6GjwtEZcfenmOf6l18N7T7",
+        "name": "Kid A",
+        "popularity": 70,
+        "release_date": "2000-10-02",
+        "total_tracks": 11,
+        "uri": "spotify:album:6GjwtEZcfenmOf6l18N7T7",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
         "top_tracks": [
-            "Let It Happen",
-            "Nangs",
-            "The Moment",
-            "Yes I'm Changing",
-            "Eventually",
-            "Gossip",
-            "The Less I Know The Better",
-            "Past Life",
-            "Disciples",
-            "'Cause I'm A Man",
-            "Reality In Motion",
-            "Love/Paranoia",
-            "New Person, Same Old Mistakes"
+            "Everything In Its Right Place",
+            "The National Anthem",
+            "How to Disappear Completely",
+            "Optimistic",
+            "Idioteque"
         ],
-        "good_tracks": [],
-        "score": 10.0,
+        "good_tracks": [
+            "Kid A",
+            "Treefingers",
+            "In Limbo",
+            "Morning Bell",
+            "Motion Picture Soundtrack",
+            "Untitled"
+        ],
+        "score": 9.09,
         "tracks": []
     },
-    "OK Computer": {
-        "artists": "Radiohead",
-        "id": "6dVIqQ8qmQ5GBnJ9shOYGE",
-        "name": "OK Computer",
-        "popularity": 78,
-        "release_date": "1997-05-28",
-        "total_tracks": 12,
-        "uri": "spotify:album:6dVIqQ8qmQ5GBnJ9shOYGE",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+    "Nevermind (Remastered)": {
+        "artists": "Nirvana",
+        "id": "2guirTSEqLizK7j9i1MTTZ",
+        "name": "Nevermind (Remastered)",
+        "popularity": 85,
+        "release_date": "1991-09-26",
+        "total_tracks": 13,
+        "uri": "spotify:album:2guirTSEqLizK7j9i1MTTZ",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
         "top_tracks": [
-            "Airbag",
-            "Paranoid Android",
-            "Subterranean Homesick Alien",
-            "Exit Music (For A Film)",
-            "Let Down",
-            "Karma Police",
-            "Climbing Up the Walls",
-            "No Surprises",
-            "Lucky",
-            "The Tourist"
+            "Something In The Way",
+            "In Bloom",
+            "Smells Like Teen Spirit",
+            "Come As You Are",
+            "Lithium",
+            "Drain You",
+            "Stay Away"
         ],
         "good_tracks": [
-            "Fitter Happier",
-            "Electioneering"
+            "Breed",
+            "Polly",
+            "Territorial Pissing",
+            "Lounge Act",
+            "On A Plain"
         ],
-        "score": 9.72
+        "score": 8.59,
+        "tracks": []
     },
-    "The Slow Rush": {
-        "artists": "Tame Impala",
-        "id": "31qVWUdRrlb8thMvts0yYL",
-        "name": "The Slow Rush",
-        "popularity": 80,
-        "release_date": "2020-02-14",
-        "total_tracks": 12,
-        "uri": "spotify:album:31qVWUdRrlb8thMvts0yYL",
-        "image": "https://i.scdn.co/image/ab67616d0000b27358267bd34420a00d5cf83a49",
+    "Duke Ellington & John Coltrane": {
+        "artists": "Duke Ellington, John Coltrane",
+        "id": "1OvmilWKtrabJGEpPRlgK5",
+        "name": "Duke Ellington & John Coltrane",
+        "popularity": 64,
+        "release_date": "1963-02",
+        "total_tracks": 7,
+        "uri": "spotify:album:1OvmilWKtrabJGEpPRlgK5",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732def9ef3f6a82c8d6fd8c143",
         "top_tracks": [
-            "One More Year",
-            "Borderline",
-            "Posthumous Forgiveness",
-            "Breathe Deeper",
-            "On Track",
-            "Lost In Yesterday",
-            "Is It True"
+            "In A Sentimental Mood",
+            "My Little Brown Book"
         ],
         "good_tracks": [
-            "Instant Destiny",
-            "Tomorrow's Dust",
-            "It Might Be Time",
-            "One More Hour"
+            "Angelica",
+            "The Feeling Of Jazz",
+            "Big Nick",
+            "Stevie"
         ],
-        "score": 8.21,
+        "score": 7.62,
+        "tracks": []
+    },
+    "Little Dark Age": {
+        "artists": "MGMT",
+        "id": "7GjVWG39IOj4viyWplJV4H",
+        "name": "Little Dark Age",
+        "popularity": 79,
+        "release_date": "2018-02-09",
+        "total_tracks": 10,
+        "uri": "spotify:album:7GjVWG39IOj4viyWplJV4H",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b47d309281c66820b7137f5d",
+        "top_tracks": [
+            "She Works Out Too Much",
+            "Little Dark Age",
+            "When You Die",
+            "Me and Michael",
+            "TSLAMP",
+            "One Thing Left to Try"
+        ],
+        "good_tracks": [
+            "James",
+            "Days That Got Away",
+            "When You're Small",
+            "Hand It Over"
+        ],
+        "score": 8.86,
+        "tracks": []
+    },
+    "Trouble Man": {
+        "artists": "Marvin Gaye",
+        "id": "7KvKuWUxxNPEU80c4i5AQk",
+        "name": "Trouble Man",
+        "popularity": 42,
+        "release_date": "1972-12-08",
+        "total_tracks": 13,
+        "uri": "spotify:album:7KvKuWUxxNPEU80c4i5AQk",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ea177a7959b9adec2d1434fe",
+        "top_tracks": [
+            "Main Theme From Trouble Man - 2",
+            "Main Theme From Trouble Man - 1",
+            "Trouble Man"
+        ],
+        "good_tracks": [
+            "\"T\" Stands For Trouble",
+            "Theme From Trouble Man",
+            "Don't Mess With Mister \"T\"",
+            "There Goes Mister \"T\"",
+            "\"T\" Plays It Cool",
+            "Poor Abbey Walsh",
+            "The Break In (Police Shoot Big)",
+            "Cleo's Apartment"
+        ],
+        "score": 6.7,
+        "tracks": []
+    },
+    "In the Aeroplane Over the Sea": {
+        "artists": "Neutral Milk Hotel",
+        "id": "0vVekV45lOaVKs6RZQQNob",
+        "name": "In the Aeroplane Over the Sea",
+        "popularity": 68,
+        "release_date": "1998-02-20",
+        "total_tracks": 11,
+        "uri": "spotify:album:0vVekV45lOaVKs6RZQQNob",
+        "image": "https://i.scdn.co/image/ab67616d0000b273589ce9a911c6e65b1f80c558",
+        "top_tracks": [
+            "King of Carrot Flowers Pt. 1",
+            "In the Aeroplane Over the Sea",
+            "Two-Headed Boy",
+            "Communist Daughter"
+        ],
+        "good_tracks": [
+            "The Fool",
+            "Holland, 1945",
+            "Ghost",
+            "Two-Headed Boy Pt. 2"
+        ],
+        "score": 6.23,
+        "tracks": []
+    },
+    "Mr. Morale & The Big Steppers": {
+        "artists": "Kendrick Lamar",
+        "id": "1atjqOZTCdrjxjMyCPZc2g",
+        "name": "Mr. Morale & The Big Steppers",
+        "popularity": 0,
+        "release_date": "2022-05-13",
+        "total_tracks": 18,
+        "uri": "spotify:album:1atjqOZTCdrjxjMyCPZc2g",
+        "image": "https://i.scdn.co/image/ab67616d0000b27311c9e3983553deb5a9ad8594",
+        "top_tracks": [
+            "N95",
+            "Die Hard",
+            "Father Time (feat. Sampha)",
+            "Purple Hearts",
+            "Count Me Out",
+            "Silent Hill",
+            "Mr. Morale",
+            "Savior",
+            "Mirror"
+        ],
+        "good_tracks": [
+            "United In Grief",
+            "We Cry Together",
+            "Savior - Interlude",
+            "Mother I Sober (feat. Beth Gibbons of Portishead)",
+            "Rich Spirit"
+        ],
+        "score": 7.31,
+        "tracks": []
+    },
+    "Madvillainy": {
+        "artists": "Madvillain, Madlib, MF DOOM",
+        "id": "01FCoGEQ3NFWF4fHJzdiax",
+        "name": "Madvillainy",
+        "popularity": 0,
+        "release_date": "2004-03-24",
+        "total_tracks": 22,
+        "uri": "spotify:album:01FCoGEQ3NFWF4fHJzdiax",
+        "image": "https://i.scdn.co/image/ab67616d0000b27302abe1eaf9da931f42629b4a",
+        "top_tracks": [
+            "The Illest Villains",
+            "Accordion",
+            "Meat Grinder",
+            "Raid",
+            "Curls",
+            "Money Folder",
+            "Operation Lifesaver aka Mint Test",
+            "Fancy Clown",
+            "Eye",
+            "Supervillain Theme",
+            "All Caps",
+            "Great Day",
+            "Rhinestone Cowboy",
+            "Strange Ways"
+        ],
+        "good_tracks": [
+            "Bistro",
+            "America's Most Blunted",
+            "Sickfit",
+            "Rainbows",
+            "Do Not Fire!",
+            "Figaro",
+            "Shadows of Tomorrow"
+        ],
+        "score": 9.02,
         "tracks": []
     }
 }

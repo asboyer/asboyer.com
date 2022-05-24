@@ -43,66 +43,36 @@ def get_movie_url(imdb_id, spec):
     url = "{0}{1}{2}".format(base_url, max_size, rel_path)
     return url
 
-def directors_list(id_, ia):
-    l = ia.get_movie(id_).data['director']
-    d_string = ''
-    for i in range(len(l)):
-        if i == len(l) - 1:
-            d_string += str(l[i])
-        else:
-            d_string += f'{str(l[i])}, '
-
-    return d_string
-
-
-def creators_list(id_, ia):
-    l = list(set(ia.get_movie(id_).data['writer']))
-    d_string = ''
-    for i in range(len(l)):
-        if i == len(l) - 1:
-            d_string += str(l[i])
-        else:
-            d_string += f'{str(l[i])}, '
-
-    return d_string
-
 def update_movie_database(spec):
-    with open(f'./data/add/{spec}.txt', 'r') as f:
-        movies = f.readlines()
 
-    f = open(f'./data/add/{spec}.txt', 'w+')
-    f.close()
 
-    for i in range(len(movies)):
-        print(f'adding \'{movies[i]}\'...'.replace("\n", "")) 
-        movies[i] = imdb_title_from_search(movies[i])
+
 
     with open(f'./data/favorites/films/{spec}.json', 'r') as json_file:
         data = json.load(json_file)
 
-        new_movies = {}
-        ia = imdb.IMDb()
+    ids = []
+    for title in data:
+        ids.append(data[title]['id'])
 
-        for movie in movies:
-            # movie is in the list, but not present in the dictionary
-            new_movies[movie] = {}
-            new_movies[movie]['id'] = imdb_id_from_title(movie)
-            new_movies[movie]['title'] = movie
-            new_movies[movie]['image'] = get_movie_url(new_movies[movie]['id'], spec)
-            new_movies[movie]['rating'] = ia.get_movie(new_movies[movie]['id']).data['rating']
-            if spec == 'shows':
-                new_movies[movie]['creator'] = creators_list(new_movies[movie]['id'], ia)
-            else:
-                new_movies[movie]['director'] = directors_list(new_movies[movie]['id'], ia)
+    new_movies = {}
+    ia = imdb.IMDb()
 
-    data.update(new_movies)        
+    for id_ in ids:
+        dta = ia.get_movie(id_)
+        movie = dta.data['title']
+        print(movie)
+        # movie is in the list, but not present in the dictionary
+        new_movies[movie] = {}
+        new_movies[movie]['id'] = id_
+        new_movies[movie]['title'] = movie
+        new_movies[movie]['image'] = get_movie_url(new_movies[movie]['id'], spec)
+        new_movies[movie]['rating'] = dta.data['rating']
+        new_movies[movie]['director'] = str(dta.data['director'][0])   
 
     with open(f'./data/favorites/films/{spec}.json', 'w') as json_file: 
-        json.dump(data, json_file, indent=4)
+        json.dump(new_movies, json_file, indent=4)
         
-if __name__ == "__main__":
-    print('testing...')
-    update_movie_database()
 # EXTRA:
 
 # DOWNLOADING IMG

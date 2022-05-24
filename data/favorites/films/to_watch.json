@@ -1,0 +1,247 @@
+{
+    "2001: A Space Odyssey": {
+        "id": "0062622",
+        "title": "2001: A Space Odyssey",
+        "image": "http://image.tmdb.org/t/p/original/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+        "rating": 8.3,
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
+    },
+    "Schindler's List": {
+        "id": "0108052",
+        "title": "Schindler's List",
+        "image": "http://image.tmdb.org/t/p/original/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+        "rating": 9.0,
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
+    },
+    "Gladiator": {
+        "id": "0172495",
+        "title": "Gladiator",
+        "image": "http://image.tmdb.org/t/p/original/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+        "rating": 8.5,
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
+    },
+    "Memento": {
+        "id": "0209144",
+        "title": "Memento",
+        "image": "http://image.tmdb.org/t/p/original/yuNs09hvpHVU1cBTCAk9zxsL2oW.jpg",
+        "rating": 8.4,
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
+    },
+    "One Flew Over the Cuckoo's Nest": {
+        "id": "0073486",
+        "title": "One Flew Over the Cuckoo's Nest",
+        "image": "http://image.tmdb.org/t/p/original/3jcbDmRFiQ83drXNOvRDeKHxS0C.jpg",
+        "rating": 8.7,
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
+    },
+    "Casablanca": {
+        "id": "0034583",
+        "title": "Casablanca",
+        "image": "http://image.tmdb.org/t/p/original/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
+        "rating": 8.5,
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
+    },
+    "Kill Bill: Vol. 1": {
+        "id": "0266697",
+        "title": "Kill Bill: Vol. 1",
+        "image": "http://image.tmdb.org/t/p/original/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+        "rating": 8.2,
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
+    },
+    "Reservoir Dogs": {
+        "id": "0105236",
+        "title": "Reservoir Dogs",
+        "image": "http://image.tmdb.org/t/p/original/AjTtJNumZyUDz33VtMlF1K8JPsE.jpg",
+        "rating": 8.3,
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
+    },
+    "Citizen Kane": {
+        "id": "0033467",
+        "title": "Citizen Kane",
+        "image": "http://image.tmdb.org/t/p/original/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+        "rating": 8.3,
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
+    },
+    "Inglourious Basterds": {
+        "id": "0361748",
+        "title": "Inglourious Basterds",
+        "image": "http://image.tmdb.org/t/p/original/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg",
+        "rating": 8.3,
+        "scorecard": {
+            "screenplay": 0.0,
+            "acting": 0.0,
+            "score": 0.0,
+            "cinematography": 0.0,
+            "replay_value": 0.0
+        },
+        "asboyer_score": 0.0
+    },
+    "The Green Mile": {
+        "id": "0120689",
+        "title": "The Green Mile",
+        "image": "http://image.tmdb.org/t/p/original/velWPhVMQeQKcxggNEU8YmIo52R.jpg",
+        "rating": 8.6,
+        "director": "Frank Darabont"
+    },
+    "Apocalypse Now": {
+        "id": "0078788",
+        "title": "Apocalypse Now",
+        "image": "http://image.tmdb.org/t/p/original/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+        "rating": 8.5,
+        "director": "Francis Ford Coppola"
+    },
+    "The Great Escape": {
+        "id": "0057115",
+        "title": "The Great Escape",
+        "image": "http://image.tmdb.org/t/p/original/gBH4H8UMFxl139HaLz6lRuvsel8.jpg",
+        "rating": 8.2,
+        "director": "John Sturges"
+    },
+    "Rocky": {
+        "id": "0075148",
+        "title": "Rocky",
+        "image": "http://image.tmdb.org/t/p/original/hEjK9A9BkNXejFW4tfacVAEHtkn.jpg",
+        "rating": 8.1,
+        "director": "John G. Avildsen"
+    },
+    "Blade Runner": {
+        "id": "0083658",
+        "title": "Blade Runner",
+        "image": "http://image.tmdb.org/t/p/original/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+        "rating": 8.1,
+        "director": "Ridley Scott"
+    },
+    "Seven Samurai": {
+        "id": "0047478",
+        "title": "Seven Samurai",
+        "image": "http://image.tmdb.org/t/p/original/iAq0sq42vKTLneVGqHn1D4GzgrM.jpg",
+        "rating": 8.6,
+        "director": "Akira Kurosawa"
+    },
+    "Hara-Kiri": {
+        "id": "0056058",
+        "title": "Hara-Kiri",
+        "image": "http://image.tmdb.org/t/p/original/w7pWcLaYQkbtRUn99K6ome0DblL.jpg",
+        "rating": 8.6,
+        "director": "Masaki Kobayashi"
+    },
+    "The Searchers": {
+        "id": "0049730",
+        "title": "The Searchers",
+        "image": "http://image.tmdb.org/t/p/original/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg",
+        "rating": 7.9,
+        "director": "John Ford"
+    },
+    "High Noon": {
+        "id": "0044706",
+        "title": "High Noon",
+        "image": "http://image.tmdb.org/t/p/original/nUSLv12qQWhHB60PqXDBRP1wmJa.jpg",
+        "rating": 8.0,
+        "director": "Fred Zinnemann"
+    },
+    "A Fistful of Dollars": {
+        "id": "0058461",
+        "title": "A Fistful of Dollars",
+        "image": "http://image.tmdb.org/t/p/original/lBwOEpwVeUAmrmglcstnaGcJq3Y.jpg",
+        "rating": 7.9,
+        "director": "Sergio Leone"
+    },
+    "For a Few Dollars More": {
+        "id": "0059578",
+        "title": "For a Few Dollars More",
+        "image": "http://image.tmdb.org/t/p/original/vVUIAVsh2lMzweyrbdsOgiZoQuy.jpg",
+        "rating": 8.2,
+        "director": "Sergio Leone"
+    },
+    "The Outlaw Josey Wales": {
+        "id": "0075029",
+        "title": "The Outlaw Josey Wales",
+        "image": "http://image.tmdb.org/t/p/original/92BZIFPbyCPNhExyFScxA3xF1dy.jpg",
+        "rating": 7.8,
+        "director": "Clint Eastwood"
+    },
+    "Pale Rider": {
+        "id": "0089767",
+        "title": "Pale Rider",
+        "image": "http://image.tmdb.org/t/p/original/kpAN5WnDEVWYzMDPkXHTbrDQuak.jpg",
+        "rating": 7.3,
+        "director": "Clint Eastwood"
+    },
+    "High Plains Drifter": {
+        "id": "0068699",
+        "title": "High Plains Drifter",
+        "image": "http://image.tmdb.org/t/p/original/zEpttlC8KOzjkBqmDqZgy3Y6LC8.jpg",
+        "rating": 7.5,
+        "director": "Clint Eastwood"
+    },
+    "Eternal Sunshine of the Spotless Mind": {
+        "id": "0338013",
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "image": "http://image.tmdb.org/t/p/original/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+        "rating": 8.3,
+        "director": "Michel Gondry"
+    }
+}

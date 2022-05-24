@@ -7,22 +7,6 @@
         "color": "#FFFFFF",
         "status": "reading"
     },
-    "The Power of Habit: Why We Do What We Do in Life and Business": {
-        "author": "Charles Duhigg",
-        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545854312l/12609433._SY475_.jpg",
-        "title": "The Power of Habit: Why We Do What We Do in Life and Business",
-        "link": "https://amzn.to/3IKBmg7",
-        "color": "#FFE815",
-        "status": "reading"
-    },
-    "Brain Rules": {
-        "author": "John Medina",
-        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328763686l/2251306.jpg",
-        "title": "Brain Rules: 12 Principles for Surviving and Thriving at Work, Home, and School",
-        "link": "https://amzn.to/3DnTKKL",
-        "color": "#FFFFFF",
-        "status": "reading"
-    },
     "Shadow Puppets": {
         "author": "Orson Scott Card",
         "img": "https://images-na.ssl-images-amazon.com/images/I/81LXQUuPFnL.jpg",
@@ -61,7 +45,7 @@
         "link": "https://amzn.to/3DdT8HD",
         "title": "Think and Grow Rich",
         "color": "#FFFFFF",
-        "status": "want"
+        "status": "reading"
     },
     "Four Thousand Weeks: Time Management for Mortals": {
         "author": "Oliver Burkeman",
@@ -83,8 +67,40 @@
         "author": "James Clear",
         "link": "https://amzn.to/36C9OfT",
         "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535115320l/40121378._SY475_.jpg",
-        "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+        "title": "Atomic Habits",
         "color": "#F6F6EA",
+        "status": "want"
+    },
+    "The Way of the Superior Man": {
+        "title": "The Way of the Superior Man",
+        "author": "David Deida",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/91gWSXWDVoL.jpg",
+        "link": "https://amzn.to/3760Vf2",
+        "color": "#C35A12",
+        "status": "reading"
+    },
+    "Why We Sleep": {
+        "title": "Why We Sleep",
+        "author": "Matthew Walker",
+        "img": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781501144325/why-we-sleep-9781501144325_hr.jpg",
+        "link": "https://amzn.to/39kUl4R",
+        "color": "#001A37",
+        "status": "want"
+    },
+    "How to Become a Straight-A Student": {
+        "title": "How to Become a Straight-A Student",
+        "author": "Cal Newport",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/41KEh8IqY6L._SX322_BO1,204,203,200_.jpg",
+        "link": "https://amzn.to/3LLDua1",
+        "color": "#DF2028",
+        "status": "want"
+    },
+    "How to Win at College": {
+        "title": "How to Win at College",
+        "author": "Cal Newport",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/71BsKYSP9uL.jpg",
+        "link": "https://amzn.to/3EZ1jZe",
+        "color": "#FFC60C",
         "status": "want"
     }
 }

@@ -4,8 +4,6 @@ with open(f'./data/favorites/music/music_all_time.json', 'r') as json_file:
     all_time_data = json.load(json_file)
 
 top = ['Kanye West', 
-    'Playboi Carti', 
-    'Lil Uzi Vert', 
     'Michael Jackson', 
     'Post Malone', 
     'Don Toliver', 
@@ -16,33 +14,39 @@ top = ['Kanye West',
     'J. Cole',
     'Maroon 5',
     'Jack Johnson',
-    'Future, Juice WRLD',
     'Khalid',
     'Trippie Redd',
     'The Weekend',
     'Old Dominion',
-    'Tory Lanez',
     'Miles Davis',
     'Tim McGraw',
     'Kendrick Lamar',
     'Fleetwood Mac',
     'Radiohead',
     'Ariana Grande',
-    'Bryson Tiller'
+    'Bryson Tiller',
+    'Nirvana',
+    'AC/DC',
+    'Baby Keem',
+    "BROCKHAMPTON",
+    'Polo G',
+    'Duke Ellington, John Coltrane'
     ]
 
-top_a = ['?', 'Boston', 'Hoodie SZN', 'Loose', 'Confessions of a Dangerous Mind', 'So Much Fun', 'Flower Boy', 'Thats What They All Say', 'Sweet Action']
+top_a = ['?', 'Boston', 'Hoodie SZN', 'Loose', 'Confessions of a Dangerous Mind', 'So Much Fun', 'Flower Boy', 'Thats What They All Say', 'Sweet Action', "Die Lit", "Luv Is Rage 2 (Deluxe)", 'Madvillainy', 'Subluxe']
 for album in all_time_data:
     if all_time_data[album]['artists'] in top or all_time_data[album]['name'] in top_a:
-        if all_time_data[album]['name'] == 'Graduation':
-            score = .98
-        elif all_time_data[album]['name'] == "My Beautiful Dark Twisted Fantasy":
+        # if all_time_data[album]['name'] == 'Graduation':
+        #     score = .98
+        if all_time_data[album]['name'] == "My Beautiful Dark Twisted Fantasy":
             score = .925
+        elif all_time_data[album]['name'] == 'Sweet Action':
+            score = .915
         # elif all_time_data[album]['name'] == 'Late Registration':
         #     score = .979
         else:
             score = (len(all_time_data[album]['top_tracks'])*1.5 + len(all_time_data[album]['good_tracks'])*1.25)/(all_time_data[album]['total_tracks']*1.5)
-    elif all_time_data[album]['artists'] == 'Frank Ocean':
+    elif all_time_data[album]['artists'] == 'Frank Ocean' or all_time_data[album]['name'] == 'Whole Lotta Red' or all_time_data[album]['name'] == 'Eternal Atake' or all_time_data[album]['name'] == 'Future & Juice WRLD Present... WRLD ON DRUGS':
         score = (len(all_time_data[album]['top_tracks'])*2 + len(all_time_data[album]['good_tracks'])*1.87)/(all_time_data[album]['total_tracks']*2)
     else:
         score = (len(all_time_data[album]['top_tracks'])*1.4 + len(all_time_data[album]['good_tracks']))/(all_time_data[album]['total_tracks']*1.4)

@@ -30,10 +30,10 @@ p = inflect.engine()
 
 age_string = p.number_to_words(calculateAge(birthday))
 
-if age_string.startswith('eight'):
-    age_string = "n " + age_string
-else:
-    age_string = " " + age_string
+# if age_string.startswith('eight'):
+#     age_string = "n " + age_string
+# else:
+age_string = " " + age_string
 
 soon_posts = []
 
@@ -53,10 +53,6 @@ Bootstrap(app)
 class NameForm(FlaskForm):
     name = StringField('your favorite email: ', validators=[DataRequired()])
     submit = SubmitField('Submit')    
-
-@app.route("/")
-def index():
-    return render_template("index.html", age=age_string, grade=grade, school=school)
 
 @app.route("/<page>")
 def main_page(page):
@@ -126,6 +122,25 @@ def add_email(email, emails):
         'date': datetime.now(timezone('US/Eastern')).strftime("%d/%m/%Y %I:%M:%S")
     }
     store_emails(emails)
+
+
+@app.route("/", methods=['GET', 'POST'])
+def index(): 
+    # you must tell the variable 'form' what you named the class, above
+    # 'form' is the variable name used in this template: index.html
+    form = NameForm()
+    message = ""
+    if form.validate_on_submit():
+        email = form.name.data.lower()
+        message = confirm_email(email.strip())
+        if message == True:
+            # send_email(email, 'Welcome to asboyer.com!', 'You are signed on for future updates regarding asboyer.com and Boyer\'s Blog!')
+            form.name.data = ""
+            add_email(email, get_emails())
+            message = "thanks, you are signed up for updates!"
+
+    return render_template("index.html", age=age_string, grade=grade, form=form, school=school, message=message)
+
 
 @app.route("/blog", methods=['GET', 'POST'])
 def blog():
@@ -207,6 +222,12 @@ def booklist_json():
 def movies():
     return render_template("favorites/movies/movies.html")
 
+
+# movies
+@app.route("/movies/to_watch")
+def movies_to_watch():
+    return render_template("favorites/movies/to_watch.html")
+
 @app.route("/shows")
 def shows():
     return render_template("favorites/shows/shows.html")
@@ -223,6 +244,12 @@ def se2():
 @app.route("/data/movies.json")
 def movies_json():
     f = open('data/favorites/films/movies.json')
+    data = json.load(f)
+    return data
+
+@app.route("/data/to_watch.json")
+def movies_json_to_watch():
+    f = open('data/favorites/films/to_watch.json')
     data = json.load(f)
     return data
 
@@ -528,4 +555,22 @@ def load_music_current_songs_4102022():
 @app.route("/archive/music/10")
 def music_archive_4102022():
     return render_template("archive/music/4102022.html")
+    
+#####################5/8/2022 music backup here#####################
+
+@app.route("/data/archive/music/582022/music_current.json")
+def load_music_current_582022():
+    f = open('data/archive/music/582022/music_current.json')
+    data = json.load(f)
+    return data
+
+@app.route("/data/archive/music/582022/music_current_songs.json")
+def load_music_current_songs_582022():
+    f = open('data/archive/music/582022/music_current_songs.json')
+    data = json.load(f)
+    return data
+
+@app.route("/archive/music/11")
+def music_archive_582022():
+    return render_template("archive/music/582022.html")
     

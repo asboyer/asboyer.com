@@ -132,6 +132,13 @@ label.form-control-label {
     font-family: monospace
 }
 
+
+.form_message_ind {
+    letter-spacing: 0em;
+    font-family: monospace;
+    margin: 0;
+}
+
 .btn:hover {
     transform: scale(1.25);
 }
@@ -2877,4 +2884,10 @@ blockquote p::after {
     #special-cont {
         display: none;
     }
+}
+.signup {
+    border-bottom: var(--clr-accent) 1px solid; 
+    padding: 0px;
+    padding-bottom: 2em;
+    text-align: center;
 }

@@ -1,744 +1,415 @@
 {
     "The Departed": {
         "id": "0407887",
+        "title": "The Departed",
         "image": "http://image.tmdb.org/t/p/original/kWWAt2FMRbqLFFy8o5R4Zr8cMAb.jpg",
         "rating": 8.5,
-        "title": "The Departed",
-        "scorecard": {
-            "screenplay": 10.0,
-            "acting": 10.0,
-            "score": 8.0,
-            "cinematography": 8.0,
-            "replay_value": 9.0
-        },
-        "asboyer_score": 8.92
+        "director": "Martin Scorsese"
     },
     "Dead Poets Society": {
         "id": "0097165",
+        "title": "Dead Poets Society",
         "image": "http://image.tmdb.org/t/p/original/ai40gM7SUaGA6fthvsd87o8IQq4.jpg",
         "rating": 8.1,
-        "title": "Dead Poets Society",
-        "scorecard": {
-            "screenplay": 10.0,
-            "acting": 10.0,
-            "score": 10.0,
-            "cinematography": 10.0,
-            "replay_value": 10.0
-        },
-        "asboyer_score": 10.0
+        "director": "Peter Weir"
     },
     "Indiana Jones and the Raiders of the Lost Ark": {
         "id": "0082971",
-        "image": "http://image.tmdb.org/t/p/original/awUGN7ZCNq2EUTdpVaHDX23anOZ.jpg",
-        "rating": 8.4,
         "title": "Indiana Jones and the Raiders of the Lost Ark",
-        "scorecard": {
-            "screenplay": 8.0,
-            "acting": 8.0,
-            "score": 10.0,
-            "cinematography": 8.0,
-            "replay_value": 9.0
-        },
-        "asboyer_score": 8.57
+        "image": "http://image.tmdb.org/t/p/original/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+        "rating": 8.4,
+        "director": "Steven Spielberg"
     },
     "Catch Me If You Can": {
         "id": "0264464",
-        "image": "http://image.tmdb.org/t/p/original/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
-        "rating": 8.1,
         "title": "Catch Me If You Can",
-        "scorecard": {
-            "screenplay": 10.0,
-            "acting": 10.0,
-            "score": 9.0,
-            "cinematography": 9.0,
-            "replay_value": 10.0
-        },
-        "asboyer_score": 9.35
+        "image": "http://image.tmdb.org/t/p/original/sdYgEkKCDPWNU6KnoL4qd8xZ4w7.jpg",
+        "rating": 8.1,
+        "director": "Steven Spielberg"
     },
     "Pulp Fiction": {
         "id": "0110912",
-        "image": "http://image.tmdb.org/t/p/original/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
-        "rating": 8.9,
         "title": "Pulp Fiction",
-        "scorecard": {
-            "screenplay": 10.0,
-            "acting": 10.0,
-            "score": 7.0,
-            "cinematography": 10.0,
-            "replay_value": 8.0
-        },
-        "asboyer_score": 8.98
+        "image": "http://image.tmdb.org/t/p/original/fIE3lAGcZDV1G6XM5KmuWnNsPp1.jpg",
+        "rating": 8.9,
+        "director": "Quentin Tarantino"
     },
     "Good Will Hunting": {
         "id": "0119217",
+        "title": "Good Will Hunting",
         "image": "http://image.tmdb.org/t/p/original/bABCBKYBK7A5G1x0FzoeoNfuj2.jpg",
         "rating": 8.3,
-        "title": "Good Will Hunting",
-        "scorecard": {
-            "screenplay": 9.0,
-            "acting": 10.0,
-            "score": 8.0,
-            "cinematography": 9.0,
-            "replay_value": 8.0
-        },
-        "asboyer_score": 8.72
+        "director": "Gus Van Sant"
     },
     "The Social Network": {
         "id": "1285016",
-        "image": "http://image.tmdb.org/t/p/original/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
-        "rating": 7.7,
         "title": "The Social Network",
-        "scorecard": {
-            "screenplay": 10.0,
-            "acting": 10.0,
-            "score": 10.0,
-            "cinematography": 10.0,
-            "replay_value": 10.0
-        },
-        "asboyer_score": 10.0
+        "image": "http://image.tmdb.org/t/p/original/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+        "rating": 7.8,
+        "director": "David Fincher"
     },
     "The Shawshank Redemption": {
         "id": "0111161",
+        "title": "The Shawshank Redemption",
         "image": "http://image.tmdb.org/t/p/original/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
         "rating": 9.3,
-        "title": "The Shawshank Redemption",
-        "scorecard": {
-            "screenplay": 10.0,
-            "acting": 10.0,
-            "score": 7.0,
-            "cinematography": 10.0,
-            "replay_value": 10.0
-        },
-        "asboyer_score": 9.38
+        "director": "Frank Darabont"
     },
     "Se7en": {
         "id": "0114369",
+        "title": "Se7en",
         "image": "http://image.tmdb.org/t/p/original/69Sns8WoET6CfaYlIkHbla4l7nC.jpg",
         "rating": 8.6,
-        "title": "Se7en",
-        "scorecard": {
-            "screenplay": 9.0,
-            "acting": 9.0,
-            "score": 5.0,
-            "cinematography": 8.0,
-            "replay_value": 7.0
-        },
-        "asboyer_score": 7.77
+        "director": "David Fincher"
     },
     "The Dark Knight": {
         "id": "0468569",
+        "title": "The Dark Knight",
         "image": "http://image.tmdb.org/t/p/original/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
         "rating": 9.0,
-        "title": "The Dark Knight",
-        "scorecard": {
-            "screenplay": 10.0,
-            "acting": 10.0,
-            "score": 10.0,
-            "cinematography": 10.0,
-            "replay_value": 10.0
-        },
-        "asboyer_score": 10.0
+        "director": "Christopher Nolan"
     },
     "The Dark Knight Rises": {
         "id": "1345836",
-        "image": "http://image.tmdb.org/t/p/original/vzvKcPQ4o7TjWeGIn0aGC9FeVNu.jpg",
-        "rating": 8.4,
         "title": "The Dark Knight Rises",
-        "scorecard": {
-            "screenplay": 9.0,
-            "acting": 9.0,
-            "score": 10.0,
-            "cinematography": 10.0,
-            "replay_value": 10.0
-        },
-        "asboyer_score": 9.4
+        "image": "http://image.tmdb.org/t/p/original/85cWkCVftiVs0BVey6pxX8uNmLt.jpg",
+        "rating": 8.4,
+        "director": "Christopher Nolan"
     },
     "La La Land": {
         "id": "3783958",
+        "title": "La La Land",
         "image": "http://image.tmdb.org/t/p/original/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
         "rating": 8.0,
-        "title": "La La Land",
-        "scorecard": {
-            "screenplay": 8.0,
-            "acting": 8.0,
-            "score": 10.0,
-            "cinematography": 10.0,
-            "replay_value": 8.0
-        },
-        "asboyer_score": 8.67
+        "director": "Damien Chazelle"
     },
     "TRON: Legacy": {
         "id": "1104001",
+        "title": "TRON: Legacy",
         "image": "http://image.tmdb.org/t/p/original/vuifSABRpSnxCAOxEnWpNbZSXpp.jpg",
         "rating": 6.8,
-        "title": "TRON: Legacy",
-        "scorecard": {
-            "screenplay": 10.0,
-            "acting": 10.0,
-            "score": 10.0,
-            "cinematography": 10.0,
-            "replay_value": 10.0
-        },
-        "asboyer_score": 10.0
+        "director": "Joseph Kosinski"
     },
     "WarGames": {
         "id": "0086567",
+        "title": "WarGames",
         "image": "http://image.tmdb.org/t/p/original/ndORBCvw8TJaQYvBgkYGg0IWrRM.jpg",
         "rating": 7.1,
-        "title": "WarGames",
-        "scorecard": {
-            "screenplay": 10.0,
-            "acting": 7.0,
-            "score": 5.0,
-            "cinematography": 7.0,
-            "replay_value": 7.0
-        },
-        "asboyer_score": 7.18
+        "director": "John Badham"
     },
     "The Pursuit of Happyness": {
         "id": "0454921",
+        "title": "The Pursuit of Happyness",
         "image": "http://image.tmdb.org/t/p/original/lBYOKAMcxIvuk9s9hMuecB9dPBV.jpg",
         "rating": 8.0,
-        "title": "The Pursuit of Happyness",
-        "scorecard": {
-            "screenplay": 9.0,
-            "acting": 9.0,
-            "score": 9.0,
-            "cinematography": 7.0,
-            "replay_value": 8.0
-        },
-        "asboyer_score": 8.33
+        "director": "Gabriele Muccino"
     },
     "Limitless": {
         "id": "1219289",
+        "title": "Limitless",
         "image": "http://image.tmdb.org/t/p/original/hv5JMCrMVLvV6HKPf9FcBuyk2MG.jpg",
         "rating": 7.4,
-        "title": "Limitless",
-        "scorecard": {
-            "screenplay": 10.0,
-            "acting": 8.0,
-            "score": 10.0,
-            "cinematography": 7.0,
-            "replay_value": 10.0
-        },
-        "asboyer_score": 8.73
+        "director": "Neil Burger"
     },
     "Interstellar": {
         "id": "0816692",
+        "title": "Interstellar",
         "image": "http://image.tmdb.org/t/p/original/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
         "rating": 8.6,
-        "title": "Interstellar",
-        "scorecard": {
-            "screenplay": 8.0,
-            "acting": 8.0,
-            "score": 10.0,
-            "cinematography": 10.0,
-            "replay_value": 7.0
-        },
-        "asboyer_score": 8.6
+        "director": "Christopher Nolan"
     },
     "Ocean's Eleven": {
         "id": "0240772",
+        "title": "Ocean's Eleven",
         "image": "http://image.tmdb.org/t/p/original/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
         "rating": 7.7,
-        "title": "Ocean's Eleven",
-        "scorecard": {
-            "screenplay": 10.0,
-            "acting": 10.0,
-            "score": 10.0,
-            "cinematography": 10.0,
-            "replay_value": 10.0
-        },
-        "asboyer_score": 10.0
+        "director": "Steven Soderbergh"
     },
     "Ocean's Twelve": {
         "id": "0349903",
-        "image": "http://image.tmdb.org/t/p/original/4y8WH1lIpXp0qxUWkYmObhuMRIU.jpg",
-        "rating": 6.5,
         "title": "Ocean's Twelve",
-        "scorecard": {
-            "screenplay": 7.0,
-            "acting": 7.0,
-            "score": 10.0,
-            "cinematography": 10.0,
-            "replay_value": 10.0
-        },
-        "asboyer_score": 8.42
+        "image": "http://image.tmdb.org/t/p/original/pE5anFf7nf6ah7V3VRezQ1KSovi.jpg",
+        "rating": 6.4,
+        "director": "Steven Soderbergh"
     },
     "Ocean's Thirteen": {
         "id": "0496806",
-        "image": "http://image.tmdb.org/t/p/original/5Hjp3pOvvO4DBAId3dxUsuIpfEm.jpg",
-        "rating": 6.9,
         "title": "Ocean's Thirteen",
-        "scorecard": {
-            "screenplay": 9.0,
-            "acting": 10.0,
-            "score": 10.0,
-            "cinematography": 10.0,
-            "replay_value": 10.0
-        },
-        "asboyer_score": 9.32
+        "image": "http://image.tmdb.org/t/p/original/pBsZs4zYUiUTemqbikTZ76iQRaU.jpg",
+        "rating": 6.9,
+        "director": "Steven Soderbergh"
     },
     "Star Wars: Episode V - The Empire Strikes Back": {
         "id": "0080684",
-        "image": "http://image.tmdb.org/t/p/original/7BuH8itoSrLExs2YZSsM01Qk2no.jpg",
-        "rating": 8.7,
         "title": "Star Wars: Episode V - The Empire Strikes Back",
-        "scorecard": {
-            "screenplay": 9.0,
-            "acting": 7.0,
-            "score": 10.0,
-            "cinematography": 7.0,
-            "replay_value": 8.0
-        },
-        "asboyer_score": 8.28
+        "image": "http://image.tmdb.org/t/p/original/s12hAKDCui6S8GIyRIaz6oKe5OW.jpg",
+        "rating": 8.7,
+        "director": "Irvin Kershner"
     },
-    "Star Wars: Episode IV - A New Hope": {
+    "Star Wars": {
         "id": "0076759",
+        "title": "Star Wars",
         "image": "http://image.tmdb.org/t/p/original/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
         "rating": 8.6,
-        "title": "Star Wars: Episode IV - A New Hope",
-        "scorecard": {
-            "screenplay": 10.0,
-            "acting": 8.0,
-            "score": 10.0,
-            "cinematography": 6.0,
-            "replay_value": 9.0
-        },
-        "asboyer_score": 8.6
+        "director": "George Lucas"
     },
     "Star Wars: Episode III - Revenge of the Sith": {
         "id": "0121766",
-        "image": "http://image.tmdb.org/t/p/original/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
-        "rating": 7.5,
         "title": "Star Wars: Episode III - Revenge of the Sith",
-        "scorecard": {
-            "screenplay": 10.0,
-            "acting": 9.0,
-            "score": 10.0,
-            "cinematography": 9.0,
-            "replay_value": 10.0
-        },
-        "asboyer_score": 9.25
+        "image": "http://image.tmdb.org/t/p/original/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
+        "rating": 7.6,
+        "director": "George Lucas"
     },
     "Rogue One: A Star Wars Story": {
         "id": "3748528",
-        "image": "http://image.tmdb.org/t/p/original/5jX3p0apUG5bkMHtnKZch0xpkBS.jpg",
-        "rating": 7.8,
         "title": "Rogue One: A Star Wars Story",
-        "scorecard": {
-            "screenplay": 10.0,
-            "acting": 9.0,
-            "score": 9.0,
-            "cinematography": 8.0,
-            "replay_value": 10.0
-        },
-        "asboyer_score": 8.97
+        "image": "http://image.tmdb.org/t/p/original/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+        "rating": 7.8,
+        "director": "Gareth Edwards"
     },
     "Avengers: Infinity War": {
         "id": "4154756",
+        "title": "Avengers: Infinity War",
         "image": "http://image.tmdb.org/t/p/original/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
         "rating": 8.4,
-        "title": "Avengers: Infinity War",
-        "scorecard": {
-            "screenplay": 10.0,
-            "acting": 8.0,
-            "score": 8.0,
-            "cinematography": 8.0,
-            "replay_value": 9.0
-        },
-        "asboyer_score": 8.57
+        "director": "Anthony Russo, Joe Russo"
     },
     "Captain America: The Winter Soldier": {
         "id": "1843866",
-        "image": "http://image.tmdb.org/t/p/original/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
-        "rating": 7.7,
         "title": "Captain America: The Winter Soldier",
-        "scorecard": {
-            "screenplay": 10.0,
-            "acting": 8.0,
-            "score": 9.0,
-            "cinematography": 10.0,
-            "replay_value": 10.0
-        },
-        "asboyer_score": 9.12
+        "image": "http://image.tmdb.org/t/p/original/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+        "rating": 7.8,
+        "director": "Anthony Russo"
     },
     "Spider-Man: Into the Spider-Verse": {
         "id": "4633694",
+        "title": "Spider-Man: Into the Spider-Verse",
         "image": "http://image.tmdb.org/t/p/original/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
         "rating": 8.4,
-        "title": "Spider-Man: Into the Spider-Verse",
-        "scorecard": {
-            "screenplay": 8.0,
-            "acting": 8.0,
-            "score": 9.0,
-            "cinematography": 10.0,
-            "replay_value": 9.0
-        },
-        "asboyer_score": 8.73
+        "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman"
     },
     "The Amazing Spider-Man 2": {
         "id": "1872181",
+        "title": "The Amazing Spider-Man 2",
         "image": "http://image.tmdb.org/t/p/original/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg",
         "rating": 6.6,
-        "title": "The Amazing Spider-Man 2",
-        "scorecard": {
-            "screenplay": 8.0,
-            "acting": 8.0,
-            "score": 10.0,
-            "cinematography": 9.0,
-            "replay_value": 10.0
-        },
-        "asboyer_score": 8.6
+        "director": "Marc Webb"
     },
     "The Lord of the Rings: The Fellowship of the Ring": {
         "id": "0120737",
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
         "image": "http://image.tmdb.org/t/p/original/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
         "rating": 8.8,
-        "title": "The Lord of the Rings: The Fellowship of the Ring",
-        "scorecard": {
-            "screenplay": 8.0,
-            "acting": 8.0,
-            "score": 10.0,
-            "cinematography": 8.0,
-            "replay_value": 7.0
-        },
-        "asboyer_score": 8.3
+        "director": "Peter Jackson"
     },
     "The Lord of the Rings: The Two Towers": {
         "id": "0167261",
-        "image": "http://image.tmdb.org/t/p/original/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
-        "rating": 8.7,
         "title": "The Lord of the Rings: The Two Towers",
-        "scorecard": {
-            "screenplay": 7.0,
-            "acting": 8.0,
-            "score": 10.0,
-            "cinematography": 8.0,
-            "replay_value": 7.0
-        },
-        "asboyer_score": 8.12
+        "image": "http://image.tmdb.org/t/p/original/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+        "rating": 8.8,
+        "director": "Peter Jackson"
     },
     "The Lord of the Rings: The Return of the King": {
         "id": "0167260",
-        "image": "http://image.tmdb.org/t/p/original/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
-        "rating": 8.9,
         "title": "The Lord of the Rings: The Return of the King",
-        "scorecard": {
-            "screenplay": 10.0,
-            "acting": 8.0,
-            "score": 10.0,
-            "cinematography": 9.0,
-            "replay_value": 8.0
-        },
-        "asboyer_score": 8.98
+        "image": "http://image.tmdb.org/t/p/original/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+        "rating": 9.0,
+        "director": "Peter Jackson"
     },
     "Back to the Future": {
         "id": "0088763",
+        "title": "Back to the Future",
         "image": "http://image.tmdb.org/t/p/original/7lyBcpYB0Qt8gYhXYaEZUNlNQAv.jpg",
         "rating": 8.5,
-        "title": "Back to the Future",
-        "scorecard": {
-            "screenplay": 10.0,
-            "acting": 8.0,
-            "score": 9.0,
-            "cinematography": 7.0,
-            "replay_value": 9.0
-        },
-        "asboyer_score": 8.58
+        "director": "Robert Zemeckis"
     },
     "Back to the Future Part III": {
         "id": "0099088",
+        "title": "Back to the Future Part III",
         "image": "http://image.tmdb.org/t/p/original/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
         "rating": 7.4,
-        "title": "Back to the Future Part III",
-        "scorecard": {
-            "screenplay": 9.0,
-            "acting": 8.0,
-            "score": 8.0,
-            "cinematography": 7.0,
-            "replay_value": 7.0
-        },
-        "asboyer_score": 7.73
+        "director": "Robert Zemeckis"
     },
     "Home Alone": {
         "id": "0099785",
-        "image": "http://image.tmdb.org/t/p/original/9wSbe4CwObACCQvaUVhWQyLR5Vz.jpg",
-        "rating": 7.6,
         "title": "Home Alone",
-        "scorecard": {
-            "screenplay": 10.0,
-            "acting": 8.0,
-            "score": 10.0,
-            "cinematography": 7.0,
-            "replay_value": 10.0
-        },
-        "asboyer_score": 8.77
+        "image": "http://image.tmdb.org/t/p/original/9wSbe4CwObACCQvaUVhWQyLR5Vz.jpg",
+        "rating": 7.7,
+        "director": "Chris Columbus"
     },
     "Monsters University": {
         "id": "1453405",
-        "image": "http://image.tmdb.org/t/p/original/upaMBEonGeZGQc3xtUVZOfe1lGl.jpg",
-        "rating": 7.2,
         "title": "Monsters University",
-        "scorecard": {
-            "screenplay": 9.0,
-            "acting": 8.0,
-            "score": 8.0,
-            "cinematography": 8.0,
-            "replay_value": 8.0
-        },
-        "asboyer_score": 8.03
+        "image": "http://image.tmdb.org/t/p/original/upaMBEonGeZGQc3xtUVZOfe1lGl.jpg",
+        "rating": 7.3,
+        "director": "Dan Scanlon"
     },
     "Cars": {
         "id": "0317219",
-        "image": "http://image.tmdb.org/t/p/original/abW5AzHDaIK1n9C36VdAeOwORRA.jpg",
-        "rating": 7.1,
         "title": "Cars",
-        "scorecard": {
-            "screenplay": 10.0,
-            "acting": 9.0,
-            "score": 9.0,
-            "cinematography": 9.0,
-            "replay_value": 9.0
-        },
-        "asboyer_score": 8.85
+        "image": "http://image.tmdb.org/t/p/original/qa6HCwP4Z15l3hpsASz3auugEW6.jpg",
+        "rating": 7.2,
+        "director": "John Lasseter, Joe Ranft"
     },
     "Cars 2": {
         "id": "1216475",
-        "image": "http://image.tmdb.org/t/p/original/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg",
-        "rating": 6.1,
         "title": "Cars 2",
-        "scorecard": {
-            "screenplay": 10.0,
-            "acting": 10.0,
-            "score": 10.0,
-            "cinematography": 9.5,
-            "replay_value": 10.0
-        },
-        "asboyer_score": 9.27
+        "image": "http://image.tmdb.org/t/p/original/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg",
+        "rating": 6.2,
+        "director": "John Lasseter, Bradford Lewis"
     },
     "21": {
         "id": "0478087",
+        "title": "21",
         "image": "http://image.tmdb.org/t/p/original/efG8Po57alqSlhqHU1lXJ3duG6t.jpg",
         "rating": 6.8,
-        "title": "21",
-        "scorecard": {
-            "screenplay": 8.0,
-            "acting": 7.0,
-            "score": 5.0,
-            "cinematography": 6.0,
-            "replay_value": 8.0
-        },
-        "asboyer_score": 6.8
+        "director": "Robert Luketic"
     },
     "Whiplash": {
         "id": "2582802",
-        "image": "/static/img/movies/whiplash.jpg",
-        "rating": 8.5,
         "title": "Whiplash",
-        "scorecard": {
-            "screenplay": 10.0,
-            "acting": 10.0,
-            "score": 10.0,
-            "cinematography": 10.0,
-            "replay_value": 10.0
-        },
-        "asboyer_score": 10.0
+        "image": "http://image.tmdb.org/t/p/original/6uSPcdGNA2A6vJmCagXkvnutegs.jpg",
+        "rating": 8.5,
+        "director": "Damien Chazelle"
     },
     "Inception": {
         "id": "1375666",
-        "image": "http://image.tmdb.org/t/p/original/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
-        "rating": 8.8,
         "title": "Inception",
-        "scorecard": {
-            "screenplay": 10.0,
-            "acting": 10.0,
-            "score": 10.0,
-            "cinematography": 10.0,
-            "replay_value": 9.5
-        },
-        "asboyer_score": 9.72
+        "image": "http://image.tmdb.org/t/p/original/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg",
+        "rating": 8.8,
+        "director": "Christopher Nolan"
     },
     "The Martian": {
         "id": "3659388",
         "title": "The Martian",
         "image": "http://image.tmdb.org/t/p/original/5BHuvQ6p9kfc091Z8RiFNhCwL4b.jpg",
         "rating": 8.0,
-        "scorecard": {
-            "screenplay": 7.0,
-            "acting": 7.0,
-            "score": 7.0,
-            "cinematography": 10.0,
-            "replay_value": 8.0
-        },
-        "asboyer_score": 7.83
+        "director": "Ridley Scott"
     },
     "Tenet": {
         "id": "6723592",
         "title": "Tenet",
         "image": "http://image.tmdb.org/t/p/original/k68nPLbIST6NP96JmTxmZijEvCA.jpg",
-        "rating": 7.4,
-        "scorecard": {
-            "screenplay": 8.0,
-            "acting": 7.0,
-            "score": 10.0,
-            "cinematography": 10.0,
-            "replay_value": 7.0
-        },
-        "asboyer_score": 8.23
-    },
-    "Sneakers": {
-        "id": "0105435",
-        "title": "Sneakers",
-        "image": "http://image.tmdb.org/t/p/original/pY7wNO4J0QMAH9Q4nJL3QLlPVvC.jpg",
-        "rating": 7.1,
-        "scorecard": {
-            "screenplay": 8.0,
-            "acting": 6.0,
-            "score": 5.0,
-            "cinematography": 5.0,
-            "replay_value": 7.0
-        },
-        "asboyer_score": 6.35
+        "rating": 7.3,
+        "director": "Christopher Nolan"
     },
     "The Godfather: Part II": {
         "id": "0071562",
         "title": "The Godfather: Part II",
         "image": "http://image.tmdb.org/t/p/original/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
         "rating": 9.0,
-        "scorecard": {
-            "screenplay": 10.0,
-            "acting": 10.0,
-            "score": 10.0,
-            "cinematography": 10.0,
-            "replay_value": 9.0
-        },
-        "asboyer_score": 9.67
+        "director": "Francis Ford Coppola"
     },
     "The Godfather": {
         "id": "0068646",
         "title": "The Godfather",
         "image": "http://image.tmdb.org/t/p/original/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
         "rating": 9.2,
-        "scorecard": {
-            "screenplay": 9.0,
-            "acting": 10.0,
-            "score": 10.0,
-            "cinematography": 10.0,
-            "replay_value": 8.0
-        },
-        "asboyer_score": 9.37
+        "director": "Francis Ford Coppola"
     },
     "Pirates of the Caribbean: The Curse of the Black Pearl": {
         "id": "0325980",
         "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
         "image": "http://image.tmdb.org/t/p/original/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",
         "rating": 8.0,
-        "scorecard": {
-            "screenplay": 7.0,
-            "acting": 6.0,
-            "score": 10.0,
-            "cinematography": 10.0,
-            "replay_value": 9.0
-        },
-        "asboyer_score": 8.33
+        "director": "Gore Verbinski"
     },
     "Batman Begins": {
         "id": "0372784",
         "title": "Batman Begins",
         "image": "http://image.tmdb.org/t/p/original/8RW2runSEc34IwKN2D1aPcJd2UL.jpg",
         "rating": 8.2,
-        "scorecard": {
-            "screenplay": 7.0,
-            "acting": 9.0,
-            "score": 10.0,
-            "cinematography": 9.0,
-            "replay_value": 7.0
-        },
-        "asboyer_score": 8.37
+        "director": "Christopher Nolan"
     },
     "500 Days of Summer": {
         "id": "1022603",
         "title": "500 Days of Summer",
         "image": "http://image.tmdb.org/t/p/original/f9mbM0YMLpYemcWx6o2WeiYQLDP.jpg",
         "rating": 7.7,
-        "scorecard": {
-            "screenplay": 8.0,
-            "acting": 8.0,
-            "score": 5.0,
-            "cinematography": 9.0,
-            "replay_value": 7.0
-        },
-        "asboyer_score": 7.45
+        "director": "Marc Webb"
     },
     "The Town": {
         "id": "0840361",
         "title": "The Town",
         "image": "http://image.tmdb.org/t/p/original/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
         "rating": 7.5,
-        "scorecard": {
-            "screenplay": 8.0,
-            "acting": 8.0,
-            "score": 5.0,
-            "cinematography": 9.0,
-            "replay_value": 7.0
-        },
-        "asboyer_score": 7.42
+        "director": "Ben Affleck"
     },
     "The Prestige": {
         "id": "0482571",
         "title": "The Prestige",
-        "image": "http://image.tmdb.org/t/p/original/gcphM7ZLxS5HPeCZgjZobfz907x.jpg",
+        "image": "http://image.tmdb.org/t/p/original/bdN3gXuIZYaJP7ftKK2sU0nPtEA.jpg",
         "rating": 8.5,
-        "scorecard": {
-            "screenplay": 8.0,
-            "acting": 9.0,
-            "score": 6.0,
-            "cinematography": 8.0,
-            "replay_value": 8.0
-        },
-        "asboyer_score": 7.92
+        "director": "Christopher Nolan"
     },
     "Dune": {
         "id": "1160419",
         "title": "Dune",
         "image": "http://image.tmdb.org/t/p/original/8hoD5BQuUV9dDecAbiyVIxLjzZ9.jpg",
         "rating": 8.1,
-        "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
-        },
-        "asboyer_score": 0.0
+        "director": "Denis Villeneuve"
     },
     "Casino Royale": {
         "id": "0381061",
         "title": "Casino Royale",
         "image": "http://image.tmdb.org/t/p/original/8Gv1dylImVuoj3bZtEWoL1TLl2q.jpg",
         "rating": 8.0,
-        "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
-        },
-        "asboyer_score": 0.0
+        "director": "Martin Campbell"
     },
     "Fight Club": {
         "id": "0137523",
         "title": "Fight Club",
-        "image": "http://image.tmdb.org/t/p/original/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+        "image": "/static/img/movies/fight_club.jpg",
         "rating": 8.8,
-        "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
-        },
-        "asboyer_score": 0.0
+        "director": "David Fincher"
+    },
+    "Goodfellas": {
+        "id": "0099685",
+        "title": "Goodfellas",
+        "image": "http://image.tmdb.org/t/p/original/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+        "rating": 8.7,
+        "director": "Martin Scorsese"
+    },
+    "Django Unchained": {
+        "id": "1853728",
+        "title": "Django Unchained",
+        "image": "http://image.tmdb.org/t/p/original/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+        "rating": 8.4,
+        "director": "Quentin Tarantino"
+    },
+    "Taxi Driver": {
+        "id": "0075314",
+        "title": "Taxi Driver",
+        "image": "http://image.tmdb.org/t/p/original/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+        "rating": 8.3,
+        "director": "Martin Scorsese"
+    },
+    "12 Angry Men": {
+        "id": "0050083",
+        "title": "12 Angry Men",
+        "image": "http://image.tmdb.org/t/p/original/6PlhouMCYktJmdFwS9XtqRZaTqc.jpg",
+        "rating": 9.0,
+        "director": "Sidney Lumet"
+    },
+    "The Matrix": {
+        "id": "0133093",
+        "title": "The Matrix",
+        "image": "http://image.tmdb.org/t/p/original/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+        "rating": 8.7,
+        "director": "Lana Wachowski"
+    },
+    "Three Amigos!": {
+        "id": "0092086",
+        "title": "Three Amigos!",
+        "image": "http://image.tmdb.org/t/p/original/dUNRnhl2cwjFJ6TOsaPJmZeMZ0S.jpg",
+        "rating": 6.5,
+        "director": "John Landis"
+    },
+    "The Good, the Bad and the Ugly": {
+        "id": "0060196",
+        "title": "The Good, the Bad and the Ugly",
+        "image": "http://image.tmdb.org/t/p/original/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+        "rating": 8.8,
+        "director": "Sergio Leone"
     }
 }

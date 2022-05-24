@@ -1,7 +1,12 @@
 {% extends "layout.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+
 
 {% block styles %}
         <link rel="stylesheet" type="text/css" href="/static/css/intro.css">
+{{ super() }}
+<link rel="stylesheet"
+      href="{{url_for('static', filename='style.css')}}">
 {% endblock %}
 
 {% block content %}
@@ -12,8 +17,11 @@
         Hi, I'm <strong>Andrew Boyer</strong>
     </h1>
     <p class="section__subtitle section__subtitle--intro">Student, programmer, and hacker</p>
-    <img src="/static/img/at_desk1.png" alt+="andrew boyer main logo" class="intro__img">
+    <img src="/static/img/wcomputes.png" alt+="andrew boyer main logo" class="intro__img">
+
+
 </section>
+
 <!-- END INTRODUCTION -->
 
 <!-- BEGIN PROJECTS -->
@@ -56,15 +64,17 @@
 
         <div class="about-me__body">
 
-            <p>I'm a{{ age }} year old {{ grade }} at {{ school }}, passionate about software and computers, looking to make a high impact.</p>
+            <p>I'm{{ age }} years old, passionate about computers and creativity, looking to make a high impact.</p>
 
             <!-- <a href="/press" class="special_btn" id="button1">In the news</a> -->
 <!--             <a href="/soon" class="special_btn" id="button2">Awards and honors</a>
             <a href="/soon" class="special_btn" id="button3">podcasts</a> -->
 
-            <p>Feel free to contact me, I am always looking for an opportunity to meet new people, explore new interests, and try new things. I believe creativity, confidence, and a willingness to take risks are all vital to success. </p>
+            <p>Feel free to contact me, I am always looking for an opportunity to meet new people, explore new interests, and try new things. I believe creativity, confidence, and a willingness to take risks are all vital to success.</p>
 
-            <p>Aside from my passions, I thoroughly enjoy entertainment and culture. I am interested in all kinds of music, film, and art. I also love to read, both fiction and non-fiction alike. I've linked some of my favorites below. Enjoy!</p>
+            <p>Aside from my passions, I thoroughly enjoy entertainment and culture. I am interested in all kinds of music, film, and art. I also love to read, both fiction and non-fiction alike. I've linked some of my favorites below.</p>
+            
+            <p>If you are interested in keeping up to date with what I'm up to and the contents of this website, feel free to sign up for my newsletter by entering your email below. Don't worry, I don't spam!</p>
 
         </div>
 
@@ -128,6 +138,15 @@
             <a href="/soon" class="more-btn">Other</a> -->
         </div>
 
+</section>
+
+
+<section class="signup">
+    <div class="email_form">
+
+        {{ wtf.quick_form(form) }}
+        <p class="form_message_ind">{{ message }}</p>
+    </div>
 </section>
 <!-- END ABOUT -->
 {% endblock %}

@@ -18,15 +18,15 @@
     "Become unstoppable with Stoicism": {
         "title": "Become unstoppable with Stoicism",
         "id": 2,
-        "date": "4.29.22",
-        "subjects": ["Life", "Philosophy"],
+        "date": "5.29.22",
+        "subjects": ["Life", "Philosophy", "Self-improvement"],
         "cover_img": "/static/img/blog/stoicism/marcus.jpg",
         "live": true
     },
     "College admissions: a broken system": {
         "title": "College admissions: a broken system",
         "id": 6,
-        "date": "5.25.22",
+        "date": "6.25.22",
         "subjects": ["Life", "School"],
         "cover_img": "/static/img/blog/stoicism/marcus.jpg",
         "live": false
@@ -34,7 +34,7 @@
     "High school: the \"best\" years of our lives": {
         "title": "High school: the \"best\" years of our lives",
         "id": 4,
-        "date": "5.25.22",
+        "date": "6.25.22",
         "subjects": ["Life", "School"],
         "cover_img": "/static/img/blog/stoicism/marcus.jpg",
         "live": false

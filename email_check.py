@@ -1,7 +1,7 @@
 import json, smtplib
 from deepdiff import DeepDiff
 
-from secret import EMAIL_ADDRESS, EMAIL_PASS
+from secret import EMAIL_ADDRESS, EMAIL_PASS, my_address
 from email.mime.text import MIMEText
 
 msg = MIMEText("""
@@ -44,5 +44,15 @@ def prep_emails():
         send_email(emails, msg.as_string())
         store_emails(new_emails)
         print('new emails added and notified:')
+        if len(emails) > 1:
+            s = "s"
+        else:
+            s = ""
+        email_string = f"New email{s} subscribed to asboyer.com:\n\n"
         for email in emails:
             print(email)
+            email_string += email + "\n"
+        new_msg = MIMEText(email_string)
+        new_msg['Subject'] = f"New asboyer.com subscriber{s}"
+        new_msg['To'] = my_address
+        send_email([my_address], new_msg.as_string())

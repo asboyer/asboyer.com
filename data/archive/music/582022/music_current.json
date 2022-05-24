@@ -1,0 +1,111 @@
+{
+    "The Slow Rush": {
+        "artists": "Tame Impala",
+        "id": "31qVWUdRrlb8thMvts0yYL",
+        "name": "The Slow Rush",
+        "popularity": 80,
+        "release_date": "2020-02-14",
+        "total_tracks": 12,
+        "uri": "spotify:album:31qVWUdRrlb8thMvts0yYL",
+        "image": "https://i.scdn.co/image/ab67616d0000b27358267bd34420a00d5cf83a49",
+        "top_tracks": [
+            "One More Year",
+            "Borderline",
+            "Posthumous Forgiveness",
+            "Breathe Deeper",
+            "On Track",
+            "Lost In Yesterday",
+            "Is It True"
+        ],
+        "good_tracks": [
+            "Instant Destiny",
+            "Tomorrow's Dust",
+            "It Might Be Time",
+            "One More Hour"
+        ],
+        "score": 8.21,
+        "tracks": []
+    },
+    "Come Home The Kids Miss You": {
+        "artists": "Jack Harlow",
+        "id": "2eE8BVirX9VF8Di9hD90iw",
+        "name": "Come Home The Kids Miss You",
+        "popularity": 0,
+        "release_date": "2022-05-06",
+        "total_tracks": 15,
+        "uri": "spotify:album:2eE8BVirX9VF8Di9hD90iw",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ec07298019a2e122b64f0054",
+        "top_tracks": [
+            "I'd Do Anything To Make You Smile",
+            "Dua Lipa",
+            "Like A Blade Of Grass",
+            "Parent Trap (feat. Justin Timberlake)"
+        ],
+        "good_tracks": [
+            "Young Harleezy",
+            "Talk Of The Town",
+            "Nail Tech",
+            "State Fair",
+            "Movie Star",
+            "Side Piece",
+            "I Got A Shot",
+            "Churchill Downs (feat. Drake)"
+        ],
+        "score": 6.48,
+        "tracks": []
+    },
+    "Stone Flower (CTI Records 40th Anniversary Edition)": {
+        "artists": "Ant\u00f4nio Carlos Jobim",
+        "id": "2dsmGxE74ufKZgSFpEMxel",
+        "name": "Stone Flower (CTI Records 40th Anniversary Edition)",
+        "popularity": 48,
+        "release_date": "1970",
+        "total_tracks": 10,
+        "uri": "spotify:album:2dsmGxE74ufKZgSFpEMxel",
+        "image": "/static/img/music/albums/stone_flower.png",
+        "top_tracks": [
+            "Tereza My Love",
+            "Children's Games",
+            "Choro",
+            "Brazil (Aka Aquarela do Brasil)",
+            "Stone Flower",
+            "Amparo",
+            "God and the Devil In the Land of the Sun",
+            "Sabi\u00e1",
+            "Brazil - Alternate Take"
+        ],
+        "good_tracks": [
+            "Andorinha"
+        ],
+        "score": 9.71,
+        "tracks": []
+    },
+    "I NEVER LIKED YOU": {
+        "artists": "Future",
+        "id": "6ViO9Wx6dWzeUq6DmGTaHl",
+        "name": "I NEVER LIKED YOU",
+        "popularity": 80,
+        "release_date": "2022-05-02",
+        "total_tracks": 22,
+        "uri": "spotify:album:6ViO9Wx6dWzeUq6DmGTaHl",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737e83b7d94b668d9ea94fe7ec",
+        "top_tracks": [
+            "712PM",
+            "KEEP IT BURNIN (feat. Kanye West)",
+            "PUFFIN ON ZOOTIEZ",
+            "I'M ON ONE (feat. Drake)"
+        ],
+        "good_tracks": [
+            "I'M DAT N****",
+            "FOR A NUT (feat. Gunna & Young Thug)",
+            "BACK TO THE BASICS",
+            "LIKE ME (feat. 42 Dugg & Lil Baby)",
+            "AFFILIATED (feat. Lil Durk)",
+            "WORST DAY",
+            "JUST THE BEGINNING",
+            "WAIT FOR U (feat. Drake & Tems)"
+        ],
+        "score": 4.42,
+        "tracks": []
+    }
+}

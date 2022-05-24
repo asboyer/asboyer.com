@@ -5,7 +5,8 @@
         "link": "https://amzn.to/3wJNBau",
         "title": "Ender's Game",
         "color": "#064E51",
-        "year": 2022
+        "year": 2022,
+        "stars": 5
     },
     "Ender's Shadow": {
         "author": "Oliver Burkeman",
@@ -13,7 +14,8 @@
         "link": "https://amzn.to/3DgR55y",
         "title": "Ender's Shadow",
         "color": "#262B2C",
-        "year": 2022
+        "year": 2022,
+        "stars": 5
     },
     "The Male Advantage": {
         "title": "The Male Advantage",
@@ -21,7 +23,8 @@
         "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1635337233l/59463331._SY475_.jpg",
         "link": "https://1st-man.com/product/the-male-advantage-paperback-book/",
         "color": "#E9E9E9",
-        "year": 2022
+        "year": 2022,
+        "stars": 5
     },
     "Shadow of the Hegemon": {
         "title": "Shadow of the Hegemon",
@@ -29,7 +32,8 @@
         "img": "https://images-na.ssl-images-amazon.com/images/I/51Adqx99PyS._SX314_BO1,204,203,200_.jpg",
         "link": "https://amzn.to/3xaKLvs",
         "color": "#EDEEEA",
-        "year": 2022
+        "year": 2022,
+        "stars": 3
     },
     "The Remains of the Day": {
         "title": "The Remains of the Day",
@@ -37,6 +41,34 @@
         "img": "https://m.media-amazon.com/images/I/41-oNcLyoZL.jpg",
         "link": "https://amzn.to/36Vj8ey",
         "color": "#FFFFFF",
-        "year": 2022
+        "year": 2022,
+        "stars": 4
+    },
+    "Brain Rules": {
+        "author": "John Medina",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328763686l/2251306.jpg",
+        "title": "Brain Rules",
+        "link": "https://amzn.to/3DnTKKL",
+        "color": "#FFFFFF",
+        "year": 2022,
+        "stars": 4
+    },
+    "The Power of Habit: Why We Do What We Do in Life and Business": {
+        "author": "Charles Duhigg",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545854312l/12609433._SY475_.jpg",
+        "title": "The Power of Habit",
+        "link": "https://amzn.to/3IKBmg7",
+        "color": "#FFE815",
+        "year": 2022,
+        "stars": 5
+    },
+    "Animal Farm": {
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPNcURfbHztpF6k88WJDw-D7QIaPCFxFqrF5SqUO-6nr0Bs-E2_2KZhzqRmJwxSzETAV0&usqp=CAU",
+        "link": "https://amzn.to/36zs5KW",
+        "color": "#FFFFFF",
+        "year": 2022,
+        "stars": 5
     }
 }
