@@ -68,10 +68,14 @@ $(document).ready(function(){
                 date_string = "Coming Soon"
             }
 
+            var link = `/blog/${values.id}`
+            // need to sort posts by date published, not id
+            // then use ids for posts, and put -1 for novel series
+
             var post = 
             `
             <div class="blog__container">
-                <a href="/blog/${values.id}" class="blog__item">
+                <a href=${link} class="blog__item">
                     <img src="/static/img/l.png" alt="${values.title}" class="blog__img">
                     <div class="overlay">
                         <div class="text">

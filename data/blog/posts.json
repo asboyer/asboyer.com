@@ -7,6 +7,15 @@
         "cover_img": "/static/img/blog/kanye/kanye.png",
         "live": true
     },
+    "Sierra Escape: Vol 1": {
+        "title": "Sierra Escape: Vol 1",
+        "id": -1,
+        "date": "5.27.22",
+        "subjects": ["Adventure", "Fiction"],
+        "cover_img": "",
+        "live": true,
+        "link": "/novels/sierra_escape/vol_1"
+    },
     "I used Python to predict the NBA MVP": {
         "title": "I used Python to predict the NBA MVP",
         "id": 1,
@@ -57,7 +66,7 @@
     },
     "Getting started with resistance training": {
         "title": "Getting started with resistance training",
-        "id": 3,
+        "id": 14,
         "date": "5.10.22",
         "subjects": ["Fitness", "Lifestyle"],
         "cover_img": "/static/img/blog/stoicism/marcus.jpg",
