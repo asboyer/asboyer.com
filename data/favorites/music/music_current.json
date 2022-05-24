@@ -183,35 +183,6 @@
         "score": 7.31,
         "tracks": []
     },
-    "Pet Sounds (Mono)": {
-        "artists": "The Beach Boys",
-        "id": "0BBduHWw9CbB5dctxFp48f",
-        "name": "Pet Sounds (Mono)",
-        "popularity": 0,
-        "release_date": "1966-06-16",
-        "total_tracks": 13,
-        "uri": "spotify:album:0BBduHWw9CbB5dctxFp48f",
-        "image": "https://i.scdn.co/image/ab67616d0000b27330165560a27ea0d2c87ee783",
-        "top_tracks": [
-            "Wouldn't It Be Nice",
-            "You Still Believe In Me - Mono / Remastered 2012"
-        ],
-        "good_tracks": [
-            "That's Not Me",
-            "I'm Waiting For The Day"
-        ],
-        "score": 0.0,
-        "tracks": [
-            "Let's Go Away For Awhile",
-            "Sloop John B",
-            "God Only Knows",
-            "I Know There's An Answer",
-            "Here Today",
-            "I Just Wasn't Made For These Times",
-            "Pet Sounds",
-            "Caroline, No"
-        ]
-    },
     "Madvillainy": {
         "artists": "Madvillain, Madlib, MF DOOM",
         "id": "01FCoGEQ3NFWF4fHJzdiax",

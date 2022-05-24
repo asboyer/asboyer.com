@@ -142,5 +142,89 @@
         "track_number": 5,
         "uri": "spotify:track:54eZmuggBFJbV7k248bTTt",
         "image": "https://i.scdn.co/image/ab67616d0000b273afb855e6461310dff4046c56"
+    },
+    "Crystal Blue Persuasion": {
+        "artists": "Tommy James & The Shondells",
+        "duration_ms": 242320,
+        "explicit": false,
+        "id": "0aD8W0ChzDgEKpB1zsJ8zv",
+        "name": "Crystal Blue Persuasion",
+        "popularity": 51,
+        "preview_url": "https://p.scdn.co/mp3-preview/1c93b3341de310c88e9ac4f33733140cf433e11c?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 5,
+        "uri": "spotify:track:0aD8W0ChzDgEKpB1zsJ8zv",
+        "image": "https://i.scdn.co/image/ab67616d0000b27342b54c2e31a1799c22c5dfaa"
+    },
+    "Wouldn't It Be Nice": {
+        "artists": "The Beach Boys",
+        "duration_ms": 145106,
+        "explicit": false,
+        "id": "04kaFiaV3JZt8BkIltXK75",
+        "name": "Wouldn't It Be Nice",
+        "popularity": 0,
+        "preview_url": null,
+        "track_number": 1,
+        "uri": "spotify:track:04kaFiaV3JZt8BkIltXK75",
+        "image": "https://i.scdn.co/image/ab67616d0000b27330165560a27ea0d2c87ee783"
+    },
+    "The Good, The Bad And The Ugly - Main Title": {
+        "artists": "Ennio Morricone",
+        "duration_ms": 162133,
+        "explicit": false,
+        "id": "1JSIWsJfxOji0FrxFcxdCK",
+        "name": "The Good, The Bad And The Ugly - Main Title",
+        "popularity": 55,
+        "preview_url": null,
+        "track_number": 1,
+        "uri": "spotify:track:1JSIWsJfxOji0FrxFcxdCK",
+        "image": "https://i.scdn.co/image/ab67616d0000b27388eb37784eee4c3651807406"
+    },
+    "Iron Man - 2012 - Remaster": {
+        "artists": "Black Sabbath",
+        "duration_ms": 355303,
+        "explicit": false,
+        "id": "3IOQZRcEkplCXg6LofKqE9",
+        "name": "Iron Man - 2012 - Remaster",
+        "popularity": 64,
+        "preview_url": "https://p.scdn.co/mp3-preview/f7e8d9754673e3cbe84711eed3a710a4fccfc520?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 4,
+        "uri": "spotify:track:3IOQZRcEkplCXg6LofKqE9",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d5fccf9ce08b6a1e7d12a222"
+    },
+    "New Tank": {
+        "artists": "Playboi Carti",
+        "duration_ms": 89741,
+        "explicit": true,
+        "id": "4txKMpsSfZRV6durPuHVq0",
+        "name": "New Tank",
+        "popularity": 68,
+        "preview_url": null,
+        "track_number": 9,
+        "uri": "spotify:track:4txKMpsSfZRV6durPuHVq0",
+        "image": "https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb"
+    },
+    "A Kaleidoscope Of Mathematics": {
+        "artists": "James Horner",
+        "duration_ms": 294680,
+        "explicit": false,
+        "id": "2MK1w1IP4XRVML4ytPb6qC",
+        "name": "A Kaleidoscope Of Mathematics",
+        "popularity": 42,
+        "preview_url": null,
+        "track_number": 1,
+        "uri": "spotify:track:2MK1w1IP4XRVML4ytPb6qC",
+        "image": "https://i.scdn.co/image/ab67616d0000b27305e0b1590c12734cf4c5b05e"
+    },
+    "Breaking Bad Main Title Theme (Extended)": {
+        "artists": "Dave Porter",
+        "duration_ms": 75666,
+        "explicit": false,
+        "id": "2hsLpiKNkWpd4e9QuVdhar",
+        "name": "Breaking Bad Main Title Theme (Extended)",
+        "popularity": 53,
+        "preview_url": "https://p.scdn.co/mp3-preview/a64eef736ea76312ad2ea3b42f8536b779745fb6?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 1,
+        "uri": "spotify:track:2hsLpiKNkWpd4e9QuVdhar",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732aabcf79e0240e36f95877b5"
     }
 }
