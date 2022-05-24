@@ -69,8 +69,11 @@ $(document).ready(function(){
             }
 
             var link = `/blog/${values.id}`
+            // HERE!
             // need to sort posts by date published, not id
             // then use ids for posts, and put -1 for novel series
+            // also release dates should count down like the built w/ care function
+            // need to figure out a way to automatically release chapters
 
             var post = 
             `
