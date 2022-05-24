@@ -558,7 +558,7 @@ header {
     background-image: url(../img/backgrounds/code/code5.jpeg);
     color: var(--clr-light);
     background-size: cover;
-    background-blend-mode: normal;
+    background-blend-mode: multiply;
     text-align: center;
     border-top: var(--clr-accent) 1px solid;
 
