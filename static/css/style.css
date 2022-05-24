@@ -132,6 +132,13 @@ label.form-control-label {
     font-family: monospace
 }
 
+
+.form_message_ind {
+    letter-spacing: 0em;
+    font-family: monospace;
+    margin: 0;
+}
+
 .btn:hover {
     transform: scale(1.25);
 }
@@ -551,7 +558,7 @@ header {
     background-image: url(../img/backgrounds/code/code5.jpeg);
     color: var(--clr-light);
     background-size: cover;
-    background-blend-mode: multiply;
+    background-blend-mode: normal;
     text-align: center;
     border-top: var(--clr-accent) 1px solid;
 
@@ -2863,4 +2870,11 @@ blockquote p::after {
     blockquote p {
         font-size: .75em;
     }
+}
+
+.signup {
+    border-bottom: var(--clr-accent) 1px solid; 
+    padding: 0px;
+    padding-bottom: 2em;
+    text-align: center;
 }
