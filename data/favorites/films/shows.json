@@ -127,5 +127,12 @@
         "image": "http://image.tmdb.org/t/p/original/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
         "rating": 9.5,
         "creator": "Vince Gilligan, Peter Gould"
+    },
+    "Suits": {
+        "id": "1632701",
+        "title": "Suits",
+        "image": "http://image.tmdb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg",
+        "rating": 8.5,
+        "creator": "Sharyn Rothstein, Aaron Korsh"
     }
 }
