@@ -21,11 +21,11 @@
         "date": "5.29.22",
         "subjects": ["Life", "Philosophy", "Self-improvement"],
         "cover_img": "/static/img/blog/stoicism/marcus.jpg",
-        "live": true
+        "live": false
     },
     "College admissions: a broken system": {
         "title": "College admissions: a broken system",
-        "id": 6,
+        "id": 3,
         "date": "6.25.22",
         "subjects": ["Life", "School"],
         "cover_img": "/static/img/blog/stoicism/marcus.jpg",
@@ -49,17 +49,17 @@
     },   
     "Breaking bad habits and building good ones": {
         "title": "Breaking bad habits and building good ones",
-        "id": 7,
-        "date": "5.10.22",
+        "id": 6,
+        "date": "6.1.22",
         "subjects": ["Self-improvement"],
         "cover_img": "/static/img/blog/stoicism/marcus.jpg",
         "live": false
     },
-    "Getting started with resistance training": {
-        "title": "Getting started with resistance training",
-        "id": 3,
-        "date": "5.10.22",
-        "subjects": ["Fitness", "Lifestyle"],
+    "Becoming a 'man': bulking": {
+        "title": "Becoming a man: bulking",
+        "id": 7,
+        "date": "7.1.22",
+        "subjects": ["Fitness"],
         "cover_img": "/static/img/blog/stoicism/marcus.jpg",
         "live": false        
     },
