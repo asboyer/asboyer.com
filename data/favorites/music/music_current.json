@@ -1,223 +1,108 @@
 {
-    "Kid A": {
-        "artists": "Radiohead",
-        "id": "6GjwtEZcfenmOf6l18N7T7",
-        "name": "Kid A",
-        "popularity": 70,
-        "release_date": "2000-10-02",
-        "total_tracks": 11,
-        "uri": "spotify:album:6GjwtEZcfenmOf6l18N7T7",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
-        "top_tracks": [
-            "Everything In Its Right Place",
-            "The National Anthem",
-            "How to Disappear Completely",
-            "Optimistic",
-            "Idioteque"
-        ],
-        "good_tracks": [
-            "Kid A",
-            "Treefingers",
-            "In Limbo",
-            "Morning Bell",
-            "Motion Picture Soundtrack",
-            "Untitled"
-        ],
-        "score": 9.09,
-        "tracks": []
+    "Twelve Carat Toothache": {
+        "artists": "Post Malone",
+        "id": "3HHNR44YbP7XogMVwzbodx",
+        "name": "Twelve Carat Toothache",
+        "popularity": 78,
+        "release_date": "2022-06-03",
+        "total_tracks": 14,
+        "uri": "spotify:album:3HHNR44YbP7XogMVwzbodx",
+        "image": "https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Reputation",
+            "Cooped Up (with Roddy Ricch)",
+            "Lemon Tree",
+            "Wrapped Around Your Finger",
+            "I Like You (A Happier Song) (with Doja Cat)",
+            "I Cannot Be (A Sadder Song) (with Gunna)",
+            "Insane",
+            "Love/Hate Letter To Alcohol (with Fleet Foxes)",
+            "Wasting Angels (with The Kid LAROI)",
+            "Euthanasia",
+            "When I\u2019m Alone",
+            "Waiting For A Miracle",
+            "One Right Now (with The Weeknd)",
+            "New Recording 12, Jan 3, 2020"
+        ]
     },
-    "Nevermind (Remastered)": {
-        "artists": "Nirvana",
-        "id": "2guirTSEqLizK7j9i1MTTZ",
-        "name": "Nevermind (Remastered)",
-        "popularity": 85,
-        "release_date": "1991-09-26",
-        "total_tracks": 13,
-        "uri": "spotify:album:2guirTSEqLizK7j9i1MTTZ",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
-        "top_tracks": [
-            "Something In The Way",
-            "In Bloom",
-            "Smells Like Teen Spirit",
-            "Come As You Are",
-            "Lithium",
-            "Drain You",
-            "Stay Away"
-        ],
-        "good_tracks": [
-            "Breed",
-            "Polly",
-            "Territorial Pissing",
-            "Lounge Act",
-            "On A Plain"
-        ],
-        "score": 8.59,
-        "tracks": []
+    "Dark Lane Demo Tapes": {
+        "artists": "Drake",
+        "id": "6OQ9gBfg5EXeNAEwGSs6jK",
+        "name": "Dark Lane Demo Tapes",
+        "popularity": 72,
+        "release_date": "2020-05-01",
+        "total_tracks": 14,
+        "uri": "spotify:album:6OQ9gBfg5EXeNAEwGSs6jK",
+        "image": "https://i.scdn.co/image/ab67616d0000b273bba7cfaf7c59ff0898acba1f",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Deep Pockets",
+            "When To Say When",
+            "Chicago Freestyle (feat. Giveon)",
+            "Not You Too (feat. Chris Brown)",
+            "Toosie Slide",
+            "Desires (with Future)",
+            "Time Flies",
+            "Landed",
+            "D4L",
+            "Pain 1993 (with Playboi Carti)",
+            "Losses",
+            "From Florida With Love",
+            "Demons (feat. Fivio Foreign & Sosa Geek)",
+            "War"
+        ]
     },
-    "Duke Ellington & John Coltrane": {
-        "artists": "Duke Ellington, John Coltrane",
-        "id": "1OvmilWKtrabJGEpPRlgK5",
-        "name": "Duke Ellington & John Coltrane",
-        "popularity": 64,
-        "release_date": "1963-02",
+    "Gaucho": {
+        "artists": "Steely Dan",
+        "id": "5fIBtKHWGjbjK9C4i1Z11L",
+        "name": "Gaucho",
+        "popularity": 51,
+        "release_date": "1980",
         "total_tracks": 7,
-        "uri": "spotify:album:1OvmilWKtrabJGEpPRlgK5",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732def9ef3f6a82c8d6fd8c143",
-        "top_tracks": [
-            "In A Sentimental Mood",
-            "My Little Brown Book"
-        ],
-        "good_tracks": [
-            "Angelica",
-            "The Feeling Of Jazz",
-            "Big Nick",
-            "Stevie"
-        ],
-        "score": 7.62,
-        "tracks": []
+        "uri": "spotify:album:5fIBtKHWGjbjK9C4i1Z11L",
+        "image": "https://i.scdn.co/image/ab67616d0000b273412d0a3ed734b885c1fed05d",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Babylon Sisters",
+            "Hey Nineteen",
+            "Glamour Profession",
+            "Gaucho",
+            "Time Out Of Mind",
+            "My Rival",
+            "Third World Man"
+        ]
     },
-    "Little Dark Age": {
-        "artists": "MGMT",
-        "id": "7GjVWG39IOj4viyWplJV4H",
-        "name": "Little Dark Age",
-        "popularity": 79,
-        "release_date": "2018-02-09",
-        "total_tracks": 10,
-        "uri": "spotify:album:7GjVWG39IOj4viyWplJV4H",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b47d309281c66820b7137f5d",
-        "top_tracks": [
-            "She Works Out Too Much",
-            "Little Dark Age",
-            "When You Die",
-            "Me and Michael",
-            "TSLAMP",
-            "One Thing Left to Try"
-        ],
-        "good_tracks": [
-            "James",
-            "Days That Got Away",
-            "When You're Small",
-            "Hand It Over"
-        ],
-        "score": 8.86,
-        "tracks": []
-    },
-    "Trouble Man": {
-        "artists": "Marvin Gaye",
-        "id": "7KvKuWUxxNPEU80c4i5AQk",
-        "name": "Trouble Man",
-        "popularity": 42,
-        "release_date": "1972-12-08",
-        "total_tracks": 13,
-        "uri": "spotify:album:7KvKuWUxxNPEU80c4i5AQk",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ea177a7959b9adec2d1434fe",
-        "top_tracks": [
-            "Main Theme From Trouble Man - 2",
-            "Main Theme From Trouble Man - 1",
-            "Trouble Man"
-        ],
-        "good_tracks": [
-            "\"T\" Stands For Trouble",
-            "Theme From Trouble Man",
-            "Don't Mess With Mister \"T\"",
-            "There Goes Mister \"T\"",
-            "\"T\" Plays It Cool",
-            "Poor Abbey Walsh",
-            "The Break In (Police Shoot Big)",
-            "Cleo's Apartment"
-        ],
-        "score": 6.7,
-        "tracks": []
-    },
-    "In the Aeroplane Over the Sea": {
-        "artists": "Neutral Milk Hotel",
-        "id": "0vVekV45lOaVKs6RZQQNob",
-        "name": "In the Aeroplane Over the Sea",
-        "popularity": 68,
-        "release_date": "1998-02-20",
+    "The Velvet Underground & Nico 45th Anniversary": {
+        "artists": "The Velvet Underground, Nico",
+        "id": "4xwx0x7k6c5VuThz5qVqmV",
+        "name": "The Velvet Underground & Nico",
+        "popularity": 58,
+        "release_date": "1967-03-12",
         "total_tracks": 11,
-        "uri": "spotify:album:0vVekV45lOaVKs6RZQQNob",
-        "image": "https://i.scdn.co/image/ab67616d0000b273589ce9a911c6e65b1f80c558",
-        "top_tracks": [
-            "King of Carrot Flowers Pt. 1",
-            "In the Aeroplane Over the Sea",
-            "Two-Headed Boy",
-            "Communist Daughter"
-        ],
-        "good_tracks": [
-            "The Fool",
-            "Holland, 1945",
-            "Ghost",
-            "Two-Headed Boy Pt. 2"
-        ],
-        "score": 6.23,
-        "tracks": []
-    },
-    "Mr. Morale & The Big Steppers": {
-        "artists": "Kendrick Lamar",
-        "id": "1atjqOZTCdrjxjMyCPZc2g",
-        "name": "Mr. Morale & The Big Steppers",
-        "popularity": 0,
-        "release_date": "2022-05-13",
-        "total_tracks": 18,
-        "uri": "spotify:album:1atjqOZTCdrjxjMyCPZc2g",
-        "image": "https://i.scdn.co/image/ab67616d0000b27311c9e3983553deb5a9ad8594",
-        "top_tracks": [
-            "N95",
-            "Die Hard",
-            "Father Time (feat. Sampha)",
-            "Purple Hearts",
-            "Count Me Out",
-            "Silent Hill",
-            "Mr. Morale",
-            "Savior",
-            "Mirror"
-        ],
-        "good_tracks": [
-            "United In Grief",
-            "We Cry Together",
-            "Savior - Interlude",
-            "Mother I Sober (feat. Beth Gibbons of Portishead)",
-            "Rich Spirit"
-        ],
-        "score": 7.31,
-        "tracks": []
-    },
-    "Madvillainy": {
-        "artists": "Madvillain, Madlib, MF DOOM",
-        "id": "01FCoGEQ3NFWF4fHJzdiax",
-        "name": "Madvillainy",
-        "popularity": 0,
-        "release_date": "2004-03-24",
-        "total_tracks": 22,
-        "uri": "spotify:album:01FCoGEQ3NFWF4fHJzdiax",
-        "image": "https://i.scdn.co/image/ab67616d0000b27302abe1eaf9da931f42629b4a",
-        "top_tracks": [
-            "The Illest Villains",
-            "Accordion",
-            "Meat Grinder",
-            "Raid",
-            "Curls",
-            "Money Folder",
-            "Operation Lifesaver aka Mint Test",
-            "Fancy Clown",
-            "Eye",
-            "Supervillain Theme",
-            "All Caps",
-            "Great Day",
-            "Rhinestone Cowboy",
-            "Strange Ways"
-        ],
-        "good_tracks": [
-            "Bistro",
-            "America's Most Blunted",
-            "Sickfit",
-            "Rainbows",
-            "Do Not Fire!",
-            "Figaro",
-            "Shadows of Tomorrow"
-        ],
-        "score": 9.02,
-        "tracks": []
+        "uri": "spotify:album:4xwx0x7k6c5VuThz5qVqmV",
+        "image": "https://i.scdn.co/image/ab67616d0000b27398260c528e6eec9dd431c1d7",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Sunday Morning",
+            "I'm Waiting For The Man",
+            "Femme Fatale",
+            "Venus In Furs",
+            "Run Run Run",
+            "All Tomorrow's Parties",
+            "Heroin",
+            "There She Goes Again",
+            "I'll Be Your Mirror",
+            "The Black Angel's Death Song",
+            "European Son"
+        ]
     }
 }
