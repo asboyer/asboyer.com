@@ -153,13 +153,6 @@
         "rating": 8.5,
         "director": "Francis Ford Coppola"
     },
-    "The Great Escape": {
-        "id": "0057115",
-        "title": "The Great Escape",
-        "image": "http://image.tmdb.org/t/p/original/gBH4H8UMFxl139HaLz6lRuvsel8.jpg",
-        "rating": 8.2,
-        "director": "John Sturges"
-    },
     "Rocky": {
         "id": "0075148",
         "title": "Rocky",
@@ -202,13 +195,6 @@
         "rating": 8.0,
         "director": "Fred Zinnemann"
     },
-    "A Fistful of Dollars": {
-        "id": "0058461",
-        "title": "A Fistful of Dollars",
-        "image": "http://image.tmdb.org/t/p/original/lBwOEpwVeUAmrmglcstnaGcJq3Y.jpg",
-        "rating": 7.9,
-        "director": "Sergio Leone"
-    },
     "For a Few Dollars More": {
         "id": "0059578",
         "title": "For a Few Dollars More",
@@ -243,5 +229,12 @@
         "image": "http://image.tmdb.org/t/p/original/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
         "rating": 8.3,
         "director": "Michel Gondry"
+    },
+    "Dirty Harry": {
+        "id": "0066999",
+        "title": "Dirty Harry",
+        "image": "http://image.tmdb.org/t/p/original/UHxxkYe9tRdiPu0JFgcEL5hmQ4.jpg",
+        "rating": 7.7,
+        "director": "Don Siegel, Clint Eastwood"
     }
 }
