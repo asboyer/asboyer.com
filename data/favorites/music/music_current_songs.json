@@ -94,5 +94,29 @@
         "track_number": 1,
         "uri": "spotify:track:23NWj2izXAJ4yL6Nah73wf",
         "image": "https://i.scdn.co/image/ab67616d0000b273dcb7f77fa3d2dd9c121e760e"
+    },
+    "Potion (with Dua Lipa & Young Thug)": {
+        "artists": "Calvin Harris, Dua Lipa, Young Thug",
+        "duration_ms": 214459,
+        "explicit": true,
+        "id": "7fYRg3CEbk6rNCuzNzMT06",
+        "name": "Potion (with Dua Lipa & Young Thug)",
+        "popularity": 85,
+        "preview_url": "https://p.scdn.co/mp3-preview/92b611255a828c813f6af1885f4800d4ce3f8f7c?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 1,
+        "uri": "spotify:track:7fYRg3CEbk6rNCuzNzMT06",
+        "image": "https://i.scdn.co/image/ab67616d0000b273210dbb988be90592f4e0a4bd"
+    },
+    "Outside (feat. Ellie Goulding)": {
+        "artists": "Calvin Harris, Ellie Goulding",
+        "duration_ms": 227266,
+        "explicit": false,
+        "id": "7MmG8p0F9N3C4AXdK6o6Eb",
+        "name": "Outside (feat. Ellie Goulding)",
+        "popularity": 78,
+        "preview_url": "https://p.scdn.co/mp3-preview/43f1eef8043c1ad4894e9eca6aca2f9fdcea6866?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 6,
+        "uri": "spotify:track:7MmG8p0F9N3C4AXdK6o6Eb",
+        "image": "https://i.scdn.co/image/ab67616d0000b273063c048e9ef6bd021b744756"
     }
 }
