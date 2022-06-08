@@ -104,5 +104,30 @@
             "The Black Angel's Death Song",
             "European Son"
         ]
+    },
+    "Funk Wav Bounces Vol.1": {
+        "artists": "Calvin Harris, Funk Wav",
+        "id": "2HaqChIDc5go3qxVunBDK0",
+        "name": "Funk Wav Bounces Vol.1",
+        "popularity": 70,
+        "release_date": "2017-06-30",
+        "total_tracks": 10,
+        "uri": "spotify:album:2HaqChIDc5go3qxVunBDK0",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734d3fa5ce7ba599f4fd7803ef",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Slide (feat. Frank Ocean & Migos)",
+            "Cash Out (feat. ScHoolboy Q, PARTYNEXTDOOR & D.R.A.M.)",
+            "Heatstroke (feat. Young Thug, Pharrell Williams & Ariana Grande)",
+            "Rollin (feat. Future & Khalid)",
+            "Prayers Up (feat. Travis Scott & A-Trak)",
+            "Holiday (feat. Snoop Dogg, John Legend & Takeoff)",
+            "Skrt On Me (feat. Nicki Minaj)",
+            "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
+            "Faking It (feat. Kehlani & Lil Yachty)",
+            "Hard to Love (feat. Jessie Reyez)"
+        ]
     }
 }

@@ -70,5 +70,29 @@
         "track_number": 2,
         "uri": "spotify:track:0TAUAUIEtq06TdQDVlUSxW",
         "image": "https://i.scdn.co/image/ab67616d0000b273c5663e50de353981ed2b1a37"
+    },
+    "One Kiss (with Dua Lipa)": {
+        "artists": "Calvin Harris, Dua Lipa",
+        "duration_ms": 214846,
+        "explicit": false,
+        "id": "7ef4DlsgrMEH11cDZd32M6",
+        "name": "One Kiss (with Dua Lipa)",
+        "popularity": 85,
+        "preview_url": "https://p.scdn.co/mp3-preview/128a50f77ec0225f05a2bd1664cab327bc66bc5f?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 1,
+        "uri": "spotify:track:7ef4DlsgrMEH11cDZd32M6",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d09f96d82310d4d77c14c108"
+    },
+    "Pop Style": {
+        "artists": "Drake, The Throne",
+        "duration_ms": 209453,
+        "explicit": true,
+        "id": "23NWj2izXAJ4yL6Nah73wf",
+        "name": "Pop Style",
+        "popularity": 52,
+        "preview_url": null,
+        "track_number": 1,
+        "uri": "spotify:track:23NWj2izXAJ4yL6Nah73wf",
+        "image": "https://i.scdn.co/image/ab67616d0000b273dcb7f77fa3d2dd9c121e760e"
     }
 }
