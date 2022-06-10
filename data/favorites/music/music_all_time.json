@@ -342,29 +342,6 @@
         ],
         "score": 7.36
     },
-    "Mr. Robot, Vol. 1 (Original Television Series Soundtrack)": {
-        "artists": "Mac Quayle",
-        "id": "012oKUlmu9qA84z4kYrOAj",
-        "name": "Mr. Robot, Vol. 1 (Original Television Series Soundtrack)",
-        "popularity": 46,
-        "release_date": "2016-06-03",
-        "total_tracks": 29,
-        "uri": "spotify:album:012oKUlmu9qA84z4kYrOAj",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733f7642827e423f57b5bfc723",
-        "top_tracks": [
-            "1.0_2-oneincontrol.aiff",
-            "1.0_3-fucksociety.mp3",
-            "1.0_6-leavem3here.flac",
-            "1.0_8-whatsyourask.m4p",
-            "1.1_3-oneor0.wma",
-            "1.3_5-da3m0nsneverstop.caf",
-            "1.4_2-impenetrable.sd2"
-        ],
-        "good_tracks": [
-            "1.0_1-hellofriend.wav"
-        ],
-        "score": 2.66
-    },
     "Illmatic": {
         "artists": "Nas",
         "id": "3kEtdS2pH6hKcMU9Wioob1",
@@ -1784,26 +1761,6 @@
         ],
         "score": 8.9
     },
-    "A Love Letter To You 3": {
-        "artists": "Trippie Redd",
-        "id": "6qRbGZqJ3aQY8N8bcHc1ug",
-        "name": "A Love Letter To You 3",
-        "popularity": 72,
-        "release_date": "2018-11-09",
-        "total_tracks": 16,
-        "uri": "spotify:album:6qRbGZqJ3aQY8N8bcHc1ug",
-        "image": "https://i.scdn.co/image/ab67616d0000b27392bb8047753d97ff274b2f5f",
-        "top_tracks": [
-            "Love Scars 3",
-            "Loyalty Before Royalty",
-            "1400 / 999 Freestyle"
-        ],
-        "good_tracks": [
-            "Topanga",
-            "Diamond Minds"
-        ],
-        "score": 2.92
-    },
     "Uncharted": {
         "artists": "The Piano Guys",
         "id": "6nNCnm0zCnx2CF033KpEVd",
@@ -1886,28 +1843,6 @@
             "Until I Bleed Out"
         ],
         "score": 9.05
-    },
-    "LoVE me NOw (ReLoAdeD)": {
-        "artists": "Tory Lanez",
-        "id": "0RK6vpJWuCZpNWNdRJ8rpY",
-        "name": "LoVE me NOw (ReLoAdeD)",
-        "popularity": 65,
-        "release_date": "2018-10-26",
-        "total_tracks": 17,
-        "uri": "spotify:album:0RK6vpJWuCZpNWNdRJ8rpY",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e425ce7f784550e60e6045fe",
-        "top_tracks": [
-            "SHE tOLd Me",
-            "TAlk tO Me (with Rich The Kid)",
-            "IF iT Ain'T rIGHt (feat. A Boogie wit da Hoodie)",
-            "FeRRis WhEEL (feat. Trippie Redd)",
-            "YoU ThouGHt WrONg"
-        ],
-        "good_tracks": [
-            "Freaky",
-            "MiAMi (feat. Gunna)"
-        ],
-        "score": 3.78
     },
     "Blonde": {
         "artists": "Frank Ocean",
@@ -2212,28 +2147,6 @@
         ],
         "score": 8.73
     },
-    "The Social Network": {
-        "artists": "Trent Reznor and Atticus Ross",
-        "id": "1ijkFiMeHopKkHyvQCWxUa",
-        "name": "The Social Network",
-        "popularity": 51,
-        "release_date": "2010-09-28",
-        "total_tracks": 19,
-        "uri": "spotify:album:1ijkFiMeHopKkHyvQCWxUa",
-        "image": "https://i.scdn.co/image/ab67616d0000b273897cd4eeff3174110aa6230b",
-        "top_tracks": [
-            "In Motion",
-            "Intriguing Possibilities",
-            "Complication With Optimistic Outcome"
-        ],
-        "good_tracks": [
-            "Hand Covers Bruise",
-            "A Familiar Taste",
-            "Painted Sun in Abstract",
-            "In the Hall of the Mountain King"
-        ],
-        "score": 3.08
-    },
     "Donda": {
         "artists": "Kanye West",
         "id": "340MjPcVdiQRnMigrPybZA",
@@ -2330,24 +2243,6 @@
             "Used To Be"
         ],
         "score": 5.86
-    },
-    "Lil Uzi Vert vs. The World": {
-        "artists": "Lil Uzi Vert",
-        "id": "7mgdTKTCdfnLoa1HXHvLYM",
-        "name": "Lil Uzi Vert vs. The World",
-        "popularity": 72,
-        "release_date": "2016-05-27",
-        "total_tracks": 9,
-        "uri": "spotify:album:7mgdTKTCdfnLoa1HXHvLYM",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738be07181aa935225a6f25d56",
-        "top_tracks": [
-            "Ps & Qs",
-            "Money Longer"
-        ],
-        "good_tracks": [
-            "You Was Right"
-        ],
-        "score": 3.02
     },
     "Night Visions": {
         "artists": "Imagine Dragons",
@@ -2733,26 +2628,6 @@
         ],
         "score": 6.79
     },
-    "LIFE'S A TRIP": {
-        "artists": "Trippie Redd",
-        "id": "214f4uAY0p2KgY7Fl4fBgk",
-        "name": "LIFE'S A TRIP",
-        "popularity": 74,
-        "release_date": "2018-08-10",
-        "total_tracks": 14,
-        "uri": "spotify:album:214f4uAY0p2KgY7Fl4fBgk",
-        "image": "https://i.scdn.co/image/ab67616d0000b273d959c12f4de683c39a1bafe3",
-        "top_tracks": [
-            "Taking A Walk",
-            "BANG!",
-            "Dark Knight Dummo",
-            "Shake It Up"
-        ],
-        "good_tracks": [
-            "Wish - Trippie Mix"
-        ],
-        "score": 3.45
-    },
     "nothings ever good enough": {
         "artists": "iann dior",
         "id": "5UHC2JN3ck4XPYPjngia2G",
@@ -2800,24 +2675,6 @@
             "Real Life"
         ],
         "score": 6.86
-    },
-    "PARTYMOBILE": {
-        "artists": "PARTYNEXTDOOR",
-        "id": "2T8UlI17u5hwTqu6zkpkW7",
-        "name": "PARTYMOBILE",
-        "popularity": 71,
-        "release_date": "2020-03-27",
-        "total_tracks": 15,
-        "uri": "spotify:album:2T8UlI17u5hwTqu6zkpkW7",
-        "image": "https://i.scdn.co/image/ab67616d0000b273d8082097058d4c44739b17dd",
-        "top_tracks": [
-            "THE NEWS",
-            "EYE ON IT",
-            "BELIEVE IT",
-            "PGT"
-        ],
-        "good_tracks": [],
-        "score": 2.67
     },
     "Snow Cougar": {
         "artists": "Yung Gravy",
@@ -3254,64 +3111,25 @@
             "Under The Sun (with J. Cole & Lute feat. DaBaby)",
             "Down Bad (feat. JID, Bas, J. Cole, EARTHGANG & Young Nudy)",
             "Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy)",
-            "MIDDLE CHILD"
+            "MIDDLE CHILD",
+            "Costa Rica (with Bas & JID feat. Guapdad 4000, Reese LAFLARE, Jace, Mez, Smokepurpp, Buddy & Ski Mask The Slump God)"
         ],
         "good_tracks": [
-            "Swivel (with EARTHGANG) - From The Album \"Mirrorland\"",
-            "Oh Wow...Swerve (with J. Cole feat. Zoink Gang, KEY! & Maxo Kream)"
-        ],
-        "score": 3.02,
-        "tracks": [
             "LamboTruck (with Cozz feat. REASON & Childish Major)",
+            "Swivel (with EARTHGANG) - From The Album \"Mirrorland\"",
+            "Oh Wow...Swerve (with J. Cole feat. Zoink Gang, KEY! & Maxo Kream)",
             "Don't Hit Me Right Now (with Bas & Cozz feat. Yung Baby Tate, Guapdad 4000 & Buddy)",
             "Wells Fargo (with JID & EARTHGANG feat. Buddy & Guapdad 4000) - Interlude",
             "Sleep Deprived (with Lute & Omen feat. Mez & DaVionne)",
             "Self Love (with Ari Lennox & Bas feat. Baby Rose)",
             "Ladies, Ladies, Ladies (with JID feat. T.I.)",
-            "Costa Rica (with Bas & JID feat. Guapdad 4000, Reese LAFLARE, Jace, Mez, Smokepurpp, Buddy & Ski Mask The Slump God)",
             "1993 (with J. Cole, JID, Cozz & EARTHGANG feat. Smino & Buddy)",
             "Rembrandt...Run It Back (with JID & J. Cole feat. Vince Staples)",
             "Sunset (with J. Cole feat. Young Nudy)",
-            "PTSD (with Omen feat. Mereba, Deante' Hitchcock & St. Beauty)",
             "Sacrifices (with EARTHGANG & J. Cole feat. Smino & Saba)"
-        ]
-    },
-    "Light of Mine (Deluxe)": {
-        "artists": "KYLE",
-        "id": "4UYc2CKvpyr2e1moEY6TL0",
-        "name": "Light of Mine (Deluxe)",
-        "popularity": 55,
-        "release_date": "2019-08-23",
-        "total_tracks": 21,
-        "uri": "spotify:album:4UYc2CKvpyr2e1moEY6TL0",
-        "image": "https://i.scdn.co/image/ab67616d0000b27376b063e15d75ade95509f5ed",
-        "top_tracks": [
-            "Playinwitme (feat. Kehlani)",
-            "iSpy (feat. Lil Yachty)",
-            "F You I Love You (feat. Teyana Taylor)",
-            "Hey Julie! (feat. Lil Yachty)"
         ],
-        "good_tracks": [],
-        "score": 1.9,
-        "tracks": [
-            "Ups & Downs",
-            "Coming, Going? (feat. Take 6)",
-            "Zoom",
-            "Ikuyo (feat. 2 Chainz & Sophia Black)",
-            "Games",
-            "Babies (feat. Alessia Cara)",
-            "OpenDoors (feat. Avery Wilson)",
-            "To the Moon",
-            "iMissMe (feat. Khalid)",
-            "ShipTrip",
-            "Rodeo",
-            "It's Yours",
-            "Clouds",
-            "Mmmm",
-            "SUPERDUPERKYLE (feat. MadeinTYO)",
-            "Moment (feat. Wiz Khalifa)",
-            "Kyoto"
-        ]
+        "score": 7.54,
+        "tracks": []
     },
     "Continuum": {
         "artists": "John Mayer",
@@ -3325,21 +3143,19 @@
         "top_tracks": [
             "Waiting On the World to Change",
             "Belief",
-            "Gravity"
-        ],
-        "good_tracks": [],
-        "score": 2.5,
-        "tracks": [
-            "I Don't Trust Myself (With Loving You)",
+            "Gravity",
             "The Heart of Life",
+            "Slow Dancing in a Burning Room"
+        ],
+        "good_tracks": [
+            "I Don't Trust Myself (With Loving You)",
             "Vultures",
             "Stop This Train",
-            "Slow Dancing in a Burning Room",
-            "Bold as Love",
             "Dreaming with a Broken Heart",
-            "In Repair",
             "I'm Gonna Find Another You"
-        ]
+        ],
+        "score": 7.14,
+        "tracks": []
     },
     "Love & Hate": {
         "artists": "Aero Chord",
@@ -3354,149 +3170,12 @@
             "The 90s",
             "Wanchu Back"
         ],
-        "good_tracks": [],
-        "score": 4.0,
-        "tracks": [
-            "Kid's Play",
-            "Gone",
-            "Until The End"
-        ]
-    },
-    "The Midsummer Station": {
-        "artists": "Owl City",
-        "id": "7gTFf2EWBONpjKVjpWbs5p",
-        "name": "The Midsummer Station",
-        "popularity": 70,
-        "release_date": "2012-01-01",
-        "total_tracks": 11,
-        "uri": "spotify:album:7gTFf2EWBONpjKVjpWbs5p",
-        "image": "https://i.scdn.co/image/ab67616d0000b273cf5459850259268f98b07f7a",
-        "top_tracks": [
-            "Good Time"
+        "good_tracks": [
+            "Until The End",
+            "Kid's Play"
         ],
-        "good_tracks": [],
-        "score": 0.91,
-        "tracks": [
-            "Dreams And Disasters",
-            "Shooting Star",
-            "Gold",
-            "Dementia",
-            "I'm Coming After You",
-            "Speed Of Love",
-            "Embers",
-            "Silhouette",
-            "Metropolis",
-            "Take It All Away"
-        ]
-    },
-    "Ocean Eyes": {
-        "artists": "Owl City",
-        "id": "3vf65wfk1EEjVhy6BjENsS",
-        "name": "Ocean Eyes",
-        "popularity": 71,
-        "release_date": "2009-01-01",
-        "total_tracks": 12,
-        "uri": "spotify:album:3vf65wfk1EEjVhy6BjENsS",
-        "image": "https://i.scdn.co/image/ab67616d0000b273785d4e702802da500fc78b32",
-        "top_tracks": [
-            "Hello Seattle",
-            "Fireflies"
-        ],
-        "good_tracks": [],
-        "score": 1.67,
-        "tracks": [
-            "Cave In",
-            "The Bird And The Worm",
-            "Umbrella Beach",
-            "The Saltwater Room",
-            "Dental Care",
-            "Meteor Shower",
-            "On The Wing",
-            "The Tip Of The Iceberg",
-            "Vanilla Twilight",
-            "Tidal Wave"
-        ]
-    },
-    "Hunting High and Low": {
-        "artists": "a-ha",
-        "id": "1ER3B6zev5JEAaqhnyyfbf",
-        "name": "Hunting High and Low",
-        "popularity": 76,
-        "release_date": "1985-06-01",
-        "total_tracks": 10,
-        "uri": "spotify:album:1ER3B6zev5JEAaqhnyyfbf",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "Take on Me",
-            "Train of Thought",
-            "Hunting High and Low",
-            "The Blue Sky",
-            "Living a Boy's Adventure Tale",
-            "The Sun Always Shines on T.V.",
-            "And You Tell Me",
-            "Love Is Reason",
-            "I Dream Myself Alive",
-            "Here I Stand and Face the Rain"
-        ]
-    },
-    "DiCaprio 2": {
-        "artists": "JID",
-        "id": "2oI6gtIXrvNiL2VEMmj5kY",
-        "name": "DiCaprio 2",
-        "popularity": 66,
-        "release_date": "2018-11-26",
-        "total_tracks": 14,
-        "uri": "spotify:album:2oI6gtIXrvNiL2VEMmj5kY",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f5991f6f1f0de2277bb8d948",
-        "top_tracks": [
-            "Workin Out"
-        ],
-        "good_tracks": [],
-        "score": 0.71,
-        "tracks": [
-            "Frequency Change",
-            "Slick Talk",
-            "Westbrook (with A$AP Ferg)",
-            "Off Deez (with J. Cole)",
-            "151 Rum",
-            "Off Da Zoinkys",
-            "Tiiied (feat. 6LACK & Ella Mai)",
-            "Skrawberries (feat. BJ The Chicago Kid)",
-            "Hot Box (feat. Method Man & Joey Bada$$)",
-            "Mounted Up",
-            "Just Da Other Day",
-            "Despacito Too",
-            "Hasta Luego - Bonus"
-        ]
-    },
-    "Global Meltdown": {
-        "artists": "Global Dan",
-        "id": "1forWJ3Kcmc1keLS1NFd9X",
-        "name": "Global Meltdown",
-        "popularity": 49,
-        "release_date": "2019-06-28",
-        "total_tracks": 10,
-        "uri": "spotify:album:1forWJ3Kcmc1keLS1NFd9X",
-        "image": "https://i.scdn.co/image/ab67616d0000b273734dea27e633bb18ca72f772",
-        "top_tracks": [
-            "Dark Out",
-            "Down"
-        ],
-        "good_tracks": [],
-        "score": 2.0,
-        "tracks": [
-            "Cookies",
-            "W.A.N.T.S",
-            "Highlife",
-            "Runaway",
-            "Mood",
-            "Two Seater",
-            "We Lit",
-            "Handz Up"
-        ]
+        "score": 7.33,
+        "tracks": []
     },
     "i am > i was": {
         "artists": "21 Savage",
@@ -3511,23 +3190,19 @@
             "a lot",
             "out for the night",
             "1.5",
-            "ball w/o you"
+            "ball w/o you",
+            "all my friends",
+            "can't leave without it",
+            "monster"
         ],
-        "good_tracks": [],
-        "score": 2.67,
-        "tracks": [
+        "good_tracks": [
             "break da law",
             "a&t",
             "gun smoke",
-            "all my friends",
-            "can't leave without it",
-            "asmr",
-            "good day",
-            "pad lock",
-            "monster",
-            "letter 2 my momma",
-            "4L"
-        ]
+            "asmr"
+        ],
+        "score": 6.57,
+        "tracks": []
     },
     "Without Warning": {
         "artists": "21 Savage, Offset, Metro Boomin",
@@ -3540,115 +3215,19 @@
         "image": "https://i.scdn.co/image/ab67616d0000b2730f206fe737d46f2f2d826d83",
         "top_tracks": [
             "Ghostface Killers",
-            "Ric Flair Drip (& Metro Boomin)",
-            "Darth Vader"
-        ],
-        "good_tracks": [],
-        "score": 3.0,
-        "tracks": [
             "Rap Saved Me",
-            "My Choppa Hate Niggas",
-            "Nightmare",
+            "Ric Flair Drip (& Metro Boomin)",
+            "Darth Vader",
             "Mad Stalkers",
+            "My Choppa Hate Niggas",
             "Disrespectful",
-            "Run Up the Racks",
-            "Still Serving"
-        ]
-    },
-    "NOT ALL HEROES WEAR CAPES (Deluxe)": {
-        "artists": "Metro Boomin, 21 Savage",
-        "id": "3IO8IPjwXuzPJnoaqkwYrj",
-        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-        "popularity": 79,
-        "release_date": "2018-11-06",
-        "total_tracks": 13,
-        "uri": "spotify:album:3IO8IPjwXuzPJnoaqkwYrj",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732887f8c05b5a9f1cb105be29",
-        "top_tracks": [
-            "Space Cadet (feat. Gunna)",
-            "10 Freaky Girls (with 21 Savage)"
-        ],
-        "good_tracks": [],
-        "score": 1.54,
-        "tracks": [
-            "10AM/Save The World (feat. Gucci Mane)",
-            "Overdue (with Travis Scott)",
-            "Don't Come Out The House (with 21 Savage)",
-            "Dreamcatcher (feat. Swae Lee & Travis Scott)",
-            "Up To Something (feat. Travis Scott & Young Thug)",
-            "Only 1 (Interlude) (with Travis Scott)",
-            "Lesbian (feat. Gunna & Young Thug)",
-            "Borrowed Love (feat. Swae Lee & WizKid)",
-            "Only You (feat. WizKid, Offset & J Balvin)",
-            "No More (feat. Travis Scott, Kodak Black & 21 Savage)",
-            "No Complaints (feat. Offset & Drake) (Bonus)"
-        ]
-    },
-    "Life of a Dark Rose": {
-        "artists": "Lil Skies",
-        "id": "0CuYNS755Ow710G2E7aLDE",
-        "name": "Life of a Dark Rose",
-        "popularity": 74,
-        "release_date": "2017-12-12",
-        "total_tracks": 14,
-        "uri": "spotify:album:0CuYNS755Ow710G2E7aLDE",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c56dcd1015c1ffb8c56d2988",
-        "top_tracks": [
-            "Lust",
-            "Nowadays (feat. Landon Cube)"
-        ],
-        "good_tracks": [],
-        "score": 1.43,
-        "tracks": [
-            "Welcome to the Rodeo",
-            "The Clique",
-            "Red Roses (feat. Landon Cube)",
-            "Cloudy Skies",
-            "Signs of Jealousy",
-            "Big Money",
-            "Tell My Haters",
-            "Boss Up",
-            "Garden",
-            "Lettuce Sandwich",
-            "Strictly Business",
-            "Kill4u"
-        ]
-    },
-    "Championships": {
-        "artists": "Meek Mill",
-        "id": "6UYZEYjpN1DYRW0kqFy9ZE",
-        "name": "Championships",
-        "popularity": 75,
-        "release_date": "2018-11-30",
-        "total_tracks": 19,
-        "uri": "spotify:album:6UYZEYjpN1DYRW0kqFy9ZE",
-        "image": "https://i.scdn.co/image/ab67616d0000b273cd63c5962050729d260077d6",
-        "top_tracks": [
-            "Uptown Vibes (feat. Fabolous & Anuel AA)",
-            "Going Bad (feat. Drake)"
+            "Run Up the Racks"
         ],
         "good_tracks": [
-            "Oodles O' Noodles Babies",
-            "Championships"
+            "Nightmare"
         ],
-        "score": 1.8,
-        "tracks": [
-            "Intro",
-            "Trauma",
-            "On Me (feat. Cardi B)",
-            "What's Free (feat. Rick Ross & Jay Z)",
-            "Respect the Game",
-            "Splash Warning (feat. Future, Roddy Ricch and Young Thug)",
-            "Almost Slipped",
-            "Tic Tac Toe (feat. Kodak Black)",
-            "24/7 (feat. Ella Mai)",
-            "Pay You Back (feat. 21 Savage)",
-            "100 Summers",
-            "Wit the Shits (W.T.S) [feat. Melii]",
-            "Stuck in My Ways",
-            "Dangerous (feat. Jeremih and PnB Rock)",
-            "Cold Hearted II"
-        ]
+        "score": 8.71,
+        "tracks": []
     },
     "Views": {
         "artists": "Drake",
@@ -3695,43 +3274,13 @@
             "I don\u2019t let go",
             "One Minute (feat. Kanye West & Travis Barker)"
         ],
-        "good_tracks": [],
-        "score": 4.0,
-        "tracks": [
-            "Introduction",
+        "good_tracks": [
             "Guardian angel",
-            "Train food",
-            "STARING AT THE SKY",
             "difference (interlude)",
             "what are you so afraid of"
-        ]
-    },
-    "Sick Boy": {
-        "artists": "The Chainsmokers",
-        "id": "6ZvDJs17O3woQirttKRYCG",
-        "name": "Sick Boy",
-        "popularity": 73,
-        "release_date": "2018-12-14",
-        "total_tracks": 10,
-        "uri": "spotify:album:6ZvDJs17O3woQirttKRYCG",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738e26bf4293c9da7a6439607b",
-        "top_tracks": [
-            "This Feeling"
         ],
-        "good_tracks": [
-            "Beach House"
-        ],
-        "score": 1.71,
-        "tracks": [
-            "Hope",
-            "Somebody",
-            "Side Effects",
-            "Sick Boy",
-            "Everybody Hates Me",
-            "Siren",
-            "You Owe Me",
-            "Save Yourself"
-        ]
+        "score": 6.14,
+        "tracks": []
     },
     "Please Excuse Me for Being Antisocial": {
         "artists": "Roddy Ricch",
@@ -3783,60 +3332,6 @@
             "At the Door"
         ],
         "score": 4.57
-    },
-    "Random Access Memories": {
-        "artists": "Daft Punk",
-        "id": "4m2880jivSbbyEGAKfITCa",
-        "name": "Random Access Memories",
-        "popularity": 76,
-        "release_date": "2013-05-17",
-        "total_tracks": 13,
-        "uri": "spotify:album:4m2880jivSbbyEGAKfITCa",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731d97ca7376f835055f828139",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "Give Life Back to Music",
-            "The Game of Love",
-            "Giorgio by Moroder",
-            "Within",
-            "Instant Crush (feat. Julian Casablancas)",
-            "Lose Yourself to Dance (feat. Pharrell Williams)",
-            "Touch (feat. Paul Williams)",
-            "Get Lucky (feat. Pharrell Williams & Nile Rodgers)",
-            "Beyond",
-            "Motherboard",
-            "Fragments of Time (feat. Todd Edwards)",
-            "Doin' it Right (feat. Panda Bear)",
-            "Contact"
-        ]
-    },
-    "Purple Rain": {
-        "artists": "Prince",
-        "id": "7nXJ5k4XgRj5OLg9m8V3zc",
-        "name": "Purple Rain",
-        "popularity": 71,
-        "release_date": "1984-06-25",
-        "total_tracks": 9,
-        "uri": "spotify:album:7nXJ5k4XgRj5OLg9m8V3zc",
-        "image": "https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b",
-        "top_tracks": [
-            "Let's Go Crazy",
-            "The Beautiful Ones"
-        ],
-        "good_tracks": [
-            "Take Me with U"
-        ],
-        "score": 3.02,
-        "tracks": [
-            "Computer Blue",
-            "Darling Nikki",
-            "When Doves Cry",
-            "I Would Die 4 U",
-            "Baby I'm a Star",
-            "Purple Rain"
-        ]
     },
     "Hotel Diablo": {
         "artists": "Machine Gun Kelly",
@@ -4023,29 +3518,6 @@
             "DUMMY"
         ],
         "score": 5.71
-    },
-    "TAKE TIME": {
-        "artists": "Giveon",
-        "id": "1zHR48K6XtWYm6bhrw4J6C",
-        "name": "TAKE TIME",
-        "popularity": 80,
-        "release_date": "2020-03-27",
-        "total_tracks": 8,
-        "uri": "spotify:album:1zHR48K6XtWYm6bhrw4J6C",
-        "image": "https://i.scdn.co/image/ab67616d0000b27318ff322fcdd47c9400872da6",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "The Beach",
-            "World We Created",
-            "Take Time (Interlude)",
-            "Favorite Mistake",
-            "This Ain't Love",
-            "Heartbreak Anniversary",
-            "Like I Want You",
-            "Vanish"
-        ]
     },
     "So Much Fun": {
         "artists": "Young Thug",
@@ -4498,29 +3970,24 @@
         "uri": "spotify:album:0gA0nZrZ55PLUp7ARfrICu",
         "image": "https://i.scdn.co/image/ab67616d0000b273d7547a7624116ac5f8a51fd2",
         "top_tracks": [
-            "ARGENTINA",
             "DOLLAZ ON MY HEAD (feat. Young Thug)",
             "SKYBOX",
-            "TOP FLOOR (feat. Travis Scott)"
+            "TOP FLOOR (feat. Travis Scott)",
+            "MET GALA"
         ],
-        "good_tracks": [],
-        "score": 2.22,
-        "tracks": [
+        "good_tracks": [
+            "ARGENTINA",
             "GIMMICK",
             "MOTW",
             "FEIGNING",
             "ADDYS (feat. Nechie)",
             "WUNNA",
             "BLINDFOLD (feat. Lil Baby)",
-            "ROCKSTAR BIKERS & CHAINS",
-            "MET GALA",
             "NASTY GIRL / ON CAMERA",
-            "COOLER THAN A BITCH (feat. Roddy Ricch)",
-            "I'M ON SOME",
-            "DON'T PLAY AROUND",
-            "DO BETTER",
-            "FAR (feat. Young Thug)"
-        ]
+            "COOLER THAN A BITCH (feat. Roddy Ricch)"
+        ],
+        "score": 5.79,
+        "tracks": []
     },
     "Blue Train": {
         "artists": "John Coltrane",
@@ -4542,37 +4009,6 @@
         ],
         "score": 9.43,
         "tracks": []
-    },
-    "Ella Mai": {
-        "artists": "Ella Mai",
-        "id": "67ErXRS9s9pVG8JmFbrdJ0",
-        "name": "Ella Mai",
-        "popularity": 76,
-        "release_date": "2018-10-12",
-        "total_tracks": 16,
-        "uri": "spotify:album:67ErXRS9s9pVG8JmFbrdJ0",
-        "image": "https://i.scdn.co/image/ab67616d0000b2737ce0faf0620ab9c1779e1fbf",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "Emotion",
-            "Good Bad",
-            "Dangerous",
-            "Sauce",
-            "Whatchamacallit (feat. Chris Brown)",
-            "Cheap Shot",
-            "Shot Clock",
-            "Boo'd Up",
-            "Everything (feat. John Legend)",
-            "Own It",
-            "Run My Mouth",
-            "Gut Feeling (feat. H.E.R.)",
-            "Trip",
-            "Close",
-            "Easy",
-            "Naked - Bonus Track"
-        ]
     },
     "Certified Lover Boy": {
         "artists": "Drake",
@@ -4792,6 +4228,172 @@
             "From Florida With Love"
         ],
         "score": 7.26,
+        "tracks": []
+    },
+    "LIFE'S A TRIP": {
+        "artists": "Trippie Redd",
+        "id": "214f4uAY0p2KgY7Fl4fBgk",
+        "name": "LIFE'S A TRIP",
+        "popularity": 68,
+        "release_date": "2018-08-10",
+        "total_tracks": 14,
+        "uri": "spotify:album:214f4uAY0p2KgY7Fl4fBgk",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d959c12f4de683c39a1bafe3",
+        "top_tracks": [
+            "Taking A Walk",
+            "Wish - Trippie Mix",
+            "BANG!",
+            "Dark Knight Dummo",
+            "Shake It Up"
+        ],
+        "good_tracks": [
+            "Together",
+            "Forever Ever",
+            "How You Feel",
+            "UKA UKA",
+            "Oomps Revenge",
+            "Gore",
+            "Underwater FlyZone"
+        ],
+        "score": 7.74,
+        "tracks": []
+    },
+    "The Social Network": {
+        "artists": "Trent Reznor and Atticus Ross",
+        "id": "1ijkFiMeHopKkHyvQCWxUa",
+        "name": "The Social Network",
+        "popularity": 46,
+        "release_date": "2010-09-28",
+        "total_tracks": 19,
+        "uri": "spotify:album:1ijkFiMeHopKkHyvQCWxUa",
+        "image": "https://i.scdn.co/image/ab67616d0000b273897cd4eeff3174110aa6230b",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Hand Covers Bruise",
+            "In Motion",
+            "A Familiar Taste",
+            "It Catches up With You",
+            "Intriguing Possibilities",
+            "Painted Sun in Abstract",
+            "3:14 Every Night",
+            "Pieces Form the Whole",
+            "Carbon Prevails",
+            "Eventually We Find Our Way",
+            "Penetration",
+            "In the Hall of the Mountain King",
+            "On We March",
+            "Magnetic",
+            "Almost Home",
+            "Hand Covers Bruise, Reprise",
+            "Complication With Optimistic Outcome",
+            "The Gentle Hum of Anxiety",
+            "Soft Trees Break the Fall"
+        ]
+    },
+    "Lil Uzi Vert vs. The World": {
+        "artists": "Lil Uzi Vert",
+        "id": "7mgdTKTCdfnLoa1HXHvLYM",
+        "name": "Lil Uzi Vert vs. The World",
+        "popularity": 65,
+        "release_date": "2016-05-27",
+        "total_tracks": 9,
+        "uri": "spotify:album:7mgdTKTCdfnLoa1HXHvLYM",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738be07181aa935225a6f25d56",
+        "top_tracks": [
+            "Canadian Goose",
+            "Money Longer",
+            "You Was Right",
+            "Ps & Qs"
+        ],
+        "good_tracks": [
+            "Hi Roller",
+            "Grab the Wheel",
+            "Baby Are You Home",
+            "Scott and Ramona"
+        ],
+        "score": 7.62,
+        "tracks": []
+    },
+    "A Love Letter To You 3": {
+        "artists": "Trippie Redd",
+        "id": "6qRbGZqJ3aQY8N8bcHc1ug",
+        "name": "A Love Letter To You 3",
+        "popularity": 67,
+        "release_date": "2018-11-09",
+        "total_tracks": 16,
+        "uri": "spotify:album:6qRbGZqJ3aQY8N8bcHc1ug",
+        "image": "https://i.scdn.co/image/ab67616d0000b27392bb8047753d97ff274b2f5f",
+        "top_tracks": [
+            "Love Scars 3",
+            "Loyalty Before Royalty",
+            "1400 / 999 Freestyle",
+            "Diamond Minds"
+        ],
+        "good_tracks": [
+            "Topanga",
+            "Fire Starter",
+            "Negative Energy",
+            "Can't Love",
+            "Emani Interlude",
+            "I Tried Loving",
+            "Wicked",
+            "So Alive"
+        ],
+        "score": 6.67,
+        "tracks": []
+    },
+    "PARTYMOBILE": {
+        "artists": "PARTYNEXTDOOR",
+        "id": "2T8UlI17u5hwTqu6zkpkW7",
+        "name": "PARTYMOBILE",
+        "popularity": 62,
+        "release_date": "2020-03-27",
+        "total_tracks": 15,
+        "uri": "spotify:album:2T8UlI17u5hwTqu6zkpkW7",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d8082097058d4c44739b17dd",
+        "top_tracks": [
+            "THE NEWS",
+            "SHOWING YOU",
+            "EYE ON IT",
+            "BELIEVE IT",
+            "PGT"
+        ],
+        "good_tracks": [
+            "NOTHING LESS",
+            "TURN UP",
+            "SPLIT DECISION",
+            "ANOTHER DAY",
+            "NEVER AGAIN",
+            "SAVAGE ANTHEM"
+        ],
+        "score": 6.19,
+        "tracks": []
+    },
+    "NOT ALL HEROES WEAR CAPES": {
+        "artists": "Metro Boomin, Travis Scott, 21 Savage",
+        "id": "1zNr37qd3iZJ899byrTkcj",
+        "name": "NOT ALL HEROES WEAR CAPES",
+        "popularity": 0,
+        "release_date": "2018-11-02",
+        "total_tracks": 13,
+        "uri": "spotify:album:1zNr37qd3iZJ899byrTkcj",
+        "image": "https://i.scdn.co/image/ab67616d0000b273184cc62dccee251dafefefee",
+        "top_tracks": [
+            "Overdue (with Travis Scott)",
+            "Don't Come Out The House (with 21 Savage)",
+            "Space Cadet (feat. Gunna)",
+            "10 Freaky Girls (with 21 Savage)",
+            "No More (feat. Travis Scott, Kodak Black & 21 Savage)",
+            "No Complaints (feat. Offset & Drake) (Bonus)",
+            "Up To Something (feat. Travis Scott & Young Thug)",
+            "Lesbian (feat. Gunna & Young Thug)"
+        ],
+        "good_tracks": [
+            "Dreamcatcher (feat. Swae Lee & Travis Scott)"
+        ],
+        "score": 6.7,
         "tracks": []
     }
 }

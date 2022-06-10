@@ -79,11 +79,12 @@
         "total_tracks": 11,
         "uri": "spotify:album:4xwx0x7k6c5VuThz5qVqmV",
         "image": "https://i.scdn.co/image/ab67616d0000b27398260c528e6eec9dd431c1d7",
-        "top_tracks": [],
+        "top_tracks": [
+            "Sunday Morning"
+        ],
         "good_tracks": [],
         "score": 0.0,
         "tracks": [
-            "Sunday Morning",
             "I'm Waiting For The Man",
             "Femme Fatale",
             "Venus In Furs",
@@ -163,16 +164,13 @@
         "image": "https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9",
         "top_tracks": [
             "15 Step",
-            "Bodysnatchers"
-            
+            "Bodysnatchers",
+            "Nude",
+            "Weird Fishes/ Arpeggi"
         ],
-        "good_tracks": [
-            
-        ],
+        "good_tracks": [],
         "score": 0.0,
         "tracks": [
-            "Nude",
-            "Weird Fishes/ Arpeggi",
             "All I Need",
             "Faust Arp",
             "Reckoner",
