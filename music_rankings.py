@@ -31,7 +31,8 @@ top = ['Kanye West',
     "BROCKHAMPTON",
     'Polo G',
     'Duke Ellington, John Coltrane',
-    'Aero Chord'
+    'Aero Chord',
+    'Migos'
     ]
 
 top_a = ['?', 'Boston', 'Hoodie SZN', 'Loose', 'Confessions of a Dangerous Mind', 'So Much Fun', 'Flower Boy', 'Thats What They All Say', 'Sweet Action', "Die Lit", "Luv Is Rage 2 (Deluxe)", 'Madvillainy', 'Subluxe']

@@ -66,7 +66,7 @@
         "release_date": "1972-12-08",
         "total_tracks": 13,
         "uri": "spotify:album:7KvKuWUxxNPEU80c4i5AQk",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ea177a7959b9adec2d1434fe",
+        "image": "https://greggioia.com/wp-content/uploads/2020/05/Marvin-Gaye-Trouble-Man.jpg",
         "top_tracks": [
             "Main Theme From Trouble Man - 2",
             "Main Theme From Trouble Man - 1",
@@ -4428,6 +4428,64 @@
             "Wow."
         ],
         "score": 7.84,
+        "tracks": []
+    },
+    "Culture": {
+        "artists": "Migos",
+        "id": "4JTOxuvM2jcSqAvEZtZsOO",
+        "name": "Culture",
+        "popularity": 65,
+        "release_date": "2017-01-27",
+        "total_tracks": 13,
+        "uri": "spotify:album:4JTOxuvM2jcSqAvEZtZsOO",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736275aeac316378b0dd4f31fd",
+        "top_tracks": [
+            "T-Shirt",
+            "Call Casting",
+            "Bad and Boujee (feat. Lil Uzi Vert)",
+            "Get Right Witcha",
+            "Slippery (feat. Gucci Mane)"
+        ],
+        "good_tracks": [
+            "Culture (feat. DJ Khaled)",
+            "What the Price",
+            "Brown Paper Bag",
+            "Kelly Price (feat. Travis Scott)",
+            "Out Yo Way"
+        ],
+        "score": 7.05,
+        "tracks": []
+    },
+    "Culture II": {
+        "artists": "Migos",
+        "id": "7fd7SEK25VS3gJAUgSwL6y",
+        "name": "Culture II",
+        "popularity": 72,
+        "release_date": "2018-01-26",
+        "total_tracks": 24,
+        "uri": "spotify:album:7fd7SEK25VS3gJAUgSwL6y",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739c188c494d8bfaf895411890",
+        "top_tracks": [
+            "Narcos",
+            "Walk It Talk It",
+            "Stir Fry"
+        ],
+        "good_tracks": [
+            "Higher We Go - Intro",
+            "Supastars",
+            "BBO (Bad Bitches Only)",
+            "CC",
+            "Too Much Jewelry",
+            "White Sand",
+            "Flooded",
+            "Beast",
+            "Open It Up",
+            "Movin' Too Fast",
+            "Work Hard",
+            "Notice Me",
+            "Made Men"
+        ],
+        "score": 5.76,
         "tracks": []
     }
 }
