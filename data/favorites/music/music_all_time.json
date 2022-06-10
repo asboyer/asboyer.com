@@ -2520,16 +2520,19 @@
             "92 Explorer",
             "Candy Paint",
             "Sugar Wraith",
-            "Spoil My Night (feat. Swae Lee)"
+            "Spoil My Night (feat. Swae Lee)",
+            "Psycho (feat. Ty Dolla $ign)"
         ],
         "good_tracks": [
             "Paranoid",
             "Takin' Shots",
-            "Psycho (feat. Ty Dolla $ign)",
             "Stay",
-            "Ball For Me"
+            "Ball For Me",
+            "Zack And Codeine",
+            "Otherside",
+            "Blame It On Me"
         ],
-        "score": 6.76
+        "score": 8.24
     },
     "My Everything (Deluxe)": {
         "artists": "Ariana Grande",
@@ -4394,6 +4397,37 @@
             "Dreamcatcher (feat. Swae Lee & Travis Scott)"
         ],
         "score": 6.7,
+        "tracks": []
+    },
+    "Hollywood's Bleeding": {
+        "artists": "Post Malone",
+        "id": "4g1ZRSobMefqF6nelkgibi",
+        "name": "Hollywood's Bleeding",
+        "popularity": 80,
+        "release_date": "2019-09-06",
+        "total_tracks": 17,
+        "uri": "spotify:album:4g1ZRSobMefqF6nelkgibi",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02",
+        "top_tracks": [
+            "Saint-Tropez",
+            "Enemies (feat. DaBaby)",
+            "Circles",
+            "Take What You Want (feat. Ozzy Osbourne & Travis Scott)",
+            "Sunflower - Spider-Man: Into the Spider-Verse"
+        ],
+        "good_tracks": [
+            "Hollywood's Bleeding",
+            "Allergic",
+            "A Thousand Bad Times",
+            "Die For Me (feat. Future & Halsey)",
+            "On The Road (feat. Meek Mill & Lil Baby)",
+            "I'm Gonna Be",
+            "Staring At The Sun (feat. SZA)",
+            "Internet",
+            "Goodbyes (feat. Young Thug)",
+            "Wow."
+        ],
+        "score": 7.84,
         "tracks": []
     }
 }
