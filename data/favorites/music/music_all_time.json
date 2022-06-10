@@ -3654,7 +3654,7 @@
         "artists": "Drake",
         "id": "40GMAhriYJRO1rsY4YdrZb",
         "name": "Views",
-        "popularity": 83,
+        "popularity": 77,
         "release_date": "2016-05-06",
         "total_tracks": 20,
         "uri": "spotify:album:40GMAhriYJRO1rsY4YdrZb",
@@ -3663,28 +3663,22 @@
             "Hype",
             "Still Here",
             "Controlla",
+            "Pop Style",
             "Views",
             "Hotline Bling"
         ],
-        "good_tracks": [],
-        "score": 2.5,
-        "tracks": [
-            "Keep The Family Close",
+        "good_tracks": [
             "9",
-            "U With Me?",
             "Feel No Ways",
-            "Weston Road Flows",
-            "Redemption",
-            "With You",
-            "Faithful",
             "One Dance",
             "Grammys",
             "Childs Play",
-            "Pop Style",
-            "Too Good",
             "Summers Over Interlude",
-            "Fire & Desire"
-        ]
+            "With You",
+            "U With Me?"
+        ],
+        "score": 6.33,
+        "tracks": []
     },
     "SKINS": {
         "artists": "XXXTENTACION",
@@ -4697,6 +4691,107 @@
             "WHOLE lotta GUAP"
         ],
         "score": 8.4,
+        "tracks": []
+    },
+    "Funk Wav Bounces Vol.1": {
+        "artists": "Calvin Harris, Funk Wav",
+        "id": "2HaqChIDc5go3qxVunBDK0",
+        "name": "Funk Wav Bounces Vol.1",
+        "popularity": 70,
+        "release_date": "2017-06-30",
+        "total_tracks": 10,
+        "uri": "spotify:album:2HaqChIDc5go3qxVunBDK0",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734d3fa5ce7ba599f4fd7803ef",
+        "top_tracks": [
+            "Slide (feat. Frank Ocean & Migos)",
+            "Cash Out (feat. ScHoolboy Q, PARTYNEXTDOOR & D.R.A.M.)",
+            "Heatstroke (feat. Young Thug, Pharrell Williams & Ariana Grande)",
+            "Rollin (feat. Future & Khalid)",
+            "Holiday (feat. Snoop Dogg, John Legend & Takeoff)",
+            "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)"
+        ],
+        "good_tracks": [
+            "Prayers Up (feat. Travis Scott & A-Trak)",
+            "Faking It (feat. Kehlani & Lil Yachty)"
+        ],
+        "score": 7.43,
+        "tracks": []
+    },
+    "Motion": {
+        "artists": "Calvin Harris",
+        "id": "48zisMeiXniWLzOQghbPqS",
+        "name": "Motion",
+        "popularity": 74,
+        "release_date": "2014-10-31",
+        "total_tracks": 15,
+        "uri": "spotify:album:48zisMeiXniWLzOQghbPqS",
+        "image": "https://i.scdn.co/image/ab67616d0000b273063c048e9ef6bd021b744756",
+        "top_tracks": [
+            "Under Control (feat. Hurts)",
+            "Blame (feat. John Newman)",
+            "Outside (feat. Ellie Goulding)",
+            "Summer"
+        ],
+        "good_tracks": [
+            "Overdrive",
+            "Slow Acid",
+            "Pray to God (feat. HAIM)",
+            "Open Wide (feat. Big Sean)",
+            "Together (feat. Gwen Stefani)",
+            "Burnin"
+        ],
+        "score": 5.52,
+        "tracks": []
+    },
+    "Parachutes": {
+        "artists": "Coldplay",
+        "id": "6ZG5lRT77aJ3btmArcykra",
+        "name": "Parachutes",
+        "popularity": 77,
+        "release_date": "2000-07-10",
+        "total_tracks": 10,
+        "uri": "spotify:album:6ZG5lRT77aJ3btmArcykra",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0",
+        "top_tracks": [
+            "Don't Panic",
+            "Yellow",
+            "Trouble",
+            "Sparks"
+        ],
+        "good_tracks": [
+            "Shiver",
+            "Spies",
+            "Parachutes",
+            "High Speed"
+        ],
+        "score": 6.86,
+        "tracks": []
+    },
+    "Dark Lane Demo Tapes": {
+        "artists": "Drake",
+        "id": "6OQ9gBfg5EXeNAEwGSs6jK",
+        "name": "Dark Lane Demo Tapes",
+        "popularity": 72,
+        "release_date": "2020-05-01",
+        "total_tracks": 14,
+        "uri": "spotify:album:6OQ9gBfg5EXeNAEwGSs6jK",
+        "image": "https://i.scdn.co/image/ab67616d0000b273bba7cfaf7c59ff0898acba1f",
+        "top_tracks": [
+            "Chicago Freestyle (feat. Giveon)",
+            "Toosie Slide",
+            "Time Flies",
+            "D4L",
+            "Demons (feat. Fivio Foreign & Sosa Geek)",
+            "War"
+        ],
+        "good_tracks": [
+            "Not You Too (feat. Chris Brown)",
+            "Desires (with Future)",
+            "Landed",
+            "Pain 1993 (with Playboi Carti)",
+            "From Florida With Love"
+        ],
+        "score": 7.26,
         "tracks": []
     }
 }
