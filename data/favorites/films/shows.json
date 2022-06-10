@@ -97,15 +97,7 @@
         "id": "8420184",
         "title": "The Last Dance",
         "image": "http://image.tmdb.org/t/p/original/oVf4xGGbDtwVHiKn8uTuSriY7PH.jpg",
-        "rating": 9.1,
-        "scorecard": {
-            "screenplay": 0.0,
-            "acting": 0.0,
-            "score": 0.0,
-            "cinematography": 0.0,
-            "replay_value": 0.0
-        },
-        "asboyer_score": 0.0
+        "rating": 9.1
     },
     "Cobra Kai": {
         "id": "7221388",
@@ -131,7 +123,7 @@
     "Suits": {
         "id": "1632701",
         "title": "Suits",
-        "image": "http://image.tmdb.org/t/p/original/vQiryp6LioFxQThywxbC6TuoDjy.jpg",
+        "image": "https://i5.walmartimages.com/asr/b3ee9cf6-a2b4-4c70-a631-d6ec679e25d2_1.8c755fc3d93df220a7141e31fd491965.jpeg",
         "rating": 8.5,
         "creator": "Sharyn Rothstein, Aaron Korsh"
     }
