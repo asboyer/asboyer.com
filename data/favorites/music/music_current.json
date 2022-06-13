@@ -60,14 +60,14 @@
         "uri": "spotify:album:5fIBtKHWGjbjK9C4i1Z11L",
         "image": "https://i.scdn.co/image/ab67616d0000b273412d0a3ed734b885c1fed05d",
         "top_tracks": [
-            "Babylon Sisters",
-            "Hey Nineteen",
-            "Time Out Of Mind"
+            "Hey Nineteen"
         ],
         "good_tracks": [
-            "Glamour Profession"
+            "Babylon Sisters",
+            "Glamour Profession",
+            "Time Out Of Mind"
         ],
-        "score": 5.31,
+        "score": 4.49,
         "tracks": []
     },
     "The Velvet Underground & Nico 45th Anniversary": {
@@ -177,6 +177,82 @@
             "House Of Cards",
             "Jigsaw Falling Into Place",
             "Videotape"
+        ]
+    },
+    "Dangerous: The Double Album": {
+        "artists": "Morgan Wallen",
+        "id": "6JlCkqkqobGirPsaleJpFr",
+        "name": "Dangerous: The Double Album",
+        "popularity": 79,
+        "release_date": "2021-01-08",
+        "total_tracks": 30,
+        "uri": "spotify:album:6JlCkqkqobGirPsaleJpFr",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737d6813fd233f3bc4977cceca",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Sand In My Boots",
+            "Wasted On You",
+            "Somebody\u2019s Problem",
+            "More Surprised Than Me",
+            "865",
+            "Warning",
+            "Neon Eyes",
+            "Outlaw (feat. Ben Burgess)",
+            "Whiskey\u2019d My Way",
+            "Wonderin\u2019 Bout The Wind",
+            "Your Bartender",
+            "Only Thing That\u2019s Gone (feat. Chris Stapleton)",
+            "Cover Me Up",
+            "7 Summers",
+            "More Than My Hometown",
+            "Still Goin Down",
+            "Rednecks, Red Letters, Red Dirt",
+            "Dangerous",
+            "Beer Don\u2019t",
+            "Blame It On Me",
+            "Somethin\u2019 Country",
+            "This Bar",
+            "Country A$$ Shit",
+            "Whatcha Think Of Country Now",
+            "Me On Whiskey",
+            "Need A Boat",
+            "Silverado For Sale",
+            "Heartless - Wallen Album Mix",
+            "Livin\u2019 The Dream",
+            "Quittin\u2019 Time"
+        ]
+    },
+    "The Life Of Pi'erre 4": {
+        "artists": "Pi\u2019erre Bourne",
+        "id": "0agALBMd2a8cnpbpukTg03",
+        "name": "The Life Of Pi'erre 4",
+        "popularity": 54,
+        "release_date": "2019-06-21",
+        "total_tracks": 16,
+        "uri": "spotify:album:0agALBMd2a8cnpbpukTg03",
+        "image": "https://i.scdn.co/image/ab67616d0000b27346fe2968c4c6f8f82ab4eb5b",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Poof",
+            "Try Again",
+            "Feds",
+            "Be Mine",
+            "Ballad",
+            "Routine",
+            "Lovers",
+            "How High",
+            "Romeo Must Die",
+            "Racer",
+            "Stereotypes",
+            "Doublemint",
+            "Horoscopes",
+            "Juice",
+            "Guillotine",
+            "Speed Dial"
         ]
     }
 }

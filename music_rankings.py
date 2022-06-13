@@ -32,10 +32,16 @@ top = ['Kanye West',
     'Polo G',
     'Duke Ellington, John Coltrane',
     'Aero Chord',
-    'Migos'
+    'Migos',
+    'Lil Baby, Gunna',
+    'DaBaby',
+    'Lil Baby',
+    'Lil Yachty',
+    'Thomas Rhett',
+    'Various Artists'
     ]
 
-top_a = ['?', 'Boston', 'Hoodie SZN', 'Loose', 'Confessions of a Dangerous Mind', 'So Much Fun', 'Flower Boy', 'Thats What They All Say', 'Sweet Action', "Die Lit", "Luv Is Rage 2 (Deluxe)", 'Madvillainy', 'Subluxe']
+top_a = ['?', 'Boston', 'Hoodie SZN', 'Loose', 'Everybody', 'Confessions of a Dangerous Mind', 'So Much Fun', 'Flower Boy', 'Thats What They All Say', 'Sweet Action', "Die Lit", "Luv Is Rage 2 (Deluxe)", 'Madvillainy', 'Subluxe']
 for album in all_time_data:
     if all_time_data[album]['artists'] in top or all_time_data[album]['name'] in top_a:
         # if all_time_data[album]['name'] == 'Graduation':
