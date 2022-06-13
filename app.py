@@ -259,6 +259,12 @@ def music_json():
     data = json.load(f)
     return data
 
+@app.route("/data/music/to_listen.json")
+def music_json_to_listen():
+    f = open('data/favorites/music/music_to_listen.json')
+    data = json.load(f)
+    return data
+
 @app.route("/data/music_current.json")
 def music_json_current_albums():
     f = open('data/favorites/music/music_current.json')

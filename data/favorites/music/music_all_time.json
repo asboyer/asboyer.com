@@ -5113,141 +5113,6 @@
         "score": 6.67,
         "tracks": []
     },
-    "Come Fly With Me (Remastered)": {
-        "artists": "Frank Sinatra",
-        "id": "66v9QmjAj0Wwhh2OpbU4BE",
-        "name": "Come Fly With Me (Remastered)",
-        "popularity": 52,
-        "release_date": "1958",
-        "total_tracks": 15,
-        "uri": "spotify:album:66v9QmjAj0Wwhh2OpbU4BE",
-        "image": "https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "Come Fly With Me - Remastered 1998",
-            "Around The World - Remastered",
-            "Isle Of Capri - Remastered",
-            "Moonlight In Vermont - Remastered",
-            "Autumn In New York - Remastered",
-            "On The Road To Mandalay - Remastered",
-            "Let's Get Away From It All - Remastered",
-            "April In Paris - Remastered",
-            "London By Night - Remastered",
-            "Brazil - Remastered",
-            "Blue Hawaii - Remastered",
-            "It's Nice To Go Trav'ling - Remastered",
-            "Chicago - Remastered",
-            "South Of The Border - Remastered",
-            "I Love Paris - Remastered"
-        ]
-    },
-    "It Might As Well Be Swing": {
-        "artists": "Frank Sinatra, Count Basie",
-        "id": "5lXF6AFeXG8UsIUfBJNsNH",
-        "name": "It Might As Well Be Swing",
-        "popularity": 46,
-        "release_date": "1964-08",
-        "total_tracks": 10,
-        "uri": "spotify:album:5lXF6AFeXG8UsIUfBJNsNH",
-        "image": "https://i.scdn.co/image/ab67616d0000b27388d8e3b85d4e43ca69bfaa3c",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "Fly Me To The Moon (In Other Words)",
-            "I Wish You Love",
-            "I Believe In You",
-            "More (Theme From Mondo Cane)",
-            "I Can't Stop Loving You",
-            "Hello, Dolly! (from Hello, Dolly!)",
-            "I Wanna Be Around",
-            "The Best Is Yet To Come",
-            "The Good Life",
-            "Wives And Lovers"
-        ]
-    },
-    "Unforgettable": {
-        "artists": "Nat King Cole",
-        "id": "7GBvXtxnvBluo2f4xBVNkm",
-        "name": "Unforgettable",
-        "popularity": 52,
-        "release_date": "1954-01-01",
-        "total_tracks": 12,
-        "uri": "spotify:album:7GBvXtxnvBluo2f4xBVNkm",
-        "image": "https://i.scdn.co/image/ab67616d0000b273fdd261528e3590ac36bb85f0",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "Unforgettable",
-            "A Portrait Of Jennie",
-            "What'll I Do?",
-            "Lost April",
-            "Answer Me, My Love",
-            "Hajji Baba (Persian Lament)",
-            "Too Young",
-            "Mona Lisa",
-            "(I Love You) For Sentimental Reasons",
-            "Red Sails In The Sunset",
-            "Pretend",
-            "Make Her Mine"
-        ]
-    },
-    "1984 (Remastered)": {
-        "artists": "Van Halen",
-        "id": "3REUXdj5OPKhuDTrTtCBU0",
-        "name": "1984 (Remastered)",
-        "popularity": 67,
-        "release_date": "1984-01-04",
-        "total_tracks": 9,
-        "uri": "spotify:album:3REUXdj5OPKhuDTrTtCBU0",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b414c63fb435b622238c15ed",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "1984 - 2015 Remaster",
-            "Jump - 2015 Remaster",
-            "Panama - 2015 Remaster",
-            "Top Jimmy - 2015 Remaster",
-            "Drop Dead Legs - 2015 Remaster",
-            "Hot for Teacher - 2015 Remaster",
-            "I'll Wait - 2015 Remaster",
-            "Girl Gone Bad - 2015 Remaster",
-            "House of Pain - 2015 Remaster"
-        ]
-    },
-    "Ctrl": {
-        "artists": "SZA",
-        "id": "76290XdXVF9rPzGdNRWdCh",
-        "name": "Ctrl",
-        "popularity": 74,
-        "release_date": "2017-06-09",
-        "total_tracks": 14,
-        "uri": "spotify:album:76290XdXVF9rPzGdNRWdCh",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734c79d5ec52a6d0302f3add25",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "Supermodel",
-            "Love Galore (feat. Travis Scott)",
-            "Doves In The Wind (feat. Kendrick Lamar)",
-            "Drew Barrymore",
-            "Prom",
-            "The Weekend",
-            "Go Gina",
-            "Garden (Say It Like Dat)",
-            "Broken Clocks",
-            "Anything",
-            "Wavy (Interlude) (feat. James Fauntleroy)",
-            "Normal Girl",
-            "Pretty Little Birds (feat. Isaiah Rashad)",
-            "20 Something"
-        ]
-    },
     "Savage Mode": {
         "artists": "21 Savage, Metro Boomin",
         "id": "4I3EcXD4e3KcEoDJfFEZ5b",
@@ -5269,6 +5134,25 @@
             "Ocean Drive"
         ],
         "score": 6.19,
+        "tracks": []
+    },
+    "Scary Hours 2": {
+        "artists": "Drake",
+        "id": "5LuoozUhs2pl3glZeAJl89",
+        "name": "Scary Hours 2",
+        "popularity": 71,
+        "release_date": "2021-03-05",
+        "total_tracks": 3,
+        "uri": "spotify:album:5LuoozUhs2pl3glZeAJl89",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738b20e4631fa15d3953528bbc",
+        "top_tracks": [
+            "What\u2019s Next",
+            "Wants and Needs (feat. Lil Baby)"
+        ],
+        "good_tracks": [
+            "Lemon Pepper Freestyle (feat. Rick Ross)"
+        ],
+        "score": 9.44,
         "tracks": []
     }
 }
