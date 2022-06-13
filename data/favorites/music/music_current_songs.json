@@ -142,5 +142,17 @@
         "track_number": 1,
         "uri": "spotify:track:5rgqT1We3IX8IxF9gYZgWc",
         "image": "https://i.scdn.co/image/ab67616d0000b273df1c80e72b398aad99c10a1c"
+    },
+    "Cash In Cash Out": {
+        "artists": "Pharrell Williams, 21 Savage, Tyler, The Creator",
+        "duration_ms": 216135,
+        "explicit": true,
+        "id": "3S68RFe1lsdCdTMPIMJM3X",
+        "name": "Cash In Cash Out",
+        "popularity": 74,
+        "preview_url": "https://p.scdn.co/mp3-preview/2d0a8ce9197c0bf02fc617b7dc9d5eca89f0e9fd?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 1,
+        "uri": "spotify:track:3S68RFe1lsdCdTMPIMJM3X",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738f0df54fd6043164d7c07ae3"
     }
 }
