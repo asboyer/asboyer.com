@@ -154,5 +154,53 @@
         "track_number": 1,
         "uri": "spotify:track:3S68RFe1lsdCdTMPIMJM3X",
         "image": "https://i.scdn.co/image/ab67616d0000b2738f0df54fd6043164d7c07ae3"
+    },
+    "Hip To Be Square": {
+        "artists": "Huey Lewis & The News",
+        "duration_ms": 245466,
+        "explicit": false,
+        "id": "648BMGrt98kUbLo24A4vgj",
+        "name": "Hip To Be Square",
+        "popularity": 66,
+        "preview_url": null,
+        "track_number": 5,
+        "uri": "spotify:track:648BMGrt98kUbLo24A4vgj",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f511dc00e29c2a2bdf483b53"
+    },
+    "Fight Night": {
+        "artists": "Migos",
+        "duration_ms": 216247,
+        "explicit": true,
+        "id": "6Xa2q0dapj03CsRzmD0Os5",
+        "name": "Fight Night",
+        "popularity": 67,
+        "preview_url": null,
+        "track_number": 9,
+        "uri": "spotify:track:6Xa2q0dapj03CsRzmD0Os5",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735c4d2b8429e7bbcda34e14de"
+    },
+    "Sneakin\u2019": {
+        "artists": "Drake, 21 Savage",
+        "duration_ms": 251333,
+        "explicit": true,
+        "id": "4ckuS4Nj4FZ7i3Def3Br8W",
+        "name": "Sneakin\u2019",
+        "popularity": 65,
+        "preview_url": null,
+        "track_number": 1,
+        "uri": "spotify:track:4ckuS4Nj4FZ7i3Def3Br8W",
+        "image": "https://i.scdn.co/image/ab67616d0000b27358599e61e8a0487443d31bb6"
+    },
+    "Miss The Rage (feat. Playboi Carti)": {
+        "artists": "Trippie Redd, Playboi Carti",
+        "duration_ms": 236883,
+        "explicit": true,
+        "id": "5gZYpjakt37G3c58FKcQwJ",
+        "name": "Miss The Rage (feat. Playboi Carti)",
+        "popularity": 75,
+        "preview_url": null,
+        "track_number": 7,
+        "uri": "spotify:track:5gZYpjakt37G3c58FKcQwJ",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d01b8867ca76ba7a4c15a9a4"
     }
 }
