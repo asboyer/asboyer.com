@@ -9,7 +9,6 @@ top = ['Kanye West',
     'Don Toliver', 
     'Childish Gambino', 
     'Drake', 
-    'Drake, Future', 
     'Travis Scott', 
     'J. Cole',
     'Maroon 5',
@@ -46,7 +45,7 @@ top = ['Kanye West',
     '21 Savage, Metro Boomin'
     ]
 
-special_albums = ['Scary Hours 2', "808s & Heartbreak", "ASTROWORLD", "Birds In The Trap Sing McKnight"]
+special_albums = ['Scary Hours 2', "808s & Heartbreak", "ASTROWORLD", "Birds In The Trap Sing McKnight", "Scorpion"]
 top_a = ['?', 'Boston', 'Hoodie SZN', 'Loose', 'Everybody', 'Confessions of a Dangerous Mind', 'So Much Fun', 'Flower Boy', 'Thats What They All Say', "Die Lit", "Luv Is Rage 2 (Deluxe)", 'Subluxe', 'So Much Fun (Deluxe)', 'Bobby Tarantino', 'Bobby Tarantino II', 'The Incredible True Story']
 for album in all_time_data:
     if (all_time_data[album]['artists'] in top and all_time_data[album]['name'] not in special_albums) or all_time_data[album]['name'] in top_a:
@@ -66,7 +65,7 @@ for album in all_time_data:
         #     score = .979
         else:
             score = (len(all_time_data[album]['top_tracks'])*1.5 + len(all_time_data[album]['good_tracks'])*1.25)/(all_time_data[album]['total_tracks']*1.5)
-    elif all_time_data[album]['artists'] == 'The Weekend' or all_time_data[album]['artists'] == 'Frank Ocean' or all_time_data[album]['name'] == 'Whole Lotta Red' or all_time_data[album]['name'] == 'Eternal Atake' or all_time_data[album]['name'] == 'Future & Juice WRLD Present... WRLD ON DRUGS' or all_time_data[album]['name'] == "Without Warning" or all_time_data[album]['name'] == "Birds In The Trap Sing McKnight":
+    elif all_time_data[album]['artists'] == 'The Weekend' or all_time_data[album]['artists'] == 'Frank Ocean' or all_time_data[album]['name'] == 'Whole Lotta Red' or all_time_data[album]['name'] == 'Eternal Atake' or all_time_data[album]['name'] == 'Future & Juice WRLD Present... WRLD ON DRUGS' or all_time_data[album]['name'] == "Without Warning" or all_time_data[album]['name'] == "Birds In The Trap Sing McKnight" or all_time_data[album]['name'] == "Scorpion":
         score = (len(all_time_data[album]['top_tracks'])*2 + len(all_time_data[album]['good_tracks'])*1.87)/(all_time_data[album]['total_tracks']*2)
     else:
         score = (len(all_time_data[album]['top_tracks'])*1.4 + len(all_time_data[album]['good_tracks']))/(all_time_data[album]['total_tracks']*1.4)

@@ -697,19 +697,19 @@
             "6 God",
             "Star67",
             "6 Man",
-            "Jungle"
-        ],
-        "good_tracks": [
+            "Jungle",
             "Madonna",
             "Preach",
-            "Wednesday Night Interlude",
-            "Used To",
-            "Now & Forever",
             "Company",
+            "Used To",
+            "Now & Forever"
+        ],
+        "good_tracks": [
+            "Wednesday Night Interlude",
             "You & The 6",
             "6PM In New York"
         ],
-        "score": 9.22
+        "score": 9.71
     },
     "good kid, m.A.A.d city": {
         "artists": "Kendrick Lamar",
@@ -2932,6 +2932,7 @@
         "top_tracks": [
             "Digital Dash",
             "Big Rings",
+            "Live From The Gutter",
             "Diamonds Dancing",
             "Scholarships",
             "Plastic Bag",
@@ -2939,10 +2940,10 @@
             "Jersey"
         ],
         "good_tracks": [
-            "Live From The Gutter",
-            "I'm The Plug"
+            "I'm The Plug",
+            "Change Locations"
         ],
-        "score": 7.88
+        "score": 8.57
     },
     "1989": {
         "artists": "Taylor Swift",
@@ -3253,19 +3254,19 @@
             "Controlla",
             "Pop Style",
             "Views",
-            "Hotline Bling"
+            "Hotline Bling",
+            "One Dance",
+            "Feel No Ways",
+            "Grammys"
         ],
         "good_tracks": [
             "9",
-            "Feel No Ways",
-            "One Dance",
-            "Grammys",
             "Childs Play",
             "Summers Over Interlude",
             "With You",
             "U With Me?"
         ],
-        "score": 6.33,
+        "score": 6.58,
         "tracks": []
     },
     "SKINS": {
@@ -3766,18 +3767,18 @@
             "That\u2019s How You Feel",
             "Blue Tint",
             "In My Feelings",
-            "Don\u2019t Matter To Me (with Michael Jackson)"
+            "Don\u2019t Matter To Me (with Michael Jackson)",
+            "Finesse",
+            "Jaded",
+            "Final Fantasy"
         ],
         "good_tracks": [
             "Talk Up (feat. Jay-Z)",
             "Peak",
-            "Jaded",
-            "Finesse",
             "After Dark (feat. Static Major & Ty Dolla $ign)",
-            "Final Fantasy",
             "March 14"
         ],
-        "score": 8.73
+        "score": 9.1
     },
     "OK Computer": {
         "artists": "Radiohead",
