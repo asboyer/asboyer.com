@@ -40,6 +40,7 @@ $(document).ready(function(){
                 styles = "font-size: 20px"
             }
 
+
             var album_div = 
             `
         <div class="all-album__container">
@@ -47,7 +48,7 @@ $(document).ready(function(){
                 <img src="${values.image}" alt="${values.name}" class="portfolio__img">
             <div class="album_overlay">
                 <div class="album-text">
-                    <p class="title" style="${styles}">${values.name.split("(O")[0].split("(C")[0].split("(E")[0].replace("- The Complete Edition", "").replace(" [Deluxe Edition]", "").replace("(Deluxe)", "").replace("(Remastered)", "").replace("(Original Motion Picture Soundtrack)", "").replace("(Legacy Edition)", "")}</p>
+                    <p class="title" style="${styles}">${values.name.split("(O")[0].split("(M")[0].split("(2")[0].split("(T")[0].split("(C")[0].split("(E")[0].replace("- The Complete Edition", "").replace(" [Deluxe Edition]", "").replace("(Deluxe)", "").replace("(Remastered)", "").replace("(Original Motion Picture Soundtrack)", "").replace("(Legacy Edition)", "")}</p>
                     <p class="artist">${values.artists}</p>
                 </div>
             </div>

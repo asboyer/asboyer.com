@@ -40,6 +40,10 @@ $(document).ready(function(){
             if(values.name == "Future & Juice WRLD Present... WRLD ON DRUGS") {
                 styles = "font-size: 20px"
             }
+            var special = ""
+            if(values.name == "So Much Fun (Deluxe)") {
+                special = " (Deluxe)"
+            }
 
             var album_div = 
             `
@@ -48,7 +52,7 @@ $(document).ready(function(){
                 <img src="${values.image}" alt="${values.name}" class="portfolio__img">
             <div class="album_overlay">
                 <div class="album-text">
-                    <p class="title" style="${styles}">${values.name.split("(O")[0].split("(C")[0].split("(E")[0].replace("- The Complete Edition", "").replace(" [Deluxe Edition]", "").replace("(Deluxe)", "").replace("(Remastered)", "").replace("(Original Motion Picture Soundtrack)", "").replace("(Legacy Edition)", "")}</p>
+                    <p class="title" style="${styles}">${values.name.split("(O")[0].split("(2")[0].split("(M")[0].split("(T")[0].split("(C")[0].split("(E")[0].replace("- The Complete Edition", "").replace(" [Deluxe Edition]", "").replace("(Deluxe)", "").replace("(Remastered)", "").replace("(Original Motion Picture Soundtrack)", "").replace("(Legacy Edition)", "") + special}</p>
                     <p class="artist">${values.artists}</p>
                     <p class="artist" style="font-size: 10px">${values.score}</p>
                 </div>

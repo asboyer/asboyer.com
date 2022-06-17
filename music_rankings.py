@@ -16,7 +16,6 @@ top = ['Kanye West',
     'Jack Johnson',
     'Khalid',
     'Trippie Redd',
-    'The Weekend',
     'Old Dominion',
     'Miles Davis',
     'Tim McGraw',
@@ -38,23 +37,32 @@ top = ['Kanye West',
     'Lil Baby',
     'Lil Yachty',
     'Thomas Rhett',
-    'Various Artists'
+    'Various Artists',
+    'Young Thug',
+    'Tyler, The Creator',
+    'Calvin Harris',
+    'Calvin Harris, Funk Wav'
     ]
 
-top_a = ['?', 'Boston', 'Hoodie SZN', 'Loose', 'Everybody', 'Confessions of a Dangerous Mind', 'So Much Fun', 'Flower Boy', 'Thats What They All Say', 'Sweet Action', "Die Lit", "Luv Is Rage 2 (Deluxe)", 'Madvillainy', 'Subluxe']
+special_albums = ['Scary Hours 2', "808s & Heartbreak"]
+top_a = ['?', 'Boston', 'Hoodie SZN', 'Loose', 'Everybody', 'Confessions of a Dangerous Mind', 'So Much Fun', 'Flower Boy', 'Thats What They All Say', "Die Lit", "Luv Is Rage 2 (Deluxe)", 'Subluxe', 'So Much Fun (Deluxe)']
 for album in all_time_data:
-    if all_time_data[album]['artists'] in top or all_time_data[album]['name'] in top_a:
+    if (all_time_data[album]['artists'] in top and all_time_data[album]['name'] not in special_albums) or all_time_data[album]['name'] in top_a:
         # if all_time_data[album]['name'] == 'Graduation':
         #     score = .98
         if all_time_data[album]['name'] == "My Beautiful Dark Twisted Fantasy":
             score = .925
-        elif all_time_data[album]['name'] == 'Sweet Action':
-            score = .915
+        elif all_time_data[album]['name'] == "To Pimp A Butterfly":
+            score = .92
+        elif all_time_data[album]['name'] == "JESUS IS KING":
+            score = .929
+        # elif all_time_data[album]['name'] == 'Sweet Action':
+        #     score = .915
         # elif all_time_data[album]['name'] == 'Late Registration':
         #     score = .979
         else:
             score = (len(all_time_data[album]['top_tracks'])*1.5 + len(all_time_data[album]['good_tracks'])*1.25)/(all_time_data[album]['total_tracks']*1.5)
-    elif all_time_data[album]['artists'] == 'Frank Ocean' or all_time_data[album]['name'] == 'Whole Lotta Red' or all_time_data[album]['name'] == 'Eternal Atake' or all_time_data[album]['name'] == 'Future & Juice WRLD Present... WRLD ON DRUGS':
+    elif all_time_data[album]['artists'] == 'The Weekend' or all_time_data[album]['artists'] == 'Frank Ocean' or all_time_data[album]['name'] == 'Whole Lotta Red' or all_time_data[album]['name'] == 'Eternal Atake' or all_time_data[album]['name'] == 'Future & Juice WRLD Present... WRLD ON DRUGS':
         score = (len(all_time_data[album]['top_tracks'])*2 + len(all_time_data[album]['good_tracks'])*1.87)/(all_time_data[album]['total_tracks']*2)
     else:
         score = (len(all_time_data[album]['top_tracks'])*1.4 + len(all_time_data[album]['good_tracks']))/(all_time_data[album]['total_tracks']*1.4)

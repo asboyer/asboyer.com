@@ -55,7 +55,7 @@
             "Figaro",
             "Shadows of Tomorrow"
         ],
-        "score": 9.02,
+        "score": 8.64,
         "tracks": []
     },
     "Trouble Man": {
@@ -1036,7 +1036,7 @@
             "HEY BIG HEAD",
             "SMELLS LIKE INCENSE"
         ],
-        "score": 9.15
+        "score": 9.18
     },
     "Confetti": {
         "artists": "Jack Harlow",
@@ -1111,17 +1111,17 @@
             "Searching",
             "Never Is Enough",
             "Feel It Coming",
-            "what is real"
+            "what is real",
+            "Problems",
+            "Flowers"
         ],
         "good_tracks": [
-            "Problems",
             "WYA",
-            "Flowers",
             "Lately",
             "Needed",
             "Stay For A While"
         ],
-        "score": 8.86
+        "score": 9.24
     },
     "Thriller": {
         "artists": "Michael Jackson",
@@ -1221,18 +1221,18 @@
             "Walking the Wire / Largo",
             "Limitless",
             "DNA",
-            "Epiphany"
+            "Epiphany",
+            "A Million Dreams"
         ],
         "good_tracks": [
             "Rewrite the Stars",
-            "A Million Dreams",
             "Perfect",
             "Flicker",
             "North Cape",
             "First Dance",
             "Miracles"
         ],
-        "score": 8.46
+        "score": 8.68
     },
     "Evolve": {
         "artists": "Imagine Dragons",
@@ -1475,8 +1475,10 @@
             "Use This Gospel",
             "Jesus Is Lord"
         ],
-        "good_tracks": [],
-        "score": 9.09
+        "good_tracks": [
+            "Closed On Sunday"
+        ],
+        "score": 9.29
     },
     "Sensational": {
         "artists": "Yung Gravy",
@@ -1735,13 +1737,13 @@
     },
     "The Piano Guys 2": {
         "artists": "The Piano Guys",
-        "id": "5iCNAC5zJYnO90r0dcXq4u",
+        "id": "16XHqNSRVWUSLbMPotZqUc",
         "name": "The Piano Guys 2",
-        "popularity": 54,
-        "release_date": "2013-05-03",
+        "popularity": 36,
+        "release_date": "2013-05-07",
         "total_tracks": 13,
-        "uri": "spotify:album:5iCNAC5zJYnO90r0dcXq4u",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f922688cc1cf30bbcdf3ed63",
+        "uri": "spotify:album:16XHqNSRVWUSLbMPotZqUc",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730ab1bb93fb373ae4a68dc9fc",
         "top_tracks": [
             "Begin Again",
             "Rockelbel's Canon (Pachelbel Canon in D)",
@@ -1750,16 +1752,16 @@
             "Berlin",
             "Just the Way You Are",
             "Me and My Cello (Happy Together)",
-            "Twinkle Lullaby"
+            "Twinkle Lullaby",
+            "More Than Words",
+            "All of Me"
         ],
         "good_tracks": [
-            "All of Me",
             "Waterfall",
             "Charlie Brown Medley",
-            "More Than Words",
             "Can't Help Falling in Love"
         ],
-        "score": 8.9
+        "score": 9.34
     },
     "Uncharted": {
         "artists": "The Piano Guys",
@@ -1777,16 +1779,16 @@
             "Themes from Pirates of the Caribbean",
             "Celloopa",
             "Uncharted",
-            "Indiana Jones and the Arabian Nights"
+            "Indiana Jones and the Arabian Nights",
+            "Holding On"
         ],
         "good_tracks": [
             "Fight Song / Amazing Grace",
             "The Jungle Book / Sarabande",
-            "Holding On",
             "Can't Stop the Feeling",
             "Tour de France"
         ],
-        "score": 8.81,
+        "score": 9.05,
         "tracks": []
     },
     "808s & Heartbreak": {
@@ -1814,7 +1816,7 @@
             "Coldest Winter",
             "Pinocchio Story"
         ],
-        "score": 9.03
+        "score": 8.33
     },
     "After Hours": {
         "artists": "The Weekend",
@@ -1842,7 +1844,7 @@
             "Snowchild",
             "Until I Bleed Out"
         ],
-        "score": 9.05
+        "score": 9.19
     },
     "Blonde": {
         "artists": "Frank Ocean",
@@ -1860,7 +1862,9 @@
             "Solo",
             "Skyline To",
             "Self Control",
-            "Nights"
+            "Nights",
+            "White Ferrari",
+            "Godspeed"
         ],
         "good_tracks": [
             "Be Yourself",
@@ -1868,12 +1872,10 @@
             "Solo (Reprise)",
             "Facebook Story",
             "Close To You",
-            "White Ferrari",
             "Seigfried",
-            "Godspeed",
             "Futura Free"
         ],
-        "score": 9.07
+        "score": 9.14
     },
     "Perception": {
         "artists": "NF",
@@ -2079,15 +2081,15 @@
             "Batman Evolution",
             "Don't You Worry Child (feat. Shweta Subram)",
             "Pictures at an Exhibition",
-            "Because of You"
+            "Because of You",
+            "Summer Jam"
         ],
         "good_tracks": [
             "Let It Go",
-            "Summer Jam",
             "Home",
             "The Mission / How Great Thou Art"
         ],
-        "score": 9.05
+        "score": 9.29
     },
     "Off the Wall": {
         "artists": "Michael Jackson",
@@ -2314,17 +2316,18 @@
             "Not PLaying",
             "M3tamorphosis (feat. Kid Cudi)",
             "Stop Breathing",
-            "On That Time"
-        ],
-        "good_tracks": [
+            "On That Time",
             "No Sl33p",
-            "Meh",
-            "King Vamp",
             "Die4Guy",
-            "F33l Lik3 Dyin",
             "Beno!"
         ],
-        "score": 9.0
+        "good_tracks": [
+            "Meh",
+            "King Vamp",
+            "F33l Lik3 Dyin",
+            "Control"
+        ],
+        "score": 9.48
     },
     "The 3rd Generation": {
         "artists": "Freddy Leone, Apollo1027",
@@ -2350,7 +2353,7 @@
         "name": "IGOR",
         "popularity": 80,
         "release_date": "2019-05-17",
-        "total_tracks": 11,
+        "total_tracks": 12,
         "uri": "spotify:album:5zi7WsKlIiUXv09tbGLKsE",
         "image": "https://i.scdn.co/image/ab67616d0000b2737005885df706891a3c182a57",
         "top_tracks": [
@@ -2366,9 +2369,10 @@
             "I THINK",
             "WHAT'S GOOD",
             "I DON'T LOVE YOU ANYMORE",
-            "ARE WE STILL FRIENDS?"
+            "ARE WE STILL FRIENDS?",
+            "EXACTLY WHAT YOU RUN FROM YOU END UP CHASING"
         ],
-        "score": 8.96
+        "score": 9.31
     },
     "Flower Boy": {
         "artists": "Tyler, The Creator",
@@ -2454,29 +2458,29 @@
     },
     "Rumours": {
         "artists": "Fleetwood Mac",
-        "id": "0BwWUstDMUbgq2NYONRqlu",
+        "id": "1bt6q2SruMsBtcerNVtpZB",
         "name": "Rumours",
-        "popularity": 81,
+        "popularity": 68,
         "release_date": "1977-02-04",
-        "total_tracks": 12,
-        "uri": "spotify:album:0BwWUstDMUbgq2NYONRqlu",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b",
+        "total_tracks": 11,
+        "uri": "spotify:album:1bt6q2SruMsBtcerNVtpZB",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730001af4f80be77069fc8fd41",
         "top_tracks": [
-            "Second Hand News",
-            "Dreams",
-            "Don't Stop",
-            "Go Your Own Way",
-            "You Make Loving Fun",
-            "The Chain"
+            "Second Hand News - 2004 Remaster",
+            "Dreams - 2004 Remaster",
+            "Don't Stop - 2004 Remaster",
+            "Go Your Own Way - 2004 Remaster",
+            "The Chain - 2004 Remaster",
+            "You Make Loving Fun - 2004 Remaster"
         ],
         "good_tracks": [
-            "Never Going Back Again",
-            "I Don't Want to Know",
-            "Oh Daddy",
-            "Gold Dust Woman",
-            "Silver Springs"
+            "Never Going Back Again - 2004 Remaster",
+            "I Don't Want to Know - 2004 Remaster",
+            "Oh Daddy - 2004 Remaster",
+            "Gold Dust Woman - 2004 Remaster"
         ],
-        "score": 8.47
+        "score": 8.48,
+        "tracks": []
     },
     "2014 Forest Hills Drive": {
         "artists": "J. Cole",
@@ -2743,16 +2747,16 @@
             "Pull Up",
             "Burberry Headband",
             "Greet Her",
-            "Boof Pack"
+            "Boof Pack",
+            "Rarri",
+            "Fu shit"
         ],
         "good_tracks": [
-            "Fu shit",
-            "Rarri",
             "Yoppa (with BlocBoy JB)",
             "Trapstar",
             "Bust Down Cartier"
         ],
-        "score": 7.98
+        "score": 8.45
     },
     "Changes": {
         "artists": "Justin Bieber",
@@ -3027,7 +3031,7 @@
             "You Ain't Gotta Lie (Momma Said)",
             "u"
         ],
-        "score": 9.06
+        "score": 9.2
     },
     "Inception (Music From The Motion Picture)": {
         "artists": "Hans Zimmer",
@@ -3407,7 +3411,7 @@
             "Tattoos",
             "Problem"
         ],
-        "score": 6.43
+        "score": 6.88
     },
     "Confessions of a Dangerous Mind": {
         "artists": "Logic",
@@ -3941,7 +3945,7 @@
         "tracks": []
     },
     "Dawn FM": {
-        "artists": "The Weeknd",
+        "artists": "The Weekend",
         "id": "2nLOHgzXzwFEpl62zAgCEC",
         "name": "Dawn FM",
         "popularity": 100,
@@ -3965,7 +3969,7 @@
             "Is There Someone Else?",
             "Starry Eyes"
         ],
-        "score": 6.79
+        "score": 7.34
     },
     "WUNNA": {
         "artists": "Gunna",
@@ -4157,7 +4161,7 @@
             "Prayers Up (feat. Travis Scott & A-Trak)",
             "Faking It (feat. Kehlani & Lil Yachty)"
         ],
-        "score": 7.43,
+        "score": 7.67,
         "tracks": []
     },
     "Motion": {
@@ -4183,7 +4187,7 @@
             "Together (feat. Gwen Stefani)",
             "Burnin"
         ],
-        "score": 5.52,
+        "score": 6.0,
         "tracks": []
     },
     "Parachutes": {
@@ -5152,7 +5156,202 @@
         "good_tracks": [
             "Lemon Pepper Freestyle (feat. Rick Ross)"
         ],
-        "score": 9.44,
+        "score": 9.05,
+        "tracks": []
+    },
+    "So Much Fun (Deluxe)": {
+        "artists": "Young Thug",
+        "id": "24jAbLMFzCTlIv3kQ94HwK",
+        "name": "So Much Fun (Deluxe)",
+        "popularity": 58,
+        "release_date": "2019-12-20",
+        "total_tracks": 24,
+        "uri": "spotify:album:24jAbLMFzCTlIv3kQ94HwK",
+        "image": "https://i.scdn.co/image/ab67616d0000b273540db9d6bae7e57baecf8b49",
+        "top_tracks": [
+            "Diamonds (feat. Gunna)",
+            "Hop Off A Jet (feat. Travis Scott)",
+            "Hot (Remix) [feat. Gunna and Travis Scott]",
+            "Hot (feat. Gunna)",
+            "Surf (feat. Gunna)",
+            "Bad Bad Bad (feat. Lil Baby)",
+            "What's the Move (feat. Lil Uzi Vert)",
+            "Circle Of Bosses (feat. Quavo)",
+            "Mannequin Challenge (feat. Juice WRLD)",
+            "The London (feat. J. Cole & Travis Scott)"
+        ],
+        "good_tracks": [
+            "Die Today",
+            "Millions",
+            "Just How It Is",
+            "Sup Mate (feat. Future)",
+            "Ecstasy (feat. Machine Gun Kelly)",
+            "Light It Up",
+            "Lil Baby",
+            "I Bought Her (feat. Lil Duke)",
+            "I'm Scared (feat. 21 Savage & Doe Boy)",
+            "Big Tipper (feat. Lil Keed)",
+            "Boy Back (feat. NAV)"
+        ],
+        "score": 7.99,
+        "tracks": []
+    },
+    "In the Aeroplane Over the Sea": {
+        "artists": "Neutral Milk Hotel",
+        "id": "0vVekV45lOaVKs6RZQQNob",
+        "name": "In the Aeroplane Over the Sea",
+        "popularity": 68,
+        "release_date": "1998-02-20",
+        "total_tracks": 11,
+        "uri": "spotify:album:0vVekV45lOaVKs6RZQQNob",
+        "image": "https://i.scdn.co/image/ab67616d0000b273589ce9a911c6e65b1f80c558",
+        "top_tracks": [
+            "King of Carrot Flowers Pt. 1",
+            "In the Aeroplane Over the Sea",
+            "Two-Headed Boy",
+            "Communist Daughter"
+        ],
+        "good_tracks": [
+            "The Fool",
+            "Holland, 1945",
+            "Ghost",
+            "Two-Headed Boy Pt. 2"
+        ],
+        "score": 6.23,
+        "tracks": []
+    },
+    "Mr. Morale & The Big Steppers": {
+        "artists": "Kendrick Lamar",
+        "id": "1atjqOZTCdrjxjMyCPZc2g",
+        "name": "Mr. Morale & The Big Steppers",
+        "popularity": 87,
+        "release_date": "2022-05-13",
+        "total_tracks": 18,
+        "uri": "spotify:album:1atjqOZTCdrjxjMyCPZc2g",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f30764d5fa1e439ad6a7742f",
+        "top_tracks": [
+            "N95",
+            "Die Hard",
+            "Father Time (feat. Sampha)",
+            "Purple Hearts",
+            "Count Me Out",
+            "Silent Hill",
+            "Savior"
+        ],
+        "good_tracks": [
+            "United In Grief",
+            "We Cry Together",
+            "Crown",
+            "Savior - Interlude",
+            "Mr. Morale",
+            "Mother I Sober (feat. Beth Gibbons of Portishead)",
+            "Mirror"
+        ],
+        "score": 7.13,
+        "tracks": []
+    },
+    "The Velvet Underground & Nico 45th Anniversary": {
+        "artists": "The Velvet Underground, Nico",
+        "id": "4xwx0x7k6c5VuThz5qVqmV",
+        "name": "The Velvet Underground & Nico",
+        "popularity": 58,
+        "release_date": "1967-03-12",
+        "total_tracks": 11,
+        "uri": "spotify:album:4xwx0x7k6c5VuThz5qVqmV",
+        "image": "https://i.scdn.co/image/ab67616d0000b27398260c528e6eec9dd431c1d7",
+        "top_tracks": [
+            "Sunday Morning",
+            "I'm Waiting For The Man",
+            "Femme Fatale",
+            "Venus In Furs",
+            "Run Run Run",
+            "Heroin",
+            "I'll Be Your Mirror",
+            "All Tomorrow's Parties"
+        ],
+        "good_tracks": [
+            "There She Goes Again"
+        ],
+        "score": 7.92,
+        "tracks": []
+    },
+    "In Rainbows": {
+        "artists": "Radiohead",
+        "id": "5vkqYmiPBYLaalcmjujWxK",
+        "name": "In Rainbows",
+        "popularity": 65,
+        "release_date": "2007-12-28",
+        "total_tracks": 10,
+        "uri": "spotify:album:5vkqYmiPBYLaalcmjujWxK",
+        "image": "https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9",
+        "top_tracks": [
+            "15 Step",
+            "Bodysnatchers",
+            "Nude",
+            "Weird Fishes/ Arpeggi",
+            "All I Need",
+            "Reckoner",
+            "House Of Cards",
+            "Jigsaw Falling Into Place"
+        ],
+        "good_tracks": [
+            "Faust Arp",
+            "Videotape"
+        ],
+        "score": 9.67,
+        "tracks": []
+    },
+    "The Life Of Pi'erre 4": {
+        "artists": "Pi\u2019erre Bourne",
+        "id": "0agALBMd2a8cnpbpukTg03",
+        "name": "The Life Of Pi'erre 4",
+        "popularity": 54,
+        "release_date": "2019-06-21",
+        "total_tracks": 16,
+        "uri": "spotify:album:0agALBMd2a8cnpbpukTg03",
+        "image": "https://i.scdn.co/image/ab67616d0000b27346fe2968c4c6f8f82ab4eb5b",
+        "top_tracks": [
+            "Poof",
+            "Try Again",
+            "Be Mine",
+            "Routine",
+            "Lovers",
+            "How High",
+            "Romeo Must Die",
+            "Racer",
+            "Guillotine"
+        ],
+        "good_tracks": [
+            "Stereotypes",
+            "Doublemint",
+            "Juice"
+        ],
+        "score": 6.96,
+        "tracks": []
+    },
+    "A Family Christmas": {
+        "artists": "The Piano Guys",
+        "id": "1NrV9Ijb8Dk4yWv5LdYT09",
+        "name": "A Family Christmas",
+        "popularity": 29,
+        "release_date": "2013-10-21",
+        "total_tracks": 12,
+        "uri": "spotify:album:1NrV9Ijb8Dk4yWv5LdYT09",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731be4bb6e48c76d8ad6172bf9",
+        "top_tracks": [
+            "Angels We Have Heard on High",
+            "O Come, O Come, Emmanuel",
+            "Good King Wenceslas",
+            "Carol of the Bells / God Rest Ye Merry Gentlemen",
+            "Where Are You Christmas (feat. Sarah Schmidt)",
+            "Let It Snow / Winter Wonderland",
+            "We Three Kings",
+            "Christmas Morning",
+            "Winter Wind",
+            "Silent Night"
+        ],
+        "good_tracks": [],
+        "score": 8.33,
         "tracks": []
     }
 }

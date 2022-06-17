@@ -50,26 +50,6 @@
         "score": 7.26,
         "tracks": []
     },
-    "Gaucho": {
-        "artists": "Steely Dan",
-        "id": "5fIBtKHWGjbjK9C4i1Z11L",
-        "name": "Gaucho",
-        "popularity": 51,
-        "release_date": "1980",
-        "total_tracks": 7,
-        "uri": "spotify:album:5fIBtKHWGjbjK9C4i1Z11L",
-        "image": "https://i.scdn.co/image/ab67616d0000b273412d0a3ed734b885c1fed05d",
-        "top_tracks": [
-            "Hey Nineteen"
-        ],
-        "good_tracks": [
-            "Babylon Sisters",
-            "Glamour Profession",
-            "Time Out Of Mind"
-        ],
-        "score": 4.49,
-        "tracks": []
-    },
     "The Velvet Underground & Nico 45th Anniversary": {
         "artists": "The Velvet Underground, Nico",
         "id": "4xwx0x7k6c5VuThz5qVqmV",
@@ -80,22 +60,20 @@
         "uri": "spotify:album:4xwx0x7k6c5VuThz5qVqmV",
         "image": "https://i.scdn.co/image/ab67616d0000b27398260c528e6eec9dd431c1d7",
         "top_tracks": [
-            "Sunday Morning"
-        ],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
+            "Sunday Morning",
             "I'm Waiting For The Man",
             "Femme Fatale",
             "Venus In Furs",
             "Run Run Run",
-            "All Tomorrow's Parties",
             "Heroin",
-            "There She Goes Again",
             "I'll Be Your Mirror",
-            "The Black Angel's Death Song",
-            "European Son"
-        ]
+            "All Tomorrow's Parties"
+        ],
+        "good_tracks": [
+            "There She Goes Again"
+        ],
+        "score": 7.92,
+        "tracks": []
     },
     "Funk Wav Bounces Vol.1": {
         "artists": "Calvin Harris, Funk Wav",
@@ -118,7 +96,7 @@
             "Prayers Up (feat. Travis Scott & A-Trak)",
             "Faking It (feat. Kehlani & Lil Yachty)"
         ],
-        "score": 7.43,
+        "score": 7.67,
         "tracks": []
     },
     "2 Aliv\u00eb": {
@@ -166,18 +144,18 @@
             "15 Step",
             "Bodysnatchers",
             "Nude",
-            "Weird Fishes/ Arpeggi"
-        ],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
+            "Weird Fishes/ Arpeggi",
             "All I Need",
-            "Faust Arp",
             "Reckoner",
             "House Of Cards",
-            "Jigsaw Falling Into Place",
+            "Jigsaw Falling Into Place"
+        ],
+        "good_tracks": [
+            "Faust Arp",
             "Videotape"
-        ]
+        ],
+        "score": 9.67,
+        "tracks": []
     },
     "Dangerous: The Double Album": {
         "artists": "Morgan Wallen",
@@ -233,26 +211,49 @@
         "total_tracks": 16,
         "uri": "spotify:album:0agALBMd2a8cnpbpukTg03",
         "image": "https://i.scdn.co/image/ab67616d0000b27346fe2968c4c6f8f82ab4eb5b",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
+        "top_tracks": [
             "Poof",
             "Try Again",
-            "Feds",
             "Be Mine",
-            "Ballad",
             "Routine",
             "Lovers",
             "How High",
             "Romeo Must Die",
             "Racer",
+            "Guillotine"
+        ],
+        "good_tracks": [
             "Stereotypes",
             "Doublemint",
-            "Horoscopes",
-            "Juice",
-            "Guillotine",
-            "Speed Dial"
+            "Juice"
+        ],
+        "score": 6.96,
+        "tracks": []
+    },
+    "Mingus Ah Um": {
+        "artists": "Charles Mingus",
+        "id": "4Z8nWz3dGybOP7lhMZpcOo",
+        "name": "Mingus Ah Um",
+        "popularity": 28,
+        "release_date": "1959",
+        "total_tracks": 9,
+        "uri": "spotify:album:4Z8nWz3dGybOP7lhMZpcOo",
+        "image": "https://m.media-amazon.com/images/I/81DmDMv-VzL._SL1500_.jpg",
+        "top_tracks": [
+            "Better Get Hit In Your Soul - Instrumental",
+            "Goodbye Pork Pie Hat",
+            "Self-Portrait In Three Colours"
+        ],
+        "good_tracks": [
+            "Boogie Stop Shuffle"
+        ],
+        "score": 0.0,
+        "tracks": [
+            "Open Letter to Duke",
+            "Bird Calls",
+            "Fables Of Faubus",
+            "Pussy Cat Dues",
+            "Jelly Roll"
         ]
     }
 }
