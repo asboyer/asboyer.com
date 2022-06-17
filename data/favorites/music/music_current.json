@@ -255,5 +255,80 @@
             "Pussy Cat Dues",
             "Jelly Roll"
         ]
+    },
+    "Honestly, Nevermind": {
+        "artists": "Drake",
+        "id": "3cf4iSSKd8ffTncbtKljXw",
+        "name": "Honestly, Nevermind",
+        "popularity": 0,
+        "release_date": "2022-06-17",
+        "total_tracks": 14,
+        "uri": "spotify:album:3cf4iSSKd8ffTncbtKljXw",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730e947a2cb9bcf7dedd966f22",
+        "top_tracks": [
+            "Intro",
+            "Falling Back",
+            "A Keeper",
+            "Massive",
+            "Flight's Booked",
+            "Overdrive",
+            "Jimmy Cook's (feat. 21 Savage)",
+            "Tie That Binds",
+            "Liability"
+        ],
+        "good_tracks": [
+            "Texts Go Green",
+            "Down Hill",
+            "Sticky"
+        ],
+        "score": 8.21,
+        "tracks": []
+    },
+    "Vinyl Days": {
+        "artists": "Logic",
+        "id": "0RTHMVF27KRMHIGnF7iLru",
+        "name": "Vinyl Days",
+        "popularity": 0,
+        "release_date": "2022-06-17",
+        "total_tracks": 30,
+        "uri": "spotify:album:0RTHMVF27KRMHIGnF7iLru",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731e0b9c0786649b8d81e947d6",
+        "top_tracks": [
+            "Tetris",
+            "In my lifetime (feat. Action Bronson)"
+        ],
+        "good_tracks": [
+            "Danger",
+            "Decades"
+        ],
+        "score": 0.0,
+        "tracks": [
+            "JJ Abrahams",
+            "BLACKWHITEBOY",
+            "Quasi",
+            "Bleed It",
+            "LaDonda",
+            "Aaron Judge",
+            "Clouds (feat. Langston Bristol & Curren$y)",
+            "Michael Rap",
+            "Therapy Music (feat. Russ)",
+            "Tony Revolori",
+            "Rogue One",
+            "Breath Control (feat. Wiz Khalifa)",
+            "NEMS",
+            "Nardwuar (feat. Doc D)",
+            "Kickstyle feat. iamJMARS, Big Lenbo & C Dot Castro)",
+            "EarlyBird",
+            "Ten Years (feat. Royce Da 5'9'')",
+            "Porta one (feat. RZA)",
+            "NeedleDrop",
+            "Introducing Nezi (feat. Nezi Momodu)",
+            "Orville (feat. Like, Blu & Exile)",
+            "Carnival (feat. AZ)",
+            "Lena's Insight",
+            "Vinyl Days (feat. DJ Premier)",
+            "I guess I love it (feat. The Game)",
+            "Sayonara"
+        ]
     }
 }

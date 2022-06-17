@@ -44,6 +44,7 @@
             "All Caps",
             "Great Day",
             "Rhinestone Cowboy",
+            "Figaro",
             "Strange Ways"
         ],
         "good_tracks": [
@@ -52,10 +53,9 @@
             "Sickfit",
             "Rainbows",
             "Do Not Fire!",
-            "Figaro",
             "Shadows of Tomorrow"
         ],
-        "score": 8.64,
+        "score": 9.09,
         "tracks": []
     },
     "Trouble Man": {
@@ -1386,17 +1386,16 @@
             "CAN'T SAY",
             "BUTTERFLY EFFECT",
             "HOUSTONFORNICATION",
-            "COFFEE BEAN"
-        ],
-        "good_tracks": [
+            "COFFEE BEAN",
             "STOP TRYING TO BE GOD",
-            "WAKE UP",
-            "5% TINT",
             "ASTROTHUNDER",
             "YOSEMITE",
-            "WHO? WHAT!"
+            "WHO? WHAT!",
+            "WAKE UP",
+            "5% TINT"
         ],
-        "score": 9.41
+        "good_tracks": [],
+        "score": 10.0
     },
     "Birds In The Trap Sing McKnight": {
         "artists": "Travis Scott",
@@ -1418,12 +1417,11 @@
             "lose",
             "wonderful",
             "sdp interlude",
-            "outside"
-        ],
-        "good_tracks": [
+            "outside",
             "beibs in the trap"
         ],
-        "score": 8.45
+        "good_tracks": [],
+        "score": 8.57
     },
     "Rodeo": {
         "artists": "Travis Scott",
@@ -1444,15 +1442,15 @@
             "Piss On Your Grave (feat. Kanye West)",
             "Antidote",
             "Maria I'm Drunk (feat. Justin Bieber & Young Thug)",
-            "Apple Pie"
+            "Apple Pie",
+            "Impossible"
         ],
         "good_tracks": [
             "Wasted (feat. Juicy J)",
-            "Impossible",
             "Flying High (feat. Toro y Moi)",
             "I Can Tell"
         ],
-        "score": 9.52
+        "score": 9.64
     },
     "JESUS IS KING": {
         "artists": "Kanye West",
@@ -1710,7 +1708,7 @@
             "Brand New Draco",
             "No Opp Left Behind"
         ],
-        "score": 8.76
+        "score": 9.0
     },
     "Boston": {
         "artists": "Boston",
@@ -2419,20 +2417,20 @@
             "Lord Willin'",
             "City Of Stars",
             "Run It",
-            "The Incredible True Story"
+            "Young Jesus",
+            "The Incredible True Story",
+            "Stainless"
         ],
         "good_tracks": [
             "Contact",
             "White People - Scene",
-            "Young Jesus",
             "Innermission",
             "The Cube - Scene",
-            "Stainless",
             "Babel - Scene",
             "Never Been",
             "Lucidity - Scene"
         ],
-        "score": 8.02
+        "score": 8.8
     },
     "DAYTONA": {
         "artists": "Pusha T",
@@ -3237,7 +3235,7 @@
         "good_tracks": [
             "Nightmare"
         ],
-        "score": 8.71,
+        "score": 8.94,
         "tracks": []
     },
     "Views": {
@@ -3384,13 +3382,11 @@
         "good_tracks": [
             "It Doesn't Get Any Countrier Than This",
             "Give It To Me Strait",
-            "Wouldn't Want It Any Other Way",
             "Not A Moment Too Soon",
             "Refried Dreams",
-            "40 Days And 40 Nights",
             "Ain't That Just Like A Dream"
         ],
-        "score": 8.83
+        "score": 7.17
     },
     "Slime Season 3": {
         "artists": "Young Thug",
@@ -3984,10 +3980,10 @@
             "DOLLAZ ON MY HEAD (feat. Young Thug)",
             "SKYBOX",
             "TOP FLOOR (feat. Travis Scott)",
-            "MET GALA"
+            "MET GALA",
+            "ARGENTINA"
         ],
         "good_tracks": [
-            "ARGENTINA",
             "GIMMICK",
             "MOTW",
             "FEIGNING",
@@ -3997,7 +3993,7 @@
             "NASTY GIRL / ON CAMERA",
             "COOLER THAN A BITCH (feat. Roddy Ricch)"
         ],
-        "score": 5.79,
+        "score": 5.95,
         "tracks": []
     },
     "Blue Train": {
@@ -4039,15 +4035,17 @@
             "N 2 Deep",
             "No Friends In The Industry",
             "Knife Talk (with 21 Savage ft. Project Pat)",
-            "IMY2 (with Kid Cudi)"
+            "IMY2 (with Kid Cudi)",
+            "Fair Trade (with Travis Scott)"
         ],
         "good_tracks": [
             "Love All (with JAY-Z)",
-            "Fair Trade (with Travis Scott)",
             "Pipe Down",
-            "7am On Bridle Path"
+            "7am On Bridle Path",
+            "Race My Mind",
+            "Fountains"
         ],
-        "score": 5.87,
+        "score": 6.75,
         "tracks": []
     },
     "DAMN.": {
@@ -4946,22 +4944,22 @@
         "uri": "spotify:album:4F87p1aiFwHeU4uu65MaPV",
         "image": "https://i.scdn.co/image/ab67616d0000b273e19b1b51cdd35051e17cf6dc",
         "top_tracks": [
+            "Grandpa's Space Ship",
+            "Overnight",
             "Contra",
             "BoomTrap Protocol",
+            "Yuck",
+            "Warm It Up",
+            "Wizard Of Oz",
+            "State Of Emergency",
             "Wassup",
             "Everyday",
             "44 More"
         ],
         "good_tracks": [
-            "Grandpa's Space Ship",
-            "Overnight",
-            "Yuck",
-            "Indica Badu",
-            "Warm It Up",
-            "Wizard Of Oz",
-            "State Of Emergency"
+            "Indica Badu"
         ],
-        "score": 7.69,
+        "score": 9.18,
         "tracks": []
     },
     "Everybody": {
@@ -4998,18 +4996,19 @@
         "image": "https://i.scdn.co/image/ab67616d0000b273b497e0b2e0c08b470ee70648",
         "top_tracks": [
             "Flexicution",
-            "The Jam"
-        ],
-        "good_tracks": [
-            "illuminatro",
+            "The Jam",
             "Slave II",
             "Wrist",
             "Super Mario World",
             "44 Bars",
-            "Slave",
-            "Deeper Than Money"
+            "Slave"
         ],
-        "score": 6.36,
+        "good_tracks": [
+            "illuminatro",
+            "Deeper Than Money",
+            "A Word From Our Sponsor"
+        ],
+        "score": 8.64,
         "tracks": []
     },
     "Under Pressure": {
@@ -5025,17 +5024,18 @@
             "Soul Food",
             "Gang Related",
             "Buried Alive",
-            "Bounce"
+            "Bounce",
+            "Nikki",
+            "Under Pressure",
+            "Till The End"
         ],
         "good_tracks": [
             "Intro",
             "I'm Gone",
             "Growing Pains III",
-            "Metropolis",
-            "Nikki",
-            "Under Pressure"
+            "Metropolis"
         ],
-        "score": 6.9,
+        "score": 8.21,
         "tracks": []
     },
     "Man On The Moon: The End Of Day": {
@@ -5137,7 +5137,7 @@
             "Feel It",
             "Ocean Drive"
         ],
-        "score": 6.19,
+        "score": 6.85,
         "tracks": []
     },
     "Scary Hours 2": {
@@ -5352,6 +5352,31 @@
         ],
         "good_tracks": [],
         "score": 8.33,
+        "tracks": []
+    },
+    "Bobby Tarantino III": {
+        "artists": "Logic",
+        "id": "5gJDUpoOlZxxgk2SDsTa6h",
+        "name": "Bobby Tarantino III",
+        "popularity": 55,
+        "release_date": "2021-07-30",
+        "total_tracks": 12,
+        "uri": "spotify:album:5gJDUpoOlZxxgk2SDsTa6h",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732bae728759d1d51e672b2637",
+        "top_tracks": [
+            "Vaccine",
+            "Get Up",
+            "Inside",
+            "God Might Judge"
+        ],
+        "good_tracks": [
+            "introll",
+            "See You Space Cowboy...",
+            "Call Me",
+            "untitled",
+            "My Way"
+        ],
+        "score": 6.31,
         "tracks": []
     }
 }

@@ -229,5 +229,47 @@
         "image": "http://image.tmdb.org/t/p/original/UHxxkYe9tRdiPu0JFgcEL5hmQ4.jpg",
         "rating": 7.7,
         "director": "Don Siegel, Clint Eastwood"
+    },
+    "Dr. No": {
+        "id": "0055928",
+        "title": "Dr. No",
+        "image": "http://image.tmdb.org/t/p/original/w9ph5cUfGbw41WXt7yuXsWeN2TV.jpg",
+        "rating": 7.2,
+        "director": "Terence Young"
+    },
+    "From Russia with Love": {
+        "id": "0057076",
+        "title": "From Russia with Love",
+        "image": "http://image.tmdb.org/t/p/original/gH4SnuOJnkYZcORXd8woYjnS0kQ.jpg",
+        "rating": 7.4,
+        "director": "Terence Young"
+    },
+    "Goldfinger": {
+        "id": "0058150",
+        "title": "Goldfinger",
+        "image": "http://image.tmdb.org/t/p/original/rFk6CQbt9hVU1rybz3AElvyaxol.jpg",
+        "rating": 7.7,
+        "director": "Guy Hamilton"
+    },
+    "Thunderball": {
+        "id": "0059800",
+        "title": "Thunderball",
+        "image": "http://image.tmdb.org/t/p/original/oJ5ybB57eidPLqZUltrVjshqwcs.jpg",
+        "rating": 6.9,
+        "director": "Terence Young"
+    },
+    "You Only Live Twice": {
+        "id": "0062512",
+        "title": "You Only Live Twice",
+        "image": "http://image.tmdb.org/t/p/original/2TL9ehsOPZSqOJzuhshChQV9BSn.jpg",
+        "rating": 6.8,
+        "director": "Lewis Gilbert"
+    },
+    "Diamonds Are Forever": {
+        "id": "0066995",
+        "title": "Diamonds Are Forever",
+        "image": "http://image.tmdb.org/t/p/original/uajiHcFX5sOhYB2tBuWkmizbtuU.jpg",
+        "rating": 6.5,
+        "director": "Guy Hamilton"
     }
 }
