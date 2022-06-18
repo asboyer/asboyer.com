@@ -42,7 +42,8 @@ top = ['Kanye West',
     'Calvin Harris',
     'Calvin Harris, Funk Wav',
     'Madvillain, Madlib, MF DOOM',
-    '21 Savage, Metro Boomin'
+    '21 Savage, Metro Boomin',
+    'Charles Mingus'
     ]
 
 special_albums = ['Scary Hours 2', "808s & Heartbreak", "ASTROWORLD", "Birds In The Trap Sing McKnight", "Scorpion"]
@@ -57,8 +58,6 @@ for album in all_time_data:
             score = .92
         elif all_time_data[album]['name'] == "JESUS IS KING":
             score = .929
-        elif all_time_data[album]['name'] == 'Bobby Tarantino II':
-            score = .918
         # elif all_time_data[album]['name'] == 'Sweet Action':
         #     score = .915
         # elif all_time_data[album]['name'] == 'Late Registration':

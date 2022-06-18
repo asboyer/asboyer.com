@@ -2417,11 +2417,11 @@
             "Lord Willin'",
             "City Of Stars",
             "Run It",
-            "Young Jesus",
             "The Incredible True Story",
             "Stainless"
         ],
         "good_tracks": [
+            "Young Jesus",
             "Contact",
             "White People - Scene",
             "Innermission",
@@ -2430,7 +2430,7 @@
             "Never Been",
             "Lucidity - Scene"
         ],
-        "score": 8.8
+        "score": 8.7
     },
     "DAYTONA": {
         "artists": "Pusha T",
@@ -3777,7 +3777,6 @@
             "Talk Up (feat. Jay-Z)",
             "After Dark (feat. Static Major & Ty Dolla $ign)",
             "March 14"
-
         ],
         "score": 9.12
     },
@@ -4951,7 +4950,6 @@
             "Contra",
             "BoomTrap Protocol",
             "Yuck",
-            "Warm It Up",
             "Wizard Of Oz",
             "State Of Emergency",
             "Wassup",
@@ -4959,9 +4957,10 @@
             "44 More"
         ],
         "good_tracks": [
-            "Indica Badu"
+            "Indica Badu",
+            "Warm It Up"
         ],
-        "score": 9.18,
+        "score": 8.97,
         "tracks": []
     },
     "Everybody": {
@@ -5002,15 +5001,15 @@
             "Slave II",
             "Wrist",
             "Super Mario World",
-            "44 Bars",
-            "Slave"
+            "44 Bars"
         ],
         "good_tracks": [
             "illuminatro",
             "Deeper Than Money",
-            "A Word From Our Sponsor"
+            "A Word From Our Sponsor",
+            "Slave"
         ],
-        "score": 8.64,
+        "score": 8.48,
         "tracks": []
     },
     "Under Pressure": {
