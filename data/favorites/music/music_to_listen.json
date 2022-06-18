@@ -29,37 +29,6 @@
             "Hell For It"
         ]
     },
-    "Pray For Haiti": {
-        "artists": "Mach-Hommy",
-        "id": "7doW9YWOtpmqHBqAUuBaKO",
-        "name": "Pray For Haiti",
-        "popularity": 50,
-        "release_date": "2021-05-21",
-        "total_tracks": 16,
-        "uri": "spotify:album:7doW9YWOtpmqHBqAUuBaKO",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c43b3a9459cadcf6f68867cd",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "The 26th Letter",
-            "No Blood No Sweat",
-            "Folie \u00c1 Deux (feat. Westside Gunn & Keisha Plum)",
-            "Makrel Jaxon",
-            "The Stellar Ray Theory",
-            "Marie",
-            "Leta Yo (Skit)",
-            "Kriminel",
-            "Pen Rale",
-            "Murder Czn (feat. Westside Gunn)",
-            "Magnum Band (feat. Tha God Fahim)",
-            "Rami (feat. Westside Gunn)",
-            "Kreyol (Skit)",
-            "Au Revoir (feat. Melanie Charles)",
-            "Blockchain",
-            "Ten Boxes - Sin Eater"
-        ]
-    },
     "To Be Kind": {
         "artists": "Swans",
         "id": "4dq7JNcHKrnozzFQg5bpmn",
@@ -3428,6 +3397,38 @@
             "Girls Love Beyonc\u00e9 (feat. James Fauntleroy)",
             "Paris Morton Music",
             "Can I"
+        ]
+    },
+    "Lost Souls": {
+        "artists": "Vory",
+        "id": "6aCunyx3egIaHn64wd4dA2",
+        "name": "Lost Souls",
+        "popularity": 55,
+        "release_date": "2022-06-03",
+        "total_tracks": 17,
+        "uri": "spotify:album:6aCunyx3egIaHn64wd4dA2",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a81ef45d024066bb07c97f63",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Lost Souls (ft. Fresco Trey)",
+            "Daylight (ft. Ye)",
+            "Lesson Learned",
+            "Do Not Disturb (ft. NAV and Yung Bleu)",
+            "Chanel Fix (ft. Landstrip Chip)",
+            "Happy Birthday 2U",
+            "CWR Interlude",
+            "Mind Games",
+            "I.J.S",
+            "Believe In Me",
+            "Lost Angels",
+            "Fuck Being Famous (ft. BEAM)",
+            "Cindy's Interlude",
+            "Project Baby",
+            "Dark Clouds",
+            "Not My Friends",
+            "Wallo267 Speaks"
         ]
     }
 }

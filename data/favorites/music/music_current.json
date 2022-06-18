@@ -242,15 +242,16 @@
         "top_tracks": [
             "Better Get Hit In Your Soul - Instrumental",
             "Goodbye Pork Pie Hat",
-            "Self-Portrait In Three Colours"
+            "Self-Portrait In Three Colours",
+            "Open Letter to Duke"
         ],
         "good_tracks": [
-            "Boogie Stop Shuffle"
+            "Boogie Stop Shuffle",
+            "Bird Calls"
+
         ],
         "score": 0.0,
         "tracks": [
-            "Open Letter to Duke",
-            "Bird Calls",
             "Fables Of Faubus",
             "Pussy Cat Dues",
             "Jelly Roll"
@@ -266,9 +267,7 @@
         "uri": "spotify:album:3cf4iSSKd8ffTncbtKljXw",
         "image": "https://i.scdn.co/image/ab67616d0000b2730e947a2cb9bcf7dedd966f22",
         "top_tracks": [
-            "Intro",
             "Falling Back",
-            "A Keeper",
             "Massive",
             "Flight's Booked",
             "Overdrive",
@@ -277,11 +276,13 @@
             "Liability"
         ],
         "good_tracks": [
+            "Intro",
+            "A Keeper",
             "Texts Go Green",
             "Down Hill",
             "Sticky"
         ],
-        "score": 8.21,
+        "score": 7.98,
         "tracks": []
     },
     "Vinyl Days": {
@@ -299,13 +300,11 @@
         ],
         "good_tracks": [
             "Danger",
-            "Decades"
+            "Decades",
+            "Quasi"
         ],
         "score": 0.0,
         "tracks": [
-            "JJ Abrahams",
-            "BLACKWHITEBOY",
-            "Quasi",
             "Bleed It",
             "LaDonda",
             "Aaron Judge",
@@ -329,6 +328,37 @@
             "Vinyl Days (feat. DJ Premier)",
             "I guess I love it (feat. The Game)",
             "Sayonara"
+        ]
+    },
+    "Pray For Haiti": {
+        "artists": "Mach-Hommy",
+        "id": "7doW9YWOtpmqHBqAUuBaKO",
+        "name": "Pray For Haiti",
+        "popularity": 50,
+        "release_date": "2021-05-21",
+        "total_tracks": 16,
+        "uri": "spotify:album:7doW9YWOtpmqHBqAUuBaKO",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c43b3a9459cadcf6f68867cd",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "The 26th Letter",
+            "No Blood No Sweat",
+            "Folie \u00c1 Deux (feat. Westside Gunn & Keisha Plum)",
+            "Makrel Jaxon",
+            "The Stellar Ray Theory",
+            "Marie",
+            "Leta Yo (Skit)",
+            "Kriminel",
+            "Pen Rale",
+            "Murder Czn (feat. Westside Gunn)",
+            "Magnum Band (feat. Tha God Fahim)",
+            "Rami (feat. Westside Gunn)",
+            "Kreyol (Skit)",
+            "Au Revoir (feat. Melanie Charles)",
+            "Blockchain",
+            "Ten Boxes - Sin Eater"
         ]
     }
 }
