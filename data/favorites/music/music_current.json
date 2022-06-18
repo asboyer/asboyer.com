@@ -1,223 +1,364 @@
 {
-    "Kid A": {
-        "artists": "Radiohead",
-        "id": "6GjwtEZcfenmOf6l18N7T7",
-        "name": "Kid A",
+    "Twelve Carat Toothache": {
+        "artists": "Post Malone",
+        "id": "3HHNR44YbP7XogMVwzbodx",
+        "name": "Twelve Carat Toothache",
+        "popularity": 78,
+        "release_date": "2022-06-03",
+        "total_tracks": 14,
+        "uri": "spotify:album:3HHNR44YbP7XogMVwzbodx",
+        "image": "https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97",
+        "top_tracks": [
+            "Love/Hate Letter To Alcohol (with Fleet Foxes)",
+            "Wasting Angels (with The Kid LAROI)",
+            "One Right Now (with The Weeknd)"
+        ],
+        "good_tracks": [
+            "Reputation",
+            "When I\u2019m Alone",
+            "Lemon Tree",
+            "I Cannot Be (A Sadder Song) (with Gunna)",
+            "Insane"
+        ],
+        "score": 5.12,
+        "tracks": []
+    },
+    "Dark Lane Demo Tapes": {
+        "artists": "Drake",
+        "id": "6OQ9gBfg5EXeNAEwGSs6jK",
+        "name": "Dark Lane Demo Tapes",
+        "popularity": 72,
+        "release_date": "2020-05-01",
+        "total_tracks": 14,
+        "uri": "spotify:album:6OQ9gBfg5EXeNAEwGSs6jK",
+        "image": "https://i.scdn.co/image/ab67616d0000b273bba7cfaf7c59ff0898acba1f",
+        "top_tracks": [
+            "Chicago Freestyle (feat. Giveon)",
+            "Toosie Slide",
+            "Time Flies",
+            "D4L",
+            "Demons (feat. Fivio Foreign & Sosa Geek)",
+            "War"
+        ],
+        "good_tracks": [
+            "Not You Too (feat. Chris Brown)",
+            "Desires (with Future)",
+            "Landed",
+            "Pain 1993 (with Playboi Carti)",
+            "From Florida With Love"
+        ],
+        "score": 7.26,
+        "tracks": []
+    },
+    "The Velvet Underground & Nico 45th Anniversary": {
+        "artists": "The Velvet Underground, Nico",
+        "id": "4xwx0x7k6c5VuThz5qVqmV",
+        "name": "The Velvet Underground & Nico",
+        "popularity": 58,
+        "release_date": "1967-03-12",
+        "total_tracks": 11,
+        "uri": "spotify:album:4xwx0x7k6c5VuThz5qVqmV",
+        "image": "https://i.scdn.co/image/ab67616d0000b27398260c528e6eec9dd431c1d7",
+        "top_tracks": [
+            "Sunday Morning",
+            "I'm Waiting For The Man",
+            "Femme Fatale",
+            "Venus In Furs",
+            "Run Run Run",
+            "Heroin",
+            "I'll Be Your Mirror",
+            "All Tomorrow's Parties"
+        ],
+        "good_tracks": [
+            "There She Goes Again"
+        ],
+        "score": 7.92,
+        "tracks": []
+    },
+    "Funk Wav Bounces Vol.1": {
+        "artists": "Calvin Harris, Funk Wav",
+        "id": "2HaqChIDc5go3qxVunBDK0",
+        "name": "Funk Wav Bounces Vol.1",
         "popularity": 70,
-        "release_date": "2000-10-02",
-        "total_tracks": 11,
-        "uri": "spotify:album:6GjwtEZcfenmOf6l18N7T7",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
-        "top_tracks": [
-            "Everything In Its Right Place",
-            "The National Anthem",
-            "How to Disappear Completely",
-            "Optimistic",
-            "Idioteque"
-        ],
-        "good_tracks": [
-            "Kid A",
-            "Treefingers",
-            "In Limbo",
-            "Morning Bell",
-            "Motion Picture Soundtrack",
-            "Untitled"
-        ],
-        "score": 9.09,
-        "tracks": []
-    },
-    "Nevermind (Remastered)": {
-        "artists": "Nirvana",
-        "id": "2guirTSEqLizK7j9i1MTTZ",
-        "name": "Nevermind (Remastered)",
-        "popularity": 85,
-        "release_date": "1991-09-26",
-        "total_tracks": 13,
-        "uri": "spotify:album:2guirTSEqLizK7j9i1MTTZ",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
-        "top_tracks": [
-            "Something In The Way",
-            "In Bloom",
-            "Smells Like Teen Spirit",
-            "Come As You Are",
-            "Lithium",
-            "Drain You",
-            "Stay Away"
-        ],
-        "good_tracks": [
-            "Breed",
-            "Polly",
-            "Territorial Pissing",
-            "Lounge Act",
-            "On A Plain"
-        ],
-        "score": 8.59,
-        "tracks": []
-    },
-    "Duke Ellington & John Coltrane": {
-        "artists": "Duke Ellington, John Coltrane",
-        "id": "1OvmilWKtrabJGEpPRlgK5",
-        "name": "Duke Ellington & John Coltrane",
-        "popularity": 64,
-        "release_date": "1963-02",
-        "total_tracks": 7,
-        "uri": "spotify:album:1OvmilWKtrabJGEpPRlgK5",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732def9ef3f6a82c8d6fd8c143",
-        "top_tracks": [
-            "In A Sentimental Mood",
-            "My Little Brown Book"
-        ],
-        "good_tracks": [
-            "Angelica",
-            "The Feeling Of Jazz",
-            "Big Nick",
-            "Stevie"
-        ],
-        "score": 7.62,
-        "tracks": []
-    },
-    "Little Dark Age": {
-        "artists": "MGMT",
-        "id": "7GjVWG39IOj4viyWplJV4H",
-        "name": "Little Dark Age",
-        "popularity": 79,
-        "release_date": "2018-02-09",
+        "release_date": "2017-06-30",
         "total_tracks": 10,
-        "uri": "spotify:album:7GjVWG39IOj4viyWplJV4H",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b47d309281c66820b7137f5d",
+        "uri": "spotify:album:2HaqChIDc5go3qxVunBDK0",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734d3fa5ce7ba599f4fd7803ef",
         "top_tracks": [
-            "She Works Out Too Much",
-            "Little Dark Age",
-            "When You Die",
-            "Me and Michael",
-            "TSLAMP",
-            "One Thing Left to Try"
+            "Slide (feat. Frank Ocean & Migos)",
+            "Cash Out (feat. ScHoolboy Q, PARTYNEXTDOOR & D.R.A.M.)",
+            "Heatstroke (feat. Young Thug, Pharrell Williams & Ariana Grande)",
+            "Rollin (feat. Future & Khalid)",
+            "Holiday (feat. Snoop Dogg, John Legend & Takeoff)",
+            "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)"
         ],
         "good_tracks": [
-            "James",
-            "Days That Got Away",
-            "When You're Small",
-            "Hand It Over"
+            "Prayers Up (feat. Travis Scott & A-Trak)",
+            "Faking It (feat. Kehlani & Lil Yachty)"
         ],
-        "score": 8.86,
+        "score": 7.67,
         "tracks": []
     },
-    "Trouble Man": {
-        "artists": "Marvin Gaye",
-        "id": "7KvKuWUxxNPEU80c4i5AQk",
-        "name": "Trouble Man",
-        "popularity": 42,
-        "release_date": "1972-12-08",
-        "total_tracks": 13,
-        "uri": "spotify:album:7KvKuWUxxNPEU80c4i5AQk",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ea177a7959b9adec2d1434fe",
+    "2 Aliv\u00eb": {
+        "artists": "Yeat",
+        "id": "0d1BFY8z15vye3KjtLvF3u",
+        "name": "2 Aliv\u00eb",
+        "popularity": 71,
+        "release_date": "2022-02-18",
+        "total_tracks": 20,
+        "uri": "spotify:album:0d1BFY8z15vye3KjtLvF3u",
+        "image": "https://i.scdn.co/image/ab67616d0000b27372b69f1f356613717909d6db",
         "top_tracks": [
-            "Main Theme From Trouble Man - 2",
-            "Main Theme From Trouble Man - 1",
-            "Trouble Man"
+            "Poppin",
+            "Still countin",
+            "Rackz got m\u00eb (feat. Gunna)",
+            "Outsid\u00eb (feat. Young Thug)",
+            "R\u00ebal six",
+            "Nvr again",
+            "Luh g\u00ebek",
+            "On tha lin\u00eb",
+            "Jus b\u00ebtter",
+            "Jump",
+            "Rollin"
         ],
         "good_tracks": [
-            "\"T\" Stands For Trouble",
-            "Theme From Trouble Man",
-            "Don't Mess With Mister \"T\"",
-            "There Goes Mister \"T\"",
-            "\"T\" Plays It Cool",
-            "Poor Abbey Walsh",
-            "The Break In (Police Shoot Big)",
-            "Cleo's Apartment"
+            "Doubl\u00eb",
+            "Dnt li\u00eb",
+            "Narcoticz (feat. Yung Kayo)",
+            "Kant di\u00eb",
+            "Smooktob\u00ebr"
         ],
-        "score": 6.7,
+        "score": 7.29,
         "tracks": []
     },
-    "In the Aeroplane Over the Sea": {
-        "artists": "Neutral Milk Hotel",
-        "id": "0vVekV45lOaVKs6RZQQNob",
-        "name": "In the Aeroplane Over the Sea",
-        "popularity": 68,
-        "release_date": "1998-02-20",
-        "total_tracks": 11,
-        "uri": "spotify:album:0vVekV45lOaVKs6RZQQNob",
-        "image": "https://i.scdn.co/image/ab67616d0000b273589ce9a911c6e65b1f80c558",
+    "In Rainbows": {
+        "artists": "Radiohead",
+        "id": "5vkqYmiPBYLaalcmjujWxK",
+        "name": "In Rainbows",
+        "popularity": 65,
+        "release_date": "2007-12-28",
+        "total_tracks": 10,
+        "uri": "spotify:album:5vkqYmiPBYLaalcmjujWxK",
+        "image": "https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9",
         "top_tracks": [
-            "King of Carrot Flowers Pt. 1",
-            "In the Aeroplane Over the Sea",
-            "Two-Headed Boy",
-            "Communist Daughter"
+            "15 Step",
+            "Bodysnatchers",
+            "Nude",
+            "Weird Fishes/ Arpeggi",
+            "All I Need",
+            "Reckoner",
+            "House Of Cards",
+            "Jigsaw Falling Into Place"
         ],
         "good_tracks": [
-            "The Fool",
-            "Holland, 1945",
-            "Ghost",
-            "Two-Headed Boy Pt. 2"
+            "Faust Arp",
+            "Videotape"
         ],
-        "score": 6.23,
+        "score": 9.67,
         "tracks": []
     },
-    "Mr. Morale & The Big Steppers": {
-        "artists": "Kendrick Lamar",
-        "id": "1atjqOZTCdrjxjMyCPZc2g",
-        "name": "Mr. Morale & The Big Steppers",
+    "Dangerous: The Double Album": {
+        "artists": "Morgan Wallen",
+        "id": "6JlCkqkqobGirPsaleJpFr",
+        "name": "Dangerous: The Double Album",
+        "popularity": 79,
+        "release_date": "2021-01-08",
+        "total_tracks": 30,
+        "uri": "spotify:album:6JlCkqkqobGirPsaleJpFr",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737d6813fd233f3bc4977cceca",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Sand In My Boots",
+            "Wasted On You",
+            "Somebody\u2019s Problem",
+            "More Surprised Than Me",
+            "865",
+            "Warning",
+            "Neon Eyes",
+            "Outlaw (feat. Ben Burgess)",
+            "Whiskey\u2019d My Way",
+            "Wonderin\u2019 Bout The Wind",
+            "Your Bartender",
+            "Only Thing That\u2019s Gone (feat. Chris Stapleton)",
+            "Cover Me Up",
+            "7 Summers",
+            "More Than My Hometown",
+            "Still Goin Down",
+            "Rednecks, Red Letters, Red Dirt",
+            "Dangerous",
+            "Beer Don\u2019t",
+            "Blame It On Me",
+            "Somethin\u2019 Country",
+            "This Bar",
+            "Country A$$ Shit",
+            "Whatcha Think Of Country Now",
+            "Me On Whiskey",
+            "Need A Boat",
+            "Silverado For Sale",
+            "Heartless - Wallen Album Mix",
+            "Livin\u2019 The Dream",
+            "Quittin\u2019 Time"
+        ]
+    },
+    "The Life Of Pi'erre 4": {
+        "artists": "Pi\u2019erre Bourne",
+        "id": "0agALBMd2a8cnpbpukTg03",
+        "name": "The Life Of Pi'erre 4",
+        "popularity": 54,
+        "release_date": "2019-06-21",
+        "total_tracks": 16,
+        "uri": "spotify:album:0agALBMd2a8cnpbpukTg03",
+        "image": "https://i.scdn.co/image/ab67616d0000b27346fe2968c4c6f8f82ab4eb5b",
+        "top_tracks": [
+            "Poof",
+            "Try Again",
+            "Be Mine",
+            "Routine",
+            "Lovers",
+            "How High",
+            "Romeo Must Die",
+            "Racer",
+            "Guillotine"
+        ],
+        "good_tracks": [
+            "Stereotypes",
+            "Doublemint",
+            "Juice"
+        ],
+        "score": 6.96,
+        "tracks": []
+    },
+    "Mingus Ah Um": {
+        "artists": "Charles Mingus",
+        "id": "4Z8nWz3dGybOP7lhMZpcOo",
+        "name": "Mingus Ah Um",
+        "popularity": 28,
+        "release_date": "1959",
+        "total_tracks": 9,
+        "uri": "spotify:album:4Z8nWz3dGybOP7lhMZpcOo",
+        "image": "https://m.media-amazon.com/images/I/81DmDMv-VzL._SL1500_.jpg",
+        "top_tracks": [
+            "Better Get Hit In Your Soul - Instrumental",
+            "Goodbye Pork Pie Hat",
+            "Self-Portrait In Three Colours",
+            "Open Letter to Duke"
+        ],
+        "good_tracks": [
+            "Boogie Stop Shuffle",
+            "Bird Calls"
+
+        ],
+        "score": 0.0,
+        "tracks": [
+            "Fables Of Faubus",
+            "Pussy Cat Dues",
+            "Jelly Roll"
+        ]
+    },
+    "Honestly, Nevermind": {
+        "artists": "Drake",
+        "id": "3cf4iSSKd8ffTncbtKljXw",
+        "name": "Honestly, Nevermind",
         "popularity": 0,
-        "release_date": "2022-05-13",
-        "total_tracks": 18,
-        "uri": "spotify:album:1atjqOZTCdrjxjMyCPZc2g",
-        "image": "https://i.scdn.co/image/ab67616d0000b27311c9e3983553deb5a9ad8594",
+        "release_date": "2022-06-17",
+        "total_tracks": 14,
+        "uri": "spotify:album:3cf4iSSKd8ffTncbtKljXw",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730e947a2cb9bcf7dedd966f22",
         "top_tracks": [
-            "N95",
-            "Die Hard",
-            "Father Time (feat. Sampha)",
-            "Purple Hearts",
-            "Count Me Out",
-            "Silent Hill",
-            "Mr. Morale",
-            "Savior",
-            "Mirror"
+            "Falling Back",
+            "Massive",
+            "Flight's Booked",
+            "Overdrive",
+            "Jimmy Cook's (feat. 21 Savage)",
+            "Tie That Binds",
+            "Liability"
         ],
         "good_tracks": [
-            "United In Grief",
-            "We Cry Together",
-            "Savior - Interlude",
-            "Mother I Sober (feat. Beth Gibbons of Portishead)",
-            "Rich Spirit"
+            "Intro",
+            "A Keeper",
+            "Texts Go Green",
+            "Down Hill",
+            "Sticky"
         ],
-        "score": 7.31,
+        "score": 7.98,
         "tracks": []
     },
-    "Madvillainy": {
-        "artists": "Madvillain, Madlib, MF DOOM",
-        "id": "01FCoGEQ3NFWF4fHJzdiax",
-        "name": "Madvillainy",
+    "Vinyl Days": {
+        "artists": "Logic",
+        "id": "0RTHMVF27KRMHIGnF7iLru",
+        "name": "Vinyl Days",
         "popularity": 0,
-        "release_date": "2004-03-24",
-        "total_tracks": 22,
-        "uri": "spotify:album:01FCoGEQ3NFWF4fHJzdiax",
-        "image": "https://i.scdn.co/image/ab67616d0000b27302abe1eaf9da931f42629b4a",
+        "release_date": "2022-06-17",
+        "total_tracks": 30,
+        "uri": "spotify:album:0RTHMVF27KRMHIGnF7iLru",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731e0b9c0786649b8d81e947d6",
         "top_tracks": [
-            "The Illest Villains",
-            "Accordion",
-            "Meat Grinder",
-            "Raid",
-            "Curls",
-            "Money Folder",
-            "Operation Lifesaver aka Mint Test",
-            "Fancy Clown",
-            "Eye",
-            "Supervillain Theme",
-            "All Caps",
-            "Great Day",
-            "Rhinestone Cowboy",
-            "Strange Ways"
+            "Tetris",
+            "In my lifetime (feat. Action Bronson)"
         ],
         "good_tracks": [
-            "Bistro",
-            "America's Most Blunted",
-            "Sickfit",
-            "Rainbows",
-            "Do Not Fire!",
-            "Figaro",
-            "Shadows of Tomorrow"
+            "Danger",
+            "Decades",
+            "Quasi"
         ],
-        "score": 9.02,
-        "tracks": []
+        "score": 0.0,
+        "tracks": [
+            "Bleed It",
+            "LaDonda",
+            "Aaron Judge",
+            "Clouds (feat. Langston Bristol & Curren$y)",
+            "Michael Rap",
+            "Therapy Music (feat. Russ)",
+            "Tony Revolori",
+            "Rogue One",
+            "Breath Control (feat. Wiz Khalifa)",
+            "NEMS",
+            "Nardwuar (feat. Doc D)",
+            "Kickstyle feat. iamJMARS, Big Lenbo & C Dot Castro)",
+            "EarlyBird",
+            "Ten Years (feat. Royce Da 5'9'')",
+            "Porta one (feat. RZA)",
+            "NeedleDrop",
+            "Introducing Nezi (feat. Nezi Momodu)",
+            "Orville (feat. Like, Blu & Exile)",
+            "Carnival (feat. AZ)",
+            "Lena's Insight",
+            "Vinyl Days (feat. DJ Premier)",
+            "I guess I love it (feat. The Game)",
+            "Sayonara"
+        ]
+    },
+    "Pray For Haiti": {
+        "artists": "Mach-Hommy",
+        "id": "7doW9YWOtpmqHBqAUuBaKO",
+        "name": "Pray For Haiti",
+        "popularity": 50,
+        "release_date": "2021-05-21",
+        "total_tracks": 16,
+        "uri": "spotify:album:7doW9YWOtpmqHBqAUuBaKO",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c43b3a9459cadcf6f68867cd",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "The 26th Letter",
+            "No Blood No Sweat",
+            "Folie \u00c1 Deux (feat. Westside Gunn & Keisha Plum)",
+            "Makrel Jaxon",
+            "The Stellar Ray Theory",
+            "Marie",
+            "Leta Yo (Skit)",
+            "Kriminel",
+            "Pen Rale",
+            "Murder Czn (feat. Westside Gunn)",
+            "Magnum Band (feat. Tha God Fahim)",
+            "Rami (feat. Westside Gunn)",
+            "Kreyol (Skit)",
+            "Au Revoir (feat. Melanie Charles)",
+            "Blockchain",
+            "Ten Boxes - Sin Eater"
+        ]
     }
 }

@@ -398,18 +398,25 @@
         "rating": 8.7,
         "director": "Lana Wachowski"
     },
-    "Three Amigos!": {
-        "id": "0092086",
-        "title": "Three Amigos!",
-        "image": "http://image.tmdb.org/t/p/original/dUNRnhl2cwjFJ6TOsaPJmZeMZ0S.jpg",
-        "rating": 6.5,
-        "director": "John Landis"
-    },
     "The Good, the Bad and the Ugly": {
         "id": "0060196",
         "title": "The Good, the Bad and the Ugly",
         "image": "http://image.tmdb.org/t/p/original/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
         "rating": 8.8,
+        "director": "Sergio Leone"
+    },
+    "The Great Escape": {
+        "id": "0057115",
+        "title": "The Great Escape",
+        "image": "http://image.tmdb.org/t/p/original/gBH4H8UMFxl139HaLz6lRuvsel8.jpg",
+        "rating": 8.2,
+        "director": "John Sturges"
+    },
+    "A Fistful of Dollars": {
+        "id": "0058461",
+        "title": "A Fistful of Dollars",
+        "image": "http://image.tmdb.org/t/p/original/lBwOEpwVeUAmrmglcstnaGcJq3Y.jpg",
+        "rating": 7.9,
         "director": "Sergio Leone"
     }
 }

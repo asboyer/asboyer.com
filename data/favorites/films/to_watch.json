@@ -153,13 +153,6 @@
         "rating": 8.5,
         "director": "Francis Ford Coppola"
     },
-    "The Great Escape": {
-        "id": "0057115",
-        "title": "The Great Escape",
-        "image": "http://image.tmdb.org/t/p/original/gBH4H8UMFxl139HaLz6lRuvsel8.jpg",
-        "rating": 8.2,
-        "director": "John Sturges"
-    },
     "Rocky": {
         "id": "0075148",
         "title": "Rocky",
@@ -202,26 +195,12 @@
         "rating": 8.0,
         "director": "Fred Zinnemann"
     },
-    "A Fistful of Dollars": {
-        "id": "0058461",
-        "title": "A Fistful of Dollars",
-        "image": "http://image.tmdb.org/t/p/original/lBwOEpwVeUAmrmglcstnaGcJq3Y.jpg",
-        "rating": 7.9,
-        "director": "Sergio Leone"
-    },
     "For a Few Dollars More": {
         "id": "0059578",
         "title": "For a Few Dollars More",
         "image": "http://image.tmdb.org/t/p/original/vVUIAVsh2lMzweyrbdsOgiZoQuy.jpg",
         "rating": 8.2,
         "director": "Sergio Leone"
-    },
-    "The Outlaw Josey Wales": {
-        "id": "0075029",
-        "title": "The Outlaw Josey Wales",
-        "image": "http://image.tmdb.org/t/p/original/92BZIFPbyCPNhExyFScxA3xF1dy.jpg",
-        "rating": 7.8,
-        "director": "Clint Eastwood"
     },
     "Pale Rider": {
         "id": "0089767",
@@ -243,5 +222,54 @@
         "image": "http://image.tmdb.org/t/p/original/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
         "rating": 8.3,
         "director": "Michel Gondry"
+    },
+    "Dirty Harry": {
+        "id": "0066999",
+        "title": "Dirty Harry",
+        "image": "http://image.tmdb.org/t/p/original/UHxxkYe9tRdiPu0JFgcEL5hmQ4.jpg",
+        "rating": 7.7,
+        "director": "Don Siegel, Clint Eastwood"
+    },
+    "Dr. No": {
+        "id": "0055928",
+        "title": "Dr. No",
+        "image": "http://image.tmdb.org/t/p/original/w9ph5cUfGbw41WXt7yuXsWeN2TV.jpg",
+        "rating": 7.2,
+        "director": "Terence Young"
+    },
+    "From Russia with Love": {
+        "id": "0057076",
+        "title": "From Russia with Love",
+        "image": "http://image.tmdb.org/t/p/original/gH4SnuOJnkYZcORXd8woYjnS0kQ.jpg",
+        "rating": 7.4,
+        "director": "Terence Young"
+    },
+    "Goldfinger": {
+        "id": "0058150",
+        "title": "Goldfinger",
+        "image": "http://image.tmdb.org/t/p/original/rFk6CQbt9hVU1rybz3AElvyaxol.jpg",
+        "rating": 7.7,
+        "director": "Guy Hamilton"
+    },
+    "Thunderball": {
+        "id": "0059800",
+        "title": "Thunderball",
+        "image": "http://image.tmdb.org/t/p/original/oJ5ybB57eidPLqZUltrVjshqwcs.jpg",
+        "rating": 6.9,
+        "director": "Terence Young"
+    },
+    "You Only Live Twice": {
+        "id": "0062512",
+        "title": "You Only Live Twice",
+        "image": "http://image.tmdb.org/t/p/original/2TL9ehsOPZSqOJzuhshChQV9BSn.jpg",
+        "rating": 6.8,
+        "director": "Lewis Gilbert"
+    },
+    "Diamonds Are Forever": {
+        "id": "0066995",
+        "title": "Diamonds Are Forever",
+        "image": "http://image.tmdb.org/t/p/original/uajiHcFX5sOhYB2tBuWkmizbtuU.jpg",
+        "rating": 6.5,
+        "director": "Guy Hamilton"
     }
 }

@@ -3,7 +3,7 @@ import music_backend
 
 def update_music(spec):
     if spec == 'all':
-        specs = ['all_time', 'current']
+        specs = ['all_time', 'current', 'to_listen']
         for spc in specs:
             music_backend.update_database(spc)
     else:
