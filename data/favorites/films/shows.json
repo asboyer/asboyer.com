@@ -126,5 +126,12 @@
         "image": "https://i5.walmartimages.com/asr/b3ee9cf6-a2b4-4c70-a631-d6ec679e25d2_1.8c755fc3d93df220a7141e31fd491965.jpeg",
         "rating": 8.5,
         "creator": "Sharyn Rothstein, Aaron Korsh"
+    },
+    "Good Luck Charlie": {
+        "id": "1415889",
+        "title": "Good Luck Charlie",
+        "image": "http://image.tmdb.org/t/p/original/5PgRxNk2do0UajyZ4YKkbOCnZx3.jpg",
+        "rating": 7.1,
+        "creator": "Phil Baker"
     }
 }
