@@ -102,5 +102,37 @@
         "link": "https://amzn.to/3EZ1jZe",
         "color": "#FFC60C",
         "status": "want"
+    },
+    "The Alchemist": {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "img": "https://m.media-amazon.com/images/I/51Z0nLAfLmL.jpg",
+        "link": "https://amzn.to/3OtKtp0",
+        "color": "#B01E25",
+        "status": "want"
+    },
+    "The Almanack of Naval Ravikant": {
+        "title": "The Almanack of Naval Ravikant",
+        "author": "Eric Jorgenson",
+        "img": "https://m.media-amazon.com/images/I/31EQXd8E9eL.jpg",
+        "link": "https://www.navalmanack.com/",
+        "color": "#FFFFFF",
+        "status": "want"
+    },
+    "The Personal MBA": {
+        "title": "The Personal MBA",
+        "author": "Josh Kaufman",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/810C3b5qifL.jpg",
+        "link": "https://amzn.to/3zOve5Y",
+        "color": "#E6EBF1",
+        "status": "want"
+    },
+    "Your Money: The Missing Manual": {
+        "title": "Your Money: The Missing Manual",
+        "author": "J.D. Roth",
+        "img": "https://m.media-amazon.com/images/I/516mQyHUuNL.jpg",
+        "link": "https://amzn.to/3tMErHP",
+        "color": "#7AC140",
+        "status": "want"
     }
 }
