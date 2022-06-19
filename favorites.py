@@ -6,7 +6,9 @@ from update_music import update_music, update_tracks, import_from_all_time
 from update_shows import update_shows
 from quotes import add_quote
 from books import add_library, add_shelf, add_list
+from gallery_backend import add_img
 
+add_img()
 update_movies()
 update_music('all')
 import_from_all_time()

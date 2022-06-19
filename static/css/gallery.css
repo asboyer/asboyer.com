@@ -1,0 +1,20 @@
+.gallery__img {
+    width: 300px;
+    height: 300px;
+}
+
+
+
+
+.song-artist {
+    font-family: monospace;
+}
+
+.all-albums {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    max-width: 2100px;
+    gap: 25px;
+
+    margin: 0 auto;
+}
