@@ -32,18 +32,10 @@ h3 {
   padding: 15px;
 }
 
-.biggy_div {
+.biggerdiv {
   max-width: 500px;
   margin: 0 auto;
-/*    margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);*/
-
 }
-
 
 body {
   background: linear-gradient(to bottom right, rgb(182, 242, 157), #111);
@@ -91,5 +83,14 @@ a {
   bottom: 0;
   margin: none;
   font-size: 25;
-  padding-bottom: 15px;
+}
+
+.bottomright {
+     position: fixed;
+     bottom: 0px;
+     right: 0px;
+     margin: none;
+     font-size: 25;
+     color: rgb(182, 242, 157);
+     margin-right: 5px;
 }
