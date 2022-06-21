@@ -166,25 +166,26 @@
         "total_tracks": 30,
         "uri": "spotify:album:6JlCkqkqobGirPsaleJpFr",
         "image": "https://i.scdn.co/image/ab67616d0000b2737d6813fd233f3bc4977cceca",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
+        "top_tracks": [
             "Sand In My Boots",
             "Wasted On You",
             "Somebody\u2019s Problem",
             "More Surprised Than Me",
-            "865",
             "Warning",
-            "Neon Eyes",
             "Outlaw (feat. Ben Burgess)",
-            "Whiskey\u2019d My Way",
-            "Wonderin\u2019 Bout The Wind",
             "Your Bartender",
-            "Only Thing That\u2019s Gone (feat. Chris Stapleton)",
             "Cover Me Up",
-            "7 Summers",
-            "More Than My Hometown",
+            "7 Summers"
+            
+        ],
+        "good_tracks": [
+            "865",
+            "Neon Eyes",
+            "Whiskey\u2019d My Way"
+            
+        ],
+        "score": 0.0,
+        "tracks": [
             "Still Goin Down",
             "Rednecks, Red Letters, Red Dirt",
             "Dangerous",
@@ -294,12 +295,11 @@
         "uri": "spotify:album:0RTHMVF27KRMHIGnF7iLru",
         "image": "https://i.scdn.co/image/ab67616d0000b2731e0b9c0786649b8d81e947d6",
         "top_tracks": [
-            "Tetris",
-            "In my lifetime (feat. Action Bronson)"
+            "Tetris"
         ],
         "good_tracks": [
+            "In my lifetime (feat. Action Bronson)",
             "Danger",
-            "Decades",
             "Quasi"
         ],
         "score": 0.0,
