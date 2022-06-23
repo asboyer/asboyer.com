@@ -23,8 +23,6 @@ def get_old_emails():
 def send_email(recievers, msg):
     ctx = ssl.create_default_context()
     server = smtplib.SMTP_SSL('smtp.gmail.com', port=465, context=ctx)
-    server.starttls()
-    server.ehlo()
     server.login(EMAIL_ADDRESS, EMAIL_PASS)
     return server.sendmail(EMAIL_ADDRESS, [EMAIL_ADDRESS] + recievers, msg)
 
