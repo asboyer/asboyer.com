@@ -4020,5 +4020,38 @@
             "My Dad's Gone Crazy",
             "Curtains Close"
         ]
+    },
+    "Stoney (Deluxe)": {
+        "artists": "Post Malone",
+        "id": "5s0rmjP8XOPhP6HhqOhuyC",
+        "name": "Stoney (Deluxe)",
+        "popularity": 77,
+        "release_date": "2016-12-09",
+        "total_tracks": 18,
+        "uri": "spotify:album:5s0rmjP8XOPhP6HhqOhuyC",
+        "image": "https://i.scdn.co/image/ab67616d0000b27355404f712deb84d0650a4b41",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Broken Whiskey Glass",
+            "Big Lie",
+            "Deja Vu",
+            "No Option",
+            "Cold",
+            "White Iverson",
+            "I Fall Apart",
+            "Patient",
+            "Go Flex",
+            "Feel",
+            "Too Young",
+            "Congratulations",
+            "Up There",
+            "Yours Truly, Austin Post",
+            "Leave",
+            "Hit This Hard",
+            "Money Made Me Do It",
+            "Feeling Whitney"
+        ]
     }
 }
