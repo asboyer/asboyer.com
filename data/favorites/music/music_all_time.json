@@ -55,7 +55,7 @@
             "Do Not Fire!",
             "Shadows of Tomorrow"
         ],
-        "score": 9.09,
+        "score": 9.37,
         "tracks": []
     },
     "Trouble Man": {
@@ -423,13 +423,12 @@
             "Halftime",
             "One Love (feat. Q-Tip)",
             "Represent",
-            "It Ain't Hard to Tell"
-        ],
-        "good_tracks": [
+            "It Ain't Hard to Tell",
             "Memory Lane (Sittin' in da Park)",
             "One Time 4 Your Mind"
         ],
-        "score": 9.43
+        "good_tracks": [],
+        "score": 10.0
     },
     "The Low End Theory": {
         "artists": "A Tribe Called Quest",
@@ -627,11 +626,12 @@
             "Options",
             "WHY",
             "Thinking",
-            "Trauma",
             "Time - Edit"
         ],
-        "good_tracks": [],
-        "score": 10.0
+        "good_tracks": [
+            "Trauma"
+        ],
+        "score": 9.86
     },
     "F*CK LOVE (SAVAGE)": {
         "artists": "The Kid LAROI",
@@ -1819,11 +1819,10 @@
             "All of Me"
         ],
         "good_tracks": [
-            "Waterfall",
             "Charlie Brown Medley",
             "Can't Help Falling in Love"
         ],
-        "score": 9.34
+        "score": 8.79
     },
     "Uncharted": {
         "artists": "The Piano Guys",
@@ -1878,7 +1877,7 @@
             "Coldest Winter",
             "Pinocchio Story"
         ],
-        "score": 8.33
+        "score": 9.03
     },
     "After Hours": {
         "artists": "The Weekend",
@@ -2567,7 +2566,7 @@
             "G.O.M.D.",
             "Love Yourz"
         ],
-        "score": 7.05
+        "score": 7.44
     },
     "beerbongs & bentleys": {
         "artists": "Post Malone",
@@ -2906,6 +2905,7 @@
         "image": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
         "top_tracks": [
             "Free Smoke",
+            "No Long Talk",
             "Passionfruit",
             "Gyalchester",
             "Portland",
@@ -2916,14 +2916,16 @@
             "Teenage Fever"
         ],
         "good_tracks": [
-            "No Long Talk",
             "Jorja Interlude",
+            "Get It Together",
             "Blem",
+            "4422",
             "Nothings Into Somethings",
             "Can't Have Everything",
-            "Ice Melts"
+            "Ice Melts",
+            "Since Way Back"
         ],
-        "score": 6.36
+        "score": 7.58
     },
     "TRON: Legacy": {
         "artists": "Daft Punk",
@@ -3321,16 +3323,18 @@
             "Hotline Bling",
             "One Dance",
             "Feel No Ways",
-            "Grammys"
+            "Grammys",
+            "Weston Road Flows"
         ],
         "good_tracks": [
+            "Keep The Family Close",
             "9",
             "Childs Play",
             "Summers Over Interlude",
             "With You",
             "U With Me?"
         ],
-        "score": 6.58,
+        "score": 7.5,
         "tracks": []
     },
     "SKINS": {
@@ -4113,7 +4117,7 @@
             "Get Along Better",
             "You Only Live Twice"
         ],
-        "score": 6.75,
+        "score": 7.94,
         "tracks": []
     },
     "DAMN.": {
@@ -4298,13 +4302,14 @@
             "War",
             "Desires (with Future)",
             "Pain 1993 (with Playboi Carti)",
+            "Landed",
             "From Florida With Love"
         ],
         "good_tracks": [
-            "Not You Too (feat. Chris Brown)",
-            "Landed"
+            "Deep Pockets",
+            "When To Say When"
         ],
-        "score": 7.62,
+        "score": 8.33,
         "tracks": []
     },
     "LIFE'S A TRIP": {
@@ -4527,7 +4532,7 @@
             "Kelly Price (feat. Travis Scott)",
             "Out Yo Way"
         ],
-        "score": 7.05,
+        "score": 7.44,
         "tracks": []
     },
     "Culture II": {
@@ -5051,7 +5056,7 @@
             "State Of Emergency",
             "Warm It Up"
         ],
-        "score": 8.85,
+        "score": 8.57,
         "tracks": []
     },
     "Everybody": {
