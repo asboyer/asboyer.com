@@ -37,7 +37,7 @@ $(document).ready(function(){
                 styles = "white-space: nowrap"
             }
 
-            if(values.name == "Future & Juice WRLD Present... WRLD ON DRUGS") {
+            if(values.name == "Future & Juice WRLD Present... WRLD ON DRUGS" || values.name == "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" || values.name == "Kanye West Presents Good Music Cruel Summer" || values.name == "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)") {
                 styles = "font-size: 20px"
             }
             var special = ""

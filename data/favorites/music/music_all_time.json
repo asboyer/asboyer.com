@@ -134,6 +134,70 @@
         "score": 9.09,
         "tracks": []
     },
+    "Twelve Carat Toothache": {
+        "artists": "Post Malone",
+        "id": "3HHNR44YbP7XogMVwzbodx",
+        "name": "Twelve Carat Toothache",
+        "popularity": 78,
+        "release_date": "2022-06-03",
+        "total_tracks": 14,
+        "uri": "spotify:album:3HHNR44YbP7XogMVwzbodx",
+        "image": "https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97",
+        "top_tracks": [
+            "Love/Hate Letter To Alcohol (with Fleet Foxes)",
+            "Wasting Angels (with The Kid LAROI)",
+            "One Right Now (with The Weeknd)"
+        ],
+        "good_tracks": [
+            "Reputation",
+            "When I\u2019m Alone",
+            "Lemon Tree",
+            "I Cannot Be (A Sadder Song) (with Gunna)",
+            "Insane"
+        ],
+        "score": 5.12,
+        "tracks": []
+    },
+    "Dangerous: The Double Album": {
+        "artists": "Morgan Wallen",
+        "id": "6JlCkqkqobGirPsaleJpFr",
+        "name": "Dangerous: The Double Album",
+        "popularity": 79,
+        "release_date": "2021-01-08",
+        "total_tracks": 30,
+        "uri": "spotify:album:6JlCkqkqobGirPsaleJpFr",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737d6813fd233f3bc4977cceca",
+        "top_tracks": [
+            "Sand In My Boots",
+            "Wasted On You",
+            "Somebody\u2019s Problem",
+            "More Surprised Than Me",
+            "Warning",
+            "Outlaw (feat. Ben Burgess)",
+            "Your Bartender",
+            "Cover Me Up",
+            "7 Summers",
+            "Still Goin Down",
+            "Dangerous",
+            "Blame It On Me",
+            "Need A Boat",
+            "Silverado For Sale",
+            "Heartless - Wallen Album Mix",
+            "Livin\u2019 The Dream",
+            "Quittin\u2019 Time"
+        ],
+        "good_tracks": [
+            "865",
+            "Neon Eyes",
+            "Whiskey\u2019d My Way",
+            "Rednecks, Red Letters, Red Dirt",
+            "Somethin\u2019 Country",
+            "This Bar",
+            "Whatcha Think Of Country Now"
+        ],
+        "score": 7.61,
+        "tracks": []
+    },
     "Nevermind (Remastered)": {
         "artists": "Nirvana",
         "id": "2guirTSEqLizK7j9i1MTTZ",
@@ -4228,16 +4292,16 @@
             "Time Flies",
             "D4L",
             "Demons (feat. Fivio Foreign & Sosa Geek)",
-            "War"
-        ],
-        "good_tracks": [
-            "Not You Too (feat. Chris Brown)",
+            "War",
             "Desires (with Future)",
-            "Landed",
             "Pain 1993 (with Playboi Carti)",
             "From Florida With Love"
         ],
-        "score": 7.26,
+        "good_tracks": [
+            "Not You Too (feat. Chris Brown)",
+            "Landed"
+        ],
+        "score": 7.62,
         "tracks": []
     },
     "LIFE'S A TRIP": {
@@ -4935,6 +4999,30 @@
         "score": 4.74,
         "tracks": []
     },
+    "Mingus Ah Um": {
+        "artists": "Charles Mingus",
+        "id": "4Z8nWz3dGybOP7lhMZpcOo",
+        "name": "Mingus Ah Um",
+        "popularity": 28,
+        "release_date": "1959",
+        "total_tracks": 9,
+        "uri": "spotify:album:4Z8nWz3dGybOP7lhMZpcOo",
+        "image": "https://m.media-amazon.com/images/I/81DmDMv-VzL._SL1500_.jpg",
+        "top_tracks": [
+            "Better Get Hit In Your Soul - Instrumental",
+            "Goodbye Pork Pie Hat",
+            "Self-Portrait In Three Colours",
+            "Open Letter to Duke",
+            "Fables Of Faubus",
+            "Pussy Cat Dues",
+            "Jelly Roll"
+        ],
+        "good_tracks": [
+            "Boogie Stop Shuffle"
+        ],
+        "score": 8.7,
+        "tracks": []
+    },
     "Bobby Tarantino II": {
         "artists": "Logic",
         "id": "4F87p1aiFwHeU4uu65MaPV",
@@ -4951,16 +5039,16 @@
             "BoomTrap Protocol",
             "Yuck",
             "Wizard Of Oz",
-            "State Of Emergency",
             "Wassup",
             "Everyday",
             "44 More"
         ],
         "good_tracks": [
             "Indica Badu",
+            "State Of Emergency",
             "Warm It Up"
         ],
-        "score": 8.97,
+        "score": 8.85,
         "tracks": []
     },
     "Everybody": {
@@ -5005,11 +5093,10 @@
         ],
         "good_tracks": [
             "illuminatro",
-            "Deeper Than Money",
             "A Word From Our Sponsor",
             "Slave"
         ],
-        "score": 8.48,
+        "score": 7.4,
         "tracks": []
     },
     "Under Pressure": {
@@ -5237,18 +5324,19 @@
             "Purple Hearts",
             "Count Me Out",
             "Silent Hill",
-            "Savior"
+            "Savior",
+            "Mr. Morale"
         ],
         "good_tracks": [
             "United In Grief",
             "We Cry Together",
             "Crown",
             "Savior - Interlude",
-            "Mr. Morale",
             "Mother I Sober (feat. Beth Gibbons of Portishead)",
-            "Mirror"
+            "Mirror",
+            "Rich Spirit"
         ],
-        "score": 7.13,
+        "score": 7.69,
         "tracks": []
     },
     "The Velvet Underground & Nico 45th Anniversary": {
@@ -5378,6 +5466,59 @@
             "My Way"
         ],
         "score": 6.31,
+        "tracks": []
+    },
+    "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?": {
+        "artists": "Billie Eilish",
+        "id": "0S0KGZnfBGSIssfF54WSJh",
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "popularity": 79,
+        "release_date": "2019-03-29",
+        "total_tracks": 14,
+        "uri": "spotify:album:0S0KGZnfBGSIssfF54WSJh",
+        "image": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce",
+        "top_tracks": [
+            "bad guy",
+            "you should see me in a crown",
+            "all the good girls go to hell",
+            "wish you were gay",
+            "bury a friend"
+        ],
+        "good_tracks": [
+            "xanny",
+            "8",
+            "when the party's over",
+            "my strange addiction",
+            "ilomilo",
+            "i love you",
+            "goodbye"
+        ],
+        "score": 7.74,
+        "tracks": []
+    },
+    "SOUR": {
+        "artists": "Olivia Rodrigo",
+        "id": "6s84u2TUpR3wdUv4NgKA2j",
+        "name": "SOUR",
+        "popularity": 87,
+        "release_date": "2021-05-21",
+        "total_tracks": 11,
+        "uri": "spotify:album:6s84u2TUpR3wdUv4NgKA2j",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
+        "top_tracks": [
+            "brutal",
+            "traitor",
+            "deja vu",
+            "good 4 u"
+        ],
+        "good_tracks": [
+            "1 step forward, 3 steps back",
+            "enough for you",
+            "happier",
+            "jealousy, jealousy",
+            "favorite crime"
+        ],
+        "score": 6.88,
         "tracks": []
     }
 }

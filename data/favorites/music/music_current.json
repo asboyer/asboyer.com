@@ -38,16 +38,16 @@
             "Time Flies",
             "D4L",
             "Demons (feat. Fivio Foreign & Sosa Geek)",
-            "War"
-        ],
-        "good_tracks": [
-            "Not You Too (feat. Chris Brown)",
+            "War",
             "Desires (with Future)",
-            "Landed",
             "Pain 1993 (with Playboi Carti)",
             "From Florida With Love"
         ],
-        "score": 7.26,
+        "good_tracks": [
+            "Not You Too (feat. Chris Brown)",
+            "Landed"
+        ],
+        "score": 7.62,
         "tracks": []
     },
     "The Velvet Underground & Nico 45th Anniversary": {
@@ -175,33 +175,27 @@
             "Outlaw (feat. Ben Burgess)",
             "Your Bartender",
             "Cover Me Up",
-            "7 Summers"
-            
-        ],
-        "good_tracks": [
-            "865",
-            "Neon Eyes",
-            "Whiskey\u2019d My Way"
-            
-        ],
-        "score": 0.0,
-        "tracks": [
+            "7 Summers",
             "Still Goin Down",
-            "Rednecks, Red Letters, Red Dirt",
             "Dangerous",
-            "Beer Don\u2019t",
             "Blame It On Me",
-            "Somethin\u2019 Country",
-            "This Bar",
-            "Country A$$ Shit",
-            "Whatcha Think Of Country Now",
-            "Me On Whiskey",
             "Need A Boat",
             "Silverado For Sale",
             "Heartless - Wallen Album Mix",
             "Livin\u2019 The Dream",
             "Quittin\u2019 Time"
-        ]
+        ],
+        "good_tracks": [
+            "865",
+            "Neon Eyes",
+            "Whiskey\u2019d My Way",
+            "Rednecks, Red Letters, Red Dirt",
+            "Somethin\u2019 Country",
+            "This Bar",
+            "Whatcha Think Of Country Now"
+        ],
+        "score": 7.61,
+        "tracks": []
     },
     "The Life Of Pi'erre 4": {
         "artists": "Pi\u2019erre Bourne",
@@ -244,18 +238,16 @@
             "Better Get Hit In Your Soul - Instrumental",
             "Goodbye Pork Pie Hat",
             "Self-Portrait In Three Colours",
-            "Open Letter to Duke"
-        ],
-        "good_tracks": [
-            "Boogie Stop Shuffle",
-            "Bird Calls"
-        ],
-        "score": 0.0,
-        "tracks": [
+            "Open Letter to Duke",
             "Fables Of Faubus",
             "Pussy Cat Dues",
             "Jelly Roll"
-        ]
+        ],
+        "good_tracks": [
+            "Boogie Stop Shuffle"
+        ],
+        "score": 8.7,
+        "tracks": []
     },
     "Honestly, Nevermind": {
         "artists": "Drake",
@@ -267,67 +259,22 @@
         "uri": "spotify:album:3cf4iSSKd8ffTncbtKljXw",
         "image": "https://i.scdn.co/image/ab67616d0000b2730e947a2cb9bcf7dedd966f22",
         "top_tracks": [
+            "Intro",
             "Falling Back",
             "Massive",
             "Flight's Booked",
             "Overdrive",
             "Jimmy Cook's (feat. 21 Savage)",
-            "Tie That Binds",
             "Liability"
         ],
         "good_tracks": [
-            "Intro",
             "A Keeper",
             "Texts Go Green",
             "Down Hill",
             "Sticky"
         ],
-        "score": 7.98,
+        "score": 7.38,
         "tracks": []
-    },
-    "Vinyl Days": {
-        "artists": "Logic",
-        "id": "0RTHMVF27KRMHIGnF7iLru",
-        "name": "Vinyl Days",
-        "popularity": 0,
-        "release_date": "2022-06-17",
-        "total_tracks": 30,
-        "uri": "spotify:album:0RTHMVF27KRMHIGnF7iLru",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731e0b9c0786649b8d81e947d6",
-        "top_tracks": [
-            "Tetris"
-        ],
-        "good_tracks": [
-            "In my lifetime (feat. Action Bronson)",
-            "Danger",
-            "Quasi"
-        ],
-        "score": 0.0,
-        "tracks": [
-            "Bleed It",
-            "LaDonda",
-            "Aaron Judge",
-            "Clouds (feat. Langston Bristol & Curren$y)",
-            "Michael Rap",
-            "Therapy Music (feat. Russ)",
-            "Tony Revolori",
-            "Rogue One",
-            "Breath Control (feat. Wiz Khalifa)",
-            "NEMS",
-            "Nardwuar (feat. Doc D)",
-            "Kickstyle feat. iamJMARS, Big Lenbo & C Dot Castro)",
-            "EarlyBird",
-            "Ten Years (feat. Royce Da 5'9'')",
-            "Porta one (feat. RZA)",
-            "NeedleDrop",
-            "Introducing Nezi (feat. Nezi Momodu)",
-            "Orville (feat. Like, Blu & Exile)",
-            "Carnival (feat. AZ)",
-            "Lena's Insight",
-            "Vinyl Days (feat. DJ Premier)",
-            "I guess I love it (feat. The Game)",
-            "Sayonara"
-        ]
     },
     "Pray For Haiti": {
         "artists": "Mach-Hommy",
@@ -338,14 +285,16 @@
         "total_tracks": 16,
         "uri": "spotify:album:7doW9YWOtpmqHBqAUuBaKO",
         "image": "https://i.scdn.co/image/ab67616d0000b273c43b3a9459cadcf6f68867cd",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
+        "top_tracks": [
             "The 26th Letter",
             "No Blood No Sweat",
-            "Folie \u00c1 Deux (feat. Westside Gunn & Keisha Plum)",
-            "Makrel Jaxon",
+            "Folie \u00c1 Deux (feat. Westside Gunn & Keisha Plum)"
+        ],
+        "good_tracks": [
+            "Makrel Jaxon"
+        ],
+        "score": 0.0,
+        "tracks": [
             "The Stellar Ray Theory",
             "Marie",
             "Leta Yo (Skit)",
@@ -358,6 +307,35 @@
             "Au Revoir (feat. Melanie Charles)",
             "Blockchain",
             "Ten Boxes - Sin Eater"
+        ]
+    },
+    "TA13OO": {
+        "artists": "Denzel Curry",
+        "id": "6idVoBWP2mt1qoMtASm3gc",
+        "name": "TA13OO",
+        "popularity": 59,
+        "release_date": "2018-07-27",
+        "total_tracks": 13,
+        "uri": "spotify:album:6idVoBWP2mt1qoMtASm3gc",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737d05dd3ebb77cc048d66b294",
+        "top_tracks": [
+            "TABOO | TA13OO"
+        ],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "BLACK BALLOONS | 13LACK 13ALLOONZ [FEAT. TWELVE'LEN & GOLDLINK | TWELVE'LEN + GOLDL1NK]",
+            "CASH MANIAC | CAZH MAN1AC [FEAT. NYYJERYA]",
+            "SUMO | ZUMO",
+            "SUPER SAIYAN SUPERMAN | ZUPER ZA1YAN ZUPERMAN",
+            "SWITCH IT UP | ZWITCH 1T UP",
+            "MAD I GOT IT | MAD 1 GOT 1T",
+            "SIRENS | Z1RENZ [FEAT. J.I.D | J.1.D]",
+            "CLOUT COBAIN | CLOUT CO13A1N",
+            "THE BLACKEST BALLOON | THE 13LACKEZT 13ALLOON",
+            "PERCS | PERCZ",
+            "VENGEANCE | VENGEANCE [FEAT. JPEGMAFIA & ZILLAKAMI | JPEGMAF1A + Z1LLAKAM1]",
+            "BLACK METAL TERRORIST | 13 M T"
         ]
     }
 }

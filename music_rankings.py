@@ -43,11 +43,13 @@ top = ['Kanye West',
     'Calvin Harris, Funk Wav',
     'Madvillain, Madlib, MF DOOM',
     '21 Savage, Metro Boomin',
-    'Charles Mingus'
+    'Charles Mingus',
+    'Billie Eilish',
+    'Morgan Wallen'
     ]
 
 special_albums = ['Scary Hours 2', "808s & Heartbreak", "ASTROWORLD", "Birds In The Trap Sing McKnight", "Scorpion"]
-top_a = ['?', 'Boston', 'Hoodie SZN', 'Loose', 'Everybody', 'Confessions of a Dangerous Mind', 'So Much Fun', 'Flower Boy', 'Thats What They All Say', "Die Lit", "Luv Is Rage 2 (Deluxe)", 'Subluxe', 'So Much Fun (Deluxe)', 'Bobby Tarantino', 'Bobby Tarantino II', 'The Incredible True Story']
+top_a = ['?', 'Boston', 'Hoodie SZN', 'Loose', 'Everybody', 'Confessions of a Dangerous Mind', 'So Much Fun', 'Flower Boy', 'Thats What They All Say', "Die Lit", "Luv Is Rage 2 (Deluxe)", 'Subluxe', 'So Much Fun (Deluxe)', 'Bobby Tarantino II', 'The Incredible True Story']
 for album in all_time_data:
     if (all_time_data[album]['artists'] in top and all_time_data[album]['name'] not in special_albums) or all_time_data[album]['name'] in top_a:
         # if all_time_data[album]['name'] == 'Graduation':
