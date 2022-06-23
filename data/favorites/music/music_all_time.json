@@ -1130,6 +1130,61 @@
         ],
         "score": 9.29
     },
+    "Pray For Haiti": {
+        "artists": "Mach-Hommy",
+        "id": "7doW9YWOtpmqHBqAUuBaKO",
+        "name": "Pray For Haiti",
+        "popularity": 50,
+        "release_date": "2021-05-21",
+        "total_tracks": 14,
+        "uri": "spotify:album:7doW9YWOtpmqHBqAUuBaKO",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c43b3a9459cadcf6f68867cd",
+        "top_tracks": [
+            "The 26th Letter",
+            "No Blood No Sweat",
+            "Folie \u00c1 Deux (feat. Westside Gunn & Keisha Plum)",
+            "Marie",
+            "Pen Rale",
+            "Magnum Band (feat. Tha God Fahim)",
+            "Rami (feat. Westside Gunn)",
+            "Au Revoir (feat. Melanie Charles)",
+            "Blockchain",
+            "Ten Boxes - Sin Eater"
+        ],
+        "good_tracks": [
+            "Makrel Jaxon",
+            "The Stellar Ray Theory",
+            "Murder Czn (feat. Westside Gunn)"
+        ],
+        "score": 8.67,
+        "tracks": []
+    },
+    "Honestly, Nevermind": {
+        "artists": "Drake",
+        "id": "3cf4iSSKd8ffTncbtKljXw",
+        "name": "Honestly, Nevermind",
+        "popularity": 0,
+        "release_date": "2022-06-17",
+        "total_tracks": 14,
+        "uri": "spotify:album:3cf4iSSKd8ffTncbtKljXw",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730e947a2cb9bcf7dedd966f22",
+        "top_tracks": [
+            "Intro",
+            "Falling Back",
+            "Massive",
+            "Flight's Booked",
+            "Overdrive",
+            "Jimmy Cook's (feat. 21 Savage)",
+            "Liability"
+        ],
+        "good_tracks": [
+            "A Keeper",
+            "Texts Go Green",
+            "Sticky"
+        ],
+        "score": 6.79,
+        "tracks": []
+    },
     "Smoke + Mirrors": {
         "artists": "Imagine Dragons",
         "id": "0gmsXcmrcnxdZBrD5EyJEL",
@@ -5528,6 +5583,35 @@
             "favorite crime"
         ],
         "score": 6.88,
+        "tracks": []
+    },
+    "TA13OO": {
+        "artists": "Denzel Curry",
+        "id": "6idVoBWP2mt1qoMtASm3gc",
+        "name": "TA13OO",
+        "popularity": 59,
+        "release_date": "2018-07-27",
+        "total_tracks": 13,
+        "uri": "spotify:album:6idVoBWP2mt1qoMtASm3gc",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737d05dd3ebb77cc048d66b294",
+        "top_tracks": [
+            "TABOO | TA13OO",
+            "BLACK BALLOONS | 13LACK 13ALLOONZ",
+            "SUMO | ZUMO",
+            "SUPER SAIYAN SUPERMAN | ZUPER ZA1YAN ZUPERMAN",
+            "SWITCH IT UP | ZWITCH 1T UP",
+            "SIRENS | Z1RENZ",
+            "CLOUT COBAIN | CLOUT CO13A1N",
+            "THE BLACKEST BALLOON | THE 13LACKEZT 13ALLOON",
+            "PERCS | PERCZ",
+            "VENGEANCE | VENGEANCE",
+            "BLACK METAL TERRORIST | 13 M T"
+        ],
+        "good_tracks": [
+            "CASH MANIAC | CAZH MAN1AC [FEAT. NYYJERYA]",
+            "MAD I GOT IT | MAD 1 GOT 1T"
+        ],
+        "score": 9.56,
         "tracks": []
     },
     "Doo-Wops & Hooligans": {
