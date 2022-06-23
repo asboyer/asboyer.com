@@ -4053,5 +4053,37 @@
             "Money Made Me Do It",
             "Feeling Whitney"
         ]
+    },
+    "B4 The Storm": {
+        "artists": "Internet Money",
+        "id": "2vGU0DOcfsDee0euvhl1iZ",
+        "name": "B4 The Storm",
+        "popularity": 65,
+        "release_date": "2020-08-28",
+        "total_tracks": 17,
+        "uri": "spotify:album:2vGU0DOcfsDee0euvhl1iZ",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739ca0c952f130e28025209cf0",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Message (feat. TyFontaine)",
+            "Really Redd (feat. Trippie Redd, Lil Keed, Young Nudy)",
+            "Lost Me (feat. Lil Mosey, iann dior & Lil Skies)",
+            "Right Now (feat. Cochise & TyFontaine)",
+            "Familiar (feat. TheHxliday)",
+            "JLO (feat. Lil Tecca)",
+            "Thrusting (feat. Swae Lee & Future)",
+            "Speak (feat. The Kid Laroi)",
+            "Blastoff (feat. Juice Wrld & Trippie Redd)",
+            "Take It Slow (feat. 24KGoldn & TyFontaine)",
+            "Somebody (feat. A Boogie Wit Da Hoodie & Lil Tecca)",
+            "Giddy Up (feat. Wiz Khalifa & 24KGoldn)",
+            "Block (feat. Trippie Redd & StaySolidRocky)",
+            "Devastated (feat. lilspirit)",
+            "Let You Down (feat. TyFontaine & TheHxliday)",
+            "No Option (feat. Kevin Gates)",
+            "Lemonade (feat. Gunna, Don Toliver & NAV)"
+        ]
     }
 }
