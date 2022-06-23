@@ -320,14 +320,17 @@
         "uri": "spotify:album:6idVoBWP2mt1qoMtASm3gc",
         "image": "https://i.scdn.co/image/ab67616d0000b2737d05dd3ebb77cc048d66b294",
         "top_tracks": [
-            "TABOO | TA13OO"
+            "TABOO | TA13OO",
+            "BLACK BALLOONS | 13LACK 13ALLOONZ",
+            "SUMO | ZUMO"
+
         ],
-        "good_tracks": [],
+        "good_tracks": [
+            "CASH MANIAC | CAZH MAN1AC [FEAT. NYYJERYA]"
+            
+        ],
         "score": 0.0,
         "tracks": [
-            "BLACK BALLOONS | 13LACK 13ALLOONZ [FEAT. TWELVE'LEN & GOLDLINK | TWELVE'LEN + GOLDL1NK]",
-            "CASH MANIAC | CAZH MAN1AC [FEAT. NYYJERYA]",
-            "SUMO | ZUMO",
             "SUPER SAIYAN SUPERMAN | ZUPER ZA1YAN ZUPERMAN",
             "SWITCH IT UP | ZWITCH 1T UP",
             "MAD I GOT IT | MAD 1 GOT 1T",

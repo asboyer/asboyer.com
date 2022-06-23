@@ -5528,5 +5528,53 @@
         ],
         "score": 6.88,
         "tracks": []
+    },
+    "Doo-Wops & Hooligans": {
+        "artists": "Bruno Mars",
+        "id": "1uyf3l2d4XYwiEqAb7t7fX",
+        "name": "Doo-Wops & Hooligans",
+        "popularity": 76,
+        "release_date": "2010-10-05",
+        "total_tracks": 10,
+        "uri": "spotify:album:1uyf3l2d4XYwiEqAb7t7fX",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b",
+        "top_tracks": [
+            "Grenade",
+            "Just the Way You Are",
+            "The Lazy Song",
+            "Marry You",
+            "Talking to the Moon",
+            "Count on Me"
+        ],
+        "good_tracks": [
+            "Runaway Baby",
+            "Liquor Store Blues (feat. Damian Marley)"
+        ],
+        "score": 7.43,
+        "tracks": []
+    },
+    "Death of a Bachelor": {
+        "artists": "Panic! At The Disco",
+        "id": "6twKQ0EsUJHVlAr6XBylrj",
+        "name": "Death of a Bachelor",
+        "popularity": 75,
+        "release_date": "2016-01-15",
+        "total_tracks": 11,
+        "uri": "spotify:album:6twKQ0EsUJHVlAr6XBylrj",
+        "image": "https://i.scdn.co/image/ab67616d0000b27323152d9337d6c57b116ed13a",
+        "top_tracks": [
+            "Don't Threaten Me with a Good Time",
+            "Hallelujah",
+            "Death of a Bachelor",
+            "LA Devotee",
+            "The Good, the Bad and the Dirty",
+            "House of Memories"
+        ],
+        "good_tracks": [
+            "Victorious",
+            "Emperor's New Clothes"
+        ],
+        "score": 6.75,
+        "tracks": []
     }
 }
