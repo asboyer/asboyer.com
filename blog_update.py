@@ -28,7 +28,9 @@ def get_new_post():
 
 def send_email(recievers, msg):
     server = smtplib.SMTP('smtp.gmail.com', 587)
+    server.ehlo()
     server.starttls()
+    server.ehlo()
     server.login(EMAIL_ADDRESS, EMAIL_PASS)
     return server.sendmail(EMAIL_ADDRESS, [EMAIL_ADDRESS] + recievers, msg)
 
