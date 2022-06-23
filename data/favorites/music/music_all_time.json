@@ -55,7 +55,7 @@
             "Do Not Fire!",
             "Shadows of Tomorrow"
         ],
-        "score": 9.09,
+        "score": 9.37,
         "tracks": []
     },
     "Trouble Man": {
@@ -132,6 +132,71 @@
             "Untitled"
         ],
         "score": 9.09,
+        "tracks": []
+    },
+    "Twelve Carat Toothache": {
+        "artists": "Post Malone",
+        "id": "3HHNR44YbP7XogMVwzbodx",
+        "name": "Twelve Carat Toothache",
+        "popularity": 78,
+        "release_date": "2022-06-03",
+        "total_tracks": 14,
+        "uri": "spotify:album:3HHNR44YbP7XogMVwzbodx",
+        "image": "https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97",
+        "top_tracks": [
+            "Love/Hate Letter To Alcohol (with Fleet Foxes)",
+            "Wasting Angels (with The Kid LAROI)",
+            "One Right Now (with The Weeknd)",
+            "Euthanasia",
+            "Insane"
+        ],
+        "good_tracks": [
+            "Reputation",
+            "When I\u2019m Alone",
+            "Lemon Tree",
+            "I Cannot Be (A Sadder Song) (with Gunna)"
+        ],
+        "score": 5.95,
+        "tracks": []
+    },
+    "Dangerous: The Double Album": {
+        "artists": "Morgan Wallen",
+        "id": "6JlCkqkqobGirPsaleJpFr",
+        "name": "Dangerous: The Double Album",
+        "popularity": 79,
+        "release_date": "2021-01-08",
+        "total_tracks": 30,
+        "uri": "spotify:album:6JlCkqkqobGirPsaleJpFr",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737d6813fd233f3bc4977cceca",
+        "top_tracks": [
+            "Sand In My Boots",
+            "Wasted On You",
+            "Somebody\u2019s Problem",
+            "More Surprised Than Me",
+            "Warning",
+            "Outlaw (feat. Ben Burgess)",
+            "Your Bartender",
+            "Cover Me Up",
+            "7 Summers",
+            "Still Goin Down",
+            "Dangerous",
+            "Blame It On Me",
+            "Need A Boat",
+            "Silverado For Sale",
+            "Heartless - Wallen Album Mix",
+            "Livin\u2019 The Dream",
+            "Quittin\u2019 Time"
+        ],
+        "good_tracks": [
+            "865",
+            "Neon Eyes",
+            "Whiskey\u2019d My Way",
+            "Rednecks, Red Letters, Red Dirt",
+            "Somethin\u2019 Country",
+            "This Bar",
+            "Whatcha Think Of Country Now"
+        ],
+        "score": 7.61,
         "tracks": []
     },
     "Nevermind (Remastered)": {
@@ -359,13 +424,12 @@
             "Halftime",
             "One Love (feat. Q-Tip)",
             "Represent",
-            "It Ain't Hard to Tell"
-        ],
-        "good_tracks": [
+            "It Ain't Hard to Tell",
             "Memory Lane (Sittin' in da Park)",
             "One Time 4 Your Mind"
         ],
-        "score": 9.43
+        "good_tracks": [],
+        "score": 10.0
     },
     "The Low End Theory": {
         "artists": "A Tribe Called Quest",
@@ -563,11 +627,12 @@
             "Options",
             "WHY",
             "Thinking",
-            "Trauma",
             "Time - Edit"
         ],
-        "good_tracks": [],
-        "score": 10.0
+        "good_tracks": [
+            "Trauma"
+        ],
+        "score": 9.86
     },
     "F*CK LOVE (SAVAGE)": {
         "artists": "The Kid LAROI",
@@ -1755,11 +1820,10 @@
             "All of Me"
         ],
         "good_tracks": [
-            "Waterfall",
             "Charlie Brown Medley",
             "Can't Help Falling in Love"
         ],
-        "score": 9.34
+        "score": 8.79
     },
     "Uncharted": {
         "artists": "The Piano Guys",
@@ -1814,7 +1878,7 @@
             "Coldest Winter",
             "Pinocchio Story"
         ],
-        "score": 8.33
+        "score": 9.03
     },
     "After Hours": {
         "artists": "The Weekend",
@@ -2503,7 +2567,7 @@
             "G.O.M.D.",
             "Love Yourz"
         ],
-        "score": 7.05
+        "score": 7.44
     },
     "beerbongs & bentleys": {
         "artists": "Post Malone",
@@ -2842,6 +2906,7 @@
         "image": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
         "top_tracks": [
             "Free Smoke",
+            "No Long Talk",
             "Passionfruit",
             "Gyalchester",
             "Portland",
@@ -2852,14 +2917,16 @@
             "Teenage Fever"
         ],
         "good_tracks": [
-            "No Long Talk",
             "Jorja Interlude",
+            "Get It Together",
             "Blem",
+            "4422",
             "Nothings Into Somethings",
             "Can't Have Everything",
-            "Ice Melts"
+            "Ice Melts",
+            "Since Way Back"
         ],
-        "score": 6.36
+        "score": 7.58
     },
     "TRON: Legacy": {
         "artists": "Daft Punk",
@@ -3257,16 +3324,18 @@
             "Hotline Bling",
             "One Dance",
             "Feel No Ways",
-            "Grammys"
+            "Grammys",
+            "Weston Road Flows"
         ],
         "good_tracks": [
+            "Keep The Family Close",
             "9",
             "Childs Play",
             "Summers Over Interlude",
             "With You",
             "U With Me?"
         ],
-        "score": 6.58,
+        "score": 7.5,
         "tracks": []
     },
     "SKINS": {
@@ -4044,9 +4113,12 @@
             "Pipe Down",
             "7am On Bridle Path",
             "Race My Mind",
-            "Fountains"
+            "Fountains",
+            "Yabba's Heartbreak",
+            "Get Along Better",
+            "You Only Live Twice"
         ],
-        "score": 6.75,
+        "score": 7.94,
         "tracks": []
     },
     "DAMN.": {
@@ -4228,16 +4300,17 @@
             "Time Flies",
             "D4L",
             "Demons (feat. Fivio Foreign & Sosa Geek)",
-            "War"
-        ],
-        "good_tracks": [
-            "Not You Too (feat. Chris Brown)",
+            "War",
             "Desires (with Future)",
-            "Landed",
             "Pain 1993 (with Playboi Carti)",
+            "Landed",
             "From Florida With Love"
         ],
-        "score": 7.26,
+        "good_tracks": [
+            "Deep Pockets",
+            "When To Say When"
+        ],
+        "score": 8.33,
         "tracks": []
     },
     "LIFE'S A TRIP": {
@@ -4460,7 +4533,7 @@
             "Kelly Price (feat. Travis Scott)",
             "Out Yo Way"
         ],
-        "score": 7.05,
+        "score": 7.44,
         "tracks": []
     },
     "Culture II": {
@@ -4878,15 +4951,15 @@
             "BAD NEWS",
             "ABOUT YOU",
             "LONELY AND F*CKED UP",
-            "ATTENTION"
+            "ATTENTION",
+            "BEST FOR ME",
+            "I DON'T KNOW"
         ],
         "good_tracks": [
             "OVER YOU",
-            "STILL CHOSE YOU (feat. Mustard)",
-            "I DON'T KNOW",
-            "BEST FOR ME"
+            "STILL CHOSE YOU (feat. Mustard)"
         ],
-        "score": 6.81,
+        "score": 7.25,
         "tracks": []
     },
     "Kanye West Presents Good Music Cruel Summer": {
@@ -4935,6 +5008,30 @@
         "score": 4.74,
         "tracks": []
     },
+    "Mingus Ah Um": {
+        "artists": "Charles Mingus",
+        "id": "4Z8nWz3dGybOP7lhMZpcOo",
+        "name": "Mingus Ah Um",
+        "popularity": 28,
+        "release_date": "1959",
+        "total_tracks": 9,
+        "uri": "spotify:album:4Z8nWz3dGybOP7lhMZpcOo",
+        "image": "https://m.media-amazon.com/images/I/81DmDMv-VzL._SL1500_.jpg",
+        "top_tracks": [
+            "Better Get Hit In Your Soul - Instrumental",
+            "Goodbye Pork Pie Hat",
+            "Self-Portrait In Three Colours",
+            "Open Letter to Duke",
+            "Fables Of Faubus",
+            "Pussy Cat Dues",
+            "Jelly Roll"
+        ],
+        "good_tracks": [
+            "Boogie Stop Shuffle"
+        ],
+        "score": 8.7,
+        "tracks": []
+    },
     "Bobby Tarantino II": {
         "artists": "Logic",
         "id": "4F87p1aiFwHeU4uu65MaPV",
@@ -4951,16 +5048,16 @@
             "BoomTrap Protocol",
             "Yuck",
             "Wizard Of Oz",
-            "State Of Emergency",
             "Wassup",
             "Everyday",
             "44 More"
         ],
         "good_tracks": [
             "Indica Badu",
+            "State Of Emergency",
             "Warm It Up"
         ],
-        "score": 8.97,
+        "score": 8.57,
         "tracks": []
     },
     "Everybody": {
@@ -5005,11 +5102,10 @@
         ],
         "good_tracks": [
             "illuminatro",
-            "Deeper Than Money",
             "A Word From Our Sponsor",
             "Slave"
         ],
-        "score": 8.48,
+        "score": 7.4,
         "tracks": []
     },
     "Under Pressure": {
@@ -5237,18 +5333,19 @@
             "Purple Hearts",
             "Count Me Out",
             "Silent Hill",
-            "Savior"
+            "Savior",
+            "Mr. Morale"
         ],
         "good_tracks": [
             "United In Grief",
             "We Cry Together",
             "Crown",
             "Savior - Interlude",
-            "Mr. Morale",
             "Mother I Sober (feat. Beth Gibbons of Portishead)",
-            "Mirror"
+            "Mirror",
+            "Rich Spirit"
         ],
-        "score": 7.13,
+        "score": 7.69,
         "tracks": []
     },
     "The Velvet Underground & Nico 45th Anniversary": {
@@ -5378,6 +5475,107 @@
             "My Way"
         ],
         "score": 6.31,
+        "tracks": []
+    },
+    "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?": {
+        "artists": "Billie Eilish",
+        "id": "0S0KGZnfBGSIssfF54WSJh",
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "popularity": 79,
+        "release_date": "2019-03-29",
+        "total_tracks": 14,
+        "uri": "spotify:album:0S0KGZnfBGSIssfF54WSJh",
+        "image": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce",
+        "top_tracks": [
+            "bad guy",
+            "you should see me in a crown",
+            "all the good girls go to hell",
+            "wish you were gay",
+            "bury a friend"
+        ],
+        "good_tracks": [
+            "xanny",
+            "8",
+            "when the party's over",
+            "my strange addiction",
+            "ilomilo",
+            "i love you",
+            "goodbye"
+        ],
+        "score": 7.74,
+        "tracks": []
+    },
+    "SOUR": {
+        "artists": "Olivia Rodrigo",
+        "id": "6s84u2TUpR3wdUv4NgKA2j",
+        "name": "SOUR",
+        "popularity": 87,
+        "release_date": "2021-05-21",
+        "total_tracks": 11,
+        "uri": "spotify:album:6s84u2TUpR3wdUv4NgKA2j",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
+        "top_tracks": [
+            "brutal",
+            "traitor",
+            "deja vu",
+            "good 4 u"
+        ],
+        "good_tracks": [
+            "1 step forward, 3 steps back",
+            "enough for you",
+            "happier",
+            "jealousy, jealousy",
+            "favorite crime"
+        ],
+        "score": 6.88,
+        "tracks": []
+    },
+    "Doo-Wops & Hooligans": {
+        "artists": "Bruno Mars",
+        "id": "1uyf3l2d4XYwiEqAb7t7fX",
+        "name": "Doo-Wops & Hooligans",
+        "popularity": 76,
+        "release_date": "2010-10-05",
+        "total_tracks": 10,
+        "uri": "spotify:album:1uyf3l2d4XYwiEqAb7t7fX",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b",
+        "top_tracks": [
+            "Grenade",
+            "Just the Way You Are",
+            "The Lazy Song",
+            "Marry You",
+            "Talking to the Moon",
+            "Count on Me"
+        ],
+        "good_tracks": [
+            "Runaway Baby",
+            "Liquor Store Blues (feat. Damian Marley)"
+        ],
+        "score": 7.43,
+        "tracks": []
+    },
+    "Death of a Bachelor": {
+        "artists": "Panic! At The Disco",
+        "id": "6twKQ0EsUJHVlAr6XBylrj",
+        "name": "Death of a Bachelor",
+        "popularity": 75,
+        "release_date": "2016-01-15",
+        "total_tracks": 11,
+        "uri": "spotify:album:6twKQ0EsUJHVlAr6XBylrj",
+        "image": "https://i.scdn.co/image/ab67616d0000b27323152d9337d6c57b116ed13a",
+        "top_tracks": [
+            "Don't Threaten Me with a Good Time",
+            "Hallelujah",
+            "Death of a Bachelor",
+            "LA Devotee",
+            "The Good, the Bad and the Dirty",
+            "House of Memories"
+        ],
+        "good_tracks": [
+            "Victorious",
+            "Emperor's New Clothes"
+        ],
+        "score": 6.75,
         "tracks": []
     }
 }

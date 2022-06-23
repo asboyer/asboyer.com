@@ -238,5 +238,17 @@
         "track_number": 1,
         "uri": "spotify:track:0QNNd0qMCDbraS1nQPg3aA",
         "image": "https://i.scdn.co/image/ab67616d0000b273e5d4be66b75f70d2ffc7b134"
+    },
+    "Thousand Miles": {
+        "artists": "The Kid LAROI",
+        "duration_ms": 164781,
+        "explicit": true,
+        "id": "1r8ZCjfrQxoy2wVaBUbpwg",
+        "name": "Thousand Miles",
+        "popularity": 88,
+        "preview_url": "https://p.scdn.co/mp3-preview/548d2f35f3fb0e53673c96392a851ec3c5813db6?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 1,
+        "uri": "spotify:track:1r8ZCjfrQxoy2wVaBUbpwg",
+        "image": "https://i.scdn.co/image/ab67616d0000b27386322307ddfb6e9c87b82d39"
     }
 }
