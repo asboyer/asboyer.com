@@ -3,7 +3,7 @@ from secret import EMAIL_ADDRESS, EMAIL_PASS
 from email.mime.text import MIMEText
 
 def get_new_post():
-    with open(f'blog.json', 'r') as json_file:
+    with open(f'/opt/asboyer/asboyer/blog.json', 'r') as json_file:
         posts = json.load(json_file)
     url = "https://asboyer.com/data/blog/posts.json"
     r = requests.get(url)
@@ -15,7 +15,7 @@ def get_new_post():
     if posts['live_posts'] != current_post_titles:
         r =  list(set(current_post_titles) - set(posts['live_posts']))
         posts['live_posts'] = current_post_titles
-        with open(f'blog.json', 'w') as json_file: 
+        with open(f'/opt/asboyer/asboyer/blog.json', 'w') as json_file: 
             json.dump(posts, json_file, indent=4)
         data = {}
         data['title'] = r[0]
@@ -34,7 +34,7 @@ def send_email(recievers, msg):
 
 
 def get_emails():
-    with open(f'emails.json', 'r') as json_file:
+    with open(f'/opt/asboyer/asboyer/emails.json', 'r') as json_file:
         new_emails = json.load(json_file)
     return list(new_emails.keys())
 
