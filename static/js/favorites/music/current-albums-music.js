@@ -98,7 +98,7 @@ $(document).ready(function(){
             }
             for (let i = 0; i < top_tracks.length; i++) {
                 track_list += `
-                            <li>${top_tracks[i].split("- Including")[0]}</li>
+                            <li>${top_tracks[i].split("(feat")[0].split("(with")[0].split("- Including")[0]}</li>
                             `
             }
             var album_div_end = `

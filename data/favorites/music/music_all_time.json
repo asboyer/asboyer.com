@@ -5661,5 +5661,33 @@
         ],
         "score": 6.75,
         "tracks": []
+    },
+    "Life of a DON": {
+        "artists": "Don Toliver",
+        "id": "2WmJ5wp5wKBlIJE6FDAIBJ",
+        "name": "Life of a DON",
+        "popularity": 66,
+        "release_date": "2021-10-08",
+        "total_tracks": 16,
+        "uri": "spotify:album:2WmJ5wp5wKBlIJE6FDAIBJ",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ab738b25b86bf02f0346c53d",
+        "top_tracks": [
+            "XSCAPE",
+            "5X",
+            "Way Bigger",
+            "Drugs N Hella Melodies (feat. Kali Uchis)",
+            "2AM",
+            "Company Pt 2",
+            "You (feat. Travis Scott)"
+        ],
+        "good_tracks": [
+            "Flocky Flocky (feat. Travis Scott)",
+            "What You Need",
+            "Double Standards",
+            "OUTERSPACE (feat. Baby Keem)",
+            "Smoke (feat. HVN & SoFaygo)"
+        ],
+        "score": 6.98,
+        "tracks": []
     }
 }
