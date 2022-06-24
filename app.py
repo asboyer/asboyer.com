@@ -162,7 +162,21 @@ def blog():
 @app.route("/blog/<name>")
 def blog_post(name):
     if name in soon_posts:
-        return render_template("soon.html")
+        title = "t"
+        for post in posts:
+            if posts[post]['id'] == int(name):
+                title = posts[post]["title"]
+                d = posts[post]["date"]
+                subs = posts[post]["subjects"]
+                blurb = posts[post]["blurb"]
+                sub_str = ""
+                for sub in subs:
+                    if subs[len(subs) - 1] == sub:
+                        sub_str += sub
+                    else:    
+                        sub_str += sub + ", "
+                break
+        return render_template("soon.html", value=title, date_string=d, subs=sub_str, blurb=blurb)
     elif os.path.exists(f'templates/blog/{name}.html'):
         return render_template(f"blog/{name}.html")
     else:

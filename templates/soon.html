@@ -2,11 +2,91 @@
 
 {% block content %}
 
-<section class="soon">
-    <h1 class="section__title section__title--soon">
-        Coming <strong>Soon</strong>
-    </h1>
-    <p class="section__subtitle section__subtitle--soon">Loading...</p>
+
+<style type="text/css">
+#topics_b {
+    color: #B6F29D;
+}
+</style>
+
+<section class="soon" style="border: #B6F29D 1px solid;">
+
+        <div class="post-header">
+        <h2 class="post-title" id="title">
+            <strong>{{ value }}</strong>
+        </h2>
+        <h3 class="post-author">
+            Andrew Boyer
+        </h3>  
+        <h3 class="post-date">
+            {{ date_string }}
+        </h3>  
+       
+    </div>
+
+        <div class="post-content">
+    <p class="post-text-intro" id="preface">
+        Topics: <span id="topics_b">{{ subs }}</span>
+    <br>
+    <br>
+    About: {{ blurb }}
+    <br>
+</p>
+
+<div class="post-line" style="margin-bottom: 20px"></div>
+    <p class="section__subtitle section__subtitle--soon" id="clock"></p>
 </section>
+
+<script type="text/javascript">
+        function countd(month_num, day, year, time) {
+    
+        var month = new Array();
+        month[0] = "January";
+        month[1] = "February";
+        month[2] = "March";
+        month[3] = "April";
+        month[4] = "May";
+        month[5] = "June";
+        month[6] = "July";
+        month[7] = "August";
+        month[8] = "September";
+        month[9] = "October";
+        month[10] = "November";
+        month[11] = "December";
+
+        var countDownDate = new Date(`${month[month_num - 1]} ${day}, ${year} ${time}:00`).getTime();
+
+        // Update the count down every 1 second
+        var x = setInterval(function() {
+
+        // Get today's date and time
+        var now = new Date().getTime();
+
+        // Find the distance between now and the count down date
+        var distance = countDownDate - now;
+
+        // Time calculations for days, hours, minutes and seconds
+        var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+        var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+        var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+        // Output the result in an element with id="demo"
+        document.getElementById("clock").innerHTML = days + "d " + hours + "h "
+        + minutes + "m " + seconds + "s ";
+
+        // If the count down is over, write some text 
+        if (distance < 0) {
+        clearInterval(x);
+        document.getElementById("clock").innerHTML = "EXPIRED";
+        }
+        }, 1000);
+}
+    
+    var date_string = '{{ date_string }}'
+
+    countd(date_string.split('.')[0], date_string.split('.')[1], "20" + date_string.split('.')[2], "8:00")
+
+</script>
 
 {% endblock %}

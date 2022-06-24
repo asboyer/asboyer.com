@@ -48,11 +48,12 @@
         "live": false
     },   
     "Breaking bad habits and building good ones": {
-        "title": "Breaking bad habits and building good ones",
+        "title": "Breaking Bad Habits and Building Good Ones",
         "id": 3,
         "date": "7.11.22",
         "subjects": ["Life", "Self-improvement"],
         "cover_img": "/static/img/blog/stoicism/marcus.jpg",
+        "blurb": "My complete guide to habits",
         "live": false
     },
     "Becoming a 'man': bulking": {
