@@ -1,4 +1,4 @@
-import json, smtplib, requests
+import json, smtplib, requests, ssl
 from secret import EMAIL_ADDRESS, EMAIL_PASS
 from email.mime.text import MIMEText
 
@@ -27,8 +27,8 @@ def get_new_post():
     return {}
 
 def send_email(recievers, msg):
-    server = smtplib.SMTP('smtp.gmail.com', 587)
-    server.starttls()
+    ctx = ssl.create_default_context()
+    server = smtplib.SMTP_SSL('smtp.gmail.com', port=465, context=ctx)
     server.login(EMAIL_ADDRESS, EMAIL_PASS)
     return server.sendmail(EMAIL_ADDRESS, [EMAIL_ADDRESS] + recievers, msg)
 

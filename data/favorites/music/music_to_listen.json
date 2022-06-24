@@ -4229,5 +4229,88 @@
             "Table Tennis",
             "Galaxy In Janaki"
         ]
+    },
+    "Big Fish Theory": {
+        "artists": "Vince Staples",
+        "id": "5h3WJG0aZjNOrayFu3MhCS",
+        "name": "Big Fish Theory",
+        "popularity": 52,
+        "release_date": "2017-06-23",
+        "total_tracks": 12,
+        "uri": "spotify:album:5h3WJG0aZjNOrayFu3MhCS",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737ba7b4d23c717f3211717946",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Crabs In A Bucket",
+            "Big Fish",
+            "Alyssa Interlude",
+            "Love Can Be...",
+            "745",
+            "Ramona Park Is Yankee Stadium",
+            "Yeah Right",
+            "Homage",
+            "SAMO",
+            "Party People",
+            "BagBak",
+            "Rain Come Down"
+        ]
+    },
+    "Only Built 4 Cuban Linx...": {
+        "artists": "Raekwon",
+        "id": "7btiyhWzUfzxN3ijSiBpC8",
+        "name": "Only Built 4 Cuban Linx...",
+        "popularity": 52,
+        "release_date": "1995",
+        "total_tracks": 18,
+        "uri": "spotify:album:7btiyhWzUfzxN3ijSiBpC8",
+        "image": "https://i.scdn.co/image/ab67616d0000b27310f55f2af876cc662fc4ec12",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Striving for Perfection",
+            "Knuckleheadz (feat. Ghostface Killah & U-God)",
+            "Knowledge God",
+            "Criminology (feat. Ghostface Killah)",
+            "Incarcerated Scarfaces",
+            "Rainy Dayz (feat. Ghostface Killah & Blue Raspberry)",
+            "Guillotine (Swordz) (feat. Ghostface Killah, Inspectah Deck & GZA (Genius))",
+            "Can It Be All So Simple (Remix) (feat. Ghostface Killah)",
+            "Shark Niggas (Biters)",
+            "Ice Water (feat. Ghostface Killah & Cappadonna)",
+            "Glaciers of Ice (feat. Ghostface Killah & Masta Killa)",
+            "Verbal Intercourse (feat. Ghostface Killah & Nas)",
+            "Wisdom Body (feat. Ghostface Killah)",
+            "Spot Rusherz",
+            "Ice Cream (feat. Ghostface Killah, Method Man & Cappadonna)",
+            "Wu-Gambinos (feat. Ghostface Killah, Method Man, RZA & Masta Killa) - Hidden Chambers Remix",
+            "Heaven & Hell (feat. Ghostface Killah)",
+            "North Star (Jewels)"
+        ]
+    },
+    "UNLOCKED 1.5": {
+        "artists": "Denzel Curry, Kenny Beats",
+        "id": "0zSuS34RB2ZUeRngtn7H4C",
+        "name": "UNLOCKED 1.5",
+        "popularity": 32,
+        "release_date": "2021-03-05",
+        "total_tracks": 8,
+        "uri": "spotify:album:0zSuS34RB2ZUeRngtn7H4C",
+        "image": "https://i.scdn.co/image/ab67616d0000b273cdb93c902303691c8bc4c337",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "So.Incredible.pkg [Robert Glasper Version Feat. Smino]",
+            "Track07 [Georgia Anne Muldrow Version Feat. Arlo Parks]",
+            "'Cosmic'.4a [The Alchemist Version Feat. Joey BadA$$]",
+            "Take_it_Back_v2 - Charlie Heat Version",
+            "Pyro [Sango Leak Feat. Kenny Mason]",
+            "Lay_Up.m4a - Jay Versace Version",
+            "DIET_1.5 [Feat. Benny The Butcher]",
+            "Take_it_Back_v2 - GODMODE 950 Version"
+        ]
     }
 }
