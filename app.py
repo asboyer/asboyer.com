@@ -41,7 +41,11 @@ f = open('data/blog/posts.json')
 posts = json.load(f)
 for post in posts:
     if not posts[post]['live']:
-        soon_posts.append(str(posts[post]['id']))
+        soon_posts.append(int(posts[post]['id']))
+
+soon_posts.sort()
+soon_posts = soon_posts[0:1]
+soon_posts[0] = str(soon_posts[0])
 
 app = Flask(__name__)
 app.debug = True
@@ -54,12 +58,24 @@ class NameForm(FlaskForm):
     name = StringField('your favorite email: ', validators=[DataRequired()])
     submit = SubmitField('Submit')    
 
-@app.route("/<page>")
-def main_page(page):
-    if os.path.exists(f'templates/{page}.html'):
-        return render_template(f'{page}.html')
-    else:
-        return render_template("error.html")
+
+@app.route("/404")
+def setup_404():
+    return render_template("/error.html")
+
+@app.errorhandler(404)
+def page_not_found(e):
+    # note that we set the 404 status explicitly
+
+    return redirect("/404")
+    # return render_template('error.html'), 404
+
+# @app.route("/<page>")
+# def main_page(page):
+#     if os.path.exists(f'templates/{page}.html'):
+#         return render_template(f'{page}.html')
+#     else:
+#         return render_template("error.html")
 
 @app.route("/press")
 def press():
