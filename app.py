@@ -47,6 +47,17 @@ soon_posts.sort()
 soon_posts = soon_posts[0:1]
 soon_posts[0] = str(soon_posts[0])
 
+f = open('data/favorites/music/music_all_time.json')
+all_time_music = json.load(f)
+albums = len(all_time_music.keys())
+total_score = 0
+tens = 0
+for album in all_time_music:
+    total_score += all_time_music[album]['score']
+    if all_time_music[album]['score'] == 10.0:
+        tens += 1
+avg_score = total_score/albums
+
 app = Flask(__name__)
 app.debug = True
 
@@ -216,7 +227,7 @@ def gallery_json():
 # music
 @app.route("/music")
 def music():
-    return render_template("favorites/music/music.html")
+    return render_template("favorites/music/music.html", albums=albums, avg_score=round(avg_score, 2), tens=p.number_to_words(tens))
 
 @app.route("/music/<name>")
 def music_path(name):
