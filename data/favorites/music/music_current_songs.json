@@ -82,5 +82,17 @@
         "track_number": 9,
         "uri": "spotify:track:0YJ9FWWHn9EfnN0lHwbzvV",
         "image": "https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9"
+    },
+    "Lovers": {
+        "artists": "Pi\u2019erre Bourne",
+        "duration_ms": 183795,
+        "explicit": true,
+        "id": "22ATXwGRISMmJqBkZ34nUR",
+        "name": "Lovers",
+        "popularity": 46,
+        "preview_url": null,
+        "track_number": 7,
+        "uri": "spotify:track:22ATXwGRISMmJqBkZ34nUR",
+        "image": "https://i.scdn.co/image/ab67616d0000b27346fe2968c4c6f8f82ab4eb5b"
     }
 }

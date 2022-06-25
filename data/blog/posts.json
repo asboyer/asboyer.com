@@ -21,6 +21,7 @@
         "date": "6.27.22",
         "subjects": ["Life", "Philosophy", "Self-improvement"],
         "cover_img": "/static/img/blog/stoicism/marcus.jpg",
+        "blurb": "My guide to using the philosophy of Stoicism to enhance mental strength",
         "live": false
     },
     "College admissions: a broken system": {
