@@ -10,16 +10,16 @@
         "image": "https://i.scdn.co/image/ab67616d0000b273d844f6b7311a69b9a08e7a0f",
         "top_tracks": [
             "Scarface",
-            "Deeper"
+            "Deeper",
+            "Harold\u2019s",
+            "Bomb (feat. Raekwon)"
         ],
         "good_tracks": [
             "Supplier",
-            "Harold\u2019s",
             "High (feat. Danny Brown)"
         ],
         "score": 0.0,
         "tracks": [
-            "Bomb (feat. Raekwon)",
             "Shitsville",
             "Thuggin\u2019",
             "Real",
@@ -42,25 +42,25 @@
         "total_tracks": 14,
         "uri": "spotify:album:76290XdXVF9rPzGdNRWdCh",
         "image": "https://i.scdn.co/image/ab67616d0000b2734c79d5ec52a6d0302f3add25",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
+        "top_tracks": [
             "Supermodel",
             "Love Galore (feat. Travis Scott)",
             "Doves In The Wind (feat. Kendrick Lamar)",
             "Drew Barrymore",
             "Prom",
             "The Weekend",
-            "Go Gina",
             "Garden (Say It Like Dat)",
             "Broken Clocks",
-            "Anything",
             "Wavy (Interlude) (feat. James Fauntleroy)",
             "Normal Girl",
             "Pretty Little Birds (feat. Isaiah Rashad)",
             "20 Something"
-        ]
+        ],
+        "good_tracks": [
+            "Go Gina"
+        ],
+        "score": 9.08,
+        "tracks": []
     },
     "So Far Gone": {
         "artists": "Drake",

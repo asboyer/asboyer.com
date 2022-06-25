@@ -73,13 +73,23 @@ total_current_score = 0
 tracks = 0
 for t in current_tracks:
     tracks += 1
+
+zero_scores = 0
 for title in current_albums:
+    if current_albums[title]['score'] == 0:
+        zero_scores += 1
     total_current_score += current_albums[title]['score']
     tracks += len(current_albums[title]['top_tracks'])
 
 avg_current_score = 0
+current_albums_len -= zero_scores
 if current_albums_len != 0:
     avg_current_score = round(total_current_score/current_albums_len, 2)
+
+if avg_current_score == 0:
+    avg_current_score = "no scores yet"
+else:
+    avg_current_score = "avg score: " + str(avg_current_score) + "/10"
 
 app = Flask(__name__)
 app.debug = True
