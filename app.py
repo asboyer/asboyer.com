@@ -77,6 +77,10 @@ for title in current_albums:
     total_current_score += current_albums[title]['score']
     tracks += len(current_albums[title]['top_tracks'])
 
+avg_current_score = 0
+if current_albums_len != 0:
+    avg_current_score = round(total_current_score/current_albums_len, 2)
+
 app = Flask(__name__)
 app.debug = True
 
@@ -246,7 +250,7 @@ def gallery_json():
 # music
 @app.route("/music")
 def music():
-    return render_template("favorites/music/music.html", albums=albums, avg_score=round(avg_score, 2), tens=p.number_to_words(tens), tracks=tracks, current_albums=current_albums_len, avg_current_score=round(total_current_score/current_albums_len, 2))
+    return render_template("favorites/music/music.html", albums=albums, avg_score=round(avg_score, 2), tens=p.number_to_words(tens), tracks=tracks, current_albums=current_albums_len, avg_current_score=avg_current_score)
 
 @app.route("/music/<name>")
 def music_path(name):
