@@ -39,6 +39,7 @@ soon_posts = []
 
 f = open('data/blog/posts.json')
 posts = json.load(f)
+f.close()
 for post in posts:
     if not posts[post]['live']:
         soon_posts.append(int(posts[post]['id']))
@@ -49,6 +50,7 @@ soon_posts[0] = str(soon_posts[0])
 
 f = open('data/favorites/music/music_all_time.json')
 all_time_music = json.load(f)
+f.close()
 albums = len(all_time_music.keys())
 total_score = 0
 tens = 0
@@ -57,6 +59,23 @@ for album in all_time_music:
     if all_time_music[album]['score'] == 10.0:
         tens += 1
 avg_score = total_score/albums
+
+f = open('data/favorites/music/music_current.json')
+current_albums = json.load(f)
+f.close()
+
+f = open('data/favorites/music/music_current_songs.json')
+current_tracks = json.load(f)
+f.close()
+
+current_albums_len = len(current_albums.keys())
+total_current_score = 0
+tracks = 0
+for t in current_tracks:
+    tracks += 1
+for title in current_albums:
+    total_current_score += current_albums[title]['score']
+    tracks += len(current_albums[title]['top_tracks'])
 
 app = Flask(__name__)
 app.debug = True
@@ -227,7 +246,7 @@ def gallery_json():
 # music
 @app.route("/music")
 def music():
-    return render_template("favorites/music/music.html", albums=albums, avg_score=round(avg_score, 2), tens=p.number_to_words(tens))
+    return render_template("favorites/music/music.html", albums=albums, avg_score=round(avg_score, 2), tens=p.number_to_words(tens), tracks=tracks, current_albums=current_albums_len, avg_current_score=round(total_current_score/current_albums_len, 2))
 
 @app.route("/music/<name>")
 def music_path(name):

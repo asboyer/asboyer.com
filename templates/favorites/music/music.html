@@ -28,7 +28,7 @@
             </div>
             </a>
             <p id="describe">
-                music i am currently listening to
+                music i'm currently listening to
                 <br>
                 ---
                 <br>
@@ -36,11 +36,12 @@
                 <br>
                 ---
                 <br>
-                
+                {{ current_albums }} albums, avg score: {{ avg_current_score }}/10 
                 <br>
                 ---
                 <br>
-                updated monthly
+                {{ tracks }} tracks in total
+
             </p>
         </div>
 
@@ -59,11 +60,11 @@
                 <br>
                 ---
                 <br>
-                {{ albums }} albums ranked so far
+                sorted by score
                 <br>
                 ---
                 <br>
-                average score: {{ avg_score }}/10
+                {{ albums }} albums, avg score: {{ avg_score }}/10
                 <br>
                 ---
                 <br>
