@@ -94,5 +94,29 @@
         "track_number": 7,
         "uri": "spotify:track:22ATXwGRISMmJqBkZ34nUR",
         "image": "https://i.scdn.co/image/ab67616d0000b27346fe2968c4c6f8f82ab4eb5b"
+    },
+    "Greenback Boogie": {
+        "artists": "Ima Robot",
+        "duration_ms": 297705,
+        "explicit": false,
+        "id": "5rgqT1We3IX8IxF9gYZgWc",
+        "name": "Greenback Boogie",
+        "popularity": 49,
+        "preview_url": "https://p.scdn.co/mp3-preview/cdc58a70aa100def1f8463dcb6a38505c02b3715?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 1,
+        "uri": "spotify:track:5rgqT1We3IX8IxF9gYZgWc",
+        "image": "https://i.scdn.co/image/ab67616d0000b273df1c80e72b398aad99c10a1c"
+    },
+    "Insane": {
+        "artists": "Post Malone",
+        "duration_ms": 169660,
+        "explicit": true,
+        "id": "2meHtZ7N97pJfvTL4hYtfv",
+        "name": "Insane",
+        "popularity": 79,
+        "preview_url": null,
+        "track_number": 7,
+        "uri": "spotify:track:2meHtZ7N97pJfvTL4hYtfv",
+        "image": "https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97"
     }
 }
