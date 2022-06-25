@@ -1,6 +1,19 @@
 {% extends "layout.html" %}
 
 {% block content %}
+
+<style type="text/css">
+#describe {
+    color: #B6F29D;
+    margin: 0px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    font-family: monospace;
+    background: #111;
+    font-size: 15px;
+}
+</style>
+
 <section class="my-music-choices" id="music-choices">
      <div class="choices">
 
@@ -14,7 +27,22 @@
                 </div>
             </div>
             </a>
+            <p id="describe">
+                music i'm currently listening to
+                <br>
+                ---
+                <br>
+                albums on top, tracks at the bottom
+                <br>
+                ---
+                <br>
+                {{ current_albums }} albums, avg score: {{ avg_current_score }}/10 
+                <br>
+                ---
+                <br>
+                {{ tracks }} tracks in total
 
+            </p>
         </div>
 
         <div class="choice__container">
@@ -27,7 +55,21 @@
                 </div>
             </div>
             </a>
-
+            <p id="describe">
+                my all time favorite albums
+                <br>
+                ---
+                <br>
+                sorted by score
+                <br>
+                ---
+                <br>
+                {{ albums }} albums, avg score: {{ avg_score }}/10
+                <br>
+                ---
+                <br>
+                {{ tens }} 10/10s
+            </p>
         </div>
 
 </section>

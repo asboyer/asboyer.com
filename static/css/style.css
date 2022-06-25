@@ -498,7 +498,7 @@ header {
     text-align: center;
     padding: 2em 2em;
     padding-bottom: 5em;
-    border-bottom: var(--clr-accent) 1px solid;
+    /*border-bottom: var(--clr-accent) 1px solid;*/
     border-top: var(--clr-accent) 1px solid;
 
 
@@ -923,6 +923,8 @@ header {
     text-align: center;
     padding: 2em 2em;
     padding-bottom: 50px;
+    border-top: var(--clr-accent) 1px solid;
+    
 }
 
 .section__subtitle--blog {
@@ -2872,6 +2874,19 @@ blockquote p::after {
     }
 }
 
+
+@media (min-width: 1221px) {
+    #special-cont {
+        display: none;
+    }
+}
+
+
+@media (max-width: 822px) {
+    #special-cont {
+        display: none;
+    }
+}
 .signup {
     border-bottom: var(--clr-accent) 1px solid; 
     padding: 0px;

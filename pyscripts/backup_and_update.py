@@ -22,7 +22,10 @@ date_string = f'{today.month}{today.day}{today.year}'
 date_string_string = f'{today.month}/{today.day}/{today.year}'
 
 def backup_current_music_data():
-
+    total_albums = 0
+    avg_score = 0
+    total_tracks = 0
+    total_score = 0
     unique_dbs = 2
 
     f = open('./data/archive/music/last.txt', 'r')
@@ -51,6 +54,14 @@ def backup_current_music_data():
             if unique_dbs == 0:
                 print('# [no unique data to backup]')
                 return 0
+        for d in data:
+            if data_name == "music_current":
+                total_tracks += len(data[d]["top_tracks"])
+                total_albums += 1
+                total_score += data[d]['score']
+            else:
+                total_tracks += 1
+        avg_score = round(total_score/total_albums, 2)
 
     comment_head = f"""
 #####################{date_string_string} music backup here#####################
@@ -106,10 +117,25 @@ def load_{file_name}_{date_string}():
 <script type="text/javascript" src="/static/js/favorites/music/current-albums-music.js" data_file="/data/archive/music/{date_string}/music_current.json"></script>
 <script type="text/javascript" src="/static/js/favorites/music/current-tracks-music.js" data_file0="/data/archive/music/{date_string}/music_current_songs.json"></script>
 
+<style>
+#describe {"{"}
+    color: #B6F29D;
+    margin: 0px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    font-family: monospace;
+    background: #111;
+    font-size: 15px;
+{"}"}
+</style>
 
 <section class="my-albums" id="albums">
 <div class="title-music">
     <p class="section__subtitle section__subtitle--books">{date_range_string}</p>
+    <p id="describe">{"{{"} total_albums {"}}"} albums</p>
+    <p id="describe">avg_score: {"{{"} avg_score {"}}"}/10</p>
+    <p id="describe">{"{{"} total_tracks {"}}"}l</p>
+
 </div>
 </section>
 
@@ -131,7 +157,10 @@ def load_{file_name}_{date_string}():
     render_new_template_function = f"""
 @app.route("/archive/music/{archive_num}")
 def music_archive_{date_string}():
-    return render_template("archive/music/{date_string}.html")
+    avg_score = {avg_score}
+    total_tracks = {total_tracks}
+    total_albums = {total_albums}
+    return render_template("archive/music/{date_string}.html", avg_score=avg_score, total_tracks=total_tracks, total_albums=total_albums)
     """
     print(f'# [writing py code to render {date_string}.html in app.py]')
     with open('app.py', 'a') as app:

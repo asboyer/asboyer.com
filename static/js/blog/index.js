@@ -16,6 +16,52 @@ function shuffle(array) {
   return array;
 }
 
+
+function countd(month_num, day, year, time) {
+    
+    var month = new Array();
+    month[0] = "January";
+    month[1] = "February";
+    month[2] = "March";
+    month[3] = "April";
+    month[4] = "May";
+    month[5] = "June";
+    month[6] = "July";
+    month[7] = "August";
+    month[8] = "September";
+    month[9] = "October";
+    month[10] = "November";
+    month[11] = "December";
+
+    var countDownDate = new Date(`${month[month_num - 1]} ${day}, ${year} ${time}:00`).getTime();
+
+    // Update the count down every 1 second
+    var x = setInterval(function() {
+
+    // Get today's date and time
+    var now = new Date().getTime();
+
+    // Find the distance between now and the count down date
+    var distance = countDownDate - now;
+
+    // Time calculations for days, hours, minutes and seconds
+    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+    // Output the result in an element with id="demo"
+    document.getElementById("clock").innerHTML = days + "d " + hours + "h "
+    + minutes + "m " + seconds + "s ";
+
+    // If the count down is over, write some text 
+    if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("clock").innerHTML = "EXPIRED";
+    }
+    }, 1000);
+}
+
 $(document).ready(function(){
     $.getJSON("/data/blog/posts.json", function(json) {
 
@@ -38,13 +84,13 @@ $(document).ready(function(){
 
         soon_posts.sort((a,b) => (a.id > b.id) ? 1 : ((b.id > a.id) ? -1 : 0))  
 
-        if (posts.length > 3){
-            posts = posts.splice(0, 3)
-            soon_posts.splice(0, soon_posts.length)
-        }
-        else if (posts.length == 2) {
-            soon_posts = soon_posts.splice(0, 1)
-        }
+        // if (posts.length > 3){
+        //     posts = posts.splice(0, 3)
+        //     soon_posts.splice(0, soon_posts.length)
+        // }
+        // else if (posts.length == 2) {
+        soon_posts = soon_posts.splice(0, 1)
+        // }
 
         $.each(soon_posts, function(title, values){
             var subject_str = ""
@@ -67,6 +113,12 @@ $(document).ready(function(){
             if (date_string == "") {
                 date_string = "Coming Soon"
             }
+                            
+//<p class="date">${date_string}</p>
+// <p class="subject">${subject_str}</p>
+// <p class="date" style="font-size: 12px; font-weight: bold">${date_string}</p>
+// <p class="title">${values.title}</p>
+
 
             var post = 
             `
@@ -75,19 +127,42 @@ $(document).ready(function(){
                     <img src="/static/img/l.png" alt="${values.title}" class="blog__img">
                     <div class="overlay">
                         <div class="text">
-                            <p class="title">${values.title}</p>
-                            <p class="date">${date_string}</p>
-                            <p class="subject">${subject_str}</p>
+                            <p class="date" style="font-family: monospace" id="clock"></p>
                         </div>
                     </div>
                 </a>
             </div>
             `
             $('#posts').append(post)
+            if(date_string != "Coming Soon")
+                countd(date_string.split('.')[0], date_string.split('.')[1], "20" + date_string.split('.')[2], "8:00")
         });
+
+        // if width between 1221px and 821px, show three posts
+
+        // still a work in progress
+
+        // if (window.screen.width <= 1221 && window.screen.width >= 822) {
+        //     var pub_posts = 3
+        //     console.log('hello')
+        // }
+
+        // else {
+        //     var pub_posts = 2
+        // }
+
+        pub_posts = 3
+
+        posts = posts.splice(0, 3)
+
+        var post_counter = 0
 
         $.each(posts, function(title, values){
 
+            var style = ""
+            if (post_counter == 2) {
+                style = "special-cont"
+            }
             var subject_str = ""
 
             if (values.subjects.length == 2) {
@@ -106,7 +181,7 @@ $(document).ready(function(){
 
             var post = 
             `
-            <div class="blog__container">
+            <div class="blog__container" id="${style}">
                 <a href="/blog/${values.id}" class="blog__item">
                     <img src="${values.cover_img}" alt="${values.title}" class="blog__img">
                     <div class="overlay">
@@ -120,7 +195,9 @@ $(document).ready(function(){
             </div>
             `
             $('#posts').append(post)
+            post_counter += 1
         });
 
     });
 });
+
