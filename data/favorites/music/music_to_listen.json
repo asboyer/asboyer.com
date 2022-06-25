@@ -4358,5 +4358,81 @@
             "The Code (feat. Mike Dimes)",
             "Paris to Southeast"
         ]
+    },
+    "Super Tecmo Bo": {
+        "artists": "Boldy James, The Alchemist",
+        "id": "5leBUcbk6qAb5cDHYuVwBO",
+        "name": "Super Tecmo Bo",
+        "popularity": 39,
+        "release_date": "2021-12-17",
+        "total_tracks": 9,
+        "uri": "spotify:album:5leBUcbk6qAb5cDHYuVwBO",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a671697e72456d41a848175f",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Level Tipping Scales",
+            "No Laughing Matter",
+            "Hot Water Tank",
+            "Bumps and Bruises",
+            "Great Adventures",
+            "Moth In The Flame",
+            "300 Fences",
+            "Guilt",
+            "Francois"
+        ]
+    },
+    "Some Rap Songs": {
+        "artists": "Earl Sweatshirt",
+        "id": "66at85wgO2pu5CccvqUF6i",
+        "name": "Some Rap Songs",
+        "popularity": 56,
+        "release_date": "2018-11-30",
+        "total_tracks": 15,
+        "uri": "spotify:album:66at85wgO2pu5CccvqUF6i",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732b688ab63b1a5f281cfdf451",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Shattered Dreams",
+            "Red Water",
+            "Cold Summers",
+            "Nowhere2go",
+            "December 24",
+            "Ontheway! (feat. Standing On The Corner)",
+            "The Mint (feat. Navy Blue)",
+            "The Bends",
+            "Loosie",
+            "Azucar",
+            "Eclipse",
+            "Veins",
+            "Playing Possum (feat. Cheryl Harris & Keorapetse Kgositsile)",
+            "Peanut",
+            "Riot!"
+        ]
+    },
+    "The Plugs I Met": {
+        "artists": "Benny The Butcher",
+        "id": "5So31JibrTO74WvuCozsAb",
+        "name": "The Plugs I Met",
+        "popularity": 44,
+        "release_date": "2019-06-21",
+        "total_tracks": 7,
+        "uri": "spotify:album:5So31JibrTO74WvuCozsAb",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738ff0b15a20a57ffe79e4b49c",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Intro Skit",
+            "Crowns for Kings (Feat. Black Thought)",
+            "Sunday School (feat. 38 Spesh & Jadakiss)",
+            "Dirty Harry (feat. Rj Payne & Conway the Machine)",
+            "Took the Money to the Plug's House",
+            "18 Wheeler (feat. Pusha T)",
+            "5 to 50 (feat. India)"
+        ]
     }
 }

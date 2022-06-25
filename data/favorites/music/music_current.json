@@ -8,15 +8,17 @@
         "total_tracks": 17,
         "uri": "spotify:album:43uErencdmuTRFZPG3zXL1",
         "image": "https://i.scdn.co/image/ab67616d0000b273d844f6b7311a69b9a08e7a0f",
-        "top_tracks": [],
-        "good_tracks": [],
+        "top_tracks": [
+            "Scarface",
+            "Deeper"
+        ],
+        "good_tracks": [
+            "Supplier",
+            "Harold\u2019s",
+            "High (feat. Danny Brown)"
+        ],
         "score": 0.0,
         "tracks": [
-            "Supplier",
-            "Scarface",
-            "Deeper",
-            "High (feat. Danny Brown)",
-            "Harold\u2019s",
             "Bomb (feat. Raekwon)",
             "Shitsville",
             "Thuggin\u2019",
