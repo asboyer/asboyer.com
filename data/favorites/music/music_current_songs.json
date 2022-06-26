@@ -118,5 +118,41 @@
         "track_number": 7,
         "uri": "spotify:track:2meHtZ7N97pJfvTL4hYtfv",
         "image": "https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97"
+    },
+    "Beef": {
+        "artists": "Ethereal, Playboi Carti",
+        "duration_ms": 213360,
+        "explicit": true,
+        "id": "47Obor5zpUwTRLEQIX9woV",
+        "name": "Beef",
+        "popularity": 56,
+        "preview_url": "https://p.scdn.co/mp3-preview/f6b6ec5cffdffce694c5331714cd0f41cda453b3?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 1,
+        "uri": "spotify:track:47Obor5zpUwTRLEQIX9woV",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731c1169e922778972c52e0de2"
+    },
+    "Champions League": {
+        "artists": "Gbnga",
+        "duration_ms": 155725,
+        "explicit": true,
+        "id": "3jc9IQneg98QOezlySNnGB",
+        "name": "Champions League",
+        "popularity": 34,
+        "preview_url": "https://p.scdn.co/mp3-preview/4475aef343dc77af4236ba0df3045a7d4b92f386?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 1,
+        "uri": "spotify:track:3jc9IQneg98QOezlySNnGB",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b7c10b79ee7f9fb53d0eac86"
+    },
+    "100Gs": {
+        "artists": "Maestro",
+        "duration_ms": 193381,
+        "explicit": true,
+        "id": "104IKUlZEwqRKPfYPqc9TS",
+        "name": "100Gs",
+        "popularity": 22,
+        "preview_url": "https://p.scdn.co/mp3-preview/08dcc2e9223671829ca2f48471a00f127da0b4b9?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 2,
+        "uri": "spotify:track:104IKUlZEwqRKPfYPqc9TS",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ddb4fc13fa681189460718bd"
     }
 }
