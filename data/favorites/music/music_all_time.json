@@ -199,6 +199,34 @@
         "score": 7.61,
         "tracks": []
     },
+    "Ctrl": {
+        "artists": "SZA",
+        "id": "76290XdXVF9rPzGdNRWdCh",
+        "name": "Ctrl",
+        "popularity": 74,
+        "release_date": "2017-06-09",
+        "total_tracks": 14,
+        "uri": "spotify:album:76290XdXVF9rPzGdNRWdCh",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734c79d5ec52a6d0302f3add25",
+        "top_tracks": [
+            "Supermodel",
+            "Love Galore (feat. Travis Scott)",
+            "Prom",
+            "Garden (Say It Like Dat)",
+            "Broken Clocks",
+            "Normal Girl",
+            "Pretty Little Birds (feat. Isaiah Rashad)",
+            "20 Something"
+        ],
+        "good_tracks": [
+            "Drew Barrymore",
+            "The Weekend",
+            "Wavy (Interlude) (feat. James Fauntleroy)",
+            "Go Gina"
+        ],
+        "score": 7.76,
+        "tracks": []
+    },
     "Nevermind (Remastered)": {
         "artists": "Nirvana",
         "id": "2guirTSEqLizK7j9i1MTTZ",
@@ -906,15 +934,15 @@
             "Hold My Liquor",
             "Black Skinhead",
             "New Slaves",
+            "I'm In It",
             "Blood On The Leaves",
             "Bound 2"
         ],
         "good_tracks": [
             "Guilt Trip",
-            "I'm In It",
             "Send It Up"
         ],
-        "score": 9.5
+        "score": 9.67
     },
     "Gentle Boy": {
         "artists": "Elijah Who",
@@ -5601,7 +5629,6 @@
             "BLACK BALLOONS | 13LACK 13ALLOONZ",
             "SUMO | ZUMO",
             "SUPER SAIYAN SUPERMAN | ZUPER ZA1YAN ZUPERMAN",
-            "SWITCH IT UP | ZWITCH 1T UP",
             "SIRENS | Z1RENZ",
             "CLOUT COBAIN | CLOUT CO13A1N",
             "THE BLACKEST BALLOON | THE 13LACKEZT 13ALLOON",
@@ -5611,9 +5638,10 @@
         ],
         "good_tracks": [
             "CASH MANIAC | CAZH MAN1AC [FEAT. NYYJERYA]",
+            "SWITCH IT UP | ZWITCH 1T UP",
             "MAD I GOT IT | MAD 1 GOT 1T"
         ],
-        "score": 9.56,
+        "score": 9.34,
         "tracks": []
     },
     "Doo-Wops & Hooligans": {

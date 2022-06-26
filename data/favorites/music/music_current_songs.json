@@ -154,5 +154,41 @@
         "track_number": 2,
         "uri": "spotify:track:104IKUlZEwqRKPfYPqc9TS",
         "image": "https://i.scdn.co/image/ab67616d0000b273ddb4fc13fa681189460718bd"
+    },
+    "Faizon": {
+        "artists": "Lil Yachty",
+        "duration_ms": 148655,
+        "explicit": true,
+        "id": "3UTlIlBBqp3TQJWRdOAvm5",
+        "name": "Faizon",
+        "popularity": 46,
+        "preview_url": null,
+        "track_number": 6,
+        "uri": "spotify:track:3UTlIlBBqp3TQJWRdOAvm5",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737d66bb9b82719a2b2c2f63c5"
+    },
+    "Talk About Me (feat. Kid Cudi, Denzel Curry & JID)": {
+        "artists": "Dot Da Genius, Denzel Curry, JID, Kid Cudi",
+        "duration_ms": 185454,
+        "explicit": true,
+        "id": "3tmpJN9fGVkrhlNkZVgH90",
+        "name": "Talk About Me (feat. Kid Cudi, Denzel Curry & JID)",
+        "popularity": 60,
+        "preview_url": "https://p.scdn.co/mp3-preview/d7467afd9f7812995aeb5aeb66f49fd22ca0c7d5?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 1,
+        "uri": "spotify:track:3tmpJN9fGVkrhlNkZVgH90",
+        "image": "https://i.scdn.co/image/ab67616d0000b273143ebd9a76a928e1bbf4933d"
+    },
+    "WHAT": {
+        "artists": "UnoTheActivist, Playboi Carti",
+        "duration_ms": 207281,
+        "explicit": false,
+        "id": "1YsSCZ6uwOgNAd4tmQhGuR",
+        "name": "WHAT",
+        "popularity": 49,
+        "preview_url": "https://p.scdn.co/mp3-preview/b5b051e29fc1660631bddd1a8ac034a9e1b8c2cd?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 1,
+        "uri": "spotify:track:1YsSCZ6uwOgNAd4tmQhGuR",
+        "image": "https://i.scdn.co/image/ab67616d0000b27312e4df61970a9efdbea39283"
     }
 }

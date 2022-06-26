@@ -79,53 +79,6 @@
             "Twin Fantasy (Those Boys)"
         ]
     },
-    "The Dark Side of the Moon": {
-        "artists": "Pink Floyd",
-        "id": "4LH4d3cOWNNsVw41Gqt2kv",
-        "name": "The Dark Side of the Moon",
-        "popularity": 67,
-        "release_date": "1973-03-01",
-        "total_tracks": 10,
-        "uri": "spotify:album:4LH4d3cOWNNsVw41Gqt2kv",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "Speak to Me",
-            "Breathe (In the Air)",
-            "On the Run",
-            "Time",
-            "The Great Gig in the Sky",
-            "Money",
-            "Us and Them",
-            "Any Colour You Like",
-            "Brain Damage",
-            "Eclipse"
-        ]
-    },
-    "Aja": {
-        "artists": "Steely Dan",
-        "id": "51XjnQQ9SR8VSEpxPO9vrW",
-        "name": "Aja",
-        "popularity": 51,
-        "release_date": "1977-01-01",
-        "total_tracks": 7,
-        "uri": "spotify:album:51XjnQQ9SR8VSEpxPO9vrW",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733b4cadd2c04316e5968dae33",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "Black Cow",
-            "Aja",
-            "Deacon Blues",
-            "Peg",
-            "Home At Last",
-            "I Got The News",
-            "Josie"
-        ]
-    },
     "Pet Sounds (Mono)": {
         "artists": "The Beach Boys",
         "id": "0BBduHWw9CbB5dctxFp48f",
@@ -243,35 +196,6 @@
             "Napalm Brain / Scatter Brain - Medley",
             "What Does Your Soul Look Like - Pt. 1 / Blue Sky Revisit",
             "Transmission 3"
-        ]
-    },
-    "Ctrl": {
-        "artists": "SZA",
-        "id": "76290XdXVF9rPzGdNRWdCh",
-        "name": "Ctrl",
-        "popularity": 74,
-        "release_date": "2017-06-09",
-        "total_tracks": 14,
-        "uri": "spotify:album:76290XdXVF9rPzGdNRWdCh",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734c79d5ec52a6d0302f3add25",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "Supermodel",
-            "Love Galore (feat. Travis Scott)",
-            "Doves In The Wind (feat. Kendrick Lamar)",
-            "Drew Barrymore",
-            "Prom",
-            "The Weekend",
-            "Go Gina",
-            "Garden (Say It Like Dat)",
-            "Broken Clocks",
-            "Anything",
-            "Wavy (Interlude) (feat. James Fauntleroy)",
-            "Normal Girl",
-            "Pretty Little Birds (feat. Isaiah Rashad)",
-            "20 Something"
         ]
     },
     "1984 (Remastered)": {
@@ -720,33 +644,6 @@
             "I Would Die 4 U",
             "Baby I'm a Star",
             "Purple Rain"
-        ]
-    },
-    "ZUU": {
-        "artists": "Denzel Curry",
-        "id": "6PkSBdx19zarn4ae1D08gA",
-        "name": "ZUU",
-        "popularity": 56,
-        "release_date": "2019-05-31",
-        "total_tracks": 12,
-        "uri": "spotify:album:6PkSBdx19zarn4ae1D08gA",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735d46e4578c8e1adad9206480",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "ZUU",
-            "RICKY",
-            "WISH FEAT. KIDDO MARV",
-            "BIRDZ FEAT. RICK ROSS",
-            "AUTOMATIC",
-            "SPEEDBOAT",
-            "BUSHY B INTERLUDE",
-            "YOO",
-            "CAROLMART FEAT. ICE BILLION BERG",
-            "SHAKE 88 FEAT. SAM SNEAK",
-            "BLACKLAND 66.6",
-            "P.A.T. FEAT. PLAYTHATBOIZAY"
         ]
     },
     "Titanic Rising": {
@@ -1350,28 +1247,6 @@
             "Blues March - Remastered",
             "Come Rain Or Come Shine - Remastered",
             "Moanin' (Alternate Take) - Remastered"
-        ]
-    },
-    "Bitches Brew": {
-        "artists": "Miles Davis",
-        "id": "3Q0zkOZEOC855ErOOJ1AdO",
-        "name": "Bitches Brew",
-        "popularity": 33,
-        "release_date": "1970-04",
-        "total_tracks": 7,
-        "uri": "spotify:album:3Q0zkOZEOC855ErOOJ1AdO",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733f29c5269be5a4e9c4611d7a",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "Pharaoh's Dance",
-            "Bitches Brew (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)",
-            "Spanish Key (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)",
-            "John McLaughlin (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)",
-            "Miles Runs the Voodoo Down (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)",
-            "Sanctuary (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)",
-            "Feio (feat. Wayne Shorter, John McLaughlin, Chick Corea, Joe Zawinul & Dave Holland)"
         ]
     },
     "Montevallo": {
@@ -2750,38 +2625,6 @@
             "BALD! REMIX"
         ]
     },
-    "Pi\u00f1ata": {
-        "artists": "Freddie Gibbs, Madlib",
-        "id": "43uErencdmuTRFZPG3zXL1",
-        "name": "Pi\u00f1ata",
-        "popularity": 54,
-        "release_date": "2014-03-18",
-        "total_tracks": 17,
-        "uri": "spotify:album:43uErencdmuTRFZPG3zXL1",
-        "image": "https://i.scdn.co/image/ab67616d0000b273d844f6b7311a69b9a08e7a0f",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "Supplier",
-            "Scarface",
-            "Deeper",
-            "High (feat. Danny Brown)",
-            "Harold\u2019s",
-            "Bomb (feat. Raekwon)",
-            "Shitsville",
-            "Thuggin\u2019",
-            "Real",
-            "Uno",
-            "Robes (feat. Domo Genesis, Earl Sweatshirt)",
-            "Broken (feat. Scarface)",
-            "Lakers (feat. Ab-Soul, Polyester the Saint)",
-            "Knicks",
-            "Shame (feat. BJ The Chicago Kid)",
-            "Watts (feat. Big Time Watts)",
-            "Pi\u00f1ata (feat. Domo Genesis, G-Wiz, Casey Veggies, Sulaiman, Meechy Darko, Mac Miller)"
-        ]
-    },
     "MM...FOOD": {
         "artists": "MF DOOM",
         "id": "1UcS2nqUhxrZjrBZ3tHk2N",
@@ -3266,39 +3109,6 @@
             "Thank Me Now"
         ]
     },
-    "So Far Gone": {
-        "artists": "Drake",
-        "id": "1LShhEEKRT5MNPcO7jtYHh",
-        "name": "So Far Gone",
-        "popularity": 65,
-        "release_date": "2009",
-        "total_tracks": 18,
-        "uri": "spotify:album:1LShhEEKRT5MNPcO7jtYHh",
-        "image": "https://i.scdn.co/image/ab67616d0000b27354ef13c30a024a7f1ba79efd",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "Lust For Life",
-            "Houstatlantavegas",
-            "Successful (feat. Trey Songz & Lil Wayne)",
-            "Let\u2019s Call It Off (feat. Peter Bjorn and John)",
-            "November 18th",
-            "Ignant Shit (feat. Lil Wayne)",
-            "A Night Off (feat. Lloyd)",
-            "Say What's Real",
-            "Little Bit (feat. Lykke Li)",
-            "Best I Ever Had",
-            "Unstoppable (feat. Santigold & Lil Wayne)",
-            "Uptown (feat. Bun B & Lil Wayne)",
-            "Sooner Than Later",
-            "Bria's Interlude (feat. Omarion)",
-            "The Calm",
-            "Outro (feat. Chilly Gonzales)",
-            "Brand New",
-            "Congratulations"
-        ]
-    },
     "Care Package": {
         "artists": "Drake",
         "id": "7dqpveMVcWgbzqYrOdkFTD",
@@ -3329,38 +3139,6 @@
             "Girls Love Beyonc\u00e9 (feat. James Fauntleroy)",
             "Paris Morton Music",
             "Can I"
-        ]
-    },
-    "Lost Souls": {
-        "artists": "Vory",
-        "id": "6aCunyx3egIaHn64wd4dA2",
-        "name": "Lost Souls",
-        "popularity": 55,
-        "release_date": "2022-06-03",
-        "total_tracks": 17,
-        "uri": "spotify:album:6aCunyx3egIaHn64wd4dA2",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a81ef45d024066bb07c97f63",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "Lost Souls (ft. Fresco Trey)",
-            "Daylight (ft. Ye)",
-            "Lesson Learned",
-            "Do Not Disturb (ft. NAV and Yung Bleu)",
-            "Chanel Fix (ft. Landstrip Chip)",
-            "Happy Birthday 2U",
-            "CWR Interlude",
-            "Mind Games",
-            "I.J.S",
-            "Believe In Me",
-            "Lost Angels",
-            "Fuck Being Famous (ft. BEAM)",
-            "Cindy's Interlude",
-            "Project Baby",
-            "Dark Clouds",
-            "Not My Friends",
-            "Wallo267 Speaks"
         ]
     },
     "God Don't Make Mistakes": {
@@ -4433,6 +4211,31 @@
             "Took the Money to the Plug's House",
             "18 Wheeler (feat. Pusha T)",
             "5 to 50 (feat. India)"
+        ]
+    },
+    "Imperial": {
+        "artists": "Denzel Curry",
+        "id": "42fyKPanos0Q3woi848ktg",
+        "name": "Imperial",
+        "popularity": 52,
+        "release_date": "2016-10-14",
+        "total_tracks": 10,
+        "uri": "spotify:album:42fyKPanos0Q3woi848ktg",
+        "image": "https://i.scdn.co/image/ab67616d0000b273166442984ba98f0a2dcaea5e",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "ULT",
+            "Gook",
+            "Sick & Tired",
+            "Knotty Head",
+            "Me Now",
+            "Story: No Title",
+            "This Life",
+            "Zenith",
+            "Good Night",
+            "If Tomorrow's Not Here"
         ]
     }
 }
