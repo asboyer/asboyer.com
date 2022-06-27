@@ -170,29 +170,6 @@
             "Eclipse"
         ]
     },
-    "Aja": {
-        "artists": "Steely Dan",
-        "id": "51XjnQQ9SR8VSEpxPO9vrW",
-        "name": "Aja",
-        "popularity": 51,
-        "release_date": "1977-01-01",
-        "total_tracks": 7,
-        "uri": "spotify:album:51XjnQQ9SR8VSEpxPO9vrW",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733b4cadd2c04316e5968dae33",
-        "top_tracks": [
-            "Peg"
-        ],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "Black Cow",
-            "Aja",
-            "Deacon Blues",
-            "Home At Last",
-            "I Got The News",
-            "Josie"
-        ]
-    },
     "Greatest Hits": {
         "artists": "Tim McGraw",
         "id": "6JqV9up4l7XJa766XQbpXz",
@@ -255,5 +232,28 @@
             "Not My Friends",
             "Wallo267 Speaks"
         ]
+    },
+    "JuiceWRLD 9 9 9": {
+        "artists": "Juice WRLD",
+        "id": "https://soundcloud.com/uiceheidd/sets/juicewrld-the-mixtape",
+        "name": "JuiceWRLD 9 9 9",
+        "popularity": 0,
+        "release_date": "2018-01-01",
+        "total_tracks": 8,
+        "uri": "",
+        "image": "https://i1.sndcdn.com/artworks-000228669079-ozma1v-t500x500.jpg",
+        "top_tracks": [
+            "moonlight",
+            "Lucid Dreams",
+            "eye contact (look me in my eyes)",
+            "Let Me Know (I WonderWhy Freestyle)"
+        ],
+        "good_tracks": [
+            "rainbow",
+            "two cups (everything's going my way)",
+            "until it's over (closure)"
+        ],
+        "score": 7.68,
+        "tracks": []
     }
 }

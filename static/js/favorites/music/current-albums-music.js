@@ -67,10 +67,13 @@ $(document).ready(function(){
             if (values.name == "Donda 2") {
                 link = "/qban2"
             }
+            else if (values.uri == "") {
+                link = values.id
+            }
             else {
                 link = `https://open.spotify.com/album/${values.id}`
             }
-            if(values.name == "T R A P S O U L" || values.name == "A N N I V E R S A R Y") {
+            if(values.name == "T R A P S O U L" || values.name == "A N N I V E R S A R Y" || values.name == "JuiceWRLD 9 9 9") {
                 styles = "white-space: nowrap"
             }
 

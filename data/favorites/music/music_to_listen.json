@@ -4262,5 +4262,53 @@
             "Interzone - 2019 Digital Master",
             "I Remember Nothing - 2019 Digital Master"
         ]
+    },
+    "Days Before Rodeo": {
+        "artists": "Travis Scott",
+        "id": "https://soundcloud.com/travisscott-2/sets/days-before-rodeo",
+        "name": "Days Before Rodeo",
+        "popularity": 0,
+        "release_date": "2015-01-01",
+        "total_tracks": 11,
+        "uri": "",
+        "image": "https://i1.sndcdn.com/artworks-000088468287-jju25j-t500x500.jpg",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Days Before Rodeo: The Prayer",
+            "Mamacita",
+            "Quintana Pt. 2",
+            "Drugs You Should Try It",
+            "Don't Play",
+            "Skyfall",
+            "Sloppy Toppy",
+            "Basement Freestyle",
+            "Backyard",
+            "Grey"
+        ]
+    },
+    "nostalgia, ULTRA.": {
+        "artists": "Frank Ocean",
+        "id": "https://soundcloud.com/everything-frank-ocean/sets/nostalgia-ultra",
+        "name": "nostalgia, ULTRA.",
+        "popularity": 0,
+        "release_date": "2013-01-01",
+        "total_tracks": 8,
+        "uri": "",
+        "image": "https://i1.sndcdn.com/artworks-000036662676-ufwkps-t500x500.jpg",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Street Fighter",
+            "We All Try",
+            "Bitches Talkin",
+            "Songs for Women",
+            "Lovecrimes",
+            "Goldeneye",
+            "Dust",
+            "Soul Calibur"
+        ]
     }
 }
