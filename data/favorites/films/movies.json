@@ -20,6 +20,13 @@
         "rating": 8.4,
         "director": "Steven Spielberg"
     },
+    "For a Few Dollars More": {
+        "id": "0059578",
+        "title": "For a Few Dollars More",
+        "image": "http://image.tmdb.org/t/p/original/vVUIAVsh2lMzweyrbdsOgiZoQuy.jpg",
+        "rating": 8.2,
+        "director": "Sergio Leone"
+    },
     "Catch Me If You Can": {
         "id": "0264464",
         "title": "Catch Me If You Can",

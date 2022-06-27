@@ -2004,23 +2004,23 @@
             "Nikes",
             "Ivy",
             "Pink + White",
+            "Be Yourself",
             "Solo",
             "Skyline To",
             "Self Control",
+            "Good Guy",
             "Nights",
+            "Solo (Reprise)",
             "White Ferrari",
+            "Seigfried",
             "Godspeed"
         ],
         "good_tracks": [
-            "Be Yourself",
-            "Good Guy",
-            "Solo (Reprise)",
             "Facebook Story",
             "Close To You",
-            "Seigfried",
             "Futura Free"
         ],
-        "score": 9.14
+        "score": 9.3
     },
     "Perception": {
         "artists": "NF",
@@ -3710,6 +3710,38 @@
         ],
         "score": 7.63
     },
+    "Pi\u00f1ata": {
+        "artists": "Freddie Gibbs, Madlib",
+        "id": "43uErencdmuTRFZPG3zXL1",
+        "name": "Pi\u00f1ata",
+        "popularity": 54,
+        "release_date": "2014-03-18",
+        "total_tracks": 17,
+        "uri": "spotify:album:43uErencdmuTRFZPG3zXL1",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d844f6b7311a69b9a08e7a0f",
+        "top_tracks": [
+            "Scarface",
+            "Deeper",
+            "Harold\u2019s",
+            "Bomb (feat. Raekwon)",
+            "Thuggin\u2019",
+            "Real",
+            "Uno",
+            "Robes (feat. Domo Genesis, Earl Sweatshirt)",
+            "Broken (feat. Scarface)",
+            "Lakers (feat. Ab-Soul, Polyester the Saint)",
+            "Knicks",
+            "Shame (feat. BJ The Chicago Kid)",
+            "Pi\u00f1ata (feat. Domo Genesis, G-Wiz, Casey Veggies, Sulaiman, Meechy Darko, Mac Miller)"
+        ],
+        "good_tracks": [
+            "Supplier",
+            "High (feat. Danny Brown)",
+            "Shitsville"
+        ],
+        "score": 8.91,
+        "tracks": []
+    },
     "Luv Is Rage 2 (Deluxe)": {
         "artists": "Lil Uzi Vert",
         "id": "0zicd2mBV8HTzSubByj4vP",
@@ -3851,16 +3883,16 @@
             "False Direction",
             "Can I Call You Tonight?",
             "Hot Rod",
+            "Run the World!!!",
+            "Fair Game",
             "Fuzzybrain",
             "Listerine"
         ],
         "good_tracks": [
-            "Run the World!!!",
-            "Fair Game",
             "Junior Varsity",
             "Nicknames"
         ],
-        "score": 7.86,
+        "score": 8.43,
         "tracks": []
     },
     "LoVE me NOw": {
