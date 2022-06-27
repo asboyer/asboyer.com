@@ -4237,5 +4237,30 @@
             "Good Night",
             "If Tomorrow's Not Here"
         ]
+    },
+    "Unknown Pleasures": {
+        "artists": "Joy Division",
+        "id": "5Dgqy4bBg09Rdw7CQM545s",
+        "name": "Unknown Pleasures",
+        "popularity": 44,
+        "release_date": "1979-06-15",
+        "total_tracks": 10,
+        "uri": "spotify:album:5Dgqy4bBg09Rdw7CQM545s",
+        "image": "https://i.scdn.co/image/ab67616d0000b27327cc8b0ed297111f53009772",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Disorder - 2019 Digital Master",
+            "Day of the Lords - 2019 Digital Master",
+            "Candidate - 2019 Digital Master",
+            "Insight - 2019 Digital Master",
+            "New Dawn Fades - 2019 Digital Master",
+            "She's Lost Control - 2019 Digital Master",
+            "Shadowplay - 2019 Remaster",
+            "Wilderness - 2019 Remaster",
+            "Interzone - 2019 Digital Master",
+            "I Remember Nothing - 2019 Digital Master"
+        ]
     }
 }
