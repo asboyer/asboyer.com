@@ -33,7 +33,7 @@ $(document).ready(function(){
 
             var styles = ""
             // make an array of these albums for nowarp, same with small font
-            if(values.name == "T R A P S O U L" || values.name == "A N N I V E R S A R Y") {
+            if(values.name == "T R A P S O U L" || values.name == "A N N I V E R S A R Y" || values.name == "JuiceWRLD 9 9 9") {
                 styles = "white-space: nowrap"
             }
 
@@ -45,10 +45,15 @@ $(document).ready(function(){
                 special = " (Deluxe)"
             }
 
+            var link = `https://open.spotify.com/album/${values.id}`
+            if(values.uri == "") {
+                link = values.id
+            }
+
             var album_div = 
             `
         <div class="all-album__container">
-            <a href="https://open.spotify.com/album/${values.id}" target="_blank" class="album__item">
+            <a href="${link}" target="_blank" class="album__item">
                 <img src="${values.image}" alt="${values.name}" class="portfolio__img">
             <div class="album_overlay">
                 <div class="album-text">

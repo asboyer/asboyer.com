@@ -39,12 +39,15 @@ $(document).ready(function(){
             if(values.name == "Future & Juice WRLD Present... WRLD ON DRUGS") {
                 styles = "font-size: 20px"
             }
-
+            var link = `https://open.spotify.com/album/${values.id}`
+            if(values.uri == "") {
+                link = values.id
+            }
 
             var album_div = 
             `
         <div class="all-album__container">
-            <a href="https://open.spotify.com/album/${values.id}" target="_blank" class="album__item">
+            <a href="${link}" target="_blank" class="album__item">
                 <img src="${values.image}" alt="${values.name}" class="portfolio__img">
             <div class="album_overlay">
                 <div class="album-text">

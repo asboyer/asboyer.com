@@ -118,5 +118,89 @@
         "track_number": 7,
         "uri": "spotify:track:2meHtZ7N97pJfvTL4hYtfv",
         "image": "https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97"
+    },
+    "Beef": {
+        "artists": "Ethereal, Playboi Carti",
+        "duration_ms": 213360,
+        "explicit": true,
+        "id": "47Obor5zpUwTRLEQIX9woV",
+        "name": "Beef",
+        "popularity": 56,
+        "preview_url": "https://p.scdn.co/mp3-preview/f6b6ec5cffdffce694c5331714cd0f41cda453b3?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 1,
+        "uri": "spotify:track:47Obor5zpUwTRLEQIX9woV",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731c1169e922778972c52e0de2"
+    },
+    "Champions League": {
+        "artists": "Gbnga",
+        "duration_ms": 155725,
+        "explicit": true,
+        "id": "3jc9IQneg98QOezlySNnGB",
+        "name": "Champions League",
+        "popularity": 34,
+        "preview_url": "https://p.scdn.co/mp3-preview/4475aef343dc77af4236ba0df3045a7d4b92f386?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 1,
+        "uri": "spotify:track:3jc9IQneg98QOezlySNnGB",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b7c10b79ee7f9fb53d0eac86"
+    },
+    "100Gs": {
+        "artists": "Maestro",
+        "duration_ms": 193381,
+        "explicit": true,
+        "id": "104IKUlZEwqRKPfYPqc9TS",
+        "name": "100Gs",
+        "popularity": 22,
+        "preview_url": "https://p.scdn.co/mp3-preview/08dcc2e9223671829ca2f48471a00f127da0b4b9?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 2,
+        "uri": "spotify:track:104IKUlZEwqRKPfYPqc9TS",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ddb4fc13fa681189460718bd"
+    },
+    "Faizon": {
+        "artists": "Lil Yachty",
+        "duration_ms": 148655,
+        "explicit": true,
+        "id": "3UTlIlBBqp3TQJWRdOAvm5",
+        "name": "Faizon",
+        "popularity": 46,
+        "preview_url": null,
+        "track_number": 6,
+        "uri": "spotify:track:3UTlIlBBqp3TQJWRdOAvm5",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737d66bb9b82719a2b2c2f63c5"
+    },
+    "Talk About Me (feat. Kid Cudi, Denzel Curry & JID)": {
+        "artists": "Dot Da Genius, Denzel Curry, JID, Kid Cudi",
+        "duration_ms": 185454,
+        "explicit": true,
+        "id": "3tmpJN9fGVkrhlNkZVgH90",
+        "name": "Talk About Me (feat. Kid Cudi, Denzel Curry & JID)",
+        "popularity": 60,
+        "preview_url": "https://p.scdn.co/mp3-preview/d7467afd9f7812995aeb5aeb66f49fd22ca0c7d5?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 1,
+        "uri": "spotify:track:3tmpJN9fGVkrhlNkZVgH90",
+        "image": "https://i.scdn.co/image/ab67616d0000b273143ebd9a76a928e1bbf4933d"
+    },
+    "WHAT": {
+        "artists": "UnoTheActivist, Playboi Carti",
+        "duration_ms": 207281,
+        "explicit": false,
+        "id": "1YsSCZ6uwOgNAd4tmQhGuR",
+        "name": "WHAT",
+        "popularity": 49,
+        "preview_url": "https://p.scdn.co/mp3-preview/b5b051e29fc1660631bddd1a8ac034a9e1b8c2cd?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 1,
+        "uri": "spotify:track:1YsSCZ6uwOgNAd4tmQhGuR",
+        "image": "https://i.scdn.co/image/ab67616d0000b27312e4df61970a9efdbea39283"
+    },
+    "Extendo (feat. Lil Uzi Vert)": {
+        "artists": "Young Nudy, Pi\u2019erre Bourne, Lil Uzi Vert",
+        "duration_ms": 259519,
+        "explicit": true,
+        "id": "3zXPxm4WxdCIgfdsbad9FH",
+        "name": "Extendo (feat. Lil Uzi Vert)",
+        "popularity": 51,
+        "preview_url": "https://p.scdn.co/mp3-preview/03142caa2bb199b086aa9785e01ebde4aee220b6?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 8,
+        "uri": "spotify:track:3zXPxm4WxdCIgfdsbad9FH",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735ab2e9ee13191c3fcd1d58d3"
     }
 }

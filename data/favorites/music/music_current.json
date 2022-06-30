@@ -10,17 +10,9 @@
         "image": "https://i.scdn.co/image/ab67616d0000b273d844f6b7311a69b9a08e7a0f",
         "top_tracks": [
             "Scarface",
-            "Deeper"
-        ],
-        "good_tracks": [
-            "Supplier",
+            "Deeper",
             "Harold\u2019s",
-            "High (feat. Danny Brown)"
-        ],
-        "score": 0.0,
-        "tracks": [
             "Bomb (feat. Raekwon)",
-            "Shitsville",
             "Thuggin\u2019",
             "Real",
             "Uno",
@@ -29,9 +21,15 @@
             "Lakers (feat. Ab-Soul, Polyester the Saint)",
             "Knicks",
             "Shame (feat. BJ The Chicago Kid)",
-            "Watts (feat. Big Time Watts)",
             "Pi\u00f1ata (feat. Domo Genesis, G-Wiz, Casey Veggies, Sulaiman, Meechy Darko, Mac Miller)"
-        ]
+        ],
+        "good_tracks": [
+            "Supplier",
+            "High (feat. Danny Brown)",
+            "Shitsville"
+        ],
+        "score": 8.91,
+        "tracks": []
     },
     "Ctrl": {
         "artists": "SZA",
@@ -42,25 +40,24 @@
         "total_tracks": 14,
         "uri": "spotify:album:76290XdXVF9rPzGdNRWdCh",
         "image": "https://i.scdn.co/image/ab67616d0000b2734c79d5ec52a6d0302f3add25",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
+        "top_tracks": [
             "Supermodel",
             "Love Galore (feat. Travis Scott)",
-            "Doves In The Wind (feat. Kendrick Lamar)",
-            "Drew Barrymore",
             "Prom",
-            "The Weekend",
-            "Go Gina",
             "Garden (Say It Like Dat)",
             "Broken Clocks",
-            "Anything",
-            "Wavy (Interlude) (feat. James Fauntleroy)",
             "Normal Girl",
             "Pretty Little Birds (feat. Isaiah Rashad)",
             "20 Something"
-        ]
+        ],
+        "good_tracks": [
+            "Drew Barrymore",
+            "The Weekend",
+            "Wavy (Interlude) (feat. James Fauntleroy)",
+            "Go Gina"
+        ],
+        "score": 7.76,
+        "tracks": []
     },
     "So Far Gone": {
         "artists": "Drake",
@@ -71,7 +68,9 @@
         "total_tracks": 18,
         "uri": "spotify:album:1LShhEEKRT5MNPcO7jtYHh",
         "image": "https://i.scdn.co/image/ab67616d0000b27354ef13c30a024a7f1ba79efd",
-        "top_tracks": [],
+        "top_tracks": [
+            "Best I Ever Had"
+        ],
         "good_tracks": [],
         "score": 0.0,
         "tracks": [
@@ -84,7 +83,6 @@
             "A Night Off (feat. Lloyd)",
             "Say What's Real",
             "Little Bit (feat. Lykke Li)",
-            "Best I Ever Had",
             "Unstoppable (feat. Santigold & Lil Wayne)",
             "Uptown (feat. Bun B & Lil Wayne)",
             "Sooner Than Later",
@@ -104,12 +102,13 @@
         "total_tracks": 12,
         "uri": "spotify:album:6PkSBdx19zarn4ae1D08gA",
         "image": "https://i.scdn.co/image/ab67616d0000b2735d46e4578c8e1adad9206480",
-        "top_tracks": [],
+        "top_tracks": [
+            "ZUU",
+            "RICKY"
+        ],
         "good_tracks": [],
         "score": 0.0,
         "tracks": [
-            "ZUU",
-            "RICKY",
             "WISH FEAT. KIDDO MARV",
             "BIRDZ FEAT. RICK ROSS",
             "AUTOMATIC",
@@ -131,11 +130,12 @@
         "total_tracks": 7,
         "uri": "spotify:album:3Q0zkOZEOC855ErOOJ1AdO",
         "image": "https://i.scdn.co/image/ab67616d0000b2733f29c5269be5a4e9c4611d7a",
-        "top_tracks": [],
+        "top_tracks": [
+            "Pharaoh's Dance"
+        ],
         "good_tracks": [],
         "score": 0.0,
         "tracks": [
-            "Pharaoh's Dance",
             "Bitches Brew (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)",
             "Spanish Key (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)",
             "John McLaughlin (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)",
@@ -153,12 +153,13 @@
         "total_tracks": 10,
         "uri": "spotify:album:4LH4d3cOWNNsVw41Gqt2kv",
         "image": "https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe",
-        "top_tracks": [],
+        "top_tracks": [
+            "Speak to Me",
+            "Breathe (In the Air)"
+        ],
         "good_tracks": [],
         "score": 0.0,
         "tracks": [
-            "Speak to Me",
-            "Breathe (In the Air)",
             "On the Run",
             "Time",
             "The Great Gig in the Sky",
@@ -167,28 +168,6 @@
             "Any Colour You Like",
             "Brain Damage",
             "Eclipse"
-        ]
-    },
-    "Aja": {
-        "artists": "Steely Dan",
-        "id": "51XjnQQ9SR8VSEpxPO9vrW",
-        "name": "Aja",
-        "popularity": 51,
-        "release_date": "1977-01-01",
-        "total_tracks": 7,
-        "uri": "spotify:album:51XjnQQ9SR8VSEpxPO9vrW",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733b4cadd2c04316e5968dae33",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "Black Cow",
-            "Aja",
-            "Deacon Blues",
-            "Peg",
-            "Home At Last",
-            "I Got The News",
-            "Josie"
         ]
     },
     "Greatest Hits": {
@@ -200,15 +179,16 @@
         "total_tracks": 15,
         "uri": "spotify:album:6JqV9up4l7XJa766XQbpXz",
         "image": "https://i.scdn.co/image/ab67616d0000b2734cb507ead63d6cb2a382a641",
-        "top_tracks": [],
+        "top_tracks": [
+            "Indian Outlaw",
+            "Don't Take The Girl",
+            "Just To See You Smile",
+            "Down On The Farm",
+            "I Like It, I Love It"
+        ],
         "good_tracks": [],
         "score": 0.0,
         "tracks": [
-            "Indian Outlaw",
-            "Don't Take The Girl",
-            "She Never Lets It Go To Her Heart",
-            "I Like It, I Love It",
-            "Just To See You Smile",
             "It's Your Love",
             "Where The Green Grass Grows",
             "For A Little While",
@@ -216,7 +196,6 @@
             "Something Like That",
             "My Best Friend",
             "Maybe We Should Just Sleep On It",
-            "Down On The Farm",
             "My Next Thirty Years",
             "Let's Make Love"
         ]
@@ -230,12 +209,13 @@
         "total_tracks": 17,
         "uri": "spotify:album:6aCunyx3egIaHn64wd4dA2",
         "image": "https://i.scdn.co/image/ab67616d0000b273a81ef45d024066bb07c97f63",
-        "top_tracks": [],
+        "top_tracks": [
+            "Lost Souls (ft. Fresco Trey)",
+            "Daylight (ft. Ye)"
+        ],
         "good_tracks": [],
         "score": 0.0,
         "tracks": [
-            "Lost Souls (ft. Fresco Trey)",
-            "Daylight (ft. Ye)",
             "Lesson Learned",
             "Do Not Disturb (ft. NAV and Yung Bleu)",
             "Chanel Fix (ft. Landstrip Chip)",

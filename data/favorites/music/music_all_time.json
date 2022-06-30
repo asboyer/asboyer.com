@@ -199,6 +199,34 @@
         "score": 7.61,
         "tracks": []
     },
+    "Ctrl": {
+        "artists": "SZA",
+        "id": "76290XdXVF9rPzGdNRWdCh",
+        "name": "Ctrl",
+        "popularity": 74,
+        "release_date": "2017-06-09",
+        "total_tracks": 14,
+        "uri": "spotify:album:76290XdXVF9rPzGdNRWdCh",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734c79d5ec52a6d0302f3add25",
+        "top_tracks": [
+            "Supermodel",
+            "Love Galore (feat. Travis Scott)",
+            "Prom",
+            "Garden (Say It Like Dat)",
+            "Broken Clocks",
+            "Normal Girl",
+            "Pretty Little Birds (feat. Isaiah Rashad)",
+            "20 Something"
+        ],
+        "good_tracks": [
+            "Drew Barrymore",
+            "The Weekend",
+            "Wavy (Interlude) (feat. James Fauntleroy)",
+            "Go Gina"
+        ],
+        "score": 7.76,
+        "tracks": []
+    },
     "Nevermind (Remastered)": {
         "artists": "Nirvana",
         "id": "2guirTSEqLizK7j9i1MTTZ",
@@ -906,15 +934,15 @@
             "Hold My Liquor",
             "Black Skinhead",
             "New Slaves",
+            "I'm In It",
             "Blood On The Leaves",
             "Bound 2"
         ],
         "good_tracks": [
             "Guilt Trip",
-            "I'm In It",
             "Send It Up"
         ],
-        "score": 9.5
+        "score": 9.67
     },
     "Gentle Boy": {
         "artists": "Elijah Who",
@@ -1963,6 +1991,29 @@
         ],
         "score": 9.19
     },
+    "JuiceWRLD 9 9 9": {
+        "artists": "Juice WRLD",
+        "id": "https://soundcloud.com/uiceheidd/sets/juicewrld-the-mixtape",
+        "name": "JuiceWRLD 9 9 9",
+        "popularity": 0,
+        "release_date": "2018-01-01",
+        "total_tracks": 8,
+        "uri": "",
+        "image": "https://i1.sndcdn.com/artworks-000228669079-ozma1v-t500x500.jpg",
+        "top_tracks": [
+            "moonlight",
+            "Lucid Dreams",
+            "eye contact (look me in my eyes)",
+            "Let Me Know (I WonderWhy Freestyle)"
+        ],
+        "good_tracks": [
+            "rainbow",
+            "two cups (everything's going my way)",
+            "until it's over (closure)"
+        ],
+        "score": 7.68,
+        "tracks": []
+    },
     "Blonde": {
         "artists": "Frank Ocean",
         "id": "3mH6qwIy9crq0I9YQbOuDf",
@@ -1976,23 +2027,23 @@
             "Nikes",
             "Ivy",
             "Pink + White",
+            "Be Yourself",
             "Solo",
             "Skyline To",
             "Self Control",
+            "Good Guy",
             "Nights",
+            "Solo (Reprise)",
             "White Ferrari",
+            "Seigfried",
             "Godspeed"
         ],
         "good_tracks": [
-            "Be Yourself",
-            "Good Guy",
-            "Solo (Reprise)",
             "Facebook Story",
             "Close To You",
-            "Seigfried",
             "Futura Free"
         ],
-        "score": 9.14
+        "score": 9.3
     },
     "Perception": {
         "artists": "NF",
@@ -3682,6 +3733,38 @@
         ],
         "score": 7.63
     },
+    "Pi\u00f1ata": {
+        "artists": "Freddie Gibbs, Madlib",
+        "id": "43uErencdmuTRFZPG3zXL1",
+        "name": "Pi\u00f1ata",
+        "popularity": 54,
+        "release_date": "2014-03-18",
+        "total_tracks": 17,
+        "uri": "spotify:album:43uErencdmuTRFZPG3zXL1",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d844f6b7311a69b9a08e7a0f",
+        "top_tracks": [
+            "Scarface",
+            "Deeper",
+            "Harold\u2019s",
+            "Bomb (feat. Raekwon)",
+            "Thuggin\u2019",
+            "Real",
+            "Uno",
+            "Robes (feat. Domo Genesis, Earl Sweatshirt)",
+            "Broken (feat. Scarface)",
+            "Lakers (feat. Ab-Soul, Polyester the Saint)",
+            "Knicks",
+            "Shame (feat. BJ The Chicago Kid)",
+            "Pi\u00f1ata (feat. Domo Genesis, G-Wiz, Casey Veggies, Sulaiman, Meechy Darko, Mac Miller)"
+        ],
+        "good_tracks": [
+            "Supplier",
+            "High (feat. Danny Brown)",
+            "Shitsville"
+        ],
+        "score": 8.91,
+        "tracks": []
+    },
     "Luv Is Rage 2 (Deluxe)": {
         "artists": "Lil Uzi Vert",
         "id": "0zicd2mBV8HTzSubByj4vP",
@@ -3823,16 +3906,16 @@
             "False Direction",
             "Can I Call You Tonight?",
             "Hot Rod",
+            "Run the World!!!",
+            "Fair Game",
             "Fuzzybrain",
             "Listerine"
         ],
         "good_tracks": [
-            "Run the World!!!",
-            "Fair Game",
             "Junior Varsity",
             "Nicknames"
         ],
-        "score": 7.86,
+        "score": 8.43,
         "tracks": []
     },
     "LoVE me NOw": {
@@ -4081,16 +4164,18 @@
             "Take My Breath",
             "Sacrifice",
             "Out of Time",
+            "Here We Go... Again (feat. Tyler, the Creator)",
+            "Best Friends",
+            "Is There Someone Else?",
             "Don\u2019t Break My Heart",
             "Less Than Zero"
         ],
         "good_tracks": [
-            "Here We Go... Again (feat. Tyler, the Creator)",
-            "Best Friends",
-            "Is There Someone Else?",
-            "Starry Eyes"
+            "Starry Eyes",
+            "Every Angel is Terrifying",
+            "Phantom Regret by Jim"
         ],
-        "score": 7.34
+        "score": 8.63
     },
     "WUNNA": {
         "artists": "Gunna",
@@ -5599,7 +5684,6 @@
             "BLACK BALLOONS | 13LACK 13ALLOONZ",
             "SUMO | ZUMO",
             "SUPER SAIYAN SUPERMAN | ZUPER ZA1YAN ZUPERMAN",
-            "SWITCH IT UP | ZWITCH 1T UP",
             "SIRENS | Z1RENZ",
             "CLOUT COBAIN | CLOUT CO13A1N",
             "THE BLACKEST BALLOON | THE 13LACKEZT 13ALLOON",
@@ -5609,9 +5693,10 @@
         ],
         "good_tracks": [
             "CASH MANIAC | CAZH MAN1AC [FEAT. NYYJERYA]",
+            "SWITCH IT UP | ZWITCH 1T UP",
             "MAD I GOT IT | MAD 1 GOT 1T"
         ],
-        "score": 9.56,
+        "score": 9.34,
         "tracks": []
     },
     "Doo-Wops & Hooligans": {
