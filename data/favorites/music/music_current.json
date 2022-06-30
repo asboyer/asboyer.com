@@ -232,28 +232,5 @@
             "Not My Friends",
             "Wallo267 Speaks"
         ]
-    },
-    "JuiceWRLD 9 9 9": {
-        "artists": "Juice WRLD",
-        "id": "https://soundcloud.com/uiceheidd/sets/juicewrld-the-mixtape",
-        "name": "JuiceWRLD 9 9 9",
-        "popularity": 0,
-        "release_date": "2018-01-01",
-        "total_tracks": 8,
-        "uri": "",
-        "image": "https://i1.sndcdn.com/artworks-000228669079-ozma1v-t500x500.jpg",
-        "top_tracks": [
-            "moonlight",
-            "Lucid Dreams",
-            "eye contact (look me in my eyes)",
-            "Let Me Know (I WonderWhy Freestyle)"
-        ],
-        "good_tracks": [
-            "rainbow",
-            "two cups (everything's going my way)",
-            "until it's over (closure)"
-        ],
-        "score": 7.68,
-        "tracks": []
     }
 }
