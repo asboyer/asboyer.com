@@ -59,91 +59,6 @@
         "score": 7.76,
         "tracks": []
     },
-    "So Far Gone": {
-        "artists": "Drake",
-        "id": "1LShhEEKRT5MNPcO7jtYHh",
-        "name": "So Far Gone",
-        "popularity": 65,
-        "release_date": "2009",
-        "total_tracks": 18,
-        "uri": "spotify:album:1LShhEEKRT5MNPcO7jtYHh",
-        "image": "https://i.scdn.co/image/ab67616d0000b27354ef13c30a024a7f1ba79efd",
-        "top_tracks": [
-            "Best I Ever Had"
-        ],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "Lust For Life",
-            "Houstatlantavegas",
-            "Successful (feat. Trey Songz & Lil Wayne)",
-            "Let\u2019s Call It Off (feat. Peter Bjorn and John)",
-            "November 18th",
-            "Ignant Shit (feat. Lil Wayne)",
-            "A Night Off (feat. Lloyd)",
-            "Say What's Real",
-            "Little Bit (feat. Lykke Li)",
-            "Unstoppable (feat. Santigold & Lil Wayne)",
-            "Uptown (feat. Bun B & Lil Wayne)",
-            "Sooner Than Later",
-            "Bria's Interlude (feat. Omarion)",
-            "The Calm",
-            "Outro (feat. Chilly Gonzales)",
-            "Brand New",
-            "Congratulations"
-        ]
-    },
-    "ZUU": {
-        "artists": "Denzel Curry",
-        "id": "6PkSBdx19zarn4ae1D08gA",
-        "name": "ZUU",
-        "popularity": 56,
-        "release_date": "2019-05-31",
-        "total_tracks": 12,
-        "uri": "spotify:album:6PkSBdx19zarn4ae1D08gA",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735d46e4578c8e1adad9206480",
-        "top_tracks": [
-            "ZUU",
-            "RICKY"
-        ],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "WISH FEAT. KIDDO MARV",
-            "BIRDZ FEAT. RICK ROSS",
-            "AUTOMATIC",
-            "SPEEDBOAT",
-            "BUSHY B INTERLUDE",
-            "YOO",
-            "CAROLMART FEAT. ICE BILLION BERG",
-            "SHAKE 88 FEAT. SAM SNEAK",
-            "BLACKLAND 66.6",
-            "P.A.T. FEAT. PLAYTHATBOIZAY"
-        ]
-    },
-    "Bitches Brew": {
-        "artists": "Miles Davis",
-        "id": "3Q0zkOZEOC855ErOOJ1AdO",
-        "name": "Bitches Brew",
-        "popularity": 33,
-        "release_date": "1970-04",
-        "total_tracks": 7,
-        "uri": "spotify:album:3Q0zkOZEOC855ErOOJ1AdO",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733f29c5269be5a4e9c4611d7a",
-        "top_tracks": [
-            "Pharaoh's Dance"
-        ],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "Bitches Brew (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)",
-            "Spanish Key (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)",
-            "John McLaughlin (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)",
-            "Miles Runs the Voodoo Down (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)",
-            "Sanctuary (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)",
-            "Feio (feat. Wayne Shorter, John McLaughlin, Chick Corea, Joe Zawinul & Dave Holland)"
-        ]
-    },
     "The Dark Side of the Moon": {
         "artists": "Pink Floyd",
         "id": "4LH4d3cOWNNsVw41Gqt2kv",
@@ -154,50 +69,21 @@
         "uri": "spotify:album:4LH4d3cOWNNsVw41Gqt2kv",
         "image": "https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe",
         "top_tracks": [
-            "Speak to Me",
-            "Breathe (In the Air)"
+            "Breathe (In the Air)",
+            "Time",
+            "Money"
         ],
-        "good_tracks": [],
+        "good_tracks": [
+            "Speak to Me",
+            "On the Run",
+            "The Great Gig in the Sky"
+        ],
         "score": 0.0,
         "tracks": [
-            "On the Run",
-            "Time",
-            "The Great Gig in the Sky",
-            "Money",
             "Us and Them",
             "Any Colour You Like",
             "Brain Damage",
             "Eclipse"
-        ]
-    },
-    "Greatest Hits": {
-        "artists": "Tim McGraw",
-        "id": "6JqV9up4l7XJa766XQbpXz",
-        "name": "Greatest Hits",
-        "popularity": 34,
-        "release_date": "2000-11-21",
-        "total_tracks": 15,
-        "uri": "spotify:album:6JqV9up4l7XJa766XQbpXz",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734cb507ead63d6cb2a382a641",
-        "top_tracks": [
-            "Indian Outlaw",
-            "Don't Take The Girl",
-            "Just To See You Smile",
-            "Down On The Farm",
-            "I Like It, I Love It"
-        ],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "It's Your Love",
-            "Where The Green Grass Grows",
-            "For A Little While",
-            "Please Remember Me",
-            "Something Like That",
-            "My Best Friend",
-            "Maybe We Should Just Sleep On It",
-            "My Next Thirty Years",
-            "Let's Make Love"
         ]
     },
     "Lost Souls": {
@@ -211,13 +97,14 @@
         "image": "https://i.scdn.co/image/ab67616d0000b273a81ef45d024066bb07c97f63",
         "top_tracks": [
             "Lost Souls (ft. Fresco Trey)",
-            "Daylight (ft. Ye)"
+            "Daylight (ft. Ye)",
+            "Do Not Disturb (ft. NAV and Yung Bleu)"
         ],
-        "good_tracks": [],
+        "good_tracks": [
+            "Lesson Learned"
+        ],
         "score": 0.0,
         "tracks": [
-            "Lesson Learned",
-            "Do Not Disturb (ft. NAV and Yung Bleu)",
             "Chanel Fix (ft. Landstrip Chip)",
             "Happy Birthday 2U",
             "CWR Interlude",
@@ -231,6 +118,68 @@
             "Dark Clouds",
             "Not My Friends",
             "Wallo267 Speaks"
+        ]
+    },
+    "CALL ME IF YOU GET LOST": {
+        "artists": "Tyler, The Creator",
+        "id": "45ba6QAtNrdv6Ke4MFOKk9",
+        "name": "CALL ME IF YOU GET LOST",
+        "popularity": 74,
+        "release_date": "2021-06-25",
+        "total_tracks": 16,
+        "uri": "spotify:album:45ba6QAtNrdv6Ke4MFOKk9",
+        "image": "https://i.scdn.co/image/ab67616d0000b273696b4e67423edd64784bfbb4",
+        "top_tracks": [
+            "SIR BAUDELAIRE (feat. DJ Drama)",
+            "CORSO",
+            "LEMONHEAD (feat. 42 Dugg)",
+            "WUSYANAME",
+            "LUMBERJACK",
+            "RUNITUP (feat. Teezo Touchdown)",
+            "MANIFESTO (feat. Domo Genesis)",
+            "RISE! (feat. DAISY WORLD)",
+            "BLESSED",
+            "JUGGERNAUT (feat. Lil Uzi Vert & Pharrell Williams)",
+            "WILSHIRE",
+            "SAFARI"
+        ],
+        "good_tracks": [
+            "HOT WIND BLOWS (feat. Lil Wayne)",
+            "SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues)",
+            "MASSA"
+        ],
+        "score": 9.06,
+        "tracks": []
+    },
+    "MUDBOY": {
+        "artists": "Sheck Wes",
+        "id": "15Id9Jrqab8IwHFirdrrLp",
+        "name": "MUDBOY",
+        "popularity": 64,
+        "release_date": "2018-10-05",
+        "total_tracks": 14,
+        "uri": "spotify:album:15Id9Jrqab8IwHFirdrrLp",
+        "image": "https://i.scdn.co/image/ab67616d0000b27359cd47039c5b10ed919fbaa8",
+        "top_tracks": [
+            "Mindfucker",
+            "Live Sheck Wes",
+            "Gmail",
+            "Mo Bamba"
+        ],
+        "good_tracks": [
+            "Wanted"
+        ],
+        "score": 0.0,
+        "tracks": [
+            "Chippi Chippi",
+            "Never Lost",
+            "WESPN",
+            "Kyrie",
+            "Burn Slow - Interlude",
+            "Jiggy On The Shits",
+            "Fuck Everybody",
+            "Danimals",
+            "Vetements Socks"
         ]
     }
 }

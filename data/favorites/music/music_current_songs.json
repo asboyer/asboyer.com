@@ -202,5 +202,65 @@
         "track_number": 8,
         "uri": "spotify:track:3zXPxm4WxdCIgfdsbad9FH",
         "image": "https://i.scdn.co/image/ab67616d0000b2735ab2e9ee13191c3fcd1d58d3"
+    },
+    "24 (feat. Lil Baby)": {
+        "artists": "Money Man, Lil Baby",
+        "duration_ms": 182857,
+        "explicit": true,
+        "id": "0xUvi7wldroBzaZCengPa5",
+        "name": "24 (feat. Lil Baby)",
+        "popularity": 74,
+        "preview_url": "https://p.scdn.co/mp3-preview/f8c1c80414b8a0fac537289992b675c6c2ee6008?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 13,
+        "uri": "spotify:track:0xUvi7wldroBzaZCengPa5",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d9cbe9b9bec4732330a17c7e"
+    },
+    "Paris to Tokyo": {
+        "artists": "Fivio Foreign, The Kid LAROI",
+        "duration_ms": 130897,
+        "explicit": true,
+        "id": "5QvW5lK6mkfTegpAK9JOO7",
+        "name": "Paris to Tokyo",
+        "popularity": 71,
+        "preview_url": "https://p.scdn.co/mp3-preview/3a33dc600bbfe0352750d5f97db33edd792cc7ad?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 1,
+        "uri": "spotify:track:5QvW5lK6mkfTegpAK9JOO7",
+        "image": "https://i.scdn.co/image/ab67616d0000b27342a4a2b563fafc8166fb360e"
+    },
+    "Back In Blood (feat. Lil Durk)": {
+        "artists": "Pooh Shiesty, Lil Durk",
+        "duration_ms": 184489,
+        "explicit": true,
+        "id": "7FGdjbZ32vMybPuP0IuE7d",
+        "name": "Back In Blood (feat. Lil Durk)",
+        "popularity": 71,
+        "preview_url": "https://p.scdn.co/mp3-preview/4f99e153311ef58e2dd2ad7bdbda1194aec1013c?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 2,
+        "uri": "spotify:track:7FGdjbZ32vMybPuP0IuE7d",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f10858519346ab01dcb744b5"
+    },
+    "After Dark": {
+        "artists": "Mr.Kitty",
+        "duration_ms": 259146,
+        "explicit": false,
+        "id": "2LKOHdMsL0K9KwcPRlJK2v",
+        "name": "After Dark",
+        "popularity": 85,
+        "preview_url": "https://p.scdn.co/mp3-preview/47a189e6328b3b3ba448d174d2e4d3821fc26f49?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 9,
+        "uri": "spotify:track:2LKOHdMsL0K9KwcPRlJK2v",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b492477206075438e0751176"
+    },
+    "Still Trappin' (with King Von)": {
+        "artists": "Lil Durk, King Von",
+        "duration_ms": 172185,
+        "explicit": true,
+        "id": "43BlKpJcSrC9AsJ3F1DKg9",
+        "name": "Still Trappin' (with King Von)",
+        "popularity": 5,
+        "preview_url": null,
+        "track_number": 6,
+        "uri": "spotify:track:43BlKpJcSrC9AsJ3F1DKg9",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e67a56591cf8bcfcb1450980"
     }
 }

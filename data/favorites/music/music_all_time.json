@@ -936,13 +936,13 @@
             "New Slaves",
             "I'm In It",
             "Blood On The Leaves",
-            "Bound 2"
-        ],
-        "good_tracks": [
-            "Guilt Trip",
+            "Bound 2",
             "Send It Up"
         ],
-        "score": 9.67
+        "good_tracks": [
+            "Guilt Trip"
+        ],
+        "score": 9.83
     },
     "Gentle Boy": {
         "artists": "Elijah Who",
@@ -5773,6 +5773,37 @@
             "Smoke (feat. HVN & SoFaygo)"
         ],
         "score": 6.98,
+        "tracks": []
+    },
+    "CALL ME IF YOU GET LOST": {
+        "artists": "Tyler, The Creator",
+        "id": "45ba6QAtNrdv6Ke4MFOKk9",
+        "name": "CALL ME IF YOU GET LOST",
+        "popularity": 74,
+        "release_date": "2021-06-25",
+        "total_tracks": 16,
+        "uri": "spotify:album:45ba6QAtNrdv6Ke4MFOKk9",
+        "image": "https://i.scdn.co/image/ab67616d0000b273696b4e67423edd64784bfbb4",
+        "top_tracks": [
+            "SIR BAUDELAIRE (feat. DJ Drama)",
+            "CORSO",
+            "LEMONHEAD (feat. 42 Dugg)",
+            "WUSYANAME",
+            "LUMBERJACK",
+            "RUNITUP (feat. Teezo Touchdown)",
+            "MANIFESTO (feat. Domo Genesis)",
+            "RISE! (feat. DAISY WORLD)",
+            "BLESSED",
+            "JUGGERNAUT (feat. Lil Uzi Vert & Pharrell Williams)",
+            "WILSHIRE",
+            "SAFARI"
+        ],
+        "good_tracks": [
+            "HOT WIND BLOWS (feat. Lil Wayne)",
+            "SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues)",
+            "MASSA"
+        ],
+        "score": 9.06,
         "tracks": []
     }
 }
