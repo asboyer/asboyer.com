@@ -21,6 +21,34 @@
         ],
         "score": 9.76
     },
+    "MUDBOY": {
+        "artists": "Sheck Wes",
+        "id": "15Id9Jrqab8IwHFirdrrLp",
+        "name": "MUDBOY",
+        "popularity": 64,
+        "release_date": "2018-10-05",
+        "total_tracks": 14,
+        "uri": "spotify:album:15Id9Jrqab8IwHFirdrrLp",
+        "image": "https://i.scdn.co/image/ab67616d0000b27359cd47039c5b10ed919fbaa8",
+        "top_tracks": [
+            "Mindfucker",
+            "Live Sheck Wes",
+            "Gmail",
+            "Mo Bamba",
+            "Never Lost",
+            "WESPN",
+            "Kyrie",
+            "Burn Slow - Interlude",
+            "Fuck Everybody"
+        ],
+        "good_tracks": [
+            "Wanted",
+            "Chippi Chippi",
+            "Vetements Socks"
+        ],
+        "score": 7.96,
+        "tracks": []
+    },
     "Madvillainy": {
         "artists": "Madvillain, Madlib, MF DOOM",
         "id": "01FCoGEQ3NFWF4fHJzdiax",
