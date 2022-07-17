@@ -274,5 +274,89 @@
         "track_number": 1,
         "uri": "spotify:track:5lfWrciYtohtIMVDVZd0Rf",
         "image": "https://i.scdn.co/image/ab67616d0000b2739b93a80dbfd3d789065d7b67"
+    },
+    "Summer Breeze": {
+        "artists": "Seals and Crofts",
+        "duration_ms": 205480,
+        "explicit": false,
+        "id": "01UYpHuzHi4eB9PAbDoPY2",
+        "name": "Summer Breeze",
+        "popularity": 66,
+        "preview_url": "https://p.scdn.co/mp3-preview/a43849dc14edc245594ed052e0ff6f997bf9ce32?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 9,
+        "uri": "spotify:track:01UYpHuzHi4eB9PAbDoPY2",
+        "image": "https://i.scdn.co/image/ab67616d0000b273dfa20da3b777d38da4b044ca"
+    },
+    "MARGARITA": {
+        "artists": "Marc Jordan",
+        "duration_ms": 250173,
+        "explicit": false,
+        "id": "6FTkyVYA8sQv43TK28zJON",
+        "name": "MARGARITA",
+        "popularity": 47,
+        "preview_url": "https://p.scdn.co/mp3-preview/b6700f3f8e4b7b4c08b2041fd1d56c510ccebc2f?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 2,
+        "uri": "spotify:track:6FTkyVYA8sQv43TK28zJON",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730d88cbba1a260dfd51bcf6d3"
+    },
+    "Lowdown": {
+        "artists": "Boz Scaggs",
+        "duration_ms": 315640,
+        "explicit": false,
+        "id": "0nlZjTPzW6S9JIESuGfImT",
+        "name": "Lowdown",
+        "popularity": 66,
+        "preview_url": "https://p.scdn.co/mp3-preview/00ea8bea8b8c4255babd26802f0f5903bc783d72?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 6,
+        "uri": "spotify:track:0nlZjTPzW6S9JIESuGfImT",
+        "image": "https://i.scdn.co/image/ab67616d0000b27394676ce6aa5288318b4ca52a"
+    },
+    "Reminiscing - Remastered": {
+        "artists": "Little River Band",
+        "duration_ms": 253080,
+        "explicit": false,
+        "id": "34D6mvDTAPypm92EPs8Rxa",
+        "name": "Reminiscing - Remastered",
+        "popularity": 69,
+        "preview_url": null,
+        "track_number": 2,
+        "uri": "spotify:track:34D6mvDTAPypm92EPs8Rxa",
+        "image": "https://i.scdn.co/image/ab67616d0000b27303536cd1308f10b1ff09738f"
+    },
+    "Brandy (You're a Fine Girl)": {
+        "artists": "Looking Glass",
+        "duration_ms": 186826,
+        "explicit": false,
+        "id": "2BY7ALEWdloFHgQZG6VMLA",
+        "name": "Brandy (You're a Fine Girl)",
+        "popularity": 75,
+        "preview_url": "https://p.scdn.co/mp3-preview/1c98acdc8305d0ded66730803fcff1ba0d557c47?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 2,
+        "uri": "spotify:track:2BY7ALEWdloFHgQZG6VMLA",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734c95b7cf28c3015c914218e4"
+    },
+    "Biggest Part of Me": {
+        "artists": "Ambrosia",
+        "duration_ms": 324040,
+        "explicit": false,
+        "id": "6JHXiRD1QjMK1N6AQEnL04",
+        "name": "Biggest Part of Me",
+        "popularity": 65,
+        "preview_url": "https://p.scdn.co/mp3-preview/cb2b19bd72f8eaf73d625e10b278371a1be78bcb?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 9,
+        "uri": "spotify:track:6JHXiRD1QjMK1N6AQEnL04",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730736c6f7e55f0bbe4b5f8497"
+    },
+    "Through the Fire": {
+        "artists": "Chaka Khan",
+        "duration_ms": 288653,
+        "explicit": false,
+        "id": "7gh2v4IHnxdiwSgA6xluhe",
+        "name": "Through the Fire",
+        "popularity": 62,
+        "preview_url": "https://p.scdn.co/mp3-preview/af1b22ecb2a1b26616a1ab4fbc3ec2075b71bb80?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 8,
+        "uri": "spotify:track:7gh2v4IHnxdiwSgA6xluhe",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738be5f9356ee08a1f9e67ff87"
     }
 }
