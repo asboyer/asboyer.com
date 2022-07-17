@@ -370,5 +370,17 @@
         "track_number": 7,
         "uri": "spotify:track:18ELywiVACeSIhIa2EqJ47",
         "image": "https://i.scdn.co/image/ab67616d0000b273377cc90d2b512cf2a22b2b1e"
+    },
+    "Rich Minion": {
+        "artists": "Yeat",
+        "duration_ms": 165517,
+        "explicit": false,
+        "id": "1JIgFmCP5OCTEGV866WP3b",
+        "name": "Rich Minion",
+        "popularity": 79,
+        "preview_url": "https://p.scdn.co/mp3-preview/f99ee22e524f18ca5afbd80c95309fcbbbafb5f8?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 1,
+        "uri": "spotify:track:1JIgFmCP5OCTEGV866WP3b",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a3e0d7c9e53d3c5d278f4012"
     }
 }
