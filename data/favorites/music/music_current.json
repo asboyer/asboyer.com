@@ -178,5 +178,47 @@
         ],
         "score": 7.96,
         "tracks": []
+    },
+    "Slime Language 2": {
+        "artists": "Young Stoner Life, Young Thug, Gunna",
+        "id": "3ihwKkIMJWmmp1huNH0iWC",
+        "name": "Slime Language 2",
+        "popularity": 67,
+        "release_date": "2021-04-16",
+        "total_tracks": 23,
+        "uri": "spotify:album:3ihwKkIMJWmmp1huNH0iWC",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732cf2c659aef9a3a132f0d37d",
+        "top_tracks": [
+            "Slatty (feat. Yak Gotti & Lil Duke)",
+            "Ski",
+            "Diamonds Dancing (feat. Travis Scott)",
+            "Solid (feat. Drake)",
+            "Came and Saw (feat. Rowdy Rebel)",
+            "Proud of You (feat. Lil Uzi Vert & Yung Kayo)"
+            
+        ],
+        "good_tracks": [
+            "Paid the Fine (feat. Lil Baby & YTB Trench)"
+            
+        ],
+        "score": 0.0,
+        "tracks": [
+            "Real (feat. Unfoonk)",
+            "I Like (feat. Karlae & Coi Leray)",
+            "Warrior (feat. T-Shyne, Lil Keed & Big Sean)",
+            "Pots N Pans (feat. Lil Duke & NAV)",
+            "WokStar (feat. Strick & Skepta)",
+            "Superstar (feat. Future)",
+            "Came Out (feat. Lil Keed)",
+            "Really Be Slime (feat. YNW Melly, Bslime & FN DaDealer)",
+            "Take It To Trial (feat. Yak Gotti)",
+            "Trance (feat. Karlae & Yung Bleu)",
+            "GFU (feat. Yung Kayo)",
+            "Moon Man (feat. Strick & Kid Cudi)",
+            "Como Te Llama (feat. HiDoraah)",
+            "Reckless (feat. Dolly White)",
+            "That Go! (feat. T-Shyne)",
+            "My City Remix (feat. YTB Trench)"
+        ]
     }
 }
