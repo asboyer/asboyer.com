@@ -382,5 +382,77 @@
         "track_number": 1,
         "uri": "spotify:track:1JIgFmCP5OCTEGV866WP3b",
         "image": "https://i.scdn.co/image/ab67616d0000b273a3e0d7c9e53d3c5d278f4012"
+    },
+    "Strawberry Peels (feat. Young Thug & Gunna)": {
+        "artists": "Lil Uzi Vert, Gunna, Young Thug",
+        "duration_ms": 115350,
+        "explicit": true,
+        "id": "4lAQfuREAHG8IC0PiiigBt",
+        "name": "Strawberry Peels (feat. Young Thug & Gunna)",
+        "popularity": 59,
+        "preview_url": "https://p.scdn.co/mp3-preview/4f0771621b9544506e4b701ce29fe8d0d35298ba?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 6,
+        "uri": "spotify:track:4lAQfuREAHG8IC0PiiigBt",
+        "image": "https://i.scdn.co/image/ab67616d0000b273dea510881ec1e506485303e4"
+    },
+    "ROOF": {
+        "artists": "DaBaby",
+        "duration_ms": 94520,
+        "explicit": true,
+        "id": "1zwvbkUqTozLnmIECvBfgs",
+        "name": "ROOF",
+        "popularity": 67,
+        "preview_url": null,
+        "track_number": 4,
+        "uri": "spotify:track:1zwvbkUqTozLnmIECvBfgs",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732d96a4361563b84fc08604cf"
+    },
+    "Drip or Drown": {
+        "artists": "Gunna",
+        "duration_ms": 126168,
+        "explicit": true,
+        "id": "6ZthdsKjWtiCxnxbhs74vF",
+        "name": "Drip or Drown",
+        "popularity": 74,
+        "preview_url": "https://p.scdn.co/mp3-preview/ceb13dc6112c74469f17589f5b6dc9ea2047ba55?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 2,
+        "uri": "spotify:track:6ZthdsKjWtiCxnxbhs74vF",
+        "image": "https://i.scdn.co/image/ab67616d0000b273dcb5f3bbd5e9fbe873ac68f4"
+    },
+    "BLINDFOLD (feat. Lil Baby)": {
+        "artists": "Gunna, Lil Baby",
+        "duration_ms": 154666,
+        "explicit": true,
+        "id": "02mYw61RoS1vXvkD9Q5dpN",
+        "name": "BLINDFOLD (feat. Lil Baby)",
+        "popularity": 60,
+        "preview_url": "https://p.scdn.co/mp3-preview/b2c5d06788ce5cf77f2ecefcf670c94ab63b9c5c?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 9,
+        "uri": "spotify:track:02mYw61RoS1vXvkD9Q5dpN",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d7547a7624116ac5f8a51fd2"
+    },
+    "YSL (feat. Playboi Carti)": {
+        "artists": "Gunna, Playboi Carti",
+        "duration_ms": 156143,
+        "explicit": true,
+        "id": "6DXUcykWTq6sRARrOAE2Lc",
+        "name": "YSL (feat. Playboi Carti)",
+        "popularity": 55,
+        "preview_url": "https://p.scdn.co/mp3-preview/b0a102052983000a006d513630b5de9f878ff0c1?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 12,
+        "uri": "spotify:track:6DXUcykWTq6sRARrOAE2Lc",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d7ee986deb6c2903b225ada4"
+    },
+    "Drip or Drown Remix (feat. Lil Yachty)": {
+        "artists": "Gunna, Lil Yachty",
+        "duration_ms": 178983,
+        "explicit": true,
+        "id": "4rTwXrxC6fyn3g5y3DGTIJ",
+        "name": "Drip or Drown Remix (feat. Lil Yachty)",
+        "popularity": 60,
+        "preview_url": "https://p.scdn.co/mp3-preview/18245ff6be8f3ce5bcd79e521c8c77b0e59aecce?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 17,
+        "uri": "spotify:track:4rTwXrxC6fyn3g5y3DGTIJ",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d00a36fea0639c48eb0ee312"
     }
 }

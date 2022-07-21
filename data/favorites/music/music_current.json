@@ -165,7 +165,6 @@
             "Live Sheck Wes",
             "Gmail",
             "Mo Bamba",
-            "Never Lost",
             "WESPN",
             "Kyrie",
             "Burn Slow - Interlude",
@@ -176,7 +175,7 @@
             "Chippi Chippi",
             "Vetements Socks"
         ],
-        "score": 7.96,
+        "score": 7.24,
         "tracks": []
     },
     "Slime Language 2": {
@@ -194,29 +193,82 @@
             "Diamonds Dancing (feat. Travis Scott)",
             "Solid (feat. Drake)",
             "Came and Saw (feat. Rowdy Rebel)",
-            "Proud of You (feat. Lil Uzi Vert & Yung Kayo)"
-        ],
-        "good_tracks": [
-            "Paid the Fine (feat. Lil Baby & YTB Trench)"
-        ],
-        "score": 0.0,
-        "tracks": [
-            "Real (feat. Unfoonk)",
-            "I Like (feat. Karlae & Coi Leray)",
-            "Warrior (feat. T-Shyne, Lil Keed & Big Sean)",
+            "Proud of You (feat. Lil Uzi Vert & Yung Kayo)",
             "Pots N Pans (feat. Lil Duke & NAV)",
             "WokStar (feat. Strick & Skepta)",
-            "Superstar (feat. Future)",
-            "Came Out (feat. Lil Keed)",
-            "Really Be Slime (feat. YNW Melly, Bslime & FN DaDealer)",
             "Take It To Trial (feat. Yak Gotti)",
-            "Trance (feat. Karlae & Yung Bleu)",
-            "GFU (feat. Yung Kayo)",
             "Moon Man (feat. Strick & Kid Cudi)",
-            "Como Te Llama (feat. HiDoraah)",
-            "Reckless (feat. Dolly White)",
-            "That Go! (feat. T-Shyne)",
-            "My City Remix (feat. YTB Trench)"
+            "That Go! (feat. T-Shyne)"
+        ],
+        "good_tracks": [
+            "Paid the Fine (feat. Lil Baby & YTB Trench)",
+            "Real (feat. Unfoonk)",
+            "Warrior (feat. T-Shyne, Lil Keed & Big Sean)",
+            "Came Out (feat. Lil Keed)",
+            "GFU (feat. Yung Kayo)"
+        ],
+        "score": 6.59,
+        "tracks": []
+    },
+    "Drip or Drown 2": {
+        "artists": "Gunna",
+        "id": "1oUzjom2A9xtyRM1SdOAGj",
+        "name": "Drip or Drown 2",
+        "popularity": 61,
+        "release_date": "2019-02-22",
+        "total_tracks": 16,
+        "uri": "spotify:album:1oUzjom2A9xtyRM1SdOAGj",
+        "image": "https://i.scdn.co/image/ab67616d0000b273bddf008ccaea655e61892c27",
+        "top_tracks": [
+            "Wit It",
+            "Outstanding",
+            "One Call",
+            "Richard Millie Plain",
+            "Derek Fisher (feat. Lil Baby)",
+            "Baby Birkin",
+            "Speed It Up",
+            "3 Headed Snake (feat. Young Thug)",
+            "Big Shot",
+            "Out The Hood",
+            "Same Yung Nigga (feat. Playboi Carti)",
+            "Who You Foolin"
+        ],
+        "good_tracks": [
+            "Yao Ming",
+            "On A Mountain"
+        ],
+        "score": 8.39,
+        "tracks": []
+    },
+    "Yellow Tape": {
+        "artists": "Key Glock",
+        "id": "12GZ5ewBjyylguigbdmqJ9",
+        "name": "Yellow Tape",
+        "popularity": 62,
+        "release_date": "2020-01-31",
+        "total_tracks": 16,
+        "uri": "spotify:album:12GZ5ewBjyylguigbdmqJ9",
+        "image": "https://i.scdn.co/image/ab67616d0000b27377d6678d66fd48ecfed2cfe8",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "1997",
+            "Dough",
+            "Word on the Streets",
+            "Ooh",
+            "What Goes Around Comes Around",
+            "Crash",
+            "Look At They Face",
+            "I'm Just Sayin",
+            "Biig Boyy!",
+            "Flyest Highest Coolest Smoothest",
+            "Loaded",
+            "Fuck All Dat",
+            "Mr. Glock",
+            "Amen",
+            "Stop Playin",
+            "1 of 1"
         ]
     }
 }
