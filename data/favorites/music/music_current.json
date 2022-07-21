@@ -59,67 +59,6 @@
         "score": 7.76,
         "tracks": []
     },
-    "The Dark Side of the Moon": {
-        "artists": "Pink Floyd",
-        "id": "4LH4d3cOWNNsVw41Gqt2kv",
-        "name": "The Dark Side of the Moon",
-        "popularity": 67,
-        "release_date": "1973-03-01",
-        "total_tracks": 10,
-        "uri": "spotify:album:4LH4d3cOWNNsVw41Gqt2kv",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe",
-        "top_tracks": [
-            "Breathe (In the Air)",
-            "Time",
-            "Money"
-        ],
-        "good_tracks": [
-            "Speak to Me",
-            "On the Run",
-            "The Great Gig in the Sky"
-        ],
-        "score": 0.0,
-        "tracks": [
-            "Us and Them",
-            "Any Colour You Like",
-            "Brain Damage",
-            "Eclipse"
-        ]
-    },
-    "Lost Souls": {
-        "artists": "Vory",
-        "id": "6aCunyx3egIaHn64wd4dA2",
-        "name": "Lost Souls",
-        "popularity": 55,
-        "release_date": "2022-06-03",
-        "total_tracks": 17,
-        "uri": "spotify:album:6aCunyx3egIaHn64wd4dA2",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a81ef45d024066bb07c97f63",
-        "top_tracks": [
-            "Lost Souls (ft. Fresco Trey)",
-            "Daylight (ft. Ye)",
-            "Do Not Disturb (ft. NAV and Yung Bleu)"
-        ],
-        "good_tracks": [
-            "Lesson Learned"
-        ],
-        "score": 0.0,
-        "tracks": [
-            "Chanel Fix (ft. Landstrip Chip)",
-            "Happy Birthday 2U",
-            "CWR Interlude",
-            "Mind Games",
-            "I.J.S",
-            "Believe In Me",
-            "Lost Angels",
-            "Fuck Being Famous (ft. BEAM)",
-            "Cindy's Interlude",
-            "Project Baby",
-            "Dark Clouds",
-            "Not My Friends",
-            "Wallo267 Speaks"
-        ]
-    },
     "CALL ME IF YOU GET LOST": {
         "artists": "Tyler, The Creator",
         "id": "45ba6QAtNrdv6Ke4MFOKk9",
@@ -240,35 +179,29 @@
         "score": 8.39,
         "tracks": []
     },
-    "Yellow Tape": {
-        "artists": "Key Glock",
-        "id": "12GZ5ewBjyylguigbdmqJ9",
-        "name": "Yellow Tape",
-        "popularity": 62,
-        "release_date": "2020-01-31",
-        "total_tracks": 16,
-        "uri": "spotify:album:12GZ5ewBjyylguigbdmqJ9",
-        "image": "https://i.scdn.co/image/ab67616d0000b27377d6678d66fd48ecfed2cfe8",
+    "Rage Against The Machine": {
+        "artists": "Rage Against The Machine",
+        "id": "4LaRYkT4oy47wEuQgkLBul",
+        "name": "Rage Against The Machine",
+        "popularity": 51,
+        "release_date": "1992-11-03",
+        "total_tracks": 10,
+        "uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+        "image": "https://i.scdn.co/image/ab67616d0000b27324f31a0a281320f0cec6f86f",
         "top_tracks": [],
         "good_tracks": [],
         "score": 0.0,
         "tracks": [
-            "1997",
-            "Dough",
-            "Word on the Streets",
-            "Ooh",
-            "What Goes Around Comes Around",
-            "Crash",
-            "Look At They Face",
-            "I'm Just Sayin",
-            "Biig Boyy!",
-            "Flyest Highest Coolest Smoothest",
-            "Loaded",
-            "Fuck All Dat",
-            "Mr. Glock",
-            "Amen",
-            "Stop Playin",
-            "1 of 1"
+            "Bombtrack",
+            "Killing In the Name",
+            "Take the Power Back",
+            "Settle for Nothing",
+            "Bullet In the Head",
+            "Know Your Enemy",
+            "Wake Up",
+            "Fistful of Steel",
+            "Township Rebellion",
+            "Freedom"
         ]
     }
 }
