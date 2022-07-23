@@ -104,7 +104,6 @@
             "Live Sheck Wes",
             "Gmail",
             "Mo Bamba",
-            "WESPN",
             "Kyrie",
             "Burn Slow - Interlude",
             "Fuck Everybody"
@@ -114,7 +113,7 @@
             "Chippi Chippi",
             "Vetements Socks"
         ],
-        "score": 7.24,
+        "score": 6.53,
         "tracks": []
     },
     "Slime Language 2": {
@@ -188,20 +187,69 @@
         "total_tracks": 10,
         "uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
         "image": "https://i.scdn.co/image/ab67616d0000b27324f31a0a281320f0cec6f86f",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
+        "top_tracks": [
             "Bombtrack",
             "Killing In the Name",
             "Take the Power Back",
             "Settle for Nothing",
-            "Bullet In the Head",
+            "Bullet In the Head"
+        ],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
             "Know Your Enemy",
             "Wake Up",
             "Fistful of Steel",
             "Township Rebellion",
             "Freedom"
+        ]
+    },
+    "RED & WHITE": {
+        "artists": "Lil Uzi Vert",
+        "id": "4aTdfh8F07U59ClqhljKHp",
+        "name": "RED & WHITE",
+        "popularity": 0,
+        "release_date": "2022-07-23",
+        "total_tracks": 9,
+        "uri": "spotify:album:4aTdfh8F07U59ClqhljKHp",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730813642658c7eb57aaa69de0",
+        "top_tracks": [
+            "Hittin My Shoulder",
+            "ISSA HIT",
+            "GLOCK IN MY PURSE",
+            "F.F."
+        ],
+        "good_tracks": [
+            "I Know",
+            "Space Cadet",
+            "FOR FUN"
+        ],
+        "score": 6.83,
+        "tracks": []
+    },
+    "Gemini Rights": {
+        "artists": "Steve Lacy",
+        "id": "3Ks0eeH0GWpY4AU20D5HPD",
+        "name": "Gemini Rights",
+        "popularity": 73,
+        "release_date": "2022-07-15",
+        "total_tracks": 10,
+        "uri": "spotify:album:3Ks0eeH0GWpY4AU20D5HPD",
+        "image": "https://i.scdn.co/image/ab67616d0000b27368968350c2550e36d96344ee",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Static",
+            "Helmet",
+            "Mercury",
+            "Buttons",
+            "Bad Habit",
+            "2Gether (Enterlude)",
+            "Cody Freestyle",
+            "Amber",
+            "Sunshine (feat. Foushe\u00e9)",
+            "Give You the World"
         ]
     }
 }
