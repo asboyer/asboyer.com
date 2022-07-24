@@ -77,17 +77,17 @@
             "RUNITUP (feat. Teezo Touchdown)",
             "MANIFESTO (feat. Domo Genesis)",
             "RISE! (feat. DAISY WORLD)",
-            "BLESSED",
             "JUGGERNAUT (feat. Lil Uzi Vert & Pharrell Williams)",
             "WILSHIRE",
             "SAFARI"
         ],
         "good_tracks": [
+            "BLESSED",
             "HOT WIND BLOWS (feat. Lil Wayne)",
             "SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues)",
             "MASSA"
         ],
-        "score": 9.06,
+        "score": 8.96,
         "tracks": []
     },
     "MUDBOY": {
@@ -192,17 +192,15 @@
             "Killing In the Name",
             "Take the Power Back",
             "Settle for Nothing",
-            "Bullet In the Head"
-        ],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
             "Know Your Enemy",
+            "Bullet In the Head",
             "Wake Up",
             "Fistful of Steel",
-            "Township Rebellion",
             "Freedom"
-        ]
+        ],
+        "good_tracks": [],
+        "score": 9.0,
+        "tracks": []
     },
     "RED & WHITE": {
         "artists": "Lil Uzi Vert",
