@@ -59,178 +59,195 @@
         "score": 7.76,
         "tracks": []
     },
-    "So Far Gone": {
-        "artists": "Drake",
-        "id": "1LShhEEKRT5MNPcO7jtYHh",
-        "name": "So Far Gone",
-        "popularity": 65,
-        "release_date": "2009",
-        "total_tracks": 18,
-        "uri": "spotify:album:1LShhEEKRT5MNPcO7jtYHh",
-        "image": "https://i.scdn.co/image/ab67616d0000b27354ef13c30a024a7f1ba79efd",
+    "CALL ME IF YOU GET LOST": {
+        "artists": "Tyler, The Creator",
+        "id": "45ba6QAtNrdv6Ke4MFOKk9",
+        "name": "CALL ME IF YOU GET LOST",
+        "popularity": 74,
+        "release_date": "2021-06-25",
+        "total_tracks": 16,
+        "uri": "spotify:album:45ba6QAtNrdv6Ke4MFOKk9",
+        "image": "https://i.scdn.co/image/ab67616d0000b273696b4e67423edd64784bfbb4",
         "top_tracks": [
-            "Best I Ever Had"
+            "SIR BAUDELAIRE (feat. DJ Drama)",
+            "CORSO",
+            "LEMONHEAD (feat. 42 Dugg)",
+            "WUSYANAME",
+            "LUMBERJACK",
+            "RUNITUP (feat. Teezo Touchdown)",
+            "MANIFESTO (feat. Domo Genesis)",
+            "RISE! (feat. DAISY WORLD)",
+            "JUGGERNAUT (feat. Lil Uzi Vert & Pharrell Williams)",
+            "WILSHIRE",
+            "SAFARI"
         ],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "Lust For Life",
-            "Houstatlantavegas",
-            "Successful (feat. Trey Songz & Lil Wayne)",
-            "Let\u2019s Call It Off (feat. Peter Bjorn and John)",
-            "November 18th",
-            "Ignant Shit (feat. Lil Wayne)",
-            "A Night Off (feat. Lloyd)",
-            "Say What's Real",
-            "Little Bit (feat. Lykke Li)",
-            "Unstoppable (feat. Santigold & Lil Wayne)",
-            "Uptown (feat. Bun B & Lil Wayne)",
-            "Sooner Than Later",
-            "Bria's Interlude (feat. Omarion)",
-            "The Calm",
-            "Outro (feat. Chilly Gonzales)",
-            "Brand New",
-            "Congratulations"
-        ]
+        "good_tracks": [
+            "BLESSED",
+            "HOT WIND BLOWS (feat. Lil Wayne)",
+            "SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues)",
+            "MASSA"
+        ],
+        "score": 8.96,
+        "tracks": []
     },
-    "ZUU": {
-        "artists": "Denzel Curry",
-        "id": "6PkSBdx19zarn4ae1D08gA",
-        "name": "ZUU",
-        "popularity": 56,
-        "release_date": "2019-05-31",
-        "total_tracks": 12,
-        "uri": "spotify:album:6PkSBdx19zarn4ae1D08gA",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735d46e4578c8e1adad9206480",
+    "MUDBOY": {
+        "artists": "Sheck Wes",
+        "id": "15Id9Jrqab8IwHFirdrrLp",
+        "name": "MUDBOY",
+        "popularity": 64,
+        "release_date": "2018-10-05",
+        "total_tracks": 14,
+        "uri": "spotify:album:15Id9Jrqab8IwHFirdrrLp",
+        "image": "https://i.scdn.co/image/ab67616d0000b27359cd47039c5b10ed919fbaa8",
         "top_tracks": [
-            "ZUU",
-            "RICKY"
+            "Mindfucker",
+            "Live Sheck Wes",
+            "Gmail",
+            "Mo Bamba",
+            "Kyrie",
+            "Burn Slow - Interlude",
+            "Fuck Everybody"
         ],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "WISH FEAT. KIDDO MARV",
-            "BIRDZ FEAT. RICK ROSS",
-            "AUTOMATIC",
-            "SPEEDBOAT",
-            "BUSHY B INTERLUDE",
-            "YOO",
-            "CAROLMART FEAT. ICE BILLION BERG",
-            "SHAKE 88 FEAT. SAM SNEAK",
-            "BLACKLAND 66.6",
-            "P.A.T. FEAT. PLAYTHATBOIZAY"
-        ]
-    },
-    "Bitches Brew": {
-        "artists": "Miles Davis",
-        "id": "3Q0zkOZEOC855ErOOJ1AdO",
-        "name": "Bitches Brew",
-        "popularity": 33,
-        "release_date": "1970-04",
-        "total_tracks": 7,
-        "uri": "spotify:album:3Q0zkOZEOC855ErOOJ1AdO",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733f29c5269be5a4e9c4611d7a",
-        "top_tracks": [
-            "Pharaoh's Dance"
+        "good_tracks": [
+            "Wanted",
+            "Chippi Chippi",
+            "Vetements Socks"
         ],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "Bitches Brew (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)",
-            "Spanish Key (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)",
-            "John McLaughlin (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)",
-            "Miles Runs the Voodoo Down (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)",
-            "Sanctuary (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)",
-            "Feio (feat. Wayne Shorter, John McLaughlin, Chick Corea, Joe Zawinul & Dave Holland)"
-        ]
+        "score": 6.53,
+        "tracks": []
     },
-    "The Dark Side of the Moon": {
-        "artists": "Pink Floyd",
-        "id": "4LH4d3cOWNNsVw41Gqt2kv",
-        "name": "The Dark Side of the Moon",
+    "Slime Language 2": {
+        "artists": "Young Stoner Life, Young Thug, Gunna",
+        "id": "3ihwKkIMJWmmp1huNH0iWC",
+        "name": "Slime Language 2",
         "popularity": 67,
-        "release_date": "1973-03-01",
+        "release_date": "2021-04-16",
+        "total_tracks": 23,
+        "uri": "spotify:album:3ihwKkIMJWmmp1huNH0iWC",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732cf2c659aef9a3a132f0d37d",
+        "top_tracks": [
+            "Slatty (feat. Yak Gotti & Lil Duke)",
+            "Ski",
+            "Diamonds Dancing (feat. Travis Scott)",
+            "Solid (feat. Drake)",
+            "Came and Saw (feat. Rowdy Rebel)",
+            "Proud of You (feat. Lil Uzi Vert & Yung Kayo)",
+            "Pots N Pans (feat. Lil Duke & NAV)",
+            "WokStar (feat. Strick & Skepta)",
+            "Take It To Trial (feat. Yak Gotti)",
+            "Moon Man (feat. Strick & Kid Cudi)",
+            "That Go! (feat. T-Shyne)"
+        ],
+        "good_tracks": [
+            "Paid the Fine (feat. Lil Baby & YTB Trench)",
+            "Real (feat. Unfoonk)",
+            "Warrior (feat. T-Shyne, Lil Keed & Big Sean)",
+            "Came Out (feat. Lil Keed)",
+            "GFU (feat. Yung Kayo)"
+        ],
+        "score": 6.59,
+        "tracks": []
+    },
+    "Drip or Drown 2": {
+        "artists": "Gunna",
+        "id": "1oUzjom2A9xtyRM1SdOAGj",
+        "name": "Drip or Drown 2",
+        "popularity": 61,
+        "release_date": "2019-02-22",
+        "total_tracks": 16,
+        "uri": "spotify:album:1oUzjom2A9xtyRM1SdOAGj",
+        "image": "https://i.scdn.co/image/ab67616d0000b273bddf008ccaea655e61892c27",
+        "top_tracks": [
+            "Wit It",
+            "Outstanding",
+            "One Call",
+            "Richard Millie Plain",
+            "Derek Fisher (feat. Lil Baby)",
+            "Baby Birkin",
+            "Speed It Up",
+            "3 Headed Snake (feat. Young Thug)",
+            "Big Shot",
+            "Out The Hood",
+            "Same Yung Nigga (feat. Playboi Carti)",
+            "Who You Foolin"
+        ],
+        "good_tracks": [
+            "Yao Ming",
+            "On A Mountain"
+        ],
+        "score": 8.39,
+        "tracks": []
+    },
+    "Rage Against The Machine": {
+        "artists": "Rage Against The Machine",
+        "id": "4LaRYkT4oy47wEuQgkLBul",
+        "name": "Rage Against The Machine",
+        "popularity": 51,
+        "release_date": "1992-11-03",
         "total_tracks": 10,
-        "uri": "spotify:album:4LH4d3cOWNNsVw41Gqt2kv",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe",
+        "uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+        "image": "https://i.scdn.co/image/ab67616d0000b27324f31a0a281320f0cec6f86f",
         "top_tracks": [
-            "Speak to Me",
-            "Breathe (In the Air)"
+            "Bombtrack",
+            "Killing In the Name",
+            "Take the Power Back",
+            "Settle for Nothing",
+            "Know Your Enemy",
+            "Bullet In the Head",
+            "Wake Up",
+            "Fistful of Steel",
+            "Freedom"
         ],
         "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "On the Run",
-            "Time",
-            "The Great Gig in the Sky",
-            "Money",
-            "Us and Them",
-            "Any Colour You Like",
-            "Brain Damage",
-            "Eclipse"
-        ]
+        "score": 9.0,
+        "tracks": []
     },
-    "Greatest Hits": {
-        "artists": "Tim McGraw",
-        "id": "6JqV9up4l7XJa766XQbpXz",
-        "name": "Greatest Hits",
-        "popularity": 34,
-        "release_date": "2000-11-21",
-        "total_tracks": 15,
-        "uri": "spotify:album:6JqV9up4l7XJa766XQbpXz",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734cb507ead63d6cb2a382a641",
+    "RED & WHITE": {
+        "artists": "Lil Uzi Vert",
+        "id": "4aTdfh8F07U59ClqhljKHp",
+        "name": "RED & WHITE",
+        "popularity": 0,
+        "release_date": "2022-07-23",
+        "total_tracks": 9,
+        "uri": "spotify:album:4aTdfh8F07U59ClqhljKHp",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730813642658c7eb57aaa69de0",
         "top_tracks": [
-            "Indian Outlaw",
-            "Don't Take The Girl",
-            "Just To See You Smile",
-            "Down On The Farm",
-            "I Like It, I Love It"
+            "Hittin My Shoulder",
+            "ISSA HIT",
+            "GLOCK IN MY PURSE",
+            "F.F."
         ],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "It's Your Love",
-            "Where The Green Grass Grows",
-            "For A Little While",
-            "Please Remember Me",
-            "Something Like That",
-            "My Best Friend",
-            "Maybe We Should Just Sleep On It",
-            "My Next Thirty Years",
-            "Let's Make Love"
-        ]
+        "good_tracks": [
+            "I Know",
+            "Space Cadet",
+            "FOR FUN"
+        ],
+        "score": 6.83,
+        "tracks": []
     },
-    "Lost Souls": {
-        "artists": "Vory",
-        "id": "6aCunyx3egIaHn64wd4dA2",
-        "name": "Lost Souls",
-        "popularity": 55,
-        "release_date": "2022-06-03",
-        "total_tracks": 17,
-        "uri": "spotify:album:6aCunyx3egIaHn64wd4dA2",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a81ef45d024066bb07c97f63",
-        "top_tracks": [
-            "Lost Souls (ft. Fresco Trey)",
-            "Daylight (ft. Ye)"
-        ],
+    "Gemini Rights": {
+        "artists": "Steve Lacy",
+        "id": "3Ks0eeH0GWpY4AU20D5HPD",
+        "name": "Gemini Rights",
+        "popularity": 73,
+        "release_date": "2022-07-15",
+        "total_tracks": 10,
+        "uri": "spotify:album:3Ks0eeH0GWpY4AU20D5HPD",
+        "image": "https://i.scdn.co/image/ab67616d0000b27368968350c2550e36d96344ee",
+        "top_tracks": [],
         "good_tracks": [],
         "score": 0.0,
         "tracks": [
-            "Lesson Learned",
-            "Do Not Disturb (ft. NAV and Yung Bleu)",
-            "Chanel Fix (ft. Landstrip Chip)",
-            "Happy Birthday 2U",
-            "CWR Interlude",
-            "Mind Games",
-            "I.J.S",
-            "Believe In Me",
-            "Lost Angels",
-            "Fuck Being Famous (ft. BEAM)",
-            "Cindy's Interlude",
-            "Project Baby",
-            "Dark Clouds",
-            "Not My Friends",
-            "Wallo267 Speaks"
+            "Static",
+            "Helmet",
+            "Mercury",
+            "Buttons",
+            "Bad Habit",
+            "2Gether (Enterlude)",
+            "Cody Freestyle",
+            "Amber",
+            "Sunshine (feat. Foushe\u00e9)",
+            "Give You the World"
         ]
     }
 }

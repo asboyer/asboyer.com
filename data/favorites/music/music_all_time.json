@@ -21,6 +21,94 @@
         ],
         "score": 9.76
     },
+    "MUDBOY": {
+        "artists": "Sheck Wes",
+        "id": "15Id9Jrqab8IwHFirdrrLp",
+        "name": "MUDBOY",
+        "popularity": 64,
+        "release_date": "2018-10-05",
+        "total_tracks": 14,
+        "uri": "spotify:album:15Id9Jrqab8IwHFirdrrLp",
+        "image": "https://i.scdn.co/image/ab67616d0000b27359cd47039c5b10ed919fbaa8",
+        "top_tracks": [
+            "Mindfucker",
+            "Live Sheck Wes",
+            "Gmail",
+            "Mo Bamba",
+            "Kyrie",
+            "Burn Slow - Interlude",
+            "Fuck Everybody"
+        ],
+        "good_tracks": [
+            "Wanted",
+            "Chippi Chippi",
+            "Vetements Socks"
+        ],
+        "score": 6.53,
+        "tracks": []
+    },
+    "Slime Language 2": {
+        "artists": "Young Stoner Life, Young Thug, Gunna",
+        "id": "3ihwKkIMJWmmp1huNH0iWC",
+        "name": "Slime Language 2",
+        "popularity": 67,
+        "release_date": "2021-04-16",
+        "total_tracks": 23,
+        "uri": "spotify:album:3ihwKkIMJWmmp1huNH0iWC",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732cf2c659aef9a3a132f0d37d",
+        "top_tracks": [
+            "Slatty (feat. Yak Gotti & Lil Duke)",
+            "Ski",
+            "Diamonds Dancing (feat. Travis Scott)",
+            "Solid (feat. Drake)",
+            "Came and Saw (feat. Rowdy Rebel)",
+            "Proud of You (feat. Lil Uzi Vert & Yung Kayo)",
+            "Pots N Pans (feat. Lil Duke & NAV)",
+            "WokStar (feat. Strick & Skepta)",
+            "Take It To Trial (feat. Yak Gotti)",
+            "Moon Man (feat. Strick & Kid Cudi)",
+            "That Go! (feat. T-Shyne)"
+        ],
+        "good_tracks": [
+            "Paid the Fine (feat. Lil Baby & YTB Trench)",
+            "Real (feat. Unfoonk)",
+            "Warrior (feat. T-Shyne, Lil Keed & Big Sean)",
+            "Came Out (feat. Lil Keed)",
+            "GFU (feat. Yung Kayo)"
+        ],
+        "score": 6.59,
+        "tracks": []
+    },
+    "Drip or Drown 2": {
+        "artists": "Gunna",
+        "id": "1oUzjom2A9xtyRM1SdOAGj",
+        "name": "Drip or Drown 2",
+        "popularity": 61,
+        "release_date": "2019-02-22",
+        "total_tracks": 16,
+        "uri": "spotify:album:1oUzjom2A9xtyRM1SdOAGj",
+        "image": "https://i.scdn.co/image/ab67616d0000b273bddf008ccaea655e61892c27",
+        "top_tracks": [
+            "Wit It",
+            "Outstanding",
+            "One Call",
+            "Richard Millie Plain",
+            "Derek Fisher (feat. Lil Baby)",
+            "Baby Birkin",
+            "Speed It Up",
+            "3 Headed Snake (feat. Young Thug)",
+            "Big Shot",
+            "Out The Hood",
+            "Same Yung Nigga (feat. Playboi Carti)",
+            "Who You Foolin"
+        ],
+        "good_tracks": [
+            "Yao Ming",
+            "On A Mountain"
+        ],
+        "score": 8.39,
+        "tracks": []
+    },
     "Madvillainy": {
         "artists": "Madvillain, Madlib, MF DOOM",
         "id": "01FCoGEQ3NFWF4fHJzdiax",
@@ -936,13 +1024,13 @@
             "New Slaves",
             "I'm In It",
             "Blood On The Leaves",
-            "Bound 2"
-        ],
-        "good_tracks": [
-            "Guilt Trip",
+            "Bound 2",
             "Send It Up"
         ],
-        "score": 9.67
+        "good_tracks": [
+            "Guilt Trip"
+        ],
+        "score": 9.83
     },
     "Gentle Boy": {
         "artists": "Elijah Who",
@@ -3718,20 +3806,20 @@
             "What's the Move (feat. Lil Uzi Vert)",
             "Circle Of Bosses (feat. Quavo)",
             "Mannequin Challenge (feat. Juice WRLD)",
-            "The London (feat. J. Cole & Travis Scott)"
+            "The London (feat. J. Cole & Travis Scott)",
+            "Light It Up"
         ],
         "good_tracks": [
             "Just How It Is",
             "Sup Mate (feat. Future)",
             "Ecstasy (feat. Machine Gun Kelly)",
-            "Light It Up",
             "Lil Baby",
             "I Bought Her (feat. Lil Duke)",
             "I'm Scared (feat. 21 Savage & Doe Boy)",
             "Big Tipper (feat. Lil Keed)",
             "Boy Back (feat. NAV)"
         ],
-        "score": 7.63
+        "score": 7.72
     },
     "Pi\u00f1ata": {
         "artists": "Freddie Gibbs, Madlib",
@@ -4191,7 +4279,9 @@
             "SKYBOX",
             "TOP FLOOR (feat. Travis Scott)",
             "MET GALA",
-            "ARGENTINA"
+            "ARGENTINA",
+            "BLINDFOLD (feat. Lil Baby)",
+            "COOLER THAN A BITCH (feat. Roddy Ricch)"
         ],
         "good_tracks": [
             "GIMMICK",
@@ -4199,11 +4289,9 @@
             "FEIGNING",
             "ADDYS (feat. Nechie)",
             "WUNNA",
-            "BLINDFOLD (feat. Lil Baby)",
-            "NASTY GIRL / ON CAMERA",
-            "COOLER THAN A BITCH (feat. Roddy Ricch)"
+            "NASTY GIRL / ON CAMERA"
         ],
-        "score": 5.95,
+        "score": 6.27,
         "tracks": []
     },
     "Blue Train": {
@@ -4859,18 +4947,18 @@
             "Bean (Kobe) [feat. Chief Keef]",
             "Yessirskiii",
             "Got The Guap (feat. Young Thug)",
-            "Leaders (feat. NAV)"
+            "Leaders (feat. NAV)",
+            "Strawberry Peels (feat. Young Thug & Gunna)",
+            "I Can Show You"
         ],
         "good_tracks": [
             "Lotus",
-            "Strawberry Peels (feat. Young Thug & Gunna)",
-            "I Can Show You",
             "Come This Way",
             "Trap This Way (This Way)",
             "Moon Relate",
             "Money Spread (feat. Young Nudy)"
         ],
-        "score": 7.14,
+        "score": 7.55,
         "tracks": []
     },
     "Future Nostalgia": {
@@ -5415,22 +5503,22 @@
             "What's the Move (feat. Lil Uzi Vert)",
             "Circle Of Bosses (feat. Quavo)",
             "Mannequin Challenge (feat. Juice WRLD)",
-            "The London (feat. J. Cole & Travis Scott)"
+            "The London (feat. J. Cole & Travis Scott)",
+            "Light It Up",
+            "Die Today"
         ],
         "good_tracks": [
-            "Die Today",
             "Millions",
             "Just How It Is",
             "Sup Mate (feat. Future)",
             "Ecstasy (feat. Machine Gun Kelly)",
-            "Light It Up",
             "Lil Baby",
             "I Bought Her (feat. Lil Duke)",
             "I'm Scared (feat. 21 Savage & Doe Boy)",
             "Big Tipper (feat. Lil Keed)",
             "Boy Back (feat. NAV)"
         ],
-        "score": 7.99,
+        "score": 8.12,
         "tracks": []
     },
     "In the Aeroplane Over the Sea": {
@@ -5773,6 +5861,68 @@
             "Smoke (feat. HVN & SoFaygo)"
         ],
         "score": 6.98,
+        "tracks": []
+    },
+    "CALL ME IF YOU GET LOST": {
+        "artists": "Tyler, The Creator",
+        "id": "45ba6QAtNrdv6Ke4MFOKk9",
+        "name": "CALL ME IF YOU GET LOST",
+        "popularity": 74,
+        "release_date": "2021-06-25",
+        "total_tracks": 16,
+        "uri": "spotify:album:45ba6QAtNrdv6Ke4MFOKk9",
+        "image": "https://i.scdn.co/image/ab67616d0000b273696b4e67423edd64784bfbb4",
+        "top_tracks": [
+            "SIR BAUDELAIRE (feat. DJ Drama)",
+            "CORSO",
+            "LEMONHEAD (feat. 42 Dugg)",
+            "WUSYANAME",
+            "LUMBERJACK",
+            "RUNITUP (feat. Teezo Touchdown)",
+            "MANIFESTO (feat. Domo Genesis)",
+            "RISE! (feat. DAISY WORLD)",
+            "JUGGERNAUT (feat. Lil Uzi Vert & Pharrell Williams)",
+            "WILSHIRE",
+            "SAFARI"
+        ],
+        "good_tracks": [
+            "BLESSED",
+            "HOT WIND BLOWS (feat. Lil Wayne)",
+            "SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues)",
+            "MASSA"
+        ],
+        "score": 8.96,
+        "tracks": []
+    },
+    "DS4EVER": {
+        "artists": "Gunna",
+        "id": "02uWB8Kekadkl3yGBoOOcx",
+        "name": "DS4EVER",
+        "popularity": 74,
+        "release_date": "2022-01-13",
+        "total_tracks": 20,
+        "uri": "spotify:album:02uWB8Kekadkl3yGBoOOcx",
+        "image": "https://i.scdn.co/image/ab67616d0000b27314d91ebdd6d7e2931322cc1a",
+        "top_tracks": [
+            "pushin P (feat. Young Thug)",
+            "thought i was playing",
+            "P power (feat. Drake)",
+            "alotta cake",
+            "south to west",
+            "25k jacket (feat. Lil Baby)",
+            "too easy",
+            "too easy (Remix) [feat. Future & Roddy Ricch]"
+        ],
+        "good_tracks": [
+            "private island",
+            "poochie gown",
+            "mop (feat. Young Thug)",
+            "how you did that (feat. Kodak Black)",
+            "livin wild",
+            "idk that bitch (feat. G Herbo)",
+            "flooded"
+        ],
+        "score": 6.5,
         "tracks": []
     }
 }
