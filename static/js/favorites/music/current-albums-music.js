@@ -39,7 +39,7 @@ $(document).ready(function(){
             var music_div = `
             <div class="albums" id="albums-div">
             `  
-        }
+        }   
 
 
 
@@ -76,6 +76,11 @@ $(document).ready(function(){
             if(values.name == "T R A P S O U L" || values.name == "A N N I V E R S A R Y" || values.name == "JuiceWRLD 9 9 9") {
                 styles = "white-space: nowrap"
             }
+            var special = ""
+            if(values.name == "So Much Fun (Deluxe)" || values.name == "WUNNA (Deluxe)") {
+                special = " (Deluxe)"
+            }
+
 
             // make an array of these albums for nowarp, same with small font
             if (values.score == null) values.score = ""
@@ -86,7 +91,7 @@ $(document).ready(function(){
                 <img src="${values.image}" alt="${values.name}" class="portfolio__img">
             <div class="album_overlay">
                 <div class="album-text">
-                    <p class="title${title_length}" style="${styles}">${values.name.split("(")[0].replace("(Deluxe)", "").replace("(Remastered)", "").replace("(Original Motion Picture Soundtrack)", "").replace("(Legacy Edition)", "").replace(" (Platinum VIP Edition)", "").replace(" (Original Television Series Soundtrack)", "").replace(" [Deluxe Edition]", "").split(" (Original")[0]}</p>
+                    <p class="title${title_length}" style="${styles}">${values.name.split("(")[0].replace("(Deluxe)", "").replace("(Remastered)", "").replace("(Original Motion Picture Soundtrack)", "").replace("(Legacy Edition)", "").replace(" (Platinum VIP Edition)", "").replace(" (Original Television Series Soundtrack)", "").replace(" [Deluxe Edition]", "").split(" (Original")[0] + special}</p>
                     <p class="artist${artist_length}">${values.artists}</p>
                     <p class="artist" style="${track_style}; font-size: 10px"=>${values.score}</p>
                     <div class="the-tracks" style="${track_style}">

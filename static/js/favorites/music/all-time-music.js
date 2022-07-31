@@ -41,7 +41,7 @@ $(document).ready(function(){
                 styles = "font-size: 20px"
             }
             var special = ""
-            if(values.name == "So Much Fun (Deluxe)") {
+            if(values.name == "So Much Fun (Deluxe)" || values.name == "WUNNA (Deluxe)") {
                 special = " (Deluxe)"
             }
 

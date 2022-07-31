@@ -136,16 +136,16 @@
             "WokStar (feat. Strick & Skepta)",
             "Take It To Trial (feat. Yak Gotti)",
             "Moon Man (feat. Strick & Kid Cudi)",
-            "That Go! (feat. T-Shyne)"
+            "That Go! (feat. T-Shyne)",
+            "Paid the Fine (feat. Lil Baby & YTB Trench)"
         ],
         "good_tracks": [
-            "Paid the Fine (feat. Lil Baby & YTB Trench)",
             "Real (feat. Unfoonk)",
             "Warrior (feat. T-Shyne, Lil Keed & Big Sean)",
             "Came Out (feat. Lil Keed)",
             "GFU (feat. Yung Kayo)"
         ],
-        "score": 6.59,
+        "score": 6.67,
         "tracks": []
     },
     "Drip or Drown 2": {
@@ -225,29 +225,101 @@
         "score": 6.83,
         "tracks": []
     },
-    "Gemini Rights": {
-        "artists": "Steve Lacy",
-        "id": "3Ks0eeH0GWpY4AU20D5HPD",
-        "name": "Gemini Rights",
-        "popularity": 73,
-        "release_date": "2022-07-15",
-        "total_tracks": 10,
-        "uri": "spotify:album:3Ks0eeH0GWpY4AU20D5HPD",
-        "image": "https://i.scdn.co/image/ab67616d0000b27368968350c2550e36d96344ee",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "Static",
-            "Helmet",
-            "Mercury",
-            "Buttons",
-            "Bad Habit",
-            "2Gether (Enterlude)",
-            "Cody Freestyle",
-            "Amber",
-            "Sunshine (feat. Foushe\u00e9)",
-            "Give You the World"
-        ]
+    "WUNNA (Deluxe)": {
+        "artists": "Gunna",
+        "id": "6FfYIKA59pCFs2d1FB79Pq",
+        "name": "WUNNA (Deluxe)",
+        "popularity": 59,
+        "release_date": "2020-07-24",
+        "total_tracks": 26,
+        "uri": "spotify:album:6FfYIKA59pCFs2d1FB79Pq",
+        "image": "https://i.scdn.co/image/ab67616d0000b273fae944bd93dd1e47591a0df9",
+        "top_tracks": [
+            "200 FOR LUNCH",
+            "DOLLAZ ON MY HEAD (feat. Young Thug)",
+            "GIMMICK",
+            "FEIGNING",
+            "STREET SWEEPER (feat. Future)",
+            "MOTW",
+            "ONE WATCH (feat. Young Thug)",
+            "ARGENTINA",
+            "SUN CAME OUT",
+            "COOLER THAN A BITCH (feat. Roddy Ricch)",
+            "NOTHING 4 FREE (feat. NAV)",
+            "TOP FLOOR (feat. Travis Scott)",
+            "SKYBOX",
+            "WUNNA",
+            "BLINDFOLD (feat. Lil Baby)",
+            "MET GALA",
+            "NASTY GIRL / ON CAMERA",
+            "I'M ON SOME",
+            "RELENTLESS (feat. Lil Uzi Vert)",
+            "DO BETTER"
+        ],
+        "good_tracks": [
+            "WUNNA FLO (feat. Yak Gotti)",
+            "ADDYS (feat. Nechie)",
+            "DIRTY DIANA",
+            "FAR (feat. Young Thug)"
+        ],
+        "score": 8.79,
+        "tracks": []
+    },
+    "Harder Than Ever": {
+        "artists": "Lil Baby",
+        "id": "7yf9ZJyHRbp8sHtpDKfPpt",
+        "name": "Harder Than Ever",
+        "popularity": 70,
+        "release_date": "2018-05-18",
+        "total_tracks": 17,
+        "uri": "spotify:album:7yf9ZJyHRbp8sHtpDKfPpt",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736cab41f8c84d6164976400d4",
+        "top_tracks": [
+            "Intro",
+            "Spazz",
+            "I\u2019m Straight",
+            "Exotic",
+            "Yes Indeed",
+            "Leaked",
+            "Bank",
+            "Cash",
+            "Southside",
+            "Throwing Shade",
+            "Life Goes On",
+            "Transporter",
+            "Never Needed No Help"
+        ],
+        "good_tracks": [
+            "First Class",
+            "Fit In"
+        ],
+        "score": 8.63,
+        "tracks": []
+    },
+    "KIRK": {
+        "artists": "DaBaby",
+        "id": "1NsTSXjVNE7XmZ8PmyW0wl",
+        "name": "KIRK",
+        "popularity": 68,
+        "release_date": "2019-09-27",
+        "total_tracks": 13,
+        "uri": "spotify:album:1NsTSXjVNE7XmZ8PmyW0wl",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f2b94b2fda4f08836d6371ba",
+        "top_tracks": [
+            "INTRO",
+            "OFF THE RIP",
+            "VIBEZ",
+            "BOP",
+            "TOES (feat. Lil Baby & Moneybagg Yo)",
+            "PROLLY HEARD",
+            "RAW SHIT (feat. Migos)",
+            "THERE HE GO",
+            "XXL"
+        ],
+        "good_tracks": [
+            "POP STAR (feat. Kevin Gates)"
+        ],
+        "score": 7.56,
+        "tracks": []
     }
 }

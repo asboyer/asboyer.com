@@ -67,16 +67,16 @@
             "WokStar (feat. Strick & Skepta)",
             "Take It To Trial (feat. Yak Gotti)",
             "Moon Man (feat. Strick & Kid Cudi)",
-            "That Go! (feat. T-Shyne)"
+            "That Go! (feat. T-Shyne)",
+            "Paid the Fine (feat. Lil Baby & YTB Trench)"
         ],
         "good_tracks": [
-            "Paid the Fine (feat. Lil Baby & YTB Trench)",
             "Real (feat. Unfoonk)",
             "Warrior (feat. T-Shyne, Lil Keed & Big Sean)",
             "Came Out (feat. Lil Keed)",
             "GFU (feat. Yung Kayo)"
         ],
-        "score": 6.59,
+        "score": 6.67,
         "tracks": []
     },
     "Drip or Drown 2": {
@@ -4158,31 +4158,6 @@
         ],
         "score": 7.56
     },
-    "The Melodic Blue": {
-        "artists": "Baby Keem",
-        "id": "3r46DPIQeBQbjvjjV5mXGg",
-        "name": "The Melodic Blue",
-        "popularity": 85,
-        "release_date": "2021-09-10",
-        "total_tracks": 16,
-        "uri": "spotify:album:3r46DPIQeBQbjvjjV5mXGg",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731bfa23b13d0504fb90c37b39",
-        "top_tracks": [
-            "trademark usa",
-            "family ties (with Kendrick Lamar)",
-            "durag activity (with Travis Scott)",
-            "booman",
-            "vent",
-            "first order of business",
-            "16",
-            "coca (with Don Toliver)"
-        ],
-        "good_tracks": [
-            "gorgeous",
-            "range brothers"
-        ],
-        "score": 6.04
-    },
     "Yours Truly": {
         "artists": "Ariana Grande",
         "id": "5xSvNPstcxHtR4ap2vvN8A",
@@ -4264,35 +4239,6 @@
             "Phantom Regret by Jim"
         ],
         "score": 8.63
-    },
-    "WUNNA": {
-        "artists": "Gunna",
-        "id": "0gA0nZrZ55PLUp7ARfrICu",
-        "name": "WUNNA",
-        "popularity": 78,
-        "release_date": "2020-05-22",
-        "total_tracks": 18,
-        "uri": "spotify:album:0gA0nZrZ55PLUp7ARfrICu",
-        "image": "https://i.scdn.co/image/ab67616d0000b273d7547a7624116ac5f8a51fd2",
-        "top_tracks": [
-            "DOLLAZ ON MY HEAD (feat. Young Thug)",
-            "SKYBOX",
-            "TOP FLOOR (feat. Travis Scott)",
-            "MET GALA",
-            "ARGENTINA",
-            "BLINDFOLD (feat. Lil Baby)",
-            "COOLER THAN A BITCH (feat. Roddy Ricch)"
-        ],
-        "good_tracks": [
-            "GIMMICK",
-            "MOTW",
-            "FEIGNING",
-            "ADDYS (feat. Nechie)",
-            "WUNNA",
-            "NASTY GIRL / ON CAMERA"
-        ],
-        "score": 6.27,
-        "tracks": []
     },
     "Blue Train": {
         "artists": "John Coltrane",
@@ -4838,18 +4784,21 @@
         "uri": "spotify:album:0O1PJ0t69iTO5yWrIeIga0",
         "image": "https://i.scdn.co/image/ab67616d0000b27374d72ebd51dd5781d5f83ffd",
         "top_tracks": [
+            "Taking It Out",
             "Suge",
             "Goin Baby",
-            "Baby Sitter (feat. Offset)"
+            "Baby Sitter (feat. Offset)",
+            "Walker Texas Ranger",
+            "Tupac",
+            "Joggers (feat. Stunna 4 Vegas)"
         ],
         "good_tracks": [
-            "Taking It Out",
+            "Pony",
             "Deal Wit It",
-            "Celebrate (feat. Rich Homie Quan)",
-            "Joggers (feat. Stunna 4 Vegas)",
-            "Walker Texas Ranger"
+            "Backend",
+            "Celebrate (feat. Rich Homie Quan)"
         ],
-        "score": 5.51,
+        "score": 7.95,
         "tracks": []
     },
     "DS2 (Deluxe)": {
@@ -4880,30 +4829,6 @@
         "score": 5.4,
         "tracks": []
     },
-    "Drip Harder": {
-        "artists": "Lil Baby, Gunna",
-        "id": "2yXnY2NiaZk9QiJJittS81",
-        "name": "Drip Harder",
-        "popularity": 71,
-        "release_date": "2018-10-05",
-        "total_tracks": 13,
-        "uri": "spotify:album:2yXnY2NiaZk9QiJJittS81",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ce159a3ba2096e13fa9d4b4c",
-        "top_tracks": [
-            "I Am (Lil Baby & Gunna)",
-            "Drip Too Hard (Lil Baby & Gunna)",
-            "Never Recover (Lil Baby & Gunna, Drake)"
-        ],
-        "good_tracks": [
-            "Off White VLONE (Lil Baby & Gunna feat. Lil Durk & NAV)",
-            "Business Is Business (Lil Baby & Gunna)",
-            "Belly (Lil Baby & Gunna)",
-            "Style Stealer (Lil Baby & Gunna)",
-            "Close Friends (Lil Baby & Gunna)"
-        ],
-        "score": 5.51,
-        "tracks": []
-    },
     "Harder Than Ever": {
         "artists": "Lil Baby",
         "id": "7yf9ZJyHRbp8sHtpDKfPpt",
@@ -4914,23 +4839,25 @@
         "uri": "spotify:album:7yf9ZJyHRbp8sHtpDKfPpt",
         "image": "https://i.scdn.co/image/ab67616d0000b2736cab41f8c84d6164976400d4",
         "top_tracks": [
-            "Yes Indeed",
-            "Life Goes On"
-        ],
-        "good_tracks": [
             "Intro",
             "Spazz",
             "I\u2019m Straight",
+            "Exotic",
+            "Yes Indeed",
             "Leaked",
             "Bank",
             "Cash",
             "Southside",
             "Throwing Shade",
+            "Life Goes On",
             "Transporter",
-            "Fit In",
             "Never Needed No Help"
         ],
-        "score": 6.57,
+        "good_tracks": [
+            "First Class",
+            "Fit In"
+        ],
+        "score": 8.63,
         "tracks": []
     },
     "LUV vs. The World 2": {
@@ -5894,6 +5821,38 @@
         "score": 8.96,
         "tracks": []
     },
+    "WUNNA": {
+        "artists": "Gunna",
+        "id": "0gA0nZrZ55PLUp7ARfrICu",
+        "name": "WUNNA",
+        "popularity": 65,
+        "release_date": "2020-05-22",
+        "total_tracks": 18,
+        "uri": "spotify:album:0gA0nZrZ55PLUp7ARfrICu",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d7547a7624116ac5f8a51fd2",
+        "top_tracks": [
+            "ARGENTINA",
+            "GIMMICK",
+            "MOTW",
+            "FEIGNING",
+            "DOLLAZ ON MY HEAD (feat. Young Thug)",
+            "WUNNA",
+            "SKYBOX",
+            "BLINDFOLD (feat. Lil Baby)",
+            "MET GALA",
+            "NASTY GIRL / ON CAMERA",
+            "COOLER THAN A BITCH (feat. Roddy Ricch)",
+            "I'M ON SOME",
+            "TOP FLOOR (feat. Travis Scott)",
+            "DO BETTER"
+        ],
+        "good_tracks": [
+            "ADDYS (feat. Nechie)",
+            "FAR (feat. Young Thug)"
+        ],
+        "score": 8.57,
+        "tracks": []
+    },
     "DS4EVER": {
         "artists": "Gunna",
         "id": "02uWB8Kekadkl3yGBoOOcx",
@@ -5904,25 +5863,281 @@
         "uri": "spotify:album:02uWB8Kekadkl3yGBoOOcx",
         "image": "https://i.scdn.co/image/ab67616d0000b27314d91ebdd6d7e2931322cc1a",
         "top_tracks": [
+            "private island",
             "pushin P (feat. Young Thug)",
+            "poochie gown",
             "thought i was playing",
-            "P power (feat. Drake)",
             "alotta cake",
+            "livin wild",
             "south to west",
             "25k jacket (feat. Lil Baby)",
             "too easy",
+            "flooded",
             "too easy (Remix) [feat. Future & Roddy Ricch]"
         ],
         "good_tracks": [
-            "private island",
-            "poochie gown",
             "mop (feat. Young Thug)",
+            "P power (feat. Drake)",
             "how you did that (feat. Kodak Black)",
-            "livin wild",
-            "idk that bitch (feat. G Herbo)",
-            "flooded"
+            "you & me",
+            "so far ahead > empire"
         ],
-        "score": 6.5,
+        "score": 7.29,
+        "tracks": []
+    },
+    "Drip Harder": {
+        "artists": "Lil Baby, Gunna",
+        "id": "2yXnY2NiaZk9QiJJittS81",
+        "name": "Drip Harder",
+        "popularity": 72,
+        "release_date": "2018-10-05",
+        "total_tracks": 13,
+        "uri": "spotify:album:2yXnY2NiaZk9QiJJittS81",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ce159a3ba2096e13fa9d4b4c",
+        "top_tracks": [
+            "Off White VLONE (Lil Baby & Gunna feat. Lil Durk & NAV)",
+            "Business Is Business (Lil Baby & Gunna)",
+            "Belly (Lil Baby & Gunna)",
+            "Deep End (Lil Baby & Gunna)",
+            "Underdog (Lil Baby & Gunna)",
+            "I Am (Lil Baby & Gunna)",
+            "Style Stealer (Lil Baby & Gunna)",
+            "Close Friends (Lil Baby & Gunna)",
+            "Drip Too Hard (Lil Baby & Gunna)",
+            "Never Recover (Lil Baby & Gunna, Drake)"
+        ],
+        "good_tracks": [
+            "World Is Yours (Lil Baby & Gunna)",
+            "My Jeans (Lil Baby & Gunna feat. Young Thug)"
+        ],
+        "score": 8.97,
+        "tracks": []
+    },
+    "WUNNA (Deluxe)": {
+        "artists": "Gunna",
+        "id": "6FfYIKA59pCFs2d1FB79Pq",
+        "name": "WUNNA (Deluxe)",
+        "popularity": 59,
+        "release_date": "2020-07-24",
+        "total_tracks": 26,
+        "uri": "spotify:album:6FfYIKA59pCFs2d1FB79Pq",
+        "image": "https://i.scdn.co/image/ab67616d0000b273fae944bd93dd1e47591a0df9",
+        "top_tracks": [
+            "200 FOR LUNCH",
+            "DOLLAZ ON MY HEAD (feat. Young Thug)",
+            "GIMMICK",
+            "FEIGNING",
+            "STREET SWEEPER (feat. Future)",
+            "MOTW",
+            "ONE WATCH (feat. Young Thug)",
+            "ARGENTINA",
+            "SUN CAME OUT",
+            "COOLER THAN A BITCH (feat. Roddy Ricch)",
+            "NOTHING 4 FREE (feat. NAV)",
+            "TOP FLOOR (feat. Travis Scott)",
+            "SKYBOX",
+            "WUNNA",
+            "BLINDFOLD (feat. Lil Baby)",
+            "MET GALA",
+            "NASTY GIRL / ON CAMERA",
+            "I'M ON SOME",
+            "RELENTLESS (feat. Lil Uzi Vert)",
+            "DO BETTER"
+        ],
+        "good_tracks": [
+            "WUNNA FLO (feat. Yak Gotti)",
+            "ADDYS (feat. Nechie)",
+            "DIRTY DIANA",
+            "FAR (feat. Young Thug)"
+        ],
+        "score": 8.79,
+        "tracks": []
+    },
+    "Baby Talk 5": {
+        "artists": "DaBaby",
+        "id": "2xcjel0O71jyzfflIel2Dm",
+        "name": "Baby Talk 5",
+        "popularity": 47,
+        "release_date": "2018-06-01",
+        "total_tracks": 10,
+        "uri": "spotify:album:2xcjel0O71jyzfflIel2Dm",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733d1c4100a02fde1638760474",
+        "top_tracks": [
+            "Today - Intro",
+            "Itch",
+            "Off Top",
+            "Kujo",
+            "For The Baby",
+            "Up The Street",
+            "Tax Time"
+        ],
+        "good_tracks": [
+            "No Love"
+        ],
+        "score": 7.83,
+        "tracks": []
+    },
+    "Blank Blank": {
+        "artists": "DaBaby",
+        "id": "6L2X9oAs6pLMweH6pSpfTT",
+        "name": "Blank Blank",
+        "popularity": 53,
+        "release_date": "2018-11-02",
+        "total_tracks": 10,
+        "uri": "spotify:album:6L2X9oAs6pLMweH6pSpfTT",
+        "image": "https://i.scdn.co/image/ab67616d0000b27322d036951a7d3cef1468c252",
+        "top_tracks": [
+            "Next Song",
+            "Blank Blank",
+            "21",
+            "4x (feat. Stunna 4 Vegas)",
+            "Milli",
+            "Walker Texas Ranger"
+        ],
+        "good_tracks": [
+            "No Tears",
+            "Beeper"
+        ],
+        "score": 7.67,
+        "tracks": []
+    },
+    "KIRK": {
+        "artists": "DaBaby",
+        "id": "1NsTSXjVNE7XmZ8PmyW0wl",
+        "name": "KIRK",
+        "popularity": 68,
+        "release_date": "2019-09-27",
+        "total_tracks": 13,
+        "uri": "spotify:album:1NsTSXjVNE7XmZ8PmyW0wl",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f2b94b2fda4f08836d6371ba",
+        "top_tracks": [
+            "INTRO",
+            "OFF THE RIP",
+            "VIBEZ",
+            "BOP",
+            "TOES (feat. Lil Baby & Moneybagg Yo)",
+            "PROLLY HEARD",
+            "RAW SHIT (feat. Migos)",
+            "THERE HE GO",
+            "XXL"
+        ],
+        "good_tracks": [
+            "POP STAR (feat. Kevin Gates)"
+        ],
+        "score": 7.56,
+        "tracks": []
+    },
+    "Street Gossip": {
+        "artists": "Lil Baby",
+        "id": "4iF44RCCybJtkBkMoqrLW2",
+        "name": "Street Gossip",
+        "popularity": 68,
+        "release_date": "2018-11-30",
+        "total_tracks": 13,
+        "uri": "spotify:album:4iF44RCCybJtkBkMoqrLW2",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737cb0c4f7761f6dd66aaca065",
+        "top_tracks": [
+            "Global",
+            "Pure Cocaine",
+            "Crush A Lot",
+            "Time (feat. Meek Mill)",
+            "Ready (feat. Gunna)",
+            "Word On The Street",
+            "This Week",
+            "Realist In It (feat. Gucci Mane & Offset)",
+            "Section 8 (feat. Young Thug)",
+            "Anyway (feat. 2 Chainz & Gucci Mane)",
+            "Chastised"
+        ],
+        "good_tracks": [
+            "Dreams 2 Reality (feat. NoCap)"
+        ],
+        "score": 9.1,
+        "tracks": []
+    },
+    "Too Hard": {
+        "artists": "Lil Baby",
+        "id": "750APP0eKVlcgOxaZnBnVt",
+        "name": "Too Hard",
+        "popularity": 66,
+        "release_date": "2017-12-01",
+        "total_tracks": 16,
+        "uri": "spotify:album:750APP0eKVlcgOxaZnBnVt",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735067cc9332e2fdc69ea7b7a9",
+        "top_tracks": [
+            "To The Top",
+            "Money",
+            "All Of A Sudden",
+            "Money Forever",
+            "Sum More",
+            "Going For It",
+            "Freestyle",
+            "Dive In"
+        ],
+        "good_tracks": [
+            "Best Of Me",
+            "Ride My Wave",
+            "Hurry",
+            "Slow Mo",
+            "Vision Clear"
+        ],
+        "score": 7.6,
+        "tracks": []
+    },
+    "Drip Season 3": {
+        "artists": "Gunna",
+        "id": "2zfUkbJbKtO6wGopVtmlWf",
+        "name": "Drip Season 3",
+        "popularity": 22,
+        "release_date": "2018-02-02",
+        "total_tracks": 14,
+        "uri": "spotify:album:2zfUkbJbKtO6wGopVtmlWf",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731cfe904104e785503246fe53",
+        "top_tracks": [
+            "Helluva Price",
+            "Drippin'",
+            "Top Off",
+            "Pedestrian",
+            "Lies About You (feat. Lil Durk)",
+            "Car Sick (feat. NAV & Metro Boomin)",
+            "My Soul",
+            "Spending Addiction",
+            "Drip or Drown Remix (feat. Lil Yachty)"
+        ],
+        "good_tracks": [
+            "No Joke",
+            "Toast Up"
+        ],
+        "score": 7.45,
+        "tracks": []
+    },
+    "The Melodic Blue": {
+        "artists": "Baby Keem",
+        "id": "3r46DPIQeBQbjvjjV5mXGg",
+        "name": "The Melodic Blue",
+        "popularity": 72,
+        "release_date": "2021-09-10",
+        "total_tracks": 16,
+        "uri": "spotify:album:3r46DPIQeBQbjvjjV5mXGg",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731bfa23b13d0504fb90c37b39",
+        "top_tracks": [
+            "trademark usa",
+            "range brothers (with Kendrick Lamar)",
+            "south africa",
+            "lost souls",
+            "cocoa (with Don Toliver)",
+            "family ties (with Kendrick Lamar)",
+            "durag activity (with Travis Scott)",
+            "booman",
+            "first order of business",
+            "vent",
+            "16"
+        ],
+        "good_tracks": [
+            "gorgeous",
+            "scars"
+        ],
+        "score": 7.92,
         "tracks": []
     }
 }
