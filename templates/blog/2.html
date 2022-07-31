@@ -16,23 +16,64 @@
 <meta name="twitter:image:src" content="https://asboyer.com/static/img/blog/stoicism/marcus.jpg"/>
 {% endblock %}
 
+{% block styles %}
+<style type="text/css">
+.blog_list {
+    line-height: 2;
+    font-family: monospace;
+    line-height: 1.95em;
+    
+    margin: 0 auto;
+    padding-right: 50px;
+    padding-left: 70px;
+    font-size: 25px;
+}
+
+
+
+.blog_list li {
+    list-style-type: disc;
+}
+
+@media (max-width: 800px) {
+    .blog_list {
+        font-size: 20px;
+    }
+
+}
+
+@media (max-width: 600px) {
+    .blog_list {
+        font-size: 18px;
+        padding-right: 30px;
+        padding-left: 45px;
+
+    }
+}
+</style>
+{% endblock %}
+
 {% block content %}
 <section class="post">
     <div class="post-header">
         <h2 class="post-title" id="title">
-            <strong>Become unstoppable with Stoicism</strong>
+            <strong>{{ title }}</strong>
         </h2>
         <h3 class="post-author">
             Andrew Boyer
         </h3>  
         <h3 class="post-date">
-            6.27.22
-        </h3>    
+            {{ date_string }}
+        </h3>
+        <h3 class="post-subs">
+            {{ subs }}
+        </h3>
+
     </div>
     <div class="post-content">
     <p class="post-text-intro" id="preface">
-    A special thanks to everyone who supported my <a href="https://asboyer.com/blog/1" target="_blank">previous post</a>.
-    I know its been a while since I've updated this blog and I've made my "every two weeks" promise laughable. I want to create meaningful, thoughtful, and quality blog posts. I'll always be working on posts and they will be published when they are ready. I'm aiming for something more realistic, perhaps twice a month. I have a lot of great ideas that I am excited to share here. Anyways, on with today's post.
+    A special thanks to everyone who supported my <a href="/blog/1" target="_blank">previous post</a>.
+    I know its been a while since I've updated this blog and I've made my "every two weeks" promise seem laughable. I want to create meaningful, thoughtful, and quality blog posts. I'll always be working on posts and they will be published when they are ready. I'm aiming for something more realistic, perhaps twice a month. I have a lot of great ideas that I am excited to share here. Anyways, on with today's post.
     <br>
 </p>
 
@@ -40,24 +81,52 @@
 
 <h3 class="post-text-header" id="philosophy"><a href="/blog/2#philosophy">Philosophy</a></h3>
 <p class="post-text">
-    I was introduced to philosophy by my 10th grade English teacher, Mr. Vonnegut. In his class, we would read literature and then explore philosophy to further discuss what we read. As we studied novels such as <i>Of Mice and Men</i> and <i>Brave New World</i>, we learned philosophies ranging from <a href="https://en.wikipedia.org/wiki/Existentialism" target="_blank">Existentialism</a> and <a href="https://en.wikipedia.org/wiki/Friedrich_Nietzsche" target="_blank">Friedrich Nietzsche</a> to <a href="https://en.wikipedia.org/wiki/Plato" target="_blank">Plato</a> and the tripartite soul.
+    I was introduced to philosophy by my 10th grade English teacher, Mr. Vonnegut. In his class, we would read literature and then explore philosophy to further discuss what we read. As we studied novels such as <i>Brave New World</i> and <i>Of Mice and Men</i>, we learned new philosophies, ranging from <a href="https://en.wikipedia.org/wiki/Existentialism" target="_blank">Existentialism</a> and <a href="https://en.wikipedia.org/wiki/Friedrich_Nietzsche" target="_blank">Friedrich Nietzsche</a> to <a href="https://en.wikipedia.org/wiki/Plato" target="_blank">Plato</a> and the tripartite soul.
     <br>
     Throughout the year, I was posed with this question: "what is the good life?" The first assignment was called "The Good Life Vignette", where we were tasked to write a brief description illustrating what we would want our life to look like in twenty years <a class="footnote-link" href="#footnote1" id="footlink1">[1]</a>. Each essay, book, and activity always circled back to the central question of the "good life" and how to achieve it.
     <br>
-    Over the course of the year, I learned that literature gives us <b>implicit</b> answers to big questions <a class="footnote-link" href="#footnote2" id="footlink2">[2]</a>. We can derive our own meaning from <i>1984</i>. "<i>Maybe</i> George Orwell was trying to tell us..." On the other hand, philosophy gives us <b>explicit</b> answers to these questions. Philosophers directly tell us their beliefs and their answers to big questions. They don't subtly hide or layer their ideas into novel or play <a class="footnote-link" href="#footnote3" id="footlink3">[3]</a>.
+    Over the course of the year, I learned that literature gives us <i>implicit</i> answers to big questions <a class="footnote-link" href="#footnote2" id="footlink2">[2]</a>. For example, we can derive our own meaning from <i>1984</i>. "<i>Maybe</i> George Orwell was trying to tell us..." On the other hand, philosophy gives us <i>explicit</i> answers to these questions. Philosophers directly tell us their beliefs and their answers to big questions. They don't subtly hide or layer their ideas into a novel or play <a class="footnote-link" href="#footnote3" id="footlink3">[3]</a>.
+    </p>
+        <a id="screenshot-1" class="post-link" style="width: 80%" href="https://en.wikipedia.org/wiki/The_School_of_Athens" target="_blank">
+        <img  src="https://credomag.com/wp-content/uploads/2021/02/F1.large_.jpg">
+    </a>
+    <figcaption><i>The School of Athens</i> by Raphael</figcaption>
     <br>
+<p class="post-text">
     Philosophy literally means "love of wisdom." We look to philosophy (we <i>philosophize</i>) to understand fundamental truths about ourselves and the world. Personally, I turn to philosophy when I'm feeling lost and need not only some kind of straightforward direction, but a <i>why</i>. <i>Why</i> should I do this instead of this? <i>Why</i> is this meaningful? <i>Why</i> is this painful? 
     <br>
-    The further I explore philosophy, the more I understand "the good life". The good life is not a destination, it is not something we achieve by making more money, gaining more friends, or receiving more recognition. The good life is in <i>how</i> we live <i>now</i>. 
-    <br>
-    While many great philosophers have their own <i>how</i>, one particular school of thought sticks out to me most: <a href="https://en.wikipedia.org/wiki/Stoicism" target="_blank">Stoicism</a>.
+    The further I explore philosophy, the more I understand "the good life". The good life is not a destination, it is not something we achieve by making more money, gaining more friends, or receiving more recognition. The good life is in <i>how</i> we live <i>now</i>. The good life comes from <i>within</i>.
 </p>
 <br>
 <h3 class="post-text-header" id="stoicism"><a href="/blog/2#stoicism">Stoicism</a></h3>
 <p class="post-text">
-    In the city of Cyprus in 300 BC, there lived a very wealthy trader know as <a href="https://en.wikipedia.org/wiki/Zeno_of_Citium" target="_blank">Zeno of Citium</a>
+    In the city of Cyprus in 300 BC, there lived a wealthy trader know as <a href="https://en.wikipedia.org/wiki/Zeno_of_Citium" target="_blank">Zeno of Citium</a>. While on a voyage from Phoenicia to Piraeus, his boat sank, along with all of his possessions. Because of that single event, an event entirely out of Zeno's control, he went from wealthy to poor in an instant.
+    <br>
+    If you were Zeno, how would you react? Would you feel angry? Sad? Blame life, God, or nature? I think for most of us, these would be normal reactions. But Zeno, known as the father of Stoicism, responded differently. According to Zeno, although we don't have much control over what happens <i>to</i> us, we do have control of how it <i>affects</i> us. Rather than curling into a ball of despair over his drowned goods, Zeno kept his composure, remaining calm and neutral, despite his predicament. The philosophy of Stoicism was born.
+</p>
+    <a id="screenshot-1" class="post-link" style="width:50%" href="https://en.wikipedia.org/wiki/Zeno_of_Citium" target="_blank">
+        <img  src="https://www.hereticspodcast.com/wp-content/uploads/2022/06/Paolo_Monti_-_Servizio_fotografico_Napoli_1969_-_BEIC_6353768.jpg?w=640">
+    </a>
+    <figcaption>Zeno of Citium, father of Stoicism</figcaption>
+<br>
+<p class="post-text">
+    The main idea of Stoicism is that happiness comes from inner resources. Our external situation is irrelevant, all that matters is our response. By this logic, even a slave can be happy. In fact, one of the most famous Stoic philosophers, <a href="https://en.wikipedia.org/wiki/Epictetus" target="_blank">Epictetus</a>, was born into slavery. It was during his time as a slave that he developed his stoic ideas and principles.
+    <br>
+    I see Stoicism as a way to view, describe, and understand the world. It is a way of life that has lasted for centuries. Stoic philosophy can be applied to situations today the same way it was applied thousands of years ago. Its benefits are just as impactful and its teachings are just as relevant.
+    <br>
+    I've just begun practicing and learning this philosophy, and the truth is most of my understanding of Stoicism has been derived from <i>Meditations</i> <a class="footnote-link" href="#footnote4" id="footlink4">[4]</a>, Wikipedia, YouTube, and 10th grade English class. But what I have practiced has been beneficial and what I have learned has been perspective changing. The reminder of this post will be my personal guide to dealing with the following topics more stoically: 
 </p>
 
+<br>
+<p class="post-text">
+    <ul class="blog_list">
+      <li><a href="/blog/2#focus">Focus</a></li>
+      <li><a href="/blog/2#people">People</a></li>
+      <li><a href="/blog/2#fear">Fear</a></li>
+      <li><a href="/blog/2#defeat">Defeat</a></li>
+    </ul>
+</p>
+<br>
 
 
 <div class="post-line"></div>
@@ -73,8 +142,11 @@
 <p class="footnote" id="footnote3">
 <a class="footnote-link" href="#footlink3">[3]</a> I'm not saying I prefer one over the other. Sometimes a story is the better way to communicate an idea.
 </p>
-
-    </div>
+<br>
+<p class="footnote" id="footnote4">
+<a class="footnote-link" href="#footlink4">[4]</a> I'm going to draw a lot from <i>Meditations</i>. I love the book and I admire Marcus Aurelius, who is not only my favorite Stoic philosopher, but my all-around favorite philosopher. 
+</p>
+</div>
 
 
 

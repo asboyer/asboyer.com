@@ -1,6 +1,6 @@
 {
     "Kanye West is my role model": {
-        "title": "Kanye West is my role model",
+        "title": "Kanye West is My Role Model",
         "id": 0,
         "date": "8.13.21",
         "subjects": ["Life", "Music"],
@@ -8,7 +8,7 @@
         "live": true
     },
     "I used Python to predict the NBA MVP": {
-        "title": "I used Python to predict the NBA MVP",
+        "title": "Predicting the NBA MVP with Python",
         "id": 1,
         "date": "2.7.22",
         "subjects": ["Programming", "Sports"],
@@ -16,7 +16,7 @@
         "live": true
     },
     "Become unstoppable with Stoicism": {
-        "title": "Become unstoppable with Stoicism",
+        "title": "Become Unstoppable with Stoicism",
         "id": 2,
         "date": "7.28.22",
         "subjects": ["Life", "Philosophy", "Self-improvement"],
@@ -48,13 +48,13 @@
         "cover_img": "/static/img/blog/stoicism/marcus.jpg",
         "live": false
     },   
-    "Breaking bad habits and building good ones": {
-        "title": "Breaking Bad Habits and Building Good Ones",
+    "My time management system": {
+        "title": "My Time Management System",
         "id": 3,
-        "date": "7.11.22",
-        "subjects": ["Life", "Self-improvement"],
+        "date": "8.1.22",
+        "subjects": ["Productivity", "Self-improvement"],
         "cover_img": "/static/img/blog/stoicism/marcus.jpg",
-        "blurb": "My complete guide to habits",
+        "blurb": "Are you spending way too much time over thinking how you should organize and manage your time? In this article, I share my five-minute a day system that gives you more time to focus on what matters to you.",
         "live": false
     },
     "Becoming a 'man': bulking": {
