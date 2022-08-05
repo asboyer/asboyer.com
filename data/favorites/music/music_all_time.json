@@ -6142,5 +6142,29 @@
         ],
         "score": 7.89,
         "tracks": []
+    },
+    "Rage Against The Machine": {
+        "artists": "Rage Against The Machine",
+        "id": "4LaRYkT4oy47wEuQgkLBul",
+        "name": "Rage Against The Machine",
+        "popularity": 51,
+        "release_date": "1992-11-03",
+        "total_tracks": 10,
+        "uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+        "image": "https://i.scdn.co/image/ab67616d0000b27324f31a0a281320f0cec6f86f",
+        "top_tracks": [
+            "Bombtrack",
+            "Killing In the Name",
+            "Take the Power Back",
+            "Settle for Nothing",
+            "Know Your Enemy",
+            "Bullet In the Head",
+            "Wake Up",
+            "Fistful of Steel",
+            "Freedom"
+        ],
+        "good_tracks": [],
+        "score": 9.0,
+        "tracks": []
     }
 }
