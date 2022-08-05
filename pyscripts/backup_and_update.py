@@ -132,9 +132,10 @@ def load_{file_name}_{date_string}():
 <section class="my-albums" id="albums">
 <div class="title-music">
     <p class="section__subtitle section__subtitle--books">{date_range_string}</p>
+    <p id="describe">---</p>
     <p id="describe">{"{{"} total_albums {"}}"} albums</p>
     <p id="describe">avg_score: {"{{"} avg_score {"}}"}/10</p>
-    <p id="describe">{"{{"} total_tracks {"}}"}l</p>
+    <p id="describe">{"{{"} total_tracks {"}}"} tracks</p>
 
 </div>
 </section>
