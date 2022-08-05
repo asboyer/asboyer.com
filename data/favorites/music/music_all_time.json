@@ -4914,31 +4914,6 @@
         "score": 6.15,
         "tracks": []
     },
-    "Nuthin' 2 Prove": {
-        "artists": "Lil Yachty",
-        "id": "4qplno3lbet8WvuTGdDG3T",
-        "name": "Nuthin' 2 Prove",
-        "popularity": 60,
-        "release_date": "2018-10-19",
-        "total_tracks": 15,
-        "uri": "spotify:album:4qplno3lbet8WvuTGdDG3T",
-        "image": "https://i.scdn.co/image/ab67616d0000b273fc62848680948acaa7d0305d",
-        "top_tracks": [
-            "Get Dripped (feat. Playboi Carti)",
-            "Yacht Club (feat. Juice WRLD)"
-        ],
-        "good_tracks": [
-            "Gimmie My Respect - Intro",
-            "Riley From The Boondocks",
-            "SaintLaurentYSL (feat. Lil Baby)",
-            "Worth It",
-            "Everything Good, Everything Right",
-            "Next Up",
-            "Forever World (feat. Trippie Redd)"
-        ],
-        "score": 5.22,
-        "tracks": []
-    },
     "Lil Boat": {
         "artists": "Lil Yachty",
         "id": "4bJqW1SBOvsfcEzZwsjdjx",
@@ -5924,6 +5899,7 @@
         "image": "https://i.scdn.co/image/ab67616d0000b273fae944bd93dd1e47591a0df9",
         "top_tracks": [
             "200 FOR LUNCH",
+            "WUNNA FLO (feat. Yak Gotti)",
             "DOLLAZ ON MY HEAD (feat. Young Thug)",
             "GIMMICK",
             "FEIGNING",
@@ -5945,12 +5921,11 @@
             "DO BETTER"
         ],
         "good_tracks": [
-            "WUNNA FLO (feat. Yak Gotti)",
             "ADDYS (feat. Nechie)",
             "DIRTY DIANA",
             "FAR (feat. Young Thug)"
         ],
-        "score": 8.79,
+        "score": 8.9,
         "tracks": []
     },
     "Baby Talk 5": {
@@ -6138,6 +6113,34 @@
             "scars"
         ],
         "score": 7.92,
+        "tracks": []
+    },
+    "Nuthin' 2 Prove": {
+        "artists": "Lil Yachty",
+        "id": "4qplno3lbet8WvuTGdDG3T",
+        "name": "Nuthin' 2 Prove",
+        "popularity": 60,
+        "release_date": "2018-10-19",
+        "total_tracks": 15,
+        "uri": "spotify:album:4qplno3lbet8WvuTGdDG3T",
+        "image": "https://i.scdn.co/image/ab67616d0000b273fc62848680948acaa7d0305d",
+        "top_tracks": [
+            "Gimmie My Respect - Intro",
+            "Get Dripped (feat. Playboi Carti)",
+            "Riley From The Boondocks",
+            "I'm The Mac",
+            "Yacht Club (feat. Juice WRLD)",
+            "SaintLaurentYSL (feat. Lil Baby)",
+            "We Outta Here! (feat. Young Nudy)",
+            "Everything Good, Everything Right",
+            "Next Up",
+            "Forever World (feat. Trippie Redd)",
+            "Fallin' In Luv (feat. Gunna)"
+        ],
+        "good_tracks": [
+            "Worth It"
+        ],
+        "score": 7.89,
         "tracks": []
     }
 }
