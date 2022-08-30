@@ -94,5 +94,61 @@
             "Lean On Me (with Swae Lee)",
             "Day One (with Pharrell & Pusha T)"
         ]
+    },
+    "NAV": {
+        "artists": "NAV",
+        "id": "4JR29CNW14Zc4Z5vflxkoJ",
+        "name": "NAV",
+        "popularity": 64,
+        "release_date": "2017-02-24",
+        "total_tracks": 11,
+        "uri": "spotify:album:4JR29CNW14Zc4Z5vflxkoJ",
+        "image": "https://i.scdn.co/image/ab67616d0000b27309641cc11bfab19e890bbf58",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Myself",
+            "NAV",
+            "My Mind",
+            "Good For It",
+            "Lonely",
+            "Up",
+            "Interlude",
+            "Sleep",
+            "Mariah",
+            "Some Way",
+            "TTD"
+        ]
+    },
+    "Perfect Timing": {
+        "artists": "NAV, Metro Boomin",
+        "id": "6VFETcEfjilkAng073KLt9",
+        "name": "Perfect Timing",
+        "popularity": 60,
+        "release_date": "2017-07-21",
+        "total_tracks": 15,
+        "uri": "spotify:album:6VFETcEfjilkAng073KLt9",
+        "image": "https://i.scdn.co/image/ab67616d0000b273000d429a820f8d8501f861ed",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Perfect Timing (Intro)",
+            "I Don't Care",
+            "Hit",
+            "A$AP Ferg",
+            "Held Me Down",
+            "Minute",
+            "Did You See NAV?",
+            "Bring It Back",
+            "Both Sides",
+            "Call Me",
+            "You Know",
+            "Rich",
+            "Need Some",
+            "I Am",
+            "NAVUZIMETRO#PT2"
+        ]
     }
 }
