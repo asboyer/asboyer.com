@@ -47,14 +47,14 @@
                 "role": "Staff Instructor",
                 "description": "Teaching students the basics of programming through engaging project and lecture based learning.",
                 "start_date": "2020-9-1",
-                "end_date": "PRESENT"
+                "end_date": "2022-8-8"
             }
         },
         "website": "https://www.thecoderschool.com/locations/sudbury/",
         "image": "/static/img/work/coder.png",
         "company": "theCoderSchool",
         "start_date": "2020-9-1",
-        "end_date": "PRESENT"
+        "end_date": "2022-8-8"
     },
     "CyberSummerCamp": {
         "roles": {
@@ -62,13 +62,13 @@
                 "role": "Founder, CEO",
                 "description": "Directing and leading camps to teach younger students about computer security and the IoT.",
                 "start_date": "2020-6-1",
-                "end_date": "PRESENT"
+                "end_date": "2022-8-1"
             }
         },
         "website": "https://www.cybersummercamp.org",
         "image": "/static/img/work/cyber.png",
         "company": "CyberSummerCamp",
         "start_date": "2020-6-1",
-        "end_date": "PRESENT"
+        "end_date": "2022-8-1"
     }
 }
