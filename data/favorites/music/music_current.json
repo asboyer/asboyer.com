@@ -43,10 +43,7 @@
         "total_tracks": 17,
         "uri": "spotify:album:5xtAAHr59ozJ2PQ67utEmi",
         "image": "https://i.scdn.co/image/ab67616d0000b273d00a36fea0639c48eb0ee312",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
+        "top_tracks": [
             "Helluva Price",
             "Drippin'",
             "Almighty (feat. HoodRich Pablo Juan)",
@@ -61,39 +58,14 @@
             "No Joke",
             "Oh Okay (feat. Young Thug & Lil Baby)",
             "Spending Addiction",
-            "Money Don't Change You",
             "Toast Up",
             "Drip or Drown Remix (feat. Lil Yachty)"
-        ]
-    },
-    "Funk Wav Bounces Vol. 2": {
-        "artists": "Calvin Harris",
-        "id": "49DV9eFp2xTdtO7veew5xS",
-        "name": "Funk Wav Bounces Vol. 2",
-        "popularity": 33,
-        "release_date": "2022-08-05",
-        "total_tracks": 14,
-        "uri": "spotify:album:49DV9eFp2xTdtO7veew5xS",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c5844aae8ac82f2a4fa6415e",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "Intro",
-            "New Money (with 21 Savage)",
-            "Potion (with Dua Lipa & Young Thug)",
-            "Woman Of The Year (with Stefflon Don, Chl\u00f6e & Coi Leray)",
-            "Obsessed (with Charlie Puth & Shenseea)",
-            "New To You (with Normani, Tinashe & Offset)",
-            "Ready Or Not (with Busta Rhymes)",
-            "Stay With Me (with Justin Timberlake, Halsey & Pharrell)",
-            "Stay With Me (Part 2) (with Justin Timberlake, Halsey & Pharrell)",
-            "Somebody Else (with Jorja Smith & Lil Durk)",
-            "Nothing More To Say (with 6LACK & Donae\u2019o)",
-            "Live My Best Life (with Snoop Dogg & Latto)",
-            "Lean On Me (with Swae Lee)",
-            "Day One (with Pharrell & Pusha T)"
-        ]
+        ],
+        "good_tracks": [
+            "Money Don't Change You"
+        ],
+        "score": 9.83,
+        "tracks": []
     },
     "NAV": {
         "artists": "NAV",
@@ -149,6 +121,72 @@
             "Need Some",
             "I Am",
             "NAVUZIMETRO#PT2"
+        ]
+    },
+    "Modus Vivendi": {
+        "artists": "070 Shake",
+        "id": "6Q2rUMVAKj1DaDh3xB0IEU",
+        "name": "Modus Vivendi",
+        "popularity": 54,
+        "release_date": "2020-01-17",
+        "total_tracks": 14,
+        "uri": "spotify:album:6Q2rUMVAKj1DaDh3xB0IEU",
+        "image": "https://i.scdn.co/image/ab67616d0000b27320921767dd81e8f90ef9fc71",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Don't Break The Silence",
+            "Come Around",
+            "Morrow",
+            "The Pines",
+            "Guilty Conscience",
+            "Divorce",
+            "It's Forever - Interlude",
+            "Rocketship",
+            "Microdosing",
+            "Nice To Have",
+            "Under The Moon",
+            "Daydreamin",
+            "Terminal B",
+            "Flight319"
+        ]
+    },
+    "Up 2 M\u00eb": {
+        "artists": "Yeat",
+        "id": "1x55Z0fYARLdeJVjG2UESs",
+        "name": "Up 2 M\u00eb",
+        "popularity": 74,
+        "release_date": "2021-09-10",
+        "total_tracks": 22,
+        "uri": "spotify:album:1x55Z0fYARLdeJVjG2UESs",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b20fdc3ee4c262693cfdf005",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Cmon",
+            "Morning mudd",
+            "Got rich",
+            "L\u00ebt ya know",
+            "Stay\u00ebd tha same",
+            "G\u00ebt Busy",
+            "Rokstar",
+            "Tr\u00ebndy way (feat. SeptembersRich)",
+            "Sw\u00ebrved It",
+            "Ya Ya",
+            "U could t\u00ebll",
+            "Factz",
+            "Bak on \u00ebm",
+            "H\u00eby",
+            "Turban",
+            "Twizzy Rich",
+            "Told ya",
+            "Mon\u00eby so big",
+            "D\u00ebserve it",
+            "Kant chang\u00eb",
+            "Callin m\u00eb",
+            "Lying 4 fun"
         ]
     }
 }

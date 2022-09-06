@@ -49,7 +49,7 @@ top = ['Kanye West',
     "Young Stoner Life, Young Thug, Gunna"
     ]
 
-special_albums = ['Scary Hours 2', "Birds In The Trap Sing McKnight", "Scorpion", "2014 Forest Hills Drive", "Culture", "Honestly, Nevermind", "In Rainbows"]
+special_albums = ['Scary Hours 2', "Birds In The Trap Sing McKnight", "Scorpion", "2014 Forest Hills Drive", "Culture", "Honestly, Nevermind", "In Rainbows", "Drip Season 3 (Deluxe)"]
 top_a = ['?', 'Boston', 'Hoodie SZN', 'Loose', 'Everybody', 'Confessions of a Dangerous Mind', 'So Much Fun', 'Flower Boy', 'Thats What They All Say', "Die Lit", "Luv Is Rage 2 (Deluxe)", 'Subluxe', 'So Much Fun (Deluxe)', 'The Incredible True Story']
 for album in all_time_data:
     if (all_time_data[album]['artists'] in top and all_time_data[album]['name'] not in special_albums) or all_time_data[album]['name'] in top_a:

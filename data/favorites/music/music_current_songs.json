@@ -202,5 +202,29 @@
         "track_number": 2,
         "uri": "spotify:track:6KctApRdRLEEhzFJLhJfCr",
         "image": "https://i.scdn.co/image/ab67616d0000b273d7ee986deb6c2903b225ada4"
+    },
+    "Talk": {
+        "artists": "Yeat",
+        "duration_ms": 174857,
+        "explicit": true,
+        "id": "0ypjMI7vHiDP4sLB1C0Qna",
+        "name": "Talk",
+        "popularity": 74,
+        "preview_url": null,
+        "track_number": 1,
+        "uri": "spotify:track:0ypjMI7vHiDP4sLB1C0Qna",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e97df2756c243d8f81cbb0f8"
+    },
+    "Jus' Know": {
+        "artists": "BlackMayo",
+        "duration_ms": 120946,
+        "explicit": true,
+        "id": "53MnFFUIhlOHnyE5aMOnZU",
+        "name": "Jus' Know",
+        "popularity": 65,
+        "preview_url": "https://p.scdn.co/mp3-preview/25022ee6c5206cdba2578790e516cb10a5195d61?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 1,
+        "uri": "spotify:track:53MnFFUIhlOHnyE5aMOnZU",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ab09a33457bba20bc562c4a8"
     }
 }
