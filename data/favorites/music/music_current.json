@@ -188,5 +188,70 @@
             "Callin m\u00eb",
             "Lying 4 fun"
         ]
+    },
+    "Lyf\u00eb": {
+        "artists": "Yeat",
+        "id": "6Xo2PDEoQKzCndIbks2kvu",
+        "name": "Lyf\u00eb",
+        "popularity": 0,
+        "release_date": "2022-09-09",
+        "total_tracks": 12,
+        "uri": "spotify:album:6Xo2PDEoQKzCndIbks2kvu",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ac3b479d910453e58b24f8b7",
+        "top_tracks": [
+            "Flawl\u00ebss (feat. Lil Uzi Vert)",
+            "Up off X",
+            "Out th\u00eb way",
+            "Wat it feel lyk\u00eb",
+            "Can\u2019t stop it",
+            "Krank",
+            "Talk",
+            "Com\u00eb on",
+            "Syst\u00ebm",
+            "Killin \u00ebm"
+        ],
+        "good_tracks": [
+            "Got it all",
+            "Holy 1"
+        ],
+        "score": 9.52,
+        "tracks": []
+    },
+    "Demons Protected By Angels": {
+        "artists": "NAV",
+        "id": "29NWnawJBetVB3lOM9Sbp6",
+        "name": "Demons Protected By Angels",
+        "popularity": 0,
+        "release_date": "2022-09-09",
+        "total_tracks": 19,
+        "uri": "spotify:album:29NWnawJBetVB3lOM9Sbp6",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737da6f8edfd0404b5c52de3eb",
+        "top_tracks": [
+            "Count on Me (Intro)",
+            "Baby",
+            "Dead Shot (with Lil Uzi Vert)",
+            "One Time (with Don Toliver feat. Future)",
+            "Demons in My Cup",
+            "Playa (with Gunna)"
+            
+        ],
+        "good_tracks": [
+            "Never Sleep (with Lil Baby feat. Travis Scott)"
+            
+        ],
+        "score": 0.0,
+        "tracks": [
+            "Weirdo",
+            "My Dawg (with Lil Durk)",
+            "Don't Compare",
+            "Interstellar (with Lil Uzi Vert)",
+            "Loaded",
+            "Lost Me (with RealestK)",
+            "Reset (with Bryson Tiller)",
+            "Mismatch (with Baby Face Ray)",
+            "Wrong Decisions",
+            "Destiny",
+            "Ball in Peace (Outro)"
+        ]
     }
 }
