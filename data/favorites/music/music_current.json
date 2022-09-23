@@ -76,14 +76,9 @@
         "total_tracks": 11,
         "uri": "spotify:album:4JR29CNW14Zc4Z5vflxkoJ",
         "image": "https://i.scdn.co/image/ab67616d0000b27309641cc11bfab19e890bbf58",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
+        "top_tracks": [
             "Myself",
             "NAV",
-            "My Mind",
-            "Good For It",
             "Lonely",
             "Up",
             "Interlude",
@@ -91,103 +86,13 @@
             "Mariah",
             "Some Way",
             "TTD"
-        ]
-    },
-    "Perfect Timing": {
-        "artists": "NAV, Metro Boomin",
-        "id": "6VFETcEfjilkAng073KLt9",
-        "name": "Perfect Timing",
-        "popularity": 60,
-        "release_date": "2017-07-21",
-        "total_tracks": 15,
-        "uri": "spotify:album:6VFETcEfjilkAng073KLt9",
-        "image": "https://i.scdn.co/image/ab67616d0000b273000d429a820f8d8501f861ed",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "Perfect Timing (Intro)",
-            "I Don't Care",
-            "Hit",
-            "A$AP Ferg",
-            "Held Me Down",
-            "Minute",
-            "Did You See NAV?",
-            "Bring It Back",
-            "Both Sides",
-            "Call Me",
-            "You Know",
-            "Rich",
-            "Need Some",
-            "I Am",
-            "NAVUZIMETRO#PT2"
-        ]
-    },
-    "Modus Vivendi": {
-        "artists": "070 Shake",
-        "id": "6Q2rUMVAKj1DaDh3xB0IEU",
-        "name": "Modus Vivendi",
-        "popularity": 54,
-        "release_date": "2020-01-17",
-        "total_tracks": 14,
-        "uri": "spotify:album:6Q2rUMVAKj1DaDh3xB0IEU",
-        "image": "https://i.scdn.co/image/ab67616d0000b27320921767dd81e8f90ef9fc71",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "Don't Break The Silence",
-            "Come Around",
-            "Morrow",
-            "The Pines",
-            "Guilty Conscience",
-            "Divorce",
-            "It's Forever - Interlude",
-            "Rocketship",
-            "Microdosing",
-            "Nice To Have",
-            "Under The Moon",
-            "Daydreamin",
-            "Terminal B",
-            "Flight319"
-        ]
-    },
-    "Up 2 M\u00eb": {
-        "artists": "Yeat",
-        "id": "1x55Z0fYARLdeJVjG2UESs",
-        "name": "Up 2 M\u00eb",
-        "popularity": 74,
-        "release_date": "2021-09-10",
-        "total_tracks": 22,
-        "uri": "spotify:album:1x55Z0fYARLdeJVjG2UESs",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b20fdc3ee4c262693cfdf005",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "Cmon",
-            "Morning mudd",
-            "Got rich",
-            "L\u00ebt ya know",
-            "Stay\u00ebd tha same",
-            "G\u00ebt Busy",
-            "Rokstar",
-            "Tr\u00ebndy way (feat. SeptembersRich)",
-            "Sw\u00ebrved It",
-            "Ya Ya",
-            "U could t\u00ebll",
-            "Factz",
-            "Bak on \u00ebm",
-            "H\u00eby",
-            "Turban",
-            "Twizzy Rich",
-            "Told ya",
-            "Mon\u00eby so big",
-            "D\u00ebserve it",
-            "Kant chang\u00eb",
-            "Callin m\u00eb",
-            "Lying 4 fun"
-        ]
+        ],
+        "good_tracks": [
+            "Good For It",
+            "My Mind"
+        ],
+        "score": 9.48,
+        "tracks": []
     },
     "Lyf\u00eb": {
         "artists": "Yeat",
@@ -232,26 +137,23 @@
             "Dead Shot (with Lil Uzi Vert)",
             "One Time (with Don Toliver feat. Future)",
             "Demons in My Cup",
-            "Playa (with Gunna)"
-            
-        ],
-        "good_tracks": [
-            "Never Sleep (with Lil Baby feat. Travis Scott)"
-            
-        ],
-        "score": 0.0,
-        "tracks": [
-            "Weirdo",
-            "My Dawg (with Lil Durk)",
+            "Playa (with Gunna)",
             "Don't Compare",
             "Interstellar (with Lil Uzi Vert)",
-            "Loaded",
             "Lost Me (with RealestK)",
             "Reset (with Bryson Tiller)",
-            "Mismatch (with Baby Face Ray)",
             "Wrong Decisions",
             "Destiny",
             "Ball in Peace (Outro)"
-        ]
+        ],
+        "good_tracks": [
+            "Never Sleep (with Lil Baby feat. Travis Scott)",
+            "Weirdo",
+            "My Dawg (with Lil Durk)",
+            "Loaded",
+            "Mismatch (with Baby Face Ray)"
+        ],
+        "score": 8.72,
+        "tracks": []
     }
 }

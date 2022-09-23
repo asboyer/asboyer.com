@@ -408,16 +408,16 @@
         "top_tracks": [
             "Friends & Family",
             "Young Wheezy (with Gunna)",
-            "Don't Need Friends (feat. Lil Baby)"
+            "Don't Need Friends (feat. Lil Baby)",
+            "Vetement Socks",
+            "Repercussions (with Young Thug)"
         ],
         "good_tracks": [
             "Breaking News Intro",
-            "Repercussions (with Young Thug)",
-            "Vetement Socks",
             "Make It Right Back",
             "Breaking News Outro"
         ],
-        "score": 4.69,
+        "score": 5.1,
         "tracks": []
     },
     "A N N I V E R S A R Y": {
@@ -6170,6 +6170,61 @@
         ],
         "good_tracks": [],
         "score": 9.0,
+        "tracks": []
+    },
+    "Lyf\u00eb": {
+        "artists": "Yeat",
+        "id": "6Xo2PDEoQKzCndIbks2kvu",
+        "name": "Lyf\u00eb",
+        "popularity": 0,
+        "release_date": "2022-09-09",
+        "total_tracks": 12,
+        "uri": "spotify:album:6Xo2PDEoQKzCndIbks2kvu",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ac3b479d910453e58b24f8b7",
+        "top_tracks": [
+            "Flawl\u00ebss (feat. Lil Uzi Vert)",
+            "Up off X",
+            "Out th\u00eb way",
+            "Wat it feel lyk\u00eb",
+            "Can\u2019t stop it",
+            "Krank",
+            "Talk",
+            "Com\u00eb on",
+            "Syst\u00ebm",
+            "Killin \u00ebm"
+        ],
+        "good_tracks": [
+            "Got it all",
+            "Holy 1"
+        ],
+        "score": 9.52,
+        "tracks": []
+    },
+    "NAV": {
+        "artists": "NAV",
+        "id": "4JR29CNW14Zc4Z5vflxkoJ",
+        "name": "NAV",
+        "popularity": 64,
+        "release_date": "2017-02-24",
+        "total_tracks": 11,
+        "uri": "spotify:album:4JR29CNW14Zc4Z5vflxkoJ",
+        "image": "https://i.scdn.co/image/ab67616d0000b27309641cc11bfab19e890bbf58",
+        "top_tracks": [
+            "Myself",
+            "NAV",
+            "Lonely",
+            "Up",
+            "Interlude",
+            "Sleep",
+            "Mariah",
+            "Some Way",
+            "TTD"
+        ],
+        "good_tracks": [
+            "Good For It",
+            "My Mind"
+        ],
+        "score": 9.48,
         "tracks": []
     }
 }
