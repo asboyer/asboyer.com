@@ -121,8 +121,6 @@ def load_{file_name}_{date_string}():
 #describe {"{"}
     color: #B6F29D;
     margin: 0px;
-    padding-bottom: 10px;
-    padding-top: 20px;
     font-family: monospace;
     background: #111;
     font-size: 15px;

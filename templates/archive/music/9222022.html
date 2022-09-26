@@ -1,0 +1,33 @@
+
+{% extends "layout.html" %}
+
+{% block content %}
+<script type="text/javascript" src="/static/js/favorites/music/current-albums-music.js" data_file="/data/archive/music/9222022/music_current.json"></script>
+<script type="text/javascript" src="/static/js/favorites/music/current-tracks-music.js" data_file0="/data/archive/music/9222022/music_current_songs.json"></script>
+
+<style>
+#describe {
+    color: #B6F29D;
+    margin: 0px;
+    font-family: monospace;
+    background: #111;
+    font-size: 15px;
+}
+</style>
+
+<section class="my-albums" id="albums">
+<div class="title-music">
+    <p class="section__subtitle section__subtitle--books">August - September 2022</p>
+    <p id="describe">---</p>
+    <p id="describe">{{ total_albums }} albums</p>
+    <p id="describe">avg_score: {{ avg_score }}/10</p>
+    <p id="describe">{{ total_tracks }} tracks</p>
+
+</div>
+</section>
+
+<section class="my-songs" id="songs">
+</section> 
+    
+{% endblock %}
+    

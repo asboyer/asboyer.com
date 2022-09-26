@@ -1,0 +1,159 @@
+{
+    "DS4EVER": {
+        "artists": "Gunna",
+        "id": "02uWB8Kekadkl3yGBoOOcx",
+        "name": "DS4EVER",
+        "popularity": 74,
+        "release_date": "2022-01-13",
+        "total_tracks": 20,
+        "uri": "spotify:album:02uWB8Kekadkl3yGBoOOcx",
+        "image": "https://i.scdn.co/image/ab67616d0000b27314d91ebdd6d7e2931322cc1a",
+        "top_tracks": [
+            "private island",
+            "mop (feat. Young Thug)",
+            "P power (feat. Drake)",
+            "idk that bitch (feat. G Herbo)",
+            "pushin P (feat. Young Thug)",
+            "poochie gown",
+            "thought i was playing",
+            "alotta cake",
+            "livin wild",
+            "south to west",
+            "25k jacket (feat. Lil Baby)",
+            "too easy",
+            "flooded",
+            "missing me",
+            "you & me",
+            "die alone (feat. Yung Bleu)",
+            "too easy (Remix) [feat. Future & Roddy Ricch]"
+        ],
+        "good_tracks": [
+            "how you did that (feat. Kodak Black)",
+            "so far ahead > empire"
+        ],
+        "score": 9.21,
+        "tracks": []
+    },
+    "Drip Season 3 (Deluxe)": {
+        "artists": "Gunna",
+        "id": "5xtAAHr59ozJ2PQ67utEmi",
+        "name": "Drip Season 3 (Deluxe)",
+        "popularity": 66,
+        "release_date": "2018-02-02",
+        "total_tracks": 17,
+        "uri": "spotify:album:5xtAAHr59ozJ2PQ67utEmi",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d00a36fea0639c48eb0ee312",
+        "top_tracks": [
+            "Helluva Price",
+            "Drippin'",
+            "Almighty (feat. HoodRich Pablo Juan)",
+            "At The Hotel (feat. Lil Uzi Vert & Young Jordan)",
+            "Top Off",
+            "King Kong (feat. Young Thug)",
+            "Pedestrian",
+            "Lies About You (feat. Lil Durk)",
+            "Mistress",
+            "Car Sick (feat. NAV & Metro Boomin)",
+            "My Soul",
+            "No Joke",
+            "Oh Okay (feat. Young Thug & Lil Baby)",
+            "Spending Addiction",
+            "Toast Up",
+            "Drip or Drown Remix (feat. Lil Yachty)"
+        ],
+        "good_tracks": [
+            "Money Don't Change You"
+        ],
+        "score": 9.83,
+        "tracks": []
+    },
+    "NAV": {
+        "artists": "NAV",
+        "id": "4JR29CNW14Zc4Z5vflxkoJ",
+        "name": "NAV",
+        "popularity": 64,
+        "release_date": "2017-02-24",
+        "total_tracks": 11,
+        "uri": "spotify:album:4JR29CNW14Zc4Z5vflxkoJ",
+        "image": "https://i.scdn.co/image/ab67616d0000b27309641cc11bfab19e890bbf58",
+        "top_tracks": [
+            "Myself",
+            "NAV",
+            "Lonely",
+            "Up",
+            "Interlude",
+            "Sleep",
+            "Mariah",
+            "Some Way",
+            "TTD"
+        ],
+        "good_tracks": [
+            "Good For It",
+            "My Mind"
+        ],
+        "score": 9.48,
+        "tracks": []
+    },
+    "Lyf\u00eb": {
+        "artists": "Yeat",
+        "id": "6Xo2PDEoQKzCndIbks2kvu",
+        "name": "Lyf\u00eb",
+        "popularity": 0,
+        "release_date": "2022-09-09",
+        "total_tracks": 12,
+        "uri": "spotify:album:6Xo2PDEoQKzCndIbks2kvu",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ac3b479d910453e58b24f8b7",
+        "top_tracks": [
+            "Flawl\u00ebss (feat. Lil Uzi Vert)",
+            "Up off X",
+            "Out th\u00eb way",
+            "Wat it feel lyk\u00eb",
+            "Can\u2019t stop it",
+            "Krank",
+            "Talk",
+            "Com\u00eb on",
+            "Syst\u00ebm",
+            "Killin \u00ebm"
+        ],
+        "good_tracks": [
+            "Got it all",
+            "Holy 1"
+        ],
+        "score": 9.52,
+        "tracks": []
+    },
+    "Demons Protected By Angels": {
+        "artists": "NAV",
+        "id": "29NWnawJBetVB3lOM9Sbp6",
+        "name": "Demons Protected By Angels",
+        "popularity": 0,
+        "release_date": "2022-09-09",
+        "total_tracks": 19,
+        "uri": "spotify:album:29NWnawJBetVB3lOM9Sbp6",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737da6f8edfd0404b5c52de3eb",
+        "top_tracks": [
+            "Count on Me (Intro)",
+            "Baby",
+            "Dead Shot (with Lil Uzi Vert)",
+            "One Time (with Don Toliver feat. Future)",
+            "Demons in My Cup",
+            "Playa (with Gunna)",
+            "Don't Compare",
+            "Interstellar (with Lil Uzi Vert)",
+            "Lost Me (with RealestK)",
+            "Reset (with Bryson Tiller)",
+            "Wrong Decisions",
+            "Destiny",
+            "Ball in Peace (Outro)"
+        ],
+        "good_tracks": [
+            "Never Sleep (with Lil Baby feat. Travis Scott)",
+            "Weirdo",
+            "My Dawg (with Lil Durk)",
+            "Loaded",
+            "Mismatch (with Baby Face Ray)"
+        ],
+        "score": 8.72,
+        "tracks": []
+    }
+}
