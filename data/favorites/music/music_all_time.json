@@ -6229,5 +6229,38 @@
         ],
         "score": 9.48,
         "tracks": []
+    },
+    "Drip Season 3 (Deluxe)": {
+        "artists": "Gunna",
+        "id": "5xtAAHr59ozJ2PQ67utEmi",
+        "name": "Drip Season 3 (Deluxe)",
+        "popularity": 66,
+        "release_date": "2018-02-02",
+        "total_tracks": 17,
+        "uri": "spotify:album:5xtAAHr59ozJ2PQ67utEmi",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d00a36fea0639c48eb0ee312",
+        "top_tracks": [
+            "Helluva Price",
+            "Drippin'",
+            "Almighty (feat. HoodRich Pablo Juan)",
+            "At The Hotel (feat. Lil Uzi Vert & Young Jordan)",
+            "Top Off",
+            "King Kong (feat. Young Thug)",
+            "Pedestrian",
+            "Lies About You (feat. Lil Durk)",
+            "Mistress",
+            "Car Sick (feat. NAV & Metro Boomin)",
+            "My Soul",
+            "No Joke",
+            "Oh Okay (feat. Young Thug & Lil Baby)",
+            "Spending Addiction",
+            "Toast Up",
+            "Drip or Drown Remix (feat. Lil Yachty)"
+        ],
+        "good_tracks": [
+            "Money Don't Change You"
+        ],
+        "score": 9.83,
+        "tracks": []
     }
 }
