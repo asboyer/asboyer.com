@@ -49,6 +49,9 @@ $(document).ready(function(){
             if(values.caption != "") {
                 caption = `<p style="font-size: 18px; font-weight: bold" class="song-artist">${values.caption}</p>`
             }
+            else {
+                caption = `<p style="font-size: 18px; font-weight: bold" class="song-artist">${(values.name).split(".")[0]}</p>`
+            }
 
             var link = `/static/img/gallery/${values.name}`
 
