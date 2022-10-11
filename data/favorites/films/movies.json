@@ -446,5 +446,12 @@
         "image": "http://image.tmdb.org/t/p/original/yuNs09hvpHVU1cBTCAk9zxsL2oW.jpg",
         "rating": 8.4,
         "director": "Christopher Nolan"
+    },
+    "Ferris Bueller's Day Off": {
+        "id": "0091042",
+        "title": "Ferris Bueller's Day Off",
+        "image": "http://image.tmdb.org/t/p/original/p07qwOft8y4iFVPLnXLN5WGsHuJ.jpg",
+        "rating": 7.8,
+        "director": "John Hughes"
     }
 }
