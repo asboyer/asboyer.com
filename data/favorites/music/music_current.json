@@ -107,22 +107,24 @@
         "total_tracks": 18,
         "uri": "spotify:album:59hIIDzaPSH5O3QSz4zX0t",
         "image": "https://i.scdn.co/image/ab67616d0000b273ffe5b62233340cb6d453fc2f",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
+        "top_tracks": [
             "Two Infinity Links",
-            "Tony Starks",
             "HOTEL LOBBY (Unc & Phew)",
             "Bars Into Captions",
-            "See Bout It (feat. Mustard)",
             "To The Bone (feat. YoungBoy Never Broke Again)",
-            "Not Out",
             "Chocolate (feat. Young Thug and Gunna)",
-            "2.30",
-            "Look @ This",
-            "Mixy (feat. Summer Walker)",
+            "Mixy (feat. Summer Walker)"
             "Messy",
+            
+        ],
+        "good_tracks": [
+            "Tony Starks",
+            "Not Out",
+            "Look @ This"
+            
+        ],
+        "score": 0.0,
+        "tracks": [
             "Nothing Changed",
             "Integration",
             "Big Stunna (feat. Birdman)",
