@@ -401,26 +401,67 @@
         "artists": "NAV",
         "id": "1tihFpzHHM9mDSoFbhMoZL",
         "name": "Emergency Tsunami",
-        "popularity": 68,
+        "popularity": 58,
         "release_date": "2020-11-06",
         "total_tracks": 14,
         "uri": "spotify:album:1tihFpzHHM9mDSoFbhMoZL",
         "image": "https://i.scdn.co/image/ab67616d0000b27392621d7615b7f5d056f5bbfe",
         "top_tracks": [
+            "Breaking News Intro",
+            "Breaking News Outro",
             "Friends & Family",
             "Young Wheezy (with Gunna)",
-            "Don't Need Friends (feat. Lil Baby)",
-            "Vetement Socks",
-            "Repercussions (with Young Thug)",
             "Nasty",
+            "Repercussions (with Young Thug)",
+            "Vetement Socks",
+            "Don't Need Friends (feat. Lil Baby)",
             "Make It Right Back"
         ],
         "good_tracks": [
-            "Breaking News Intro",
-            "Make It Right Back",
-            "Breaking News Outro"
+            "Trains (with Lil Keed)",
+            "Modest"
         ],
-        "score": 6.53,
+        "score": 7.45,
+        "tracks": []
+    },
+    "My Turn (Deluxe)": {
+        "artists": "Lil Baby",
+        "id": "6uhEg4ASZYLIilZFCBFy1r",
+        "name": "My Turn (Deluxe)",
+        "popularity": 68,
+        "release_date": "2020-05-01",
+        "total_tracks": 26,
+        "uri": "spotify:album:6uhEg4ASZYLIilZFCBFy1r",
+        "image": "https://i.scdn.co/image/ab67616d0000b27376a4577dd654bf457a4ad1f8",
+        "top_tracks": [
+            "Heatin Up (feat. Gunna)",
+            "Woah",
+            "Commercial (feat. Lil Uzi Vert)",
+            "Sum 2 Prove",
+            "Social Distancing",
+            "Low Down",
+            "Get Money",
+            "Live Off My Closet (feat. Future)",
+            "We Paid (feat. 42 Dugg)"
+        ],
+        "good_tracks": [
+            "How",
+            "Get Ugly",
+            "Grace (feat. 42 Dugg)",
+            "No Sucker (feat. Moneybagg Yo)",
+            "Same Thing",
+            "Emotionally Scarred",
+            "Forever (feat. Lil Wayne)",
+            "We Should (feat. Young Thug)",
+            "Catch The Sun - From \"Queen & Slim: The Soundtrack\"",
+            "Consistent",
+            "Hurtin",
+            "Forget That (feat. Rylo Rodriguez)",
+            "Solid",
+            "Gang Signs",
+            "All In"
+        ],
+        "score": 8.27,
         "tracks": []
     },
     "A N N I V E R S A R Y": {
@@ -3860,7 +3901,7 @@
         "artists": "Lil Uzi Vert",
         "id": "0zicd2mBV8HTzSubByj4vP",
         "name": "Luv Is Rage 2 (Deluxe)",
-        "popularity": 76,
+        "popularity": 71,
         "release_date": "2017-11-17",
         "total_tracks": 20,
         "uri": "spotify:album:0zicd2mBV8HTzSubByj4vP",
@@ -3869,26 +3910,27 @@
             "Two\u00ae",
             "444+222",
             "Sauce It Up",
-            "The Way Life Goes (feat. Oh Wonder)",
-            "Neon Guts (feat. Pharrell Williams)",
-            "Dark Queen",
-            "XO Tour Llif3",
-            "20 Min"
-        ],
-        "good_tracks": [
             "No Sleep Leak",
+            "The Way Life Goes (feat. Oh Wonder)",
             "For Real",
-            "Feelings Mutual",
+            "Neon Guts (feat. Pharrell Williams)",
             "Early 20 Rager",
             "UnFazed (feat. The Weeknd)",
             "Pretty Mami",
             "How to Talk",
             "X",
-            "Malfunction",
+            "Dark Queen",
+            "XO Tour Llif3",
+            "Skir Skirr",
             "Loaded",
-            "Diamonds All on My Wrist"
+            "Diamonds All on My Wrist",
+            "Feelings Mutual",
+            "Malfunction",
+            "20 Min"
         ],
-        "score": 8.58
+        "good_tracks": [],
+        "score": 10.0,
+        "tracks": []
     },
     "A Love Supreme": {
         "artists": "John Coltrane",
@@ -4670,7 +4712,8 @@
             "Enemies (feat. DaBaby)",
             "Circles",
             "Take What You Want (feat. Ozzy Osbourne & Travis Scott)",
-            "Sunflower - Spider-Man: Into the Spider-Verse"
+            "Sunflower - Spider-Man: Into the Spider-Verse",
+            "I Know"
         ],
         "good_tracks": [
             "Hollywood's Bleeding",
@@ -4684,7 +4727,7 @@
             "Goodbyes (feat. Young Thug)",
             "Wow."
         ],
-        "score": 7.84,
+        "score": 8.43,
         "tracks": []
     },
     "Culture": {
@@ -5843,28 +5886,29 @@
         "image": "https://i.scdn.co/image/ab67616d0000b27314d91ebdd6d7e2931322cc1a",
         "top_tracks": [
             "private island",
-            "mop (feat. Young Thug)",
-            "P power (feat. Drake)",
-            "idk that bitch (feat. G Herbo)",
             "pushin P (feat. Young Thug)",
             "poochie gown",
+            "mop (feat. Young Thug)",
             "thought i was playing",
+            "P power (feat. Drake)",
+            "how you did that (feat. Kodak Black)",
             "alotta cake",
             "livin wild",
+            "you & me",
             "south to west",
             "25k jacket (feat. Lil Baby)",
             "too easy",
+            "idk that bitch (feat. G Herbo)",
             "flooded",
-            "missing me",
-            "you & me",
             "die alone (feat. Yung Bleu)",
             "too easy (Remix) [feat. Future & Roddy Ricch]"
         ],
         "good_tracks": [
-            "how you did that (feat. Kodak Black)",
+            "life of sin (feat. Nechie)",
+            "missing me",
             "so far ahead > empire"
         ],
-        "score": 9.21,
+        "score": 9.57,
         "tracks": []
     },
     "Drip Harder": {
@@ -6065,33 +6109,6 @@
             "Vision Clear"
         ],
         "score": 7.6,
-        "tracks": []
-    },
-    "Drip Season 3": {
-        "artists": "Gunna",
-        "id": "2zfUkbJbKtO6wGopVtmlWf",
-        "name": "Drip Season 3",
-        "popularity": 22,
-        "release_date": "2018-02-02",
-        "total_tracks": 14,
-        "uri": "spotify:album:2zfUkbJbKtO6wGopVtmlWf",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731cfe904104e785503246fe53",
-        "top_tracks": [
-            "Helluva Price",
-            "Drippin'",
-            "Top Off",
-            "Pedestrian",
-            "Lies About You (feat. Lil Durk)",
-            "Car Sick (feat. NAV & Metro Boomin)",
-            "My Soul",
-            "Spending Addiction",
-            "Drip or Drown Remix (feat. Lil Yachty)"
-        ],
-        "good_tracks": [
-            "No Joke",
-            "Toast Up"
-        ],
-        "score": 7.45,
         "tracks": []
     },
     "The Melodic Blue": {
