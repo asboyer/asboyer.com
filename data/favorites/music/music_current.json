@@ -1,203 +1,182 @@
 {
-    "Luv Is Rage 2 (Deluxe)": {
-        "artists": "Lil Uzi Vert",
-        "id": "0zicd2mBV8HTzSubByj4vP",
-        "name": "Luv Is Rage 2 (Deluxe)",
-        "popularity": 71,
-        "release_date": "2017-11-17",
-        "total_tracks": 20,
-        "uri": "spotify:album:0zicd2mBV8HTzSubByj4vP",
-        "image": "https://i.scdn.co/image/ab67616d0000b2730d5a84e4e47399d2726c330c",
+    "Her Loss": {
+        "artists": "Drake, 21 Savage",
+        "id": "5MS3MvWHJ3lOZPLiMxzOU6",
+        "name": "Her Loss",
+        "popularity": 0,
+        "release_date": "2022-11-04",
+        "total_tracks": 16,
+        "uri": "spotify:album:5MS3MvWHJ3lOZPLiMxzOU6",
+        "image": "https://i.scdn.co/image/ab67616d0000b27302dd500610becbe0a6e24f94",
         "top_tracks": [
-            "Two\u00ae",
-            "444+222",
-            "Sauce It Up",
-            "No Sleep Leak",
-            "The Way Life Goes (feat. Oh Wonder)",
-            "For Real",
-            "Neon Guts (feat. Pharrell Williams)",
-            "Early 20 Rager",
-            "UnFazed (feat. The Weeknd)",
-            "Pretty Mami",
-            "How to Talk",
-            "X",
-            "Dark Queen",
-            "XO Tour Llif3",
-            "Skir Skirr",
-            "Loaded",
-            "Diamonds All on My Wrist",
-            "Feelings Mutual",
-            "Malfunction",
-            "20 Min"
+            "Rich Flex",
+            "Major Distribution",
+            "BackOutsideBoyz",
+            "Privileged Rappers",
+            "Hours In Silence",
+            "Circo Loco",
+            "Pussy & Millions (feat. Travis Scott)",
+            "Broke Boys",
+            "Middle of the Ocean",
+            "More M\u2019s"
+        ],
+        "good_tracks": [
+            "On BS",
+            "Jumbotron Shit Poppin",
+            "3AM on Glenwood",
+            "I Guess It's Fuck Me",
+            "Treacherous Twins"
+        ],
+        "score": 8.48,
+        "tracks": []
+    },
+    "The Forever Story": {
+        "artists": "JID",
+        "id": "3QVjpIxcksDkJmOnvlOJjg",
+        "name": "The Forever Story",
+        "popularity": 75,
+        "release_date": "2022-08-26",
+        "total_tracks": 15,
+        "uri": "spotify:album:3QVjpIxcksDkJmOnvlOJjg",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736de37e432e720323f4e31edc",
+        "top_tracks": [
+            "Raydar",
+            "Dance Now (feat. Kenny Mason)",
+            "Crack Sandwich",
+            "Surround Sound (feat. 21 Savage & Baby Tate)",
+            "Kody Blu 31",
+            "Bruddanem (feat. Lil Durk)",
+            "Can\u2019t Make U Change (feat. Ari Lennox)",
+            "Stars (feat. Yasiin Bey)",
+            "Just In Time (feat. Lil Wayne & Kenny Mason)",
+            "Money",
+            "Better Days (feat. Johnta Austin)",
+            "Lauder Too (feat. Ravyn Lenae & Eryn Allen Kane)"
+        ],
+        "good_tracks": [
+            "Galaxy",
+            "Can\u2019t Punk Me (feat. EARTHGANG)"
+        ],
+        "score": 8.95,
+        "tracks": []
+    },
+    "10": {
+        "artists": "Westside Gunn",
+        "id": "138M0lORis5tDxurpIbd7V",
+        "name": "10",
+        "popularity": 62,
+        "release_date": "2022-10-28",
+        "total_tracks": 12,
+        "uri": "spotify:album:138M0lORis5tDxurpIbd7V",
+        "image": "https://i.scdn.co/image/ab67616d0000b273db90972fc5ebdf05c7cce910",
+        "top_tracks": [
+            "FlyGod Jr (feat. DJ Drama)",
+            "Shootouts In Soho (feat. A$AP Rocky & Stove God Cooks)",
+            "Science Class (feat. Busta Rhymes, Raekwon, Ghostface Killah & Stove God Cooks)",
+            "Red Death (feat. Benny The Butcher, Stove God Cooks, Rome Streetz, Armani Caesar, Jay Worthy, Conway the Machine & Robby Takac)"
+        ],
+        "good_tracks": [
+            "Super Kick Party",
+            "Peppas (feat. Black Star)",
+            "Nigo Louis (feat. Westside Pootie)",
+            "BDP (feat. Rome Streetz & Stove God Cooks)",
+            "God Is Love (feat. Estee Nack, Stove God Cooks & Keisha Plum)",
+            "Mac Don't Stop"
+        ],
+        "score": 6.9,
+        "tracks": []
+    },
+    "Chillhop Essentials Fall 2019": {
+        "artists": "Various Artists",
+        "id": "23iavtkZyk6Nep7V9B0kpD",
+        "name": "Chillhop Essentials Fall 2019",
+        "popularity": 47,
+        "release_date": "2019-09-25",
+        "total_tracks": 24,
+        "uri": "spotify:album:23iavtkZyk6Nep7V9B0kpD",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f2683d1a8bb445535d952676",
+        "top_tracks": [
+            "Cypress",
+            "Woodnot",
+            "Memories.",
+            "Move Together",
+            "Longwayhome",
+            "Rockaway 5pm",
+            "Aires",
+            "Coffee Break",
+            "Simplicity",
+            "Wandering At Night",
+            "Yeah",
+            "Beavis Pt. 1",
+            "Hypnosis",
+            "9.23.19",
+            "Angel Eyes",
+            "Save Your Love"
+        ],
+        "good_tracks": [
+            "Haze",
+            "Pale Ale",
+            "Peace of Mind",
+            "Bonfire",
+            "On Holly"
+        ],
+        "score": 8.4,
+        "tracks": []
+    },
+    "It's Only Me": {
+        "artists": "Lil Baby",
+        "id": "0FYvMdfTfYJxnJnKs1wDb0",
+        "name": "It's Only Me",
+        "popularity": 85,
+        "release_date": "2022-10-14",
+        "total_tracks": 23,
+        "uri": "spotify:album:0FYvMdfTfYJxnJnKs1wDb0",
+        "image": "https://i.scdn.co/image/ab67616d0000b27366b04b41fa6f8908dce86695",
+        "top_tracks": [
+            "Pop Out (feat. Nardo Wick)",
+            "Never Hating (feat. Young Thug)",
+            "Not Finished",
+            "In A Minute",
+            "From Now On (feat. Future)",
+            "Top Priority",
+            "Shiest Talk (feat. Pooh Shiesty)"
+        ],
+        "good_tracks": [
+            "Real Spill",
+            "Stand On It",
+            "Heyy",
+            "California Breeze",
+            "Forever (feat. Fridayy)",
+            "Waterfall Flow",
+            "Everything",
+            "Back and Forth (feat. EST Gee)",
+            "No Fly Zone"
+        ],
+        "score": 6.3,
+        "tracks": []
+    },
+    "Bags & Trane": {
+        "artists": "Milt Jackson & John Coltrane",
+        "id": "438EDpsx9oHYfdF2IaJXef",
+        "name": "Bags & Trane",
+        "popularity": 19,
+        "release_date": "2005-03-22",
+        "total_tracks": 8,
+        "uri": "spotify:album:438EDpsx9oHYfdF2IaJXef",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731f1d3212c4c062bea3a25dc3",
+        "top_tracks": [
+            "Stairway to the Stars - Alternate Take"
         ],
         "good_tracks": [],
-        "score": 10.0,
-        "tracks": []
-    },
-    "DS4EVER": {
-        "artists": "Gunna",
-        "id": "02uWB8Kekadkl3yGBoOOcx",
-        "name": "DS4EVER",
-        "popularity": 74,
-        "release_date": "2022-01-13",
-        "total_tracks": 20,
-        "uri": "spotify:album:02uWB8Kekadkl3yGBoOOcx",
-        "image": "https://i.scdn.co/image/ab67616d0000b27314d91ebdd6d7e2931322cc1a",
-        "top_tracks": [
-            "private island",
-            "pushin P (feat. Young Thug)",
-            "poochie gown",
-            "mop (feat. Young Thug)",
-            "thought i was playing",
-            "P power (feat. Drake)",
-            "how you did that (feat. Kodak Black)",
-            "alotta cake",
-            "livin wild",
-            "you & me",
-            "south to west",
-            "25k jacket (feat. Lil Baby)",
-            "too easy",
-            "idk that bitch (feat. G Herbo)",
-            "flooded",
-            "die alone (feat. Yung Bleu)",
-            "too easy (Remix) [feat. Future & Roddy Ricch]"
-        ],
-        "good_tracks": [
-            "life of sin (feat. Nechie)",
-            "missing me",
-            "so far ahead > empire"
-        ],
-        "score": 9.57,
-        "tracks": []
-    },
-    "Drip Harder": {
-        "artists": "Lil Baby, Gunna",
-        "id": "2yXnY2NiaZk9QiJJittS81",
-        "name": "Drip Harder",
-        "popularity": 72,
-        "release_date": "2018-10-05",
-        "total_tracks": 13,
-        "uri": "spotify:album:2yXnY2NiaZk9QiJJittS81",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ce159a3ba2096e13fa9d4b4c",
-        "top_tracks": [
-            "Off White VLONE (Lil Baby & Gunna feat. Lil Durk & NAV)",
-            "Business Is Business (Lil Baby & Gunna)",
-            "Belly (Lil Baby & Gunna)",
-            "Deep End (Lil Baby & Gunna)",
-            "Underdog (Lil Baby & Gunna)",
-            "I Am (Lil Baby & Gunna)",
-            "Style Stealer (Lil Baby & Gunna)",
-            "Close Friends (Lil Baby & Gunna)",
-            "Drip Too Hard (Lil Baby & Gunna)",
-            "Never Recover (Lil Baby & Gunna, Drake)"
-        ],
-        "good_tracks": [
-            "World Is Yours (Lil Baby & Gunna)",
-            "My Jeans (Lil Baby & Gunna feat. Young Thug)"
-        ],
-        "score": 8.97,
-        "tracks": []
-    },
-    "Only Built For Infinity Links": {
-        "artists": "Quavo, Takeoff",
-        "id": "59hIIDzaPSH5O3QSz4zX0t",
-        "name": "Only Built For Infinity Links",
-        "popularity": 66,
-        "release_date": "2022-10-07",
-        "total_tracks": 18,
-        "uri": "spotify:album:59hIIDzaPSH5O3QSz4zX0t",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ffe5b62233340cb6d453fc2f",
-        "top_tracks": [
-            "Two Infinity Links",
-            "HOTEL LOBBY (Unc & Phew)",
-            "Bars Into Captions",
-            "To The Bone (feat. YoungBoy Never Broke Again)",
-            "Chocolate (feat. Young Thug and Gunna)",
-            "Mixy (feat. Summer Walker)",
-            "Messy"
-            
-        ],
-        "good_tracks": [
-            "Tony Starks",
-            "Not Out",
-            "Look @ This"
-            
-        ],
         "score": 0.0,
         "tracks": [
-            "Nothing Changed",
-            "Integration",
-            "Big Stunna (feat. Birdman)",
-            "Us vs. Them (feat Gucci Mane)",
-            "Hell Yeah",
-            "Tools"
+            "The Late Late Blues",
+            "Bags & Trane",
+            "Three Little Words",
+            "The Night We Called It a Day",
+            "Be-Bop",
+            "Blues Legacy - Alternate Take",
+            "Centerpiece - Alternate Take"
         ]
-    },
-    "Emergency Tsunami": {
-        "artists": "NAV",
-        "id": "1tihFpzHHM9mDSoFbhMoZL",
-        "name": "Emergency Tsunami",
-        "popularity": 58,
-        "release_date": "2020-11-06",
-        "total_tracks": 14,
-        "uri": "spotify:album:1tihFpzHHM9mDSoFbhMoZL",
-        "image": "https://i.scdn.co/image/ab67616d0000b27392621d7615b7f5d056f5bbfe",
-        "top_tracks": [
-            "Breaking News Intro",
-            "Breaking News Outro",
-            "Friends & Family",
-            "Young Wheezy (with Gunna)",
-            "Nasty",
-            "Repercussions (with Young Thug)",
-            "Vetement Socks",
-            "Don't Need Friends (feat. Lil Baby)",
-            "Make It Right Back"
-        ],
-        "good_tracks": [
-            "Trains (with Lil Keed)",
-            "Modest"
-        ],
-        "score": 7.45,
-        "tracks": []
-    },
-    "My Turn (Deluxe)": {
-        "artists": "Lil Baby",
-        "id": "6uhEg4ASZYLIilZFCBFy1r",
-        "name": "My Turn (Deluxe)",
-        "popularity": 68,
-        "release_date": "2020-05-01",
-        "total_tracks": 26,
-        "uri": "spotify:album:6uhEg4ASZYLIilZFCBFy1r",
-        "image": "https://i.scdn.co/image/ab67616d0000b27376a4577dd654bf457a4ad1f8",
-        "top_tracks": [
-            "Heatin Up (feat. Gunna)",
-            "Woah",
-            "Commercial (feat. Lil Uzi Vert)",
-            "Sum 2 Prove",
-            "Social Distancing",
-            "Low Down",
-            "Get Money",
-            "Live Off My Closet (feat. Future)",
-            "We Paid (feat. 42 Dugg)"
-        ],
-        "good_tracks": [
-            "How",
-            "Get Ugly",
-            "Grace (feat. 42 Dugg)",
-            "No Sucker (feat. Moneybagg Yo)",
-            "Same Thing",
-            "Emotionally Scarred",
-            "Forever (feat. Lil Wayne)",
-            "We Should (feat. Young Thug)",
-            "Catch The Sun - From \"Queen & Slim: The Soundtrack\"",
-            "Consistent",
-            "Hurtin",
-            "Forget That (feat. Rylo Rodriguez)",
-            "Solid",
-            "Gang Signs",
-            "All In"
-        ],
-        "score": 8.27,
-        "tracks": []
     }
 }

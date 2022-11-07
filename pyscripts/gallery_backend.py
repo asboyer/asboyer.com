@@ -11,6 +11,8 @@ def add_img():
     to_add = list(set(in_dir) - set(in_data))
     to_remove = list(set(in_data) - set(in_dir))
     for f in to_add:
+        if f.startswith("."):
+            continue
         print(f'adding {f}...')
         data[f] = {
             "name": f,

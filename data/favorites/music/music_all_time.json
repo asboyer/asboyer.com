@@ -3921,15 +3921,16 @@
             "X",
             "Dark Queen",
             "XO Tour Llif3",
-            "Skir Skirr",
             "Loaded",
             "Diamonds All on My Wrist",
             "Feelings Mutual",
-            "Malfunction",
             "20 Min"
         ],
-        "good_tracks": [],
-        "score": 10.0,
+        "good_tracks": [
+            "Skir Skirr",
+            "Malfunction"
+        ],
+        "score": 9.83,
         "tracks": []
     },
     "A Love Supreme": {
