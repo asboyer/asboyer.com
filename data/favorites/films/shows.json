@@ -140,5 +140,12 @@
         "image": "http://image.tmdb.org/t/p/original/71f3JHlJCP6V7LhHHiKZgjtFxZw.jpg",
         "rating": 8.1,
         "creator": "Jack Carr, Tolu Awosika"
+    },
+    "The Sopranos": {
+        "id": "0141842",
+        "title": "The Sopranos",
+        "image": "http://image.tmdb.org/t/p/original/u7dlARwP2zsqHaMNL5HtHhaEPea.jpg",
+        "rating": 9.2,
+        "creator": "David Chase"
     }
 }

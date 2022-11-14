@@ -165,18 +165,80 @@
         "uri": "spotify:album:438EDpsx9oHYfdF2IaJXef",
         "image": "https://i.scdn.co/image/ab67616d0000b2731f1d3212c4c062bea3a25dc3",
         "top_tracks": [
-            "Stairway to the Stars - Alternate Take"
+            "Stairway to the Stars - Alternate Take",
+            "The Late Late Blues"
         ],
         "good_tracks": [],
         "score": 0.0,
         "tracks": [
-            "The Late Late Blues",
             "Bags & Trane",
             "Three Little Words",
             "The Night We Called It a Day",
             "Be-Bop",
             "Blues Legacy - Alternate Take",
             "Centerpiece - Alternate Take"
+        ]
+    },
+    "I Didn't Mean To Haunt You": {
+        "artists": "Quadeca",
+        "id": "3c0NHNo2Gn0X7uARad3hGv",
+        "name": "I Didn't Mean To Haunt You",
+        "popularity": 29,
+        "release_date": "2022-11-10",
+        "total_tracks": 11,
+        "uri": "spotify:album:3c0NHNo2Gn0X7uARad3hGv",
+        "image": "https://i.scdn.co/image/ab67616d0000b27345f6c58341c281d50d622c5c",
+        "top_tracks": [
+            "sorry4dying",
+            "tell me a joke",
+            "don't mind me",
+            "born yesterday",
+            "house settling",
+            "knots",
+            "fractions of infinity"
+        ],
+        "good_tracks": [
+            "picking up hands",
+            "the memories we lost in translation",
+            "fantasyworld",
+            "cassini's division"
+        ],
+        "score": 8.96,
+        "tracks": []
+    },
+    "Sinatra/Jobim: The Complete Reprise Recordings": {
+        "artists": "Frank Sinatra, Ant\u00f4nio Carlos Jobim",
+        "id": "5280NkLzxe2w7K1JW9I8jX",
+        "name": "Sinatra/Jobim: The Complete Reprise Recordings",
+        "popularity": 53,
+        "release_date": "1967-03",
+        "total_tracks": 20,
+        "uri": "spotify:album:5280NkLzxe2w7K1JW9I8jX",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737d6f106efadd36f7779383c7",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "The Girl From Ipanema",
+            "Dindi",
+            "Change Partners",
+            "Quiet Nights of Quiet Stars (Corcovado)",
+            "Meditation (Medita\u00e7\u00e3o)",
+            "If You Never Come To Me (In\u00fatil Paisagen)",
+            "How Insensitive (Insensatez)",
+            "I Concentrate On You",
+            "Baubles, Bangles And Beads",
+            "Once I Loved (O Amor en Paz)",
+            "The Song Of The Sabia",
+            "Drinking Water (Aqua de Beber)",
+            "Someone To Light Up My Life",
+            "Triste",
+            "This Happy Madness (Estrada Branca)",
+            "One Note Samba (Samba de Uma Nota So)",
+            "Don\u2019t Ever Go Away (Por Causa de Voce)",
+            "Wave",
+            "Off Key (Desafinado)",
+            "Bonita"
         ]
     }
 }

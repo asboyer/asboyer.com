@@ -358,5 +358,17 @@
         "track_number": 5,
         "uri": "spotify:track:22WV03i2lBbwNVCE1g671p",
         "image": "https://i.scdn.co/image/ab67616d0000b273f5991f6f1f0de2277bb8d948"
+    },
+    "G.I. Joe (feat. Louie Ray)": {
+        "artists": "Lil Yachty, Louie Ray",
+        "duration_ms": 166393,
+        "explicit": true,
+        "id": "7canqyzMKUYBq5DMRJMMoG",
+        "name": "G.I. Joe (feat. Louie Ray)",
+        "popularity": 50,
+        "preview_url": null,
+        "track_number": 5,
+        "uri": "spotify:track:7canqyzMKUYBq5DMRJMMoG",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ce747f352b4b912c229fd84f"
     }
 }
