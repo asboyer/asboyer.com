@@ -370,5 +370,41 @@
         "track_number": 5,
         "uri": "spotify:track:7canqyzMKUYBq5DMRJMMoG",
         "image": "https://i.scdn.co/image/ab67616d0000b273ce747f352b4b912c229fd84f"
+    },
+    "BURN EVERYTHING": {
+        "artists": "Sean Leon, Ye",
+        "duration_ms": 169463,
+        "explicit": true,
+        "id": "3Bcphu5Gi1NdhMKAwx2yIj",
+        "name": "BURN EVERYTHING",
+        "popularity": 51,
+        "preview_url": "https://p.scdn.co/mp3-preview/5300766f3ac1eaaf9fcb2474a6a655769b04377a?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 1,
+        "uri": "spotify:track:3Bcphu5Gi1NdhMKAwx2yIj",
+        "image": "https://i.scdn.co/image/ab67616d0000b273dc802ce2193d2c5bae55190c"
+    },
+    "SHOTS! (WITH DENZEL CURRY)": {
+        "artists": "JELEEL!, Denzel Curry",
+        "duration_ms": 136216,
+        "explicit": true,
+        "id": "01Oeql41yunzKzHyIfBWmr",
+        "name": "SHOTS! (WITH DENZEL CURRY)",
+        "popularity": 53,
+        "preview_url": null,
+        "track_number": 1,
+        "uri": "spotify:track:01Oeql41yunzKzHyIfBWmr",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ccb48cbb182133621c1d4377"
+    },
+    "You're The Best": {
+        "artists": "Joe \"Bean\" Esposito",
+        "duration_ms": 179666,
+        "explicit": false,
+        "id": "4zXa17K83Pp6N2yXdVc2sv",
+        "name": "You're The Best",
+        "popularity": 62,
+        "preview_url": null,
+        "track_number": 10,
+        "uri": "spotify:track:4zXa17K83Pp6N2yXdVc2sv",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735631dff79dceb723ab1e680d"
     }
 }
