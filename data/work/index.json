@@ -1,35 +1,4 @@
 {
-
-    "DonForge": {
-        "roles": {
-            "Founder": {
-                "role": "Founder",
-                "description": "Selling men's lifestyle products using Shopify. Designed and developed store, communicated with suppliers.",
-                "start_date": "2022-11-14",
-                "end_date": "PRESENT"
-            }
-        },
-        "website": "https://www.donforge.com",
-        "image": "/static/img/work/don_forge.png",
-        "company": "Don Forge",
-        "start_date": "2022-11-14",
-        "end_date": "PRESENT"
-    },
-    "MGH": {
-        "roles": {
-            "Research Student": {
-                "role": "Research Student",
-                "description": "Developed machine learning models for Department of Neurology & Research.",
-                "start_date": "2021-8-1", 
-                "end_date": "2022-3-7"
-            }
-        },
-        "website": "https://www.massgeneral.org/",
-        "image": "/static/img/work/mgh.png",
-        "company": "Massachusetts General Hospital",
-        "start_date": "2021-8-1",
-        "end_date": "2022-3-7"
-    },
     "IntelyCare": {
         "roles": {
             "Data Science Intern": {
