@@ -46,7 +46,8 @@ top = ['Kanye West',
     'Billie Eilish',
     'Morgan Wallen',
     'Pink Floyd',
-    "Young Stoner Life, Young Thug, Gunna"
+    'Young Stoner Life, Young Thug, Gunna',
+    'Frank Sinatra, Ant\u00f4nio Carlos Jobim'
     ]
 
 special_albums = ['Scary Hours 2', "Birds In The Trap Sing McKnight", "Scorpion", "2014 Forest Hills Drive", "Culture", "Honestly, Nevermind", "In Rainbows", "Drip Season 3 (Deluxe)"]

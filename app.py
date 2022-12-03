@@ -744,3 +744,22 @@ def music_archive_9222022():
     total_albums = 5
     return render_template("archive/music/9222022.html", avg_score=avg_score, total_tracks=total_tracks, total_albums=total_albums)
     
+#####################12/3/2022 music backup here#####################
+
+@app.route("/data/archive/music/1232022/music_current.json")
+def load_music_current_1232022():
+    f = open('data/archive/music/1232022/music_current.json')
+    data = json.load(f)
+    return data
+
+@app.route("/data/archive/music/1232022/music_current_songs.json")
+def load_music_current_songs_1232022():
+    f = open('data/archive/music/1232022/music_current_songs.json')
+    data = json.load(f)
+    return data
+
+@app.route("/archive/music/16")
+def music_archive_1232022():
+
+    return render_template("archive/music/1232022.html")
+    

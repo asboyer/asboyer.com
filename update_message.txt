@@ -1,0 +1,16 @@
+New asboyer.com music reviews!
+
+Check out what I've been listening to during September - December 2022:
+
+total_tracks = 152
+total_albums = 11
+avg_score = 8.23
+
+top_3_albums:
+1: HEROES & VILLAINS by Metro Boomin
+2: Her Loss by Drake, 21 Savage
+3: I Didn't Mean To Haunt You by Quadeca
+
+https://asboyer.com/archive/music/16
+
+- asboyer

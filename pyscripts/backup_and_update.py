@@ -26,7 +26,9 @@ def backup_current_music_data():
     avg_score = 0
     total_tracks = 0
     total_score = 0
+    top_3_albums = []
     unique_dbs = 2
+    top_3_string = ""
 
     f = open('./data/archive/music/last.txt', 'r')
     last_date = f.read()
@@ -59,10 +61,14 @@ def backup_current_music_data():
                 total_tracks += len(data[d]["top_tracks"])
                 total_albums += 1
                 total_score += data[d]['score']
+                top_3_albums.append([data[d]['name'], data[d]['score'], data[d]['artists']])
             else:
                 total_tracks += 1
         avg_score = round(total_score/total_albums, 2)
-
+        top_3_albums = sorted(top_3_albums, key=lambda x: x[1])
+        top_3_albums.reverse()
+        for i in range(0, 3):
+            top_3_string += f"{i + 1}: {top_3_albums[i][0]} by {top_3_albums[i][2]}\n"
     comment_head = f"""
 #####################{date_string_string} music backup here#####################
 """
@@ -130,10 +136,6 @@ def load_{file_name}_{date_string}():
 <section class="my-albums" id="albums">
 <div class="title-music">
     <p class="section__subtitle section__subtitle--books">{date_range_string}</p>
-    <p id="describe">---</p>
-    <p id="describe">{"{{"} total_albums {"}}"} albums</p>
-    <p id="describe">avg_score: {"{{"} avg_score {"}}"}/10</p>
-    <p id="describe">{"{{"} total_tracks {"}}"} tracks</p>
 
 </div>
 </section>
@@ -156,10 +158,8 @@ def load_{file_name}_{date_string}():
     render_new_template_function = f"""
 @app.route("/archive/music/{archive_num}")
 def music_archive_{date_string}():
-    avg_score = {avg_score}
-    total_tracks = {total_tracks}
-    total_albums = {total_albums}
-    return render_template("archive/music/{date_string}.html", avg_score=avg_score, total_tracks=total_tracks, total_albums=total_albums)
+
+    return render_template("archive/music/{date_string}.html")
     """
     print(f'# [writing py code to render {date_string}.html in app.py]')
     with open('app.py', 'a') as app:
@@ -182,6 +182,13 @@ def music_archive_{date_string}():
     f.write(f"""New asboyer.com music reviews!
 
 Check out what I've been listening to during {date_range_string}:
+
+total_tracks = {total_tracks}
+total_albums = {total_albums}
+avg_score = {avg_score}
+
+top_3_albums:
+{top_3_string}
 
 https://asboyer.com/archive/music/{archive_num - 1}
 

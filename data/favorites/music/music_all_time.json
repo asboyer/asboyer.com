@@ -5402,16 +5402,16 @@
         "image": "https://i.scdn.co/image/ab67616d0000b2732dd1ac4a61495080ef8f78ca",
         "top_tracks": [
             "No Heart",
-            "X (feat. Future)"
+            "X (feat. Future)",
+            "Ocean Drive",
+            "Savage Mode"
         ],
         "good_tracks": [
             "No Advance",
-            "Savage Mode",
             "Real Nigga",
-            "Feel It",
-            "Ocean Drive"
+            "Feel It"
         ],
-        "score": 6.85,
+        "score": 7.22,
         "tracks": []
     },
     "Scary Hours 2": {
@@ -5867,13 +5867,13 @@
             "I'M ON SOME",
             "TOP FLOOR (feat. Travis Scott)",
             "DO BETTER",
-            "ROCKSTAR BIKERS & CHAINS"
+            "ROCKSTAR BIKERS & CHAINS",
+            "ADDYS (feat. Nechie)"
         ],
         "good_tracks": [
-            "ADDYS (feat. Nechie)",
             "FAR (feat. Young Thug)"
         ],
-        "score": 9.13,
+        "score": 9.29,
         "tracks": []
     },
     "DS4EVER": {
@@ -5971,14 +5971,15 @@
             "I'M ON SOME",
             "RELENTLESS (feat. Lil Uzi Vert)",
             "DO BETTER",
-            "ROCKSTAR BIKERS & CHAINS"
+            "ROCKSTAR BIKERS & CHAINS",
+            "ADDYS (feat. Nechie)",
+            "DIRTY DIANA"
         ],
         "good_tracks": [
-            "ADDYS (feat. Nechie)",
-            "DIRTY DIANA",
-            "FAR (feat. Young Thug)"
+            "FAR (feat. Young Thug)",
+            "DON'T PLAY AROUND"
         ],
-        "score": 9.29,
+        "score": 9.78,
         "tracks": []
     },
     "Baby Talk 5": {
@@ -6211,14 +6212,13 @@
             "Krank",
             "Talk",
             "Com\u00eb on",
-            "Syst\u00ebm",
-            "Killin \u00ebm"
+            "Syst\u00ebm"
         ],
         "good_tracks": [
             "Got it all",
-            "Holy 1"
+            "Killin \u00ebm"
         ],
-        "score": 9.52,
+        "score": 8.69,
         "tracks": []
     },
     "NAV": {
@@ -6272,13 +6272,200 @@
             "No Joke",
             "Oh Okay (feat. Young Thug & Lil Baby)",
             "Spending Addiction",
-            "Toast Up",
             "Drip or Drown Remix (feat. Lil Yachty)"
         ],
         "good_tracks": [
-            "Money Don't Change You"
+            "Toast Up"
         ],
-        "score": 9.83,
+        "score": 9.24,
+        "tracks": []
+    },
+    "Her Loss": {
+        "artists": "Drake, 21 Savage",
+        "id": "5MS3MvWHJ3lOZPLiMxzOU6",
+        "name": "Her Loss",
+        "popularity": 0,
+        "release_date": "2022-11-04",
+        "total_tracks": 16,
+        "uri": "spotify:album:5MS3MvWHJ3lOZPLiMxzOU6",
+        "image": "https://i.scdn.co/image/ab67616d0000b27302dd500610becbe0a6e24f94",
+        "top_tracks": [
+            "Rich Flex",
+            "Major Distribution",
+            "BackOutsideBoyz",
+            "Privileged Rappers",
+            "Hours In Silence",
+            "Circo Loco",
+            "Pussy & Millions (feat. Travis Scott)",
+            "Broke Boys",
+            "Middle of the Ocean",
+            "More M\u2019s",
+            "On BS",
+            "Jumbotron Shit Poppin",
+            "Treacherous Twins"
+        ],
+        "good_tracks": [
+            "3AM on Glenwood",
+            "I Guess It's Fuck Me"
+        ],
+        "score": 9.02,
+        "tracks": []
+    },
+    "Chillhop Essentials Fall 2019": {
+        "artists": "Various Artists",
+        "id": "23iavtkZyk6Nep7V9B0kpD",
+        "name": "Chillhop Essentials Fall 2019",
+        "popularity": 47,
+        "release_date": "2019-09-25",
+        "total_tracks": 24,
+        "uri": "spotify:album:23iavtkZyk6Nep7V9B0kpD",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f2683d1a8bb445535d952676",
+        "top_tracks": [
+            "Cypress",
+            "Woodnot",
+            "Memories.",
+            "Move Together",
+            "Longwayhome",
+            "Rockaway 5pm",
+            "Aires",
+            "Coffee Break",
+            "Simplicity",
+            "Wandering At Night",
+            "Yeah",
+            "Beavis Pt. 1",
+            "Hypnosis",
+            "9.23.19",
+            "Angel Eyes",
+            "Save Your Love"
+        ],
+        "good_tracks": [
+            "Haze",
+            "Pale Ale",
+            "Peace of Mind",
+            "Bonfire",
+            "On Holly"
+        ],
+        "score": 8.4,
+        "tracks": []
+    },
+    "I Didn't Mean To Haunt You": {
+        "artists": "Quadeca",
+        "id": "3c0NHNo2Gn0X7uARad3hGv",
+        "name": "I Didn't Mean To Haunt You",
+        "popularity": 29,
+        "release_date": "2022-11-10",
+        "total_tracks": 11,
+        "uri": "spotify:album:3c0NHNo2Gn0X7uARad3hGv",
+        "image": "https://i.scdn.co/image/ab67616d0000b27345f6c58341c281d50d622c5c",
+        "top_tracks": [
+            "sorry4dying",
+            "tell me a joke",
+            "don't mind me",
+            "born yesterday",
+            "house settling",
+            "knots",
+            "fractions of infinity"
+        ],
+        "good_tracks": [
+            "picking up hands",
+            "the memories we lost in translation",
+            "fantasyworld",
+            "cassini's division"
+        ],
+        "score": 8.96,
+        "tracks": []
+    },
+    "HEROES & VILLAINS": {
+        "artists": "Metro Boomin",
+        "id": "7txGsnDSqVMoRl6RQ9XyZP",
+        "name": "HEROES & VILLAINS",
+        "popularity": 0,
+        "release_date": "2022-12-02",
+        "total_tracks": 15,
+        "uri": "spotify:album:7txGsnDSqVMoRl6RQ9XyZP",
+        "image": "https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2",
+        "top_tracks": [
+            "Superhero (Heroes & Villains) [with Future & Chris Brown]",
+            "Too Many Nights (feat. Don Toliver & with Future)",
+            "Raindrops (Insane) [with Travis Scott]",
+            "Umbrella (with 21 Savage & Young Nudy)",
+            "Trance (with Travis Scott & Young Thug)",
+            "Around Me (feat. Don Toliver)",
+            "Metro Spider (with Young Thug)",
+            "I Can't Save You (Interlude) [with Future & feat. Don Toliver]",
+            "Creepin' (with The Weeknd & 21 Savage)",
+            "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
+            "Lock On Me (with Travis Scott & Future)",
+            "All The Money (with Gunna) [Bonus]"
+        ],
+        "good_tracks": [
+            "On Time (with John Legend)",
+            "Feel The Fiyaaaah (with A$AP Rocky & feat. Takeoff)",
+            "Walk Em Down (Don't Kill Civilians) [with 21 Savage & feat. Mustafa]"
+        ],
+        "score": 9.43,
+        "tracks": []
+    },
+    "Up 2 M\u00eb": {
+        "artists": "Yeat",
+        "id": "1x55Z0fYARLdeJVjG2UESs",
+        "name": "Up 2 M\u00eb",
+        "popularity": 76,
+        "release_date": "2021-09-10",
+        "total_tracks": 22,
+        "uri": "spotify:album:1x55Z0fYARLdeJVjG2UESs",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b20fdc3ee4c262693cfdf005",
+        "top_tracks": [
+            "Cmon",
+            "Morning mudd",
+            "Got rich",
+            "G\u00ebt Busy",
+            "Rokstar",
+            "Tr\u00ebndy way (feat. SeptembersRich)",
+            "Sw\u00ebrved It",
+            "Ya Ya",
+            "U could t\u00ebll",
+            "Bak on \u00ebm",
+            "Turban",
+            "H\u00eby",
+            "Twizzy Rich",
+            "Mon\u00eby so big",
+            "Kant chang\u00eb",
+            "Callin m\u00eb",
+            "D\u00ebserve it",
+            "Lying 4 fun"
+        ],
+        "good_tracks": [
+            "L\u00ebt ya know",
+            "Stay\u00ebd tha same"
+        ],
+        "score": 8.83,
+        "tracks": []
+    },
+    "Rocky IV": {
+        "artists": "Various Artists",
+        "id": "3t3BbpFJiGcXl4jI5CRLLA",
+        "name": "Rocky IV",
+        "popularity": 69,
+        "release_date": "1985",
+        "total_tracks": 11,
+        "uri": "spotify:album:3t3BbpFJiGcXl4jI5CRLLA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f4a2ccbe20d6d52f16816812",
+        "top_tracks": [
+            "Burning Heart - From \"Rocky IV\" Soundtrack",
+            "Eye of the Tiger",
+            "No Easy Way Out - From \"Rocky IV\" Soundtrack",
+            "Training Montage - From \"Rocky IV\" Soundtrack"
+        ],
+        "good_tracks": [
+            "Double or Nothing - From \"Rocky IV\" Soundtrack",
+            "War/Fanfare from Rocky IV",
+            "Living in America - From \"Rocky IV\" Soundtrack",
+            "Hearts On Fire - From \"Rocky IV\" Soundtrack",
+            "The Sweetest Victory - From \"Rocky IV\" Soundtrack",
+            "Man Against the World"
+        ],
+        "score": 8.18,
         "tracks": []
     }
 }
