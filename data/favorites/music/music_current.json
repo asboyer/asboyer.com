@@ -1,334 +1,237 @@
 {
-    "Her Loss": {
-        "artists": "Drake, 21 Savage",
-        "id": "5MS3MvWHJ3lOZPLiMxzOU6",
-        "name": "Her Loss",
-        "popularity": 0,
-        "release_date": "2022-11-04",
-        "total_tracks": 16,
-        "uri": "spotify:album:5MS3MvWHJ3lOZPLiMxzOU6",
-        "image": "https://i.scdn.co/image/ab67616d0000b27302dd500610becbe0a6e24f94",
-        "top_tracks": [
-            "Rich Flex",
-            "Major Distribution",
-            "BackOutsideBoyz",
-            "Privileged Rappers",
-            "Hours In Silence",
-            "Circo Loco",
-            "Pussy & Millions (feat. Travis Scott)",
-            "Broke Boys",
-            "Middle of the Ocean",
-            "More M\u2019s",
-            "On BS",
-            "Jumbotron Shit Poppin",
-            "Treacherous Twins"
-        ],
-        "good_tracks": [
-            "3AM on Glenwood",
-            "I Guess It's Fuck Me"
-        ],
-        "score": 9.02,
-        "tracks": []
-    },
-    "The Forever Story": {
-        "artists": "JID",
-        "id": "3QVjpIxcksDkJmOnvlOJjg",
-        "name": "The Forever Story",
-        "popularity": 75,
-        "release_date": "2022-08-26",
-        "total_tracks": 15,
-        "uri": "spotify:album:3QVjpIxcksDkJmOnvlOJjg",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736de37e432e720323f4e31edc",
-        "top_tracks": [
-            "Raydar",
-            "Dance Now (feat. Kenny Mason)",
-            "Crack Sandwich",
-            "Surround Sound (feat. 21 Savage & Baby Tate)",
-            "Kody Blu 31",
-            "Bruddanem (feat. Lil Durk)",
-            "Can\u2019t Make U Change (feat. Ari Lennox)",
-            "Stars (feat. Yasiin Bey)",
-            "Just In Time (feat. Lil Wayne & Kenny Mason)",
-            "Money",
-            "Better Days (feat. Johnta Austin)",
-            "Lauder Too (feat. Ravyn Lenae & Eryn Allen Kane)"
-        ],
-        "good_tracks": [
-            "Galaxy",
-            "Can\u2019t Punk Me (feat. EARTHGANG)"
-        ],
-        "score": 8.95,
-        "tracks": []
-    },
-    "10": {
-        "artists": "Westside Gunn",
-        "id": "138M0lORis5tDxurpIbd7V",
-        "name": "10",
-        "popularity": 62,
-        "release_date": "2022-10-28",
-        "total_tracks": 12,
-        "uri": "spotify:album:138M0lORis5tDxurpIbd7V",
-        "image": "https://i.scdn.co/image/ab67616d0000b273db90972fc5ebdf05c7cce910",
-        "top_tracks": [
-            "FlyGod Jr (feat. DJ Drama)",
-            "Shootouts In Soho (feat. A$AP Rocky & Stove God Cooks)",
-            "Science Class (feat. Busta Rhymes, Raekwon, Ghostface Killah & Stove God Cooks)",
-            "Red Death (feat. Benny The Butcher, Stove God Cooks, Rome Streetz, Armani Caesar, Jay Worthy, Conway the Machine & Robby Takac)"
-        ],
-        "good_tracks": [
-            "Super Kick Party",
-            "Peppas (feat. Black Star)",
-            "Nigo Louis (feat. Westside Pootie)",
-            "BDP (feat. Rome Streetz & Stove God Cooks)",
-            "God Is Love (feat. Estee Nack, Stove God Cooks & Keisha Plum)",
-            "Mac Don't Stop"
-        ],
-        "score": 6.9,
-        "tracks": []
-    },
-    "Chillhop Essentials Fall 2019": {
-        "artists": "Various Artists",
-        "id": "23iavtkZyk6Nep7V9B0kpD",
-        "name": "Chillhop Essentials Fall 2019",
-        "popularity": 47,
-        "release_date": "2019-09-25",
-        "total_tracks": 24,
-        "uri": "spotify:album:23iavtkZyk6Nep7V9B0kpD",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f2683d1a8bb445535d952676",
-        "top_tracks": [
-            "Cypress",
-            "Woodnot",
-            "Memories.",
-            "Move Together",
-            "Longwayhome",
-            "Rockaway 5pm",
-            "Aires",
-            "Coffee Break",
-            "Simplicity",
-            "Wandering At Night",
-            "Yeah",
-            "Beavis Pt. 1",
-            "Hypnosis",
-            "9.23.19",
-            "Angel Eyes",
-            "Save Your Love"
-        ],
-        "good_tracks": [
-            "Haze",
-            "Pale Ale",
-            "Peace of Mind",
-            "Bonfire",
-            "On Holly"
-        ],
-        "score": 8.4,
-        "tracks": []
-    },
-    "It's Only Me": {
-        "artists": "Lil Baby",
-        "id": "0FYvMdfTfYJxnJnKs1wDb0",
-        "name": "It's Only Me",
-        "popularity": 85,
-        "release_date": "2022-10-14",
-        "total_tracks": 23,
-        "uri": "spotify:album:0FYvMdfTfYJxnJnKs1wDb0",
-        "image": "https://i.scdn.co/image/ab67616d0000b27366b04b41fa6f8908dce86695",
-        "top_tracks": [
-            "Pop Out (feat. Nardo Wick)",
-            "Never Hating (feat. Young Thug)",
-            "Not Finished",
-            "In A Minute",
-            "From Now On (feat. Future)",
-            "Top Priority",
-            "Shiest Talk (feat. Pooh Shiesty)"
-        ],
-        "good_tracks": [
-            "Real Spill",
-            "Stand On It",
-            "Heyy",
-            "California Breeze",
-            "Forever (feat. Fridayy)",
-            "Waterfall Flow",
-            "Everything",
-            "Back and Forth (feat. EST Gee)",
-            "No Fly Zone"
-        ],
-        "score": 6.3,
-        "tracks": []
-    },
-    "I Didn't Mean To Haunt You": {
-        "artists": "Quadeca",
-        "id": "3c0NHNo2Gn0X7uARad3hGv",
-        "name": "I Didn't Mean To Haunt You",
-        "popularity": 29,
-        "release_date": "2022-11-10",
+    "Zero Wave": {
+        "artists": "admo",
+        "id": "4wBlEFwojUgU1rld69M7r3",
+        "name": "Zero Wave",
+        "popularity": 37,
+        "release_date": "2018-12-31",
         "total_tracks": 11,
-        "uri": "spotify:album:3c0NHNo2Gn0X7uARad3hGv",
-        "image": "https://i.scdn.co/image/ab67616d0000b27345f6c58341c281d50d622c5c",
+        "uri": "spotify:album:4wBlEFwojUgU1rld69M7r3",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735a126d1075419c94d93b3dc8",
         "top_tracks": [
-            "sorry4dying",
-            "tell me a joke",
-            "don't mind me",
-            "born yesterday",
-            "house settling",
-            "knots",
-            "fractions of infinity"
+            "On the Nightway",
+            "Coastal Drive"
         ],
         "good_tracks": [
-            "picking up hands",
-            "the memories we lost in translation",
-            "fantasyworld",
-            "cassini's division"
+            "Against All Odds"
         ],
-        "score": 8.96,
-        "tracks": []
+        "score": 0.0,
+        "tracks": [
+            "Another Day Without You",
+            "Paths Unknown",
+            "Polybius",
+            "Zero Wave",
+            "Channel 707",
+            "Sparks",
+            "Neon Boombox",
+            "Prism"
+        ]
     },
-    "Sinatra/Jobim: The Complete Reprise Recordings": {
-        "artists": "Frank Sinatra, Ant\u00f4nio Carlos Jobim",
-        "id": "5280NkLzxe2w7K1JW9I8jX",
-        "name": "Sinatra/Jobim: The Complete Reprise Recordings",
-        "popularity": 53,
-        "release_date": "1967-03",
-        "total_tracks": 20,
-        "uri": "spotify:album:5280NkLzxe2w7K1JW9I8jX",
-        "image": "https://i.scdn.co/image/ab67616d0000b2737d6f106efadd36f7779383c7",
-        "top_tracks": [
-            "The Girl From Ipanema",
-            "Dindi",
-            "Change Partners",
-            "Quiet Nights of Quiet Stars (Corcovado)",
-            "Meditation (Medita\u00e7\u00e3o)",
-            "How Insensitive (Insensatez)",
-            "I Concentrate On You",
-            "Baubles, Bangles And Beads",
-            "Once I Loved (O Amor en Paz)",
-            "Drinking Water (Aqua de Beber)",
-            "Triste",
-            "Wave",
-            "Off Key (Desafinado)",
-            "Bonita"
-        ],
-        "good_tracks": [
-            "If You Never Come To Me (In\u00fatil Paisagen)",
-            "One Note Samba (Samba de Uma Nota So)"
-        ],
-        "score": 7.83,
-        "tracks": []
-    },
-    "Wave": {
-        "artists": "Ant\u00f4nio Carlos Jobim",
-        "id": "5SSyex1jdJe9h3lbqESv1T",
-        "name": "Wave",
-        "popularity": 51,
-        "release_date": "1967-06-15",
+    "Fair Exchange No Robbery": {
+        "artists": "Nicholas Craven, Boldy James",
+        "id": "4jpTuerIpgU77hzRCfcXZj",
+        "name": "Fair Exchange No Robbery",
+        "popularity": 49,
+        "release_date": "2022-09-30",
         "total_tracks": 10,
-        "uri": "spotify:album:5SSyex1jdJe9h3lbqESv1T",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c634d4769c1fb60221cdc021",
+        "uri": "spotify:album:4jpTuerIpgU77hzRCfcXZj",
+        "image": "https://i.scdn.co/image/ab67616d0000b273519ddd92fb3b4e0707f299b5",
         "top_tracks": [
-            "Wave",
-            "Look To The Sky",
-            "Batidinha",
-            "Triste",
-            "Mojave",
-            "Lamento",
-            "Antigua"
+            "Straight & Tall",
+            "Scrabble",
+            "Town & Country"
         ],
         "good_tracks": [
-            "The Red Blouse"
+            "Stuck in Traffic"
         ],
-        "score": 7.71,
+        "score": 0.0,
+        "tracks": [
+            "0 Tre Nine",
+            "Monterey Jack",
+            "Designer Drugs",
+            "Six Toes",
+            "You Ain't No Menace",
+            "Power Nap"
+        ]
+    },
+    "Odyssey": {
+        "artists": "Home",
+        "id": "3FZtDulD5KUnIxA9dM1v5M",
+        "name": "Odyssey",
+        "popularity": 62,
+        "release_date": "2014-07-01",
+        "total_tracks": 12,
+        "uri": "spotify:album:3FZtDulD5KUnIxA9dM1v5M",
+        "image": "https://i.scdn.co/image/ab67616d0000b273952ecc2705dc570ee9565bc7",
+        "top_tracks": [
+            "Intro",
+            "Decay"            
+        ],
+        "good_tracks": [
+            "Native"
+            
+        ],
+        "score": 0.0,
+        "tracks": [
+            "Oort Cloud",
+            "Tides",
+            "Nights (I Wish I Could Be There)",
+            "Odyssey",
+            "New Machines",
+            "Resonance",
+            "Come Back Down",
+            "Half Moon",
+            "On The Way Out"
+        ]
+    },
+    "Meet The Woo": {
+        "artists": "Pop Smoke",
+        "id": "6d1vGZsr6Uy3h9IigBpPAf",
+        "name": "Meet The Woo",
+        "popularity": 75,
+        "release_date": "2019-07-26",
+        "total_tracks": 9,
+        "uri": "spotify:album:6d1vGZsr6Uy3h9IigBpPAf",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5",
+        "top_tracks": [
+            "Meet the Woo",
+            "Welcome To The Party",
+            "Hawk Em",
+            "Better Have Your Gun",
+            "Scenario",
+            "Dior",
+            "Feeling"
+        ],
+        "good_tracks": [
+            "Brother Man"
+        ],
+        "score": 8.57,
         "tracks": []
     },
-    "Rocky IV": {
-        "artists": "Various Artists",
-        "id": "3t3BbpFJiGcXl4jI5CRLLA",
-        "name": "Rocky IV",
-        "popularity": 69,
-        "release_date": "1985",
-        "total_tracks": 11,
-        "uri": "spotify:album:3t3BbpFJiGcXl4jI5CRLLA",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f4a2ccbe20d6d52f16816812",
-        "top_tracks": [
-            "Burning Heart - From \"Rocky IV\" Soundtrack",
-            "Eye of the Tiger",
-            "No Easy Way Out - From \"Rocky IV\" Soundtrack",
-            "Training Montage - From \"Rocky IV\" Soundtrack"
-        ],
-        "good_tracks": [
-            "Double or Nothing - From \"Rocky IV\" Soundtrack",
-            "War/Fanfare from Rocky IV",
-            "Living in America - From \"Rocky IV\" Soundtrack",
-            "Hearts On Fire - From \"Rocky IV\" Soundtrack",
-            "The Sweetest Victory - From \"Rocky IV\" Soundtrack",
-            "Man Against the World"
-        ],
-        "score": 8.18,
-        "tracks": []
+    "In A Silent Way": {
+        "artists": "Miles Davis",
+        "id": "0Hs3BomCdwIWRhgT57x22T",
+        "name": "In A Silent Way",
+        "popularity": 33,
+        "release_date": "1969-07-30",
+        "total_tracks": 2,
+        "uri": "spotify:album:0Hs3BomCdwIWRhgT57x22T",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737a4a3c0b5d38ec756c62d214",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Shhh / Peaceful",
+            "In a Silent Way"
+        ]
     },
-    "HEROES & VILLAINS": {
-        "artists": "Metro Boomin",
-        "id": "7txGsnDSqVMoRl6RQ9XyZP",
-        "name": "HEROES & VILLAINS",
-        "popularity": 0,
-        "release_date": "2022-12-02",
-        "total_tracks": 15,
-        "uri": "spotify:album:7txGsnDSqVMoRl6RQ9XyZP",
-        "image": "https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2",
-        "top_tracks": [
-            "Superhero (Heroes & Villains) [with Future & Chris Brown]",
-            "Too Many Nights (feat. Don Toliver & with Future)",
-            "Raindrops (Insane) [with Travis Scott]",
-            "Umbrella (with 21 Savage & Young Nudy)",
-            "Trance (with Travis Scott & Young Thug)",
-            "Around Me (feat. Don Toliver)",
-            "Metro Spider (with Young Thug)",
-            "I Can't Save You (Interlude) [with Future & feat. Don Toliver]",
-            "Creepin' (with The Weeknd & 21 Savage)",
-            "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
-            "Lock On Me (with Travis Scott & Future)",
-            "All The Money (with Gunna) [Bonus]"
-        ],
-        "good_tracks": [
-            "On Time (with John Legend)",
-            "Feel The Fiyaaaah (with A$AP Rocky & feat. Takeoff)",
-            "Walk Em Down (Don't Kill Civilians) [with 21 Savage & feat. Mustafa]"
-        ],
-        "score": 9.43,
-        "tracks": []
+    "Christmas With Nat King Cole": {
+        "artists": "Nat King Cole",
+        "id": "61LtwaLwl9qaaluH579gdP",
+        "name": "Christmas With Nat King Cole",
+        "popularity": 50,
+        "release_date": "2020-10-09",
+        "total_tracks": 12,
+        "uri": "spotify:album:61LtwaLwl9qaaluH579gdP",
+        "image": "https://i.scdn.co/image/ab67616d0000b27325efa20d086320fcc67ef936",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Deck The Halls - Remastered 1999",
+            "Joy To The World - Remastered 1999",
+            "The Christmas Song (Merry Christmas To You) - Remastered 1999",
+            "All I Want For Christmas (Is My Two Front Teeth) - Remastered 1990",
+            "O Come All Ye Faithful - Remastered 1999",
+            "God Rest Ye Merry, Gentlemen - Remastered 1999",
+            "Caroling, Caroling - Remastered 1999",
+            "Hark! The Herald Angels Sing - Remastered 1999",
+            "O Holy Night - Remastered 1999",
+            "I Saw Three Ships - Remastered 1999",
+            "O Tannenbaum - Remastered 1999",
+            "Silent Night - Remastered 1999"
+        ]
     },
-    "Up 2 M\u00eb": {
-        "artists": "Yeat",
-        "id": "1x55Z0fYARLdeJVjG2UESs",
-        "name": "Up 2 M\u00eb",
-        "popularity": 76,
-        "release_date": "2021-09-10",
-        "total_tracks": 22,
-        "uri": "spotify:album:1x55Z0fYARLdeJVjG2UESs",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b20fdc3ee4c262693cfdf005",
+    "Endtroducing.....": {
+        "artists": "DJ Shadow",
+        "id": "4wvqGLk1HThPA0b5lzRK2l",
+        "name": "Endtroducing.....",
+        "popularity": 53,
+        "release_date": "1996-09-16",
+        "total_tracks": 16,
+        "uri": "spotify:album:4wvqGLk1HThPA0b5lzRK2l",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738ce8e9530b875fb9d01a11d8",
         "top_tracks": [
-            "Cmon",
-            "Morning mudd",
-            "Got rich",
-            "G\u00ebt Busy",
-            "Rokstar",
-            "Tr\u00ebndy way (feat. SeptembersRich)",
-            "Sw\u00ebrved It",
-            "Ya Ya",
-            "U could t\u00ebll",
-            "Bak on \u00ebm",
-            "Turban",
-            "H\u00eby",
-            "Twizzy Rich",
-            "Mon\u00eby so big",
-            "Kant chang\u00eb",
-            "Callin m\u00eb",
-            "D\u00ebserve it",
-            "Lying 4 fun"
+            "Building Steam With A Grain Of Salt"
         ],
         "good_tracks": [
-            "L\u00ebt ya know",
-            "Stay\u00ebd tha same"
+            "Best Foot Forward"
         ],
-        "score": 8.83,
-        "tracks": []
+        "score": 0.0,
+        "tracks": [
+            "The Number Song",
+            "Changeling",
+            "Transmission 1",
+            "What Does Your Soul Look Like - Pt. 4",
+            "Untitled",
+            "Stem / Long Stem - Medley",
+            "Transmission 2",
+            "Mutual Slump",
+            "Organ Donor",
+            "Why Hip-Hop Sucks In '96",
+            "Midnight In A Perfect World",
+            "Napalm Brain / Scatter Brain - Medley",
+            "What Does Your Soul Look Like - Pt. 1 / Blue Sky Revisit",
+            "Transmission 3"
+        ]
+    },
+    "untitled unmastered.": {
+        "artists": "Kendrick Lamar",
+        "id": "0kL3TYRsSXnu0iJvFO3rud",
+        "name": "untitled unmastered.",
+        "popularity": 61,
+        "release_date": "2016-03-04",
+        "total_tracks": 8,
+        "uri": "spotify:album:0kL3TYRsSXnu0iJvFO3rud",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738c697f553a46006a5d8886b2",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "untitled 01 | 08.19.2014.",
+            "untitled 02 | 06.23.2014.",
+            "untitled 03 | 05.28.2013.",
+            "untitled 04 | 08.14.2014.",
+            "untitled 05 | 09.21.2014.",
+            "untitled 06 | 06.30.2014.",
+            "untitled 07 | 2014 - 2016",
+            "untitled 08 | 09.06.2014."
+        ]
+    },
+    "OK Computer": {
+        "artists": "Radiohead",
+        "id": "6dVIqQ8qmQ5GBnJ9shOYGE",
+        "name": "OK Computer",
+        "popularity": 78,
+        "release_date": "1997-05-28",
+        "total_tracks": 12,
+        "uri": "spotify:album:6dVIqQ8qmQ5GBnJ9shOYGE",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+        "top_tracks": [
+            "Airbag",
+            "Paranoid Android",
+            "Subterranean Homesick Alien",
+            "Exit Music (For A Film)",
+            "Let Down",
+            "Karma Police",
+            "Climbing Up the Walls",
+            "No Surprises",
+            "Lucky",
+            "The Tourist",
+            "Fitter Happier",
+            "Electioneering"
+        ],
+        "good_tracks": [],
+        "score": 10.0
     }
 }

@@ -712,6 +712,7 @@
         "uri": "spotify:album:6eZdwrhB97A3EYx9QppGfl",
         "image": "https://i.scdn.co/image/ab67616d0000b273d5f3cea8affdca01a0dc754f",
         "top_tracks": [
+            "Intro (Difference)",
             "Let Em' Know",
             "Exchange",
             "For However Long",
@@ -726,10 +727,9 @@
             "Right My Wrongs"
         ],
         "good_tracks": [
-            "Intro (Difference)",
             "The Sequence"
         ],
-        "score": 9.76
+        "score": 9.88
     },
     "Future & Juice WRLD Present... WRLD ON DRUGS": {
         "artists": "Future, Juice WRLD",
@@ -927,14 +927,14 @@
             "Preach",
             "Company",
             "Used To",
-            "Now & Forever"
+            "Now & Forever",
+            "You & The 6"
         ],
         "good_tracks": [
             "Wednesday Night Interlude",
-            "You & The 6",
             "6PM In New York"
         ],
-        "score": 9.71
+        "score": 9.8
     },
     "good kid, m.A.A.d city": {
         "artists": "Kendrick Lamar",
@@ -6450,7 +6450,7 @@
         "release_date": "1985",
         "total_tracks": 11,
         "uri": "spotify:album:3t3BbpFJiGcXl4jI5CRLLA",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f4a2ccbe20d6d52f16816812",
+        "image": "/static/img/music/albums/rocky.png",
         "top_tracks": [
             "Burning Heart - From \"Rocky IV\" Soundtrack",
             "Eye of the Tiger",
@@ -6466,6 +6466,159 @@
             "Man Against the World"
         ],
         "score": 8.18,
+        "tracks": []
+    },
+    "Demons Protected By Angels": {
+        "artists": "NAV",
+        "id": "29NWnawJBetVB3lOM9Sbp6",
+        "name": "Demons Protected By Angels",
+        "popularity": 69,
+        "release_date": "2022-09-09",
+        "total_tracks": 19,
+        "uri": "spotify:album:29NWnawJBetVB3lOM9Sbp6",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737da6f8edfd0404b5c52de3eb",
+        "top_tracks": [
+            "Baby",
+            "One Time (with Don Toliver feat. Future)",
+            "Demons in My Cup",
+            "Weirdo",
+            "Don't Compare",
+            "Interstellar (with Lil Uzi Vert)",
+            "Loaded",
+            "Lost Me (with RealestK)",
+            "Reset (with Bryson Tiller)",
+            "Wrong Decisions",
+            "Destiny",
+            "Ball in Peace (Outro)"
+        ],
+        "good_tracks": [
+            "Count on Me (Intro)",
+            "Never Sleep (with Lil Baby feat. Travis Scott)",
+            "Playa (with Gunna)"
+        ],
+        "score": 7.44,
+        "tracks": []
+    },
+    "Perfect Timing": {
+        "artists": "NAV, Metro Boomin",
+        "id": "6VFETcEfjilkAng073KLt9",
+        "name": "Perfect Timing",
+        "popularity": 62,
+        "release_date": "2017-07-21",
+        "total_tracks": 15,
+        "uri": "spotify:album:6VFETcEfjilkAng073KLt9",
+        "image": "https://i.scdn.co/image/ab67616d0000b273000d429a820f8d8501f861ed",
+        "top_tracks": [
+            "Perfect Timing (Intro)",
+            "Hit",
+            "Minute",
+            "Did You See NAV?",
+            "Bring It Back",
+            "Both Sides",
+            "Call Me",
+            "Need Some"
+        ],
+        "good_tracks": [
+            "A$AP Ferg",
+            "Held Me Down",
+            "Rich",
+            "I Am",
+            "NAVUZIMETRO#PT2"
+        ],
+        "score": 7.71,
+        "tracks": []
+    },
+    "RECKLESS": {
+        "artists": "NAV",
+        "id": "1hTrdWpdPEeXHQWc9GmpxZ",
+        "name": "RECKLESS",
+        "popularity": 63,
+        "release_date": "2018-05-18",
+        "total_tracks": 12,
+        "uri": "spotify:album:1hTrdWpdPEeXHQWc9GmpxZ",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730231368c38cf69a722ed1d0b",
+        "top_tracks": [
+            "Champion (feat. Travis Scott)",
+            "Wanted You (feat. Lil Uzi Vert)",
+            "Faith (feat. Quavo)",
+            "EAT (feat. Gunna)"
+        ],
+        "good_tracks": [],
+        "score": 3.33,
+        "tracks": []
+    },
+    "Meet The Woo": {
+        "artists": "Pop Smoke",
+        "id": "6d1vGZsr6Uy3h9IigBpPAf",
+        "name": "Meet The Woo",
+        "popularity": 75,
+        "release_date": "2019-07-26",
+        "total_tracks": 9,
+        "uri": "spotify:album:6d1vGZsr6Uy3h9IigBpPAf",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5",
+        "top_tracks": [
+            "Meet the Woo",
+            "Welcome To The Party",
+            "Hawk Em",
+            "Better Have Your Gun",
+            "Scenario",
+            "Dior",
+            "Feeling"
+        ],
+        "good_tracks": [
+            "Brother Man"
+        ],
+        "score": 8.57,
+        "tracks": []
+    },
+    "Playboi Carti": {
+        "artists": "Playboi Carti",
+        "id": "4rJgzzfFHAVFhCSt2P4I3j",
+        "name": "Playboi Carti",
+        "popularity": 76,
+        "release_date": "2017-04-14",
+        "total_tracks": 15,
+        "uri": "spotify:album:4rJgzzfFHAVFhCSt2P4I3j",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
+        "top_tracks": [
+            "Location",
+            "Magnolia",
+            "Lookin",
+            "wokeuplikethis*",
+            "Let It Go",
+            "Half & Half",
+            "New Choppa",
+            "Other Shit",
+            "NO. 9"
+        ],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "dothatshit!",
+            "Lame Niggaz",
+            "Yah Mean",
+            "Flex",
+            "Kelly K",
+            "Had 2"
+        ]
+    },
+    "No More Leaks": {
+        "artists": "Central Cee",
+        "id": "1HTdVIlFgO8o2Oby5rdXs0",
+        "name": "No More Leaks",
+        "popularity": 71,
+        "release_date": "2022-10-14",
+        "total_tracks": 4,
+        "uri": "spotify:album:1HTdVIlFgO8o2Oby5rdXs0",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a9d13fb97fbc8afdda9562d4",
+        "top_tracks": [
+            "Chapters",
+            "One Up"
+        ],
+        "good_tracks": [
+            "Crypto Price"
+        ],
+        "score": 6.79,
         "tracks": []
     }
 }
