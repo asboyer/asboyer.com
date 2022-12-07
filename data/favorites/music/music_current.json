@@ -1,32 +1,4 @@
 {
-    "Zero Wave": {
-        "artists": "admo",
-        "id": "4wBlEFwojUgU1rld69M7r3",
-        "name": "Zero Wave",
-        "popularity": 37,
-        "release_date": "2018-12-31",
-        "total_tracks": 11,
-        "uri": "spotify:album:4wBlEFwojUgU1rld69M7r3",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735a126d1075419c94d93b3dc8",
-        "top_tracks": [
-            "On the Nightway",
-            "Coastal Drive"
-        ],
-        "good_tracks": [
-            "Against All Odds"
-        ],
-        "score": 0.0,
-        "tracks": [
-            "Another Day Without You",
-            "Paths Unknown",
-            "Polybius",
-            "Zero Wave",
-            "Channel 707",
-            "Sparks",
-            "Neon Boombox",
-            "Prism"
-        ]
-    },
     "Fair Exchange No Robbery": {
         "artists": "Nicholas Craven, Boldy James",
         "id": "4jpTuerIpgU77hzRCfcXZj",
@@ -65,11 +37,10 @@
         "image": "https://i.scdn.co/image/ab67616d0000b273952ecc2705dc570ee9565bc7",
         "top_tracks": [
             "Intro",
-            "Decay"            
+            "Decay"
         ],
         "good_tracks": [
             "Native"
-            
         ],
         "score": 0.0,
         "tracks": [
@@ -83,30 +54,6 @@
             "Half Moon",
             "On The Way Out"
         ]
-    },
-    "Meet The Woo": {
-        "artists": "Pop Smoke",
-        "id": "6d1vGZsr6Uy3h9IigBpPAf",
-        "name": "Meet The Woo",
-        "popularity": 75,
-        "release_date": "2019-07-26",
-        "total_tracks": 9,
-        "uri": "spotify:album:6d1vGZsr6Uy3h9IigBpPAf",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5",
-        "top_tracks": [
-            "Meet the Woo",
-            "Welcome To The Party",
-            "Hawk Em",
-            "Better Have Your Gun",
-            "Scenario",
-            "Dior",
-            "Feeling"
-        ],
-        "good_tracks": [
-            "Brother Man"
-        ],
-        "score": 8.57,
-        "tracks": []
     },
     "In A Silent Way": {
         "artists": "Miles Davis",
@@ -185,53 +132,122 @@
             "Transmission 3"
         ]
     },
-    "untitled unmastered.": {
-        "artists": "Kendrick Lamar",
-        "id": "0kL3TYRsSXnu0iJvFO3rud",
-        "name": "untitled unmastered.",
-        "popularity": 61,
-        "release_date": "2016-03-04",
-        "total_tracks": 8,
-        "uri": "spotify:album:0kL3TYRsSXnu0iJvFO3rud",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738c697f553a46006a5d8886b2",
+    "Jesus Is Born": {
+        "artists": "Sunday Service Choir",
+        "id": "65zhpgwMMRxncpa7zHckQ6",
+        "name": "Jesus Is Born",
+        "popularity": 53,
+        "release_date": "2019-12-25",
+        "total_tracks": 19,
+        "uri": "spotify:album:65zhpgwMMRxncpa7zHckQ6",
+        "image": "https://i.scdn.co/image/ab67616d0000b273cdc7eba3d96f5163a1d4b84d",
         "top_tracks": [],
         "good_tracks": [],
         "score": 0.0,
         "tracks": [
-            "untitled 01 | 08.19.2014.",
-            "untitled 02 | 06.23.2014.",
-            "untitled 03 | 05.28.2013.",
-            "untitled 04 | 08.14.2014.",
-            "untitled 05 | 09.21.2014.",
-            "untitled 06 | 06.30.2014.",
-            "untitled 07 | 2014 - 2016",
-            "untitled 08 | 09.06.2014."
+            "Count Your Blessings",
+            "Excellent",
+            "Revelations 19:1",
+            "Rain",
+            "Balm In Gilead",
+            "Father Stretch",
+            "Follow Me - Faith",
+            "Ultralight Beam",
+            "Lift Up Your Voices",
+            "More Than Anything",
+            "Weak",
+            "That's How The Good Lord Works",
+            "Sunshine",
+            "Back to Life",
+            "Souls Anchored",
+            "Sweet Grace",
+            "Paradise",
+            "Satan, We\u2019re Gonna Tear Your Kingdom Down",
+            "Total Praise"
         ]
     },
-    "OK Computer": {
-        "artists": "Radiohead",
-        "id": "6dVIqQ8qmQ5GBnJ9shOYGE",
-        "name": "OK Computer",
-        "popularity": 78,
-        "release_date": "1997-05-28",
+    "Christmas with the Mormon Tabernacle Choir": {
+        "artists": "The Tabernacle Choir at Temple Square",
+        "id": "0seLRXtzDlFp73cr3Yq6Mo",
+        "name": "Christmas with the Mormon Tabernacle Choir",
+        "popularity": 40,
+        "release_date": "2009-11-03",
         "total_tracks": 12,
-        "uri": "spotify:album:6dVIqQ8qmQ5GBnJ9shOYGE",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
-        "top_tracks": [
-            "Airbag",
-            "Paranoid Android",
-            "Subterranean Homesick Alien",
-            "Exit Music (For A Film)",
-            "Let Down",
-            "Karma Police",
-            "Climbing Up the Walls",
-            "No Surprises",
-            "Lucky",
-            "The Tourist",
-            "Fitter Happier",
-            "Electioneering"
-        ],
+        "uri": "spotify:album:0seLRXtzDlFp73cr3Yq6Mo",
+        "image": "https://i.scdn.co/image/ab67616d0000b273575bed4dd5225f286418f385",
+        "top_tracks": [],
         "good_tracks": [],
-        "score": 10.0
+        "score": 0.0,
+        "tracks": [
+            "O Come All Ye Faithful",
+            "O Little Town of Bethlehem",
+            "Joy to the World",
+            "Carol of the Birds (El Cant Dels Ocells)",
+            "Angels We Have Heard On High",
+            "O Holy Night (Cantique De Noel)",
+            "O Tannenbaum",
+            "The First Noel",
+            "Lippai - Upon the Mountain",
+            "Jingle Bells",
+            "Silent Night",
+            "Hark the Herald Angels Sing"
+        ]
+    },
+    "U P P E R H A N D": {
+        "artists": "indie tribe",
+        "id": "7grsMK70ZDz1D34nVMhwxT",
+        "name": "U P P E R H A N D",
+        "popularity": 40,
+        "release_date": "2021-05-28",
+        "total_tracks": 11,
+        "uri": "spotify:album:7grsMK70ZDz1D34nVMhwxT",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d0d7270275c5bb8fee351fe3",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "IMPLODED",
+            "HOLY SMOKE!",
+            "CLEAR",
+            "TOPDOWN",
+            "CIRCLE OF TRUST",
+            "OUTSIDE",
+            "24K",
+            "POPFUNKO",
+            "SALTWATER",
+            "FOREVER",
+            "TRIBAL COUNCIL"
+        ]
+    },
+    "NEW HOLLYWOOD": {
+        "artists": "WHATUPRG",
+        "id": "7BVSP15gMNXLl3DnJkyyjc",
+        "name": "NEW HOLLYWOOD",
+        "popularity": 47,
+        "release_date": "2022-09-30",
+        "total_tracks": 16,
+        "uri": "spotify:album:7BVSP15gMNXLl3DnJkyyjc",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733876667956fa160d40ac1e31",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "NEW",
+            "KIDS",
+            "MY SPACE",
+            "HUMAN",
+            "FLOATING",
+            "MELATONIN",
+            "NEED U",
+            "RUNNING",
+            "SOBER",
+            "ALREADY",
+            "LOVE U",
+            "285",
+            "RUNNING 2",
+            "HOLLYWOOD",
+            "KIDS AGAIN",
+            "PRAISE!"
+        ]
     }
 }

@@ -250,6 +250,10 @@ def blog_post(name):
 def gallery():
     return render_template("gallery.html")
 
+@app.route("/goatgrade")
+def goatgrade():
+    return render_template("projects/index.html")
+
 @app.route("/data/gallery/pics.json")
 def gallery_json():
     f = open('data/gallery/pics.json')
