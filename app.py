@@ -36,17 +36,25 @@ age_string = p.number_to_words(calculateAge(birthday))
 age_string = " " + age_string
 
 soon_posts = []
+soon_stories = []
 
 f = open('data/blog/posts.json')
 posts = json.load(f)
 f.close()
 for post in posts:
     if not posts[post]['live']:
-        soon_posts.append(int(posts[post]['id']))
+        if int(posts[post]['content_id']) < 100:
+            soon_posts.append(int(posts[post]['content_id']))
+        else:
+            soon_stories.append(int(posts[post]['content_id']))
 
 soon_posts.sort()
 soon_posts = soon_posts[0:1]
 soon_posts[0] = str(soon_posts[0])
+
+soon_stories.sort()
+soon_stories = soon_stories[0:1]
+soon_stories[0] = str(soon_stories[0])
 
 f = open('data/favorites/music/music_all_time.json')
 all_time_music = json.load(f)
@@ -219,12 +227,38 @@ def blog():
 
     return render_template("blog/blog.html", form=form, message=message)
 
+@app.route("/stories/sierra_escape/vol_<name>")
+def sierra_escape(name):
+    storie_id = str((int(name.replace("vol_", "")) + 100) - 1)
+    if storie_id in soon_stories:
+        title = "t"
+        for post in posts:
+            if posts[post]['content_id'] == int(storie_id):
+                title = posts[post]["title"]
+                d = posts[post]["date"]
+                subs = posts[post]["subjects"]
+                blurb = posts[post]["blurb"]
+                sub_str = ""
+                for sub in subs:
+                    if subs[len(subs) - 1] == sub:
+                        sub_str += sub
+                    else:    
+                        sub_str += sub + ", "
+                break
+        return render_template("soon.html", value=title, date_string=d, subs=sub_str, blurb=blurb)
+    elif os.path.exists(f'templates/novels/sierra_escape/{storie_id}.html'):
+        return render_template(f"novels/sierra_escape/{storie_id}.html")
+    else:
+        # make error page
+        return render_template("error.html") 
+
+
 @app.route("/blog/<name>")
 def blog_post(name):
     if name in soon_posts:
         title = "t"
         for post in posts:
-            if posts[post]['id'] == int(name):
+            if posts[post]['content_id'] == int(name):
                 title = posts[post]["title"]
                 d = posts[post]["date"]
                 subs = posts[post]["subjects"]

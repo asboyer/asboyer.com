@@ -119,15 +119,36 @@ $(document).ready(function(){
 // <p class="date" style="font-size: 12px; font-weight: bold">${date_string}</p>
 // <p class="title">${values.title}</p>
 
+            var link = ""
 
+            console.log(values.content_id)
+
+            if (values.content_id > 99) {
+                link = `/stories/sierra_escape/vol_${(values.content_id - 100) + 1}`
+            }
+
+            else {
+                link = `/blog/${values.id}`
+            }
+
+            var type = ""
+
+            if (values.content_id > 99) {
+                type = `Sierra Escape Vol ${(values.content_id - 100) + 1}`
+            }
+
+            else {
+                type = `Blog post`
+            }
             var post = 
             `
             <div class="blog__container">
-                <a href="/blog/${values.id}" class="blog__item">
+                <a href="${link}" class="blog__item">
                     <img src="/static/img/l.png" alt="${values.title}" class="blog__img">
                     <div class="overlay">
                         <div class="text">
                             <p class="date" style="font-family: monospace" id="clock"></p>
+                            <p class="date" style="font-family: monospace; font-size: 12px">${type}</p>
                         </div>
                     </div>
                 </a>
@@ -178,11 +199,22 @@ $(document).ready(function(){
                     }
                 }
             }
+            var link = ""
+
+            console.log(values.content_id)
+
+            if (values.content_id > 99) {
+                link = `/stories/sierra_escape/vol_${(values.content_id - 100) + 1}`
+            }
+
+            else {
+                link = `/blog/${values.id}`
+            }
 
             var post = 
             `
             <div class="blog__container" id="${style}">
-                <a href="/blog/${values.id}" class="blog__item">
+                <a href="${link}" class="blog__item">
                     <img src="${values.cover_img}" alt="${values.title}" class="blog__img">
                     <div class="overlay">
                         <div class="text">

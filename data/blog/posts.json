@@ -2,6 +2,7 @@
     "Kanye West is my role model": {
         "title": "Kanye West is my role model",
         "id": 0,
+        "content_id": 0,
         "date": "8.13.21",
         "subjects": ["Life", "Music"],
         "cover_img": "/static/img/blog/kanye/kanye.png",
@@ -10,6 +11,7 @@
     "I used Python to predict the NBA MVP": {
         "title": "I used Python to predict the NBA MVP",
         "id": 1,
+        "content_id": 1,
         "date": "2.7.22",
         "subjects": ["Programming", "Sports"],
         "cover_img": "/static/img/blog/python-mvp/jokic.png",
@@ -17,107 +19,32 @@
     },
     "Sierra Escape: Vol 1": {
         "title": "Sierra Escape: Vol 1",
-        "id": 100,
-        "date": "12.9.22",
+        "id": 2,
+        "content_id": 100,
+        "date": "12.17.22",
         "subjects": ["Short stories"],
-        "cover_img": "/static/img/"
+        "cover_img": "/static/img/blog/stoicism/marcus.jpg",
+        "blurb": "",
+        "live": true
+    },
+    "Sierra Escape: Vol 2": {
+        "title": "Sierra Escape: Vol 2",
+        "id": 3,
+        "content_id": 101,
+        "date": "12.19.22",
+        "subjects": ["Short stories"],
+        "cover_img": "/static/img/blog/stoicism/marcus.jpg",
+        "blurb": "",
+        "live": false
     },
     "Become unstoppable with Stoicism": {
         "title": "Become unstoppable with Stoicism",
-        "id": 2,
-        "date": "12.9.22",
+        "id": 4,
+        "content_id": 2,
+        "date": "12.21.22",
         "subjects": ["Life", "Philosophy", "Self-improvement"],
         "cover_img": "/static/img/blog/stoicism/marcus.jpg",
         "blurb": "My guide to using the philosophy of Stoicism to enhance mental strength",
         "live": false
-    },
-    "College admissions: a broken system": {
-        "title": "College admissions: a broken system",
-        "id": 6,
-        "date": "6.25.22",
-        "subjects": ["Life", "School"],
-        "cover_img": "/static/img/blog/stoicism/marcus.jpg",
-        "live": false
-    },
-    "High school: the \"best\" years of our lives": {
-        "title": "High school: the \"best\" years of our lives",
-        "id": 4,
-        "date": "6.25.22",
-        "subjects": ["Life", "School"],
-        "cover_img": "/static/img/blog/stoicism/marcus.jpg",
-        "live": false
-    },
-    "Becoming a 'man'": {
-        "title": "Becoming a 'man'",
-        "id": 5,
-        "date": "6.2.22",
-        "subjects": ["Life", "Self-improvement"],
-        "cover_img": "/static/img/blog/stoicism/marcus.jpg",
-        "live": false
-    },   
-    "Breaking bad habits and building good ones": {
-        "title": "Breaking Bad Habits and Building Good Ones",
-        "id": 3,
-        "date": "7.11.22",
-        "subjects": ["Life", "Self-improvement"],
-        "cover_img": "/static/img/blog/stoicism/marcus.jpg",
-        "blurb": "My complete guide to habits",
-        "live": false
-    },
-    "Becoming a 'man': bulking": {
-        "title": "Becoming a man: bulking",
-        "id": 7,
-        "date": "7.1.22",
-        "subjects": ["Fitness"],
-        "cover_img": "/static/img/blog/stoicism/marcus.jpg",
-        "live": false        
-    },
-    "Masterpieces: Whiplash": {
-        "title": "Masterpieces: Whiplash",
-        "id": 8,
-        "date": "7.14.22",
-        "subjects": ["Film", "Culture"],
-        "cover_img": "/static/img/blog/stoicism/marcus.jpg",
-        "live": false        
-    },
-    "Masterpieces: Because the Internet": {
-        "title": "Masterpieces: Because the Internet",
-        "id": 9,
-        "date": "7.21.22",
-        "subjects": ["Music", "Culture"],
-        "cover_img": "/static/img/blog/stoicism/marcus.jpg",
-        "live": false        
-    },
-    "10 things Andrew Boyer can't live without": {
-        "title": "10 things Andrew Boyer can't live without",
-        "id": 10,
-        "date": "8.1.22",
-        "subjects": ["Lifestyle"],
-        "cover_img": "/static/img/blog/stoicism/marcus.jpg",
-        "live": false        
-    },
-    "Severely underrated habits": {
-        "title": "Severely underrated habits",
-        "id": 11,
-        "date": "8.8.22",
-        "subjects": ["Lifestyle"],
-        "cover_img": "/static/img/blog/stoicism/marcus.jpg",
-        "live": false        
-    },
-    "How they built: WordBord": {
-        "title": "How they built: WordBord",
-        "id": 12,
-        "date": "8.8.22",
-        "subjects": ["Programming"],
-        "cover_img": "/static/img/blog/stoicism/marcus.jpg",
-        "live": false        
-    },
-    "Overcome your smartphone and internet addiction": {
-        "title": "Overcome your smartphone and internet addiction",
-        "id": 13,
-        "date": "8.15.22",
-        "subjects": ["Self-improvement"],
-        "cover_img": "/static/img/blog/stoicism/marcus.jpg",
-        "live": false        
-    }        
+    }
 }

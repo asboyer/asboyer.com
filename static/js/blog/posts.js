@@ -57,10 +57,22 @@ $(document).ready(function(){
                 }
             }
 
+            var link = ""
+
+            console.log(values.content_id)
+
+            if (values.content_id > 99) {
+                link = `/stories/sierra_escape/vol_${(values.content_id - 100) + 1}`
+            }
+
+            else {
+                link = `/blog/${values.id}`
+            }
+
             var post = 
             `
             <div class="blog__container">
-                <a href="/blog/${values.id}" class="blog__item">
+                <a href="${link}" class="blog__item">
                     <img src="${values.cover_img}" alt="${values.title}" class="blog__img">
                     <div class="overlay">
                         <div class="text">
