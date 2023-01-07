@@ -1,253 +1,53 @@
 {
-    "Fair Exchange No Robbery": {
-        "artists": "Nicholas Craven, Boldy James",
-        "id": "4jpTuerIpgU77hzRCfcXZj",
-        "name": "Fair Exchange No Robbery",
-        "popularity": 49,
-        "release_date": "2022-09-30",
-        "total_tracks": 10,
-        "uri": "spotify:album:4jpTuerIpgU77hzRCfcXZj",
-        "image": "https://i.scdn.co/image/ab67616d0000b273519ddd92fb3b4e0707f299b5",
+    "The Slow Rush": {
+        "artists": "Tame Impala",
+        "id": "31qVWUdRrlb8thMvts0yYL",
+        "name": "The Slow Rush",
+        "popularity": 80,
+        "release_date": "2020-02-14",
+        "total_tracks": 12,
+        "uri": "spotify:album:31qVWUdRrlb8thMvts0yYL",
+        "image": "https://i.scdn.co/image/ab67616d0000b27358267bd34420a00d5cf83a49",
         "top_tracks": [
-            "Straight & Tall",
-            "Scrabble",
-            "Town & Country"
+            "One More Year",
+            "Borderline",
+            "Posthumous Forgiveness",
+            "Breathe Deeper",
+            "On Track",
+            "Lost In Yesterday",
+            "Is It True"
         ],
         "good_tracks": [
-            "Stuck in Traffic"
+            "Instant Destiny",
+            "Tomorrow's Dust",
+            "It Might Be Time",
+            "One More Hour"
         ],
-        "score": 0.0,
-        "tracks": [
-            "0 Tre Nine",
-            "Monterey Jack",
-            "Designer Drugs",
-            "Six Toes",
-            "You Ain't No Menace",
-            "Power Nap"
-        ]
+        "score": 8.21,
+        "tracks": []
     },
-    "Odyssey": {
-        "artists": "Home",
-        "id": "3FZtDulD5KUnIxA9dM1v5M",
-        "name": "Odyssey",
-        "popularity": 62,
-        "release_date": "2014-07-01",
-        "total_tracks": 12,
-        "uri": "spotify:album:3FZtDulD5KUnIxA9dM1v5M",
-        "image": "https://i.scdn.co/image/ab67616d0000b273952ecc2705dc570ee9565bc7",
+    "Meet The Woo": {
+        "artists": "Pop Smoke",
+        "id": "6d1vGZsr6Uy3h9IigBpPAf",
+        "name": "Meet The Woo",
+        "popularity": 75,
+        "release_date": "2019-07-26",
+        "total_tracks": 9,
+        "uri": "spotify:album:6d1vGZsr6Uy3h9IigBpPAf",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5",
         "top_tracks": [
-            "Intro",
-            "Decay"
+            "Meet the Woo",
+            "Welcome To The Party",
+            "Hawk Em",
+            "Better Have Your Gun",
+            "Scenario",
+            "Dior",
+            "Feeling"
         ],
         "good_tracks": [
-            "Native"
+            "Brother Man"
         ],
-        "score": 0.0,
-        "tracks": [
-            "Oort Cloud",
-            "Tides",
-            "Nights (I Wish I Could Be There)",
-            "Odyssey",
-            "New Machines",
-            "Resonance",
-            "Come Back Down",
-            "Half Moon",
-            "On The Way Out"
-        ]
-    },
-    "In A Silent Way": {
-        "artists": "Miles Davis",
-        "id": "0Hs3BomCdwIWRhgT57x22T",
-        "name": "In A Silent Way",
-        "popularity": 33,
-        "release_date": "1969-07-30",
-        "total_tracks": 2,
-        "uri": "spotify:album:0Hs3BomCdwIWRhgT57x22T",
-        "image": "https://i.scdn.co/image/ab67616d0000b2737a4a3c0b5d38ec756c62d214",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "Shhh / Peaceful",
-            "In a Silent Way"
-        ]
-    },
-    "Christmas With Nat King Cole": {
-        "artists": "Nat King Cole",
-        "id": "61LtwaLwl9qaaluH579gdP",
-        "name": "Christmas With Nat King Cole",
-        "popularity": 50,
-        "release_date": "2020-10-09",
-        "total_tracks": 12,
-        "uri": "spotify:album:61LtwaLwl9qaaluH579gdP",
-        "image": "https://i.scdn.co/image/ab67616d0000b27325efa20d086320fcc67ef936",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "Deck The Halls - Remastered 1999",
-            "Joy To The World - Remastered 1999",
-            "The Christmas Song (Merry Christmas To You) - Remastered 1999",
-            "All I Want For Christmas (Is My Two Front Teeth) - Remastered 1990",
-            "O Come All Ye Faithful - Remastered 1999",
-            "God Rest Ye Merry, Gentlemen - Remastered 1999",
-            "Caroling, Caroling - Remastered 1999",
-            "Hark! The Herald Angels Sing - Remastered 1999",
-            "O Holy Night - Remastered 1999",
-            "I Saw Three Ships - Remastered 1999",
-            "O Tannenbaum - Remastered 1999",
-            "Silent Night - Remastered 1999"
-        ]
-    },
-    "Endtroducing.....": {
-        "artists": "DJ Shadow",
-        "id": "4wvqGLk1HThPA0b5lzRK2l",
-        "name": "Endtroducing.....",
-        "popularity": 53,
-        "release_date": "1996-09-16",
-        "total_tracks": 16,
-        "uri": "spotify:album:4wvqGLk1HThPA0b5lzRK2l",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738ce8e9530b875fb9d01a11d8",
-        "top_tracks": [
-            "Building Steam With A Grain Of Salt"
-        ],
-        "good_tracks": [
-            "Best Foot Forward"
-        ],
-        "score": 0.0,
-        "tracks": [
-            "The Number Song",
-            "Changeling",
-            "Transmission 1",
-            "What Does Your Soul Look Like - Pt. 4",
-            "Untitled",
-            "Stem / Long Stem - Medley",
-            "Transmission 2",
-            "Mutual Slump",
-            "Organ Donor",
-            "Why Hip-Hop Sucks In '96",
-            "Midnight In A Perfect World",
-            "Napalm Brain / Scatter Brain - Medley",
-            "What Does Your Soul Look Like - Pt. 1 / Blue Sky Revisit",
-            "Transmission 3"
-        ]
-    },
-    "Jesus Is Born": {
-        "artists": "Sunday Service Choir",
-        "id": "65zhpgwMMRxncpa7zHckQ6",
-        "name": "Jesus Is Born",
-        "popularity": 53,
-        "release_date": "2019-12-25",
-        "total_tracks": 19,
-        "uri": "spotify:album:65zhpgwMMRxncpa7zHckQ6",
-        "image": "https://i.scdn.co/image/ab67616d0000b273cdc7eba3d96f5163a1d4b84d",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "Count Your Blessings",
-            "Excellent",
-            "Revelations 19:1",
-            "Rain",
-            "Balm In Gilead",
-            "Father Stretch",
-            "Follow Me - Faith",
-            "Ultralight Beam",
-            "Lift Up Your Voices",
-            "More Than Anything",
-            "Weak",
-            "That's How The Good Lord Works",
-            "Sunshine",
-            "Back to Life",
-            "Souls Anchored",
-            "Sweet Grace",
-            "Paradise",
-            "Satan, We\u2019re Gonna Tear Your Kingdom Down",
-            "Total Praise"
-        ]
-    },
-    "Christmas with the Mormon Tabernacle Choir": {
-        "artists": "The Tabernacle Choir at Temple Square",
-        "id": "0seLRXtzDlFp73cr3Yq6Mo",
-        "name": "Christmas with the Mormon Tabernacle Choir",
-        "popularity": 40,
-        "release_date": "2009-11-03",
-        "total_tracks": 12,
-        "uri": "spotify:album:0seLRXtzDlFp73cr3Yq6Mo",
-        "image": "https://i.scdn.co/image/ab67616d0000b273575bed4dd5225f286418f385",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "O Come All Ye Faithful",
-            "O Little Town of Bethlehem",
-            "Joy to the World",
-            "Carol of the Birds (El Cant Dels Ocells)",
-            "Angels We Have Heard On High",
-            "O Holy Night (Cantique De Noel)",
-            "O Tannenbaum",
-            "The First Noel",
-            "Lippai - Upon the Mountain",
-            "Jingle Bells",
-            "Silent Night",
-            "Hark the Herald Angels Sing"
-        ]
-    },
-    "U P P E R H A N D": {
-        "artists": "indie tribe",
-        "id": "7grsMK70ZDz1D34nVMhwxT",
-        "name": "U P P E R H A N D",
-        "popularity": 40,
-        "release_date": "2021-05-28",
-        "total_tracks": 11,
-        "uri": "spotify:album:7grsMK70ZDz1D34nVMhwxT",
-        "image": "https://i.scdn.co/image/ab67616d0000b273d0d7270275c5bb8fee351fe3",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "IMPLODED",
-            "HOLY SMOKE!",
-            "CLEAR",
-            "TOPDOWN",
-            "CIRCLE OF TRUST",
-            "OUTSIDE",
-            "24K",
-            "POPFUNKO",
-            "SALTWATER",
-            "FOREVER",
-            "TRIBAL COUNCIL"
-        ]
-    },
-    "NEW HOLLYWOOD": {
-        "artists": "WHATUPRG",
-        "id": "7BVSP15gMNXLl3DnJkyyjc",
-        "name": "NEW HOLLYWOOD",
-        "popularity": 47,
-        "release_date": "2022-09-30",
-        "total_tracks": 16,
-        "uri": "spotify:album:7BVSP15gMNXLl3DnJkyyjc",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733876667956fa160d40ac1e31",
-        "top_tracks": [],
-        "good_tracks": [],
-        "score": 0.0,
-        "tracks": [
-            "NEW",
-            "KIDS",
-            "MY SPACE",
-            "HUMAN",
-            "FLOATING",
-            "MELATONIN",
-            "NEED U",
-            "RUNNING",
-            "SOBER",
-            "ALREADY",
-            "LOVE U",
-            "285",
-            "RUNNING 2",
-            "HOLLYWOOD",
-            "KIDS AGAIN",
-            "PRAISE!"
-        ]
+        "score": 8.57,
+        "tracks": []
     }
 }

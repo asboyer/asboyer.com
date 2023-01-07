@@ -147,5 +147,12 @@
         "image": "http://image.tmdb.org/t/p/original/u7dlARwP2zsqHaMNL5HtHhaEPea.jpg",
         "rating": 9.2,
         "creator": "David Chase"
+    },
+    "Better Call Saul": {
+        "id": "3032476",
+        "title": "Better Call Saul",
+        "image": "http://image.tmdb.org/t/p/original/iB6x0bA9XdP4MH3i1zXjMzvTNSY.jpg",
+        "rating": 8.9,
+        "creator": "Peter Gould, Vince Gilligan"
     }
 }

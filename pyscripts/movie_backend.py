@@ -1,19 +1,17 @@
 import sys
 import requests
-import imdb 
+from imdb import Cinemagoer
 import json
 
 sys.path.append('./secret')
 from api_keys import tmdb_key as KEY
+ia = Cinemagoer()
 
 def imdb_title_from_search(query):
-    ia = imdb.IMDb()
     search = ia.search_movie(query)
     return search[0]['title']
 
-def imdb_id_from_title(title):
-    ia = imdb.IMDb()
-    
+def imdb_id_from_title(title):    
     search = ia.search_movie(title)
 
     return search[0].movieID
@@ -81,7 +79,6 @@ def update_movie_database(spec):
         data = json.load(json_file)
 
         new_movies = {}
-        ia = imdb.IMDb()
 
         for movie in movies:
             # movie is in the list, but not present in the dictionary

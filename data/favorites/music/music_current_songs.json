@@ -142,5 +142,77 @@
         "track_number": 1,
         "uri": "spotify:track:6uRfwmyU2iMK1lsMnU6Fga",
         "image": "https://i.scdn.co/image/ab67616d0000b2733cd89cbe40725dfb52b583c3"
+    },
+    "Kyrie": {
+        "artists": "88GLAM",
+        "duration_ms": 204615,
+        "explicit": true,
+        "id": "4mOPVJGfWXH0wPFA6xeRDz",
+        "name": "Kyrie",
+        "popularity": 53,
+        "preview_url": "https://p.scdn.co/mp3-preview/868f6dad18c6de5485c0f5d48bbd385ec3c93025?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 10,
+        "uri": "spotify:track:4mOPVJGfWXH0wPFA6xeRDz",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f1d5ac8b2f86fb70dfb4e5df"
+    },
+    "Apex": {
+        "artists": "Far Out",
+        "duration_ms": 206964,
+        "explicit": false,
+        "id": "1XA70LvTgplYtHMzgB8N3A",
+        "name": "Apex",
+        "popularity": 51,
+        "preview_url": "https://p.scdn.co/mp3-preview/bed33610c603f60342833b44263db81604ffe6fd?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 1,
+        "uri": "spotify:track:1XA70LvTgplYtHMzgB8N3A",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738640a8792229aebc41c367ce"
+    },
+    "Sun": {
+        "artists": "\u6182\u9b31",
+        "duration_ms": 270006,
+        "explicit": false,
+        "id": "6dVqbuFRtVTnVTKFAZCXlu",
+        "name": "Sun",
+        "popularity": 43,
+        "preview_url": "https://p.scdn.co/mp3-preview/d49da8722e478ddcbb02609484620c199b46afd6?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 1,
+        "uri": "spotify:track:6dVqbuFRtVTnVTKFAZCXlu",
+        "image": "https://i.scdn.co/image/ab67616d0000b27316558c4cb3d4bc0111e9b720"
+    },
+    "NEED U": {
+        "artists": "WHATUPRG",
+        "duration_ms": 199630,
+        "explicit": false,
+        "id": "6xIzJKeIeTrkYqvXxriEae",
+        "name": "NEED U",
+        "popularity": 34,
+        "preview_url": "https://p.scdn.co/mp3-preview/e54b40f969652c5d8a118f17c4b7b678e5a29119?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 7,
+        "uri": "spotify:track:6xIzJKeIeTrkYqvXxriEae",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733876667956fa160d40ac1e31"
+    },
+    "Whippin It": {
+        "artists": "Bslime, Young Stoner Life, Young Thug",
+        "duration_ms": 177222,
+        "explicit": true,
+        "id": "1FukL3J30psHixQeIdN0ed",
+        "name": "Whippin It",
+        "popularity": 53,
+        "preview_url": "https://p.scdn.co/mp3-preview/15183e3b20f3a5c25632c3dd3917d80d0f4fe144?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 3,
+        "uri": "spotify:track:1FukL3J30psHixQeIdN0ed",
+        "image": "https://i.scdn.co/image/ab67616d0000b27333ca177322954465cd279706"
+    },
+    "COOK UP": {
+        "artists": "Cochise",
+        "duration_ms": 129729,
+        "explicit": true,
+        "id": "2yUAogxEgxEHBGG3zw57x9",
+        "name": "COOK UP",
+        "popularity": 68,
+        "preview_url": "https://p.scdn.co/mp3-preview/46dcc62c0f06bfbdf2aacc790bafef1c832da908?cid=cd0e3cb02aee4de099b024ac33ba782e",
+        "track_number": 1,
+        "uri": "spotify:track:2yUAogxEgxEHBGG3zw57x9",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737ca8b534f2a206fdc1767d99"
     }
 }
