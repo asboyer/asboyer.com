@@ -44,7 +44,11 @@ def read_music_data_from_file(spec):
 def extract_uri(albums):
     uri_list = []
     for i in albums:
-        uri_list.append(i)
+        if "spotify:album:" in i:
+            uri = i
+        else:
+            uri = f"spotify:album:{(i.split('album/')[1])[:22]}"
+        uri_list.append(uri)
     return uri_list
 
 def clean_result(result):
