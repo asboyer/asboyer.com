@@ -68,7 +68,7 @@ for album in all_time_data:
         #     score = .979
         else:
             score = (len(all_time_data[album]['top_tracks'])*1.5 + len(all_time_data[album]['good_tracks'])*1.25)/(all_time_data[album]['total_tracks']*1.5)
-    elif all_time_data[album]['artists'] == 'The Weekend' or all_time_data[album]['artists'] == 'Frank Ocean' or all_time_data[album]['name'] == 'Whole Lotta Red' or all_time_data[album]['name'] == 'Eternal Atake' or all_time_data[album]['name'] == 'Future & Juice WRLD Present... WRLD ON DRUGS' or all_time_data[album]['name'] == "Without Warning" or all_time_data[album]['name'] == "Birds In The Trap Sing McKnight" or all_time_data[album]['name'] == "Scorpion" or all_time_data[album]['name'] == "2014 Forest Hills Drive" or all_time_data[album]['name'] == "Culture" or all_time_data[album]['name'] == "Madvillainy":
+    elif all_time_data[album]['artists'] == 'The Weekend' or all_time_data[album]['name'] == 'Whole Lotta Red' or all_time_data[album]['name'] == 'Eternal Atake' or all_time_data[album]['name'] == 'Future & Juice WRLD Present... WRLD ON DRUGS' or all_time_data[album]['name'] == "Without Warning" or all_time_data[album]['name'] == "Birds In The Trap Sing McKnight" or all_time_data[album]['name'] == "Scorpion" or all_time_data[album]['name'] == "2014 Forest Hills Drive" or all_time_data[album]['name'] == "Culture" or all_time_data[album]['name'] == "Madvillainy":
         score = (len(all_time_data[album]['top_tracks'])*2 + len(all_time_data[album]['good_tracks'])*1.87)/(all_time_data[album]['total_tracks']*2)
     else:
         score = (len(all_time_data[album]['top_tracks'])*1.4 + len(all_time_data[album]['good_tracks']))/(all_time_data[album]['total_tracks']*1.4)

@@ -46,6 +46,10 @@ def extract_uri(albums):
     for i in albums:
         if "spotify:album:" in i:
             uri = i
+        elif "spotify:track" in i:
+            uri = i
+        elif "open.spotify.com/track/" in i:
+            uri = f"spotify:track:{(i.split('track/')[1])[:22]}"
         else:
             uri = f"spotify:album:{(i.split('album/')[1])[:22]}"
         uri_list.append(uri)
