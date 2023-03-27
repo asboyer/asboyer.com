@@ -167,15 +167,16 @@ def confirm_email(email):
     if addressToVerify in list(emails.keys()):
         return "you have already signed up with this email!"
 
-    response = requests.get(
-        "https://isitarealemail.com/api/email/validate",
-        params = {'email': addressToVerify})
+    return True
+    # response = requests.get(
+    #     "https://isitarealemail.com/api/email/validate",
+    #     params = {'email': addressToVerify})
 
-    status = response.json()['status']
-    if status == 'valid':
-        return True
-    else:
-        return "this email does not exist!"
+    # status = response.json()['status']
+    # if status == 'valid':
+    #     return True
+    # else:
+    #     return "this email does not exist!"
 
 def add_email(email, emails):
     emails[email] = {
