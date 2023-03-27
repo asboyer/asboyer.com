@@ -8,6 +8,9 @@
         "total_tracks": 7,
         "uri": "spotify:album:2Ek1q2haOnxVqhvVKqMvJe",
         "image": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+        "score": 9.61,
+        "algo_score": 9.71,
+        "asboyer_score": 9.5,
         "top_tracks": [
             "I Thought About Killing You",
             "Yikes",
@@ -16,10 +19,10 @@
             "Ghost Town",
             "Violent Crimes"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "All Mine"
-        ],
-        "score": 9.76
+        ]
     },
     "MUDBOY": {
         "artists": "Sheck Wes",
@@ -30,21 +33,26 @@
         "total_tracks": 14,
         "uri": "spotify:album:15Id9Jrqab8IwHFirdrrLp",
         "image": "https://i.scdn.co/image/ab67616d0000b27359cd47039c5b10ed919fbaa8",
+        "score": 6.12,
+        "algo_score": 6.14,
+        "asboyer_score": 6.1,
         "top_tracks": [
-            "Mindfucker",
             "Live Sheck Wes",
-            "Gmail",
-            "Mo Bamba",
+            "Mo Bamba"
+        ],
+        "mid_tracks": [
             "Kyrie",
-            "Burn Slow - Interlude",
-            "Fuck Everybody"
+            "WESPN",
+            "Chippi Chippi"
         ],
         "good_tracks": [
+            "Vetements Socks",
             "Wanted",
-            "Chippi Chippi",
-            "Vetements Socks"
+            "Mindfucker",
+            "Gmail",
+            "Fuck Everybody",
+            "Burn Slow - Interlude"
         ],
-        "score": 6.53,
         "tracks": []
     },
     "Slime Language 2": {
@@ -56,27 +64,32 @@
         "total_tracks": 23,
         "uri": "spotify:album:3ihwKkIMJWmmp1huNH0iWC",
         "image": "https://i.scdn.co/image/ab67616d0000b2732cf2c659aef9a3a132f0d37d",
+        "score": 6.67,
+        "algo_score": 5.83,
+        "asboyer_score": 7.5,
         "top_tracks": [
-            "Slatty (feat. Yak Gotti & Lil Duke)",
             "Ski",
             "Diamonds Dancing (feat. Travis Scott)",
             "Solid (feat. Drake)",
             "Came and Saw (feat. Rowdy Rebel)",
-            "Proud of You (feat. Lil Uzi Vert & Yung Kayo)",
-            "Pots N Pans (feat. Lil Duke & NAV)",
-            "WokStar (feat. Strick & Skepta)",
-            "Take It To Trial (feat. Yak Gotti)",
+            "Proud of You (feat. Lil Uzi Vert & Yung Kayo)"
+        ],
+        "mid_tracks": [
+            "Paid the Fine (feat. Lil Baby & YTB Trench)",
+            "Real",
+            "Really be Slime",
+            "Trance",
             "Moon Man (feat. Strick & Kid Cudi)",
-            "That Go! (feat. T-Shyne)",
-            "Paid the Fine (feat. Lil Baby & YTB Trench)"
+            "My City Remix"
         ],
         "good_tracks": [
-            "Real (feat. Unfoonk)",
-            "Warrior (feat. T-Shyne, Lil Keed & Big Sean)",
-            "Came Out (feat. Lil Keed)",
-            "GFU (feat. Yung Kayo)"
+            "Pots N Pans",
+            "WokStar (feat. Strick & Skepta)",
+            "Came Out",
+            "Take It To Trial (feat. Yak Gotti)",
+            "That Go! (feat. T-Shyne)",
+            "Slatty (feat. Yak Gotti & Lil Duke)"
         ],
-        "score": 6.67,
         "tracks": []
     },
     "Drip or Drown 2": {
@@ -88,25 +101,29 @@
         "total_tracks": 16,
         "uri": "spotify:album:1oUzjom2A9xtyRM1SdOAGj",
         "image": "https://i.scdn.co/image/ab67616d0000b273bddf008ccaea655e61892c27",
+        "score": 6.94,
+        "algo_score": 6.88,
+        "asboyer_score": 7,
         "top_tracks": [
             "Wit It",
-            "Outstanding",
-            "One Call",
-            "Richard Millie Plain",
-            "Derek Fisher (feat. Lil Baby)",
-            "Baby Birkin",
             "Speed It Up",
             "3 Headed Snake (feat. Young Thug)",
-            "Big Shot",
-            "Out The Hood",
-            "Same Yung Nigga (feat. Playboi Carti)",
             "Who You Foolin"
         ],
-        "good_tracks": [
+        "mid_tracks": [
             "Yao Ming",
-            "On A Mountain"
+            "On A Mountain",
+            "Baby Birkin",
+            "Out The Hood",
+            "Same Yung Nigga (feat. Playboi Carti)"
         ],
-        "score": 8.39,
+        "good_tracks": [
+            "Richard Millie Plain",
+            "Derek Fisher (feat. Lil Baby)",
+            "Outstanding",
+            "One Call",
+            "Big Shot"
+        ],
         "tracks": []
     },
     "Madvillainy": {
@@ -118,32 +135,36 @@
         "total_tracks": 22,
         "uri": "spotify:album:01FCoGEQ3NFWF4fHJzdiax",
         "image": "https://i.scdn.co/image/ab67616d0000b27302abe1eaf9da931f42629b4a",
+        "score": 8.68,
+        "algo_score": 8.36,
+        "asboyer_score": 9,
         "top_tracks": [
             "The Illest Villains",
             "Accordion",
             "Meat Grinder",
+            "Bistro",
             "Raid",
             "Curls",
-            "Money Folder",
-            "Operation Lifesaver aka Mint Test",
             "Fancy Clown",
-            "Eye",
-            "Supervillain Theme",
             "All Caps",
-            "Great Day",
             "Rhinestone Cowboy",
-            "Figaro",
             "Strange Ways"
         ],
-        "good_tracks": [
-            "Bistro",
-            "America's Most Blunted",
-            "Sickfit",
-            "Rainbows",
+        "mid_tracks": [
             "Do Not Fire!",
             "Shadows of Tomorrow"
         ],
-        "score": 9.37,
+        "good_tracks": [
+            "Rainbows",
+            "America's Most Blunted",
+            "Money Folder",
+            "Sickfit",
+            "Operation Lifesaver aka Mint Test",
+            "Figaro",
+            "Eye",
+            "Supervillain Theme",
+            "Great Day"
+        ],
         "tracks": []
     },
     "Trouble Man": {
@@ -155,12 +176,13 @@
         "total_tracks": 13,
         "uri": "spotify:album:7KvKuWUxxNPEU80c4i5AQk",
         "image": "https://greggioia.com/wp-content/uploads/2020/05/Marvin-Gaye-Trouble-Man.jpg",
+        "score": 6.35,
+        "algo_score": 5.69,
+        "asboyer_score": 7,
         "top_tracks": [
-            "Main Theme From Trouble Man - 2",
-            "Main Theme From Trouble Man - 1",
             "Trouble Man"
         ],
-        "good_tracks": [
+        "mid_tracks": [
             "\"T\" Stands For Trouble",
             "Theme From Trouble Man",
             "Don't Mess With Mister \"T\"",
@@ -170,7 +192,10 @@
             "The Break In (Police Shoot Big)",
             "Cleo's Apartment"
         ],
-        "score": 6.7,
+        "good_tracks": [
+            "Main Theme From Trouble Man - 2",
+            "Main Theme From Trouble Man - 1"
+        ],
         "tracks": []
     },
     "Duke Ellington & John Coltrane": {
@@ -182,9 +207,15 @@
         "total_tracks": 7,
         "uri": "spotify:album:1OvmilWKtrabJGEpPRlgK5",
         "image": "https://i.scdn.co/image/ab67616d0000b2732def9ef3f6a82c8d6fd8c143",
+        "score": 7.64,
+        "algo_score": 8.29,
+        "asboyer_score": 7,
         "top_tracks": [
             "In A Sentimental Mood",
             "My Little Brown Book"
+        ],
+        "mid_tracks": [
+            "Take The Coltrane"
         ],
         "good_tracks": [
             "Angelica",
@@ -192,7 +223,6 @@
             "Big Nick",
             "Stevie"
         ],
-        "score": 7.62,
         "tracks": []
     },
     "Kid A": {
@@ -204,22 +234,26 @@
         "total_tracks": 11,
         "uri": "spotify:album:6GjwtEZcfenmOf6l18N7T7",
         "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
+        "score": 9.38,
+        "algo_score": 9.27,
+        "asboyer_score": 9.5,
         "top_tracks": [
             "Everything In Its Right Place",
+            "Kid A",
             "The National Anthem",
             "How to Disappear Completely",
             "Optimistic",
-            "Idioteque"
+            "In Limbo",
+            "Idioteque",
+            "Morning Bell"
+        ],
+        "mid_tracks": [
+            "Treefingers"
         ],
         "good_tracks": [
-            "Kid A",
-            "Treefingers",
-            "In Limbo",
-            "Morning Bell",
             "Motion Picture Soundtrack",
             "Untitled"
         ],
-        "score": 9.09,
         "tracks": []
     },
     "Twelve Carat Toothache": {
@@ -231,20 +265,27 @@
         "total_tracks": 14,
         "uri": "spotify:album:3HHNR44YbP7XogMVwzbodx",
         "image": "https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97",
+        "score": 6.5,
+        "algo_score": 7.0,
+        "asboyer_score": 6,
         "top_tracks": [
             "Love/Hate Letter To Alcohol (with Fleet Foxes)",
             "Wasting Angels (with The Kid LAROI)",
-            "One Right Now (with The Weeknd)",
-            "Euthanasia",
             "Insane"
+        ],
+        "mid_tracks": [
+            "I Like You",
+            "New Recording"
         ],
         "good_tracks": [
             "Reputation",
-            "When I\u2019m Alone",
             "Lemon Tree",
-            "I Cannot Be (A Sadder Song) (with Gunna)"
+            "Wrapped Around Your Finger",
+            "I Cannot Be (A Sadder Song) (with Gunna)",
+            "When I\u2019m Alone",
+            "Euthanasia",
+            "One Right Now (with The Weeknd)"
         ],
-        "score": 5.95,
         "tracks": []
     },
     "Dangerous: The Double Album": {
@@ -256,35 +297,44 @@
         "total_tracks": 30,
         "uri": "spotify:album:6JlCkqkqobGirPsaleJpFr",
         "image": "https://i.scdn.co/image/ab67616d0000b2737d6813fd233f3bc4977cceca",
+        "score": 8.7,
+        "algo_score": 8.4,
+        "asboyer_score": 9,
         "top_tracks": [
             "Sand In My Boots",
             "Wasted On You",
             "Somebody\u2019s Problem",
             "More Surprised Than Me",
+            "865",
             "Warning",
+            "Neon Eyes",
             "Outlaw (feat. Ben Burgess)",
-            "Your Bartender",
             "Cover Me Up",
             "7 Summers",
             "Still Goin Down",
             "Dangerous",
-            "Blame It On Me",
-            "Need A Boat",
             "Silverado For Sale",
-            "Heartless - Wallen Album Mix",
+            "Heartless - Wallen Album Mix"
+        ],
+        "mid_tracks": [
+            "Wonderin' Bout The Wind",
+            "Only Thing That's Gone",
+            "Somethin\u2019 Country",
+            "Me On Whiskey"
+        ],
+        "good_tracks": [
+            "Whiskey\u2019d My Way",
+            "Your Bartender",
+            "More Than My Hometown",
+            "Rednecks, Red Letters, Red Dirt",
+            "Blame It On Me",
+            "This Bar",
+            "Need A Boat",
+            "Country A$$ Shit",
+            "Whatcha Think Of Country Now",
             "Livin\u2019 The Dream",
             "Quittin\u2019 Time"
         ],
-        "good_tracks": [
-            "865",
-            "Neon Eyes",
-            "Whiskey\u2019d My Way",
-            "Rednecks, Red Letters, Red Dirt",
-            "Somethin\u2019 Country",
-            "This Bar",
-            "Whatcha Think Of Country Now"
-        ],
-        "score": 7.61,
         "tracks": []
     },
     "Ctrl": {
@@ -296,23 +346,29 @@
         "total_tracks": 14,
         "uri": "spotify:album:76290XdXVF9rPzGdNRWdCh",
         "image": "https://i.scdn.co/image/ab67616d0000b2734c79d5ec52a6d0302f3add25",
+        "score": 8.21,
+        "algo_score": 8.43,
+        "asboyer_score": 8,
         "top_tracks": [
             "Supermodel",
             "Love Galore (feat. Travis Scott)",
-            "Prom",
             "Garden (Say It Like Dat)",
-            "Broken Clocks",
+            "Wavy (Interlude) (feat. James Fauntleroy)",
             "Normal Girl",
-            "Pretty Little Birds (feat. Isaiah Rashad)",
             "20 Something"
+        ],
+        "mid_tracks": [
+            "Doves In The Wind",
+            "Anything",
+            "Go Gina"
         ],
         "good_tracks": [
             "Drew Barrymore",
+            "Prom",
             "The Weekend",
-            "Wavy (Interlude) (feat. James Fauntleroy)",
-            "Go Gina"
+            "Broken Clocks",
+            "Pretty Little Birds (feat. Isaiah Rashad)"
         ],
-        "score": 7.76,
         "tracks": []
     },
     "Nevermind (Remastered)": {
@@ -324,6 +380,9 @@
         "total_tracks": 13,
         "uri": "spotify:album:2guirTSEqLizK7j9i1MTTZ",
         "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+        "score": 9.12,
+        "algo_score": 9.23,
+        "asboyer_score": 9,
         "top_tracks": [
             "Something In The Way",
             "In Bloom",
@@ -333,15 +392,16 @@
             "Drain You",
             "Stay Away",
             "Lounge Act",
-            "On A Plain",
-            "Breed"
+            "On A Plain"
+        ],
+        "mid_tracks": [
+            "Endless, Nameless"
         ],
         "good_tracks": [
             "Polly",
-            "Territorial Pissing",
-            "Endless, Nameless"
+            "Breed",
+            "Territorial Pissing"
         ],
-        "score": 9.62,
         "tracks": []
     },
     "Little Dark Age": {
@@ -353,6 +413,9 @@
         "total_tracks": 10,
         "uri": "spotify:album:7GjVWG39IOj4viyWplJV4H",
         "image": "https://i.scdn.co/image/ab67616d0000b273b47d309281c66820b7137f5d",
+        "score": 8.4,
+        "algo_score": 8.8,
+        "asboyer_score": 8,
         "top_tracks": [
             "She Works Out Too Much",
             "Little Dark Age",
@@ -361,13 +424,14 @@
             "TSLAMP",
             "One Thing Left to Try"
         ],
-        "good_tracks": [
+        "mid_tracks": [
             "James",
-            "Days That Got Away",
+            "Days That Got Away"
+        ],
+        "good_tracks": [
             "When You're Small",
             "Hand It Over"
         ],
-        "score": 8.86,
         "tracks": []
     },
     "The Slow Rush": {
@@ -379,22 +443,26 @@
         "total_tracks": 12,
         "uri": "spotify:album:31qVWUdRrlb8thMvts0yYL",
         "image": "https://i.scdn.co/image/ab67616d0000b27358267bd34420a00d5cf83a49",
+        "score": 9.34,
+        "algo_score": 9.67,
+        "asboyer_score": 9,
         "top_tracks": [
             "One More Year",
+            "Instant Destiny",
             "Borderline",
             "Posthumous Forgiveness",
             "Breathe Deeper",
+            "Tomorrow's Dust",
             "On Track",
             "Lost In Yesterday",
-            "Is It True"
-        ],
-        "good_tracks": [
-            "Instant Destiny",
-            "Tomorrow's Dust",
+            "Is It True",
             "It Might Be Time",
             "One More Hour"
         ],
-        "score": 8.21,
+        "mid_tracks": [
+            "Glimmer"
+        ],
+        "good_tracks": [],
         "tracks": []
     },
     "Emergency Tsunami": {
@@ -406,22 +474,27 @@
         "total_tracks": 14,
         "uri": "spotify:album:1tihFpzHHM9mDSoFbhMoZL",
         "image": "https://i.scdn.co/image/ab67616d0000b27392621d7615b7f5d056f5bbfe",
+        "score": 7.0,
+        "algo_score": 7.0,
+        "asboyer_score": 7,
         "top_tracks": [
-            "Breaking News Intro",
-            "Breaking News Outro",
             "Friends & Family",
             "Young Wheezy (with Gunna)",
             "Nasty",
-            "Repercussions (with Young Thug)",
             "Vetement Socks",
-            "Don't Need Friends (feat. Lil Baby)",
-            "Make It Right Back"
+            "Don't Need Friends (feat. Lil Baby)"
+        ],
+        "mid_tracks": [
+            "Breaking News Outro",
+            "Do Ya Deed",
+            "Modest",
+            "Trains (with Lil Keed)"
         ],
         "good_tracks": [
-            "Trains (with Lil Keed)",
-            "Modest"
+            "Repercussions (with Young Thug)",
+            "Make It Right Back",
+            "Breaking News Intro"
         ],
-        "score": 7.45,
         "tracks": []
     },
     "My Turn (Deluxe)": {
@@ -433,35 +506,38 @@
         "total_tracks": 26,
         "uri": "spotify:album:6uhEg4ASZYLIilZFCBFy1r",
         "image": "https://i.scdn.co/image/ab67616d0000b27376a4577dd654bf457a4ad1f8",
+        "score": 6.96,
+        "algo_score": 6.92,
+        "asboyer_score": 7,
         "top_tracks": [
             "Heatin Up (feat. Gunna)",
+            "No Sucker (feat. Moneybagg Yo)",
+            "Live Off My Closet (feat. Future)",
             "Woah",
             "Commercial (feat. Lil Uzi Vert)",
             "Sum 2 Prove",
             "Social Distancing",
-            "Low Down",
-            "Get Money",
-            "Live Off My Closet (feat. Future)",
             "We Paid (feat. 42 Dugg)"
         ],
-        "good_tracks": [
+        "mid_tracks": [
             "How",
-            "Get Ugly",
-            "Grace (feat. 42 Dugg)",
-            "No Sucker (feat. Moneybagg Yo)",
             "Same Thing",
             "Emotionally Scarred",
             "Forever (feat. Lil Wayne)",
             "We Should (feat. Young Thug)",
-            "Catch The Sun - From \"Queen & Slim: The Soundtrack\"",
             "Consistent",
             "Hurtin",
-            "Forget That (feat. Rylo Rodriguez)",
             "Solid",
-            "Gang Signs",
-            "All In"
+            "All In",
+            "Forget That (feat. Rylo Rodriguez)"
         ],
-        "score": 8.27,
+        "good_tracks": [
+            "Get Ugly",
+            "Catch The Sun - From \"Queen & Slim: The Soundtrack\"",
+            "Gang Signs",
+            "Low Down",
+            "Get Money"
+        ],
         "tracks": []
     },
     "A N N I V E R S A R Y": {
@@ -473,20 +549,24 @@
         "total_tracks": 10,
         "uri": "spotify:album:5KpXxX7OUDXRs25qLyN8NA",
         "image": "https://i.scdn.co/image/ab67616d0000b273008d8077814ce15da0085b47",
+        "score": 9.2,
+        "algo_score": 9.4,
+        "asboyer_score": 9,
         "top_tracks": [
             "Always Forever",
             "I'm Ready For You",
+            "Inhale",
             "Timeless Interlude",
             "Sorrows",
             "Things Change",
             "Next To You"
         ],
+        "mid_tracks": [],
         "good_tracks": [
-            "Years Go By",
             "Outta Time (feat. Drake)",
-            "Inhale"
+            "Keep Doing What You're Doing",
+            "Years Go By"
         ],
-        "score": 8.5,
         "tracks": []
     },
     "3.15.20": {
@@ -498,6 +578,9 @@
         "total_tracks": 12,
         "uri": "spotify:album:600ClrWRsAr7jZ0qjaBLHz",
         "image": "https://i.scdn.co/image/ab67616d0000b2734c8974d1d37295694d7d4e8f",
+        "score": 7.67,
+        "algo_score": 8.33,
+        "asboyer_score": 7,
         "top_tracks": [
             "Algorhythm",
             "Time (feat. Ariana Grande)",
@@ -506,13 +589,16 @@
             "42.26",
             "53.49"
         ],
+        "mid_tracks": [
+            "24.19",
+            "32.22",
+            "35.31",
+            "39.28"
+        ],
         "good_tracks": [
             "0.00",
-            "24.19",
-            "35.31",
             "47.48"
         ],
-        "score": 7.78,
         "tracks": []
     },
     "In The Court Of The Crimson King (Expanded & Remastered Original Album Mix)": {
@@ -524,16 +610,19 @@
         "total_tracks": 5,
         "uri": "spotify:album:6tVg2Wl9hVKMpHYcAl2V2M",
         "image": "https://i.scdn.co/image/ab67616d0000b2730e36a62897cf3f5937bf9c16",
+        "score": 9.3,
+        "algo_score": 9.6,
+        "asboyer_score": 9,
         "top_tracks": [
             "21st Century Schizoid Man - Including \"Mirrors\"",
             "I Talk To The Wind",
             "Epitaph - Including \"March for No Reason\" and \"Tomorrow and Tomorrow\"",
             "Moonchild - Including \"The Dream\" and \"The Illusion\""
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "The Court Of The Crimson King - Including \"The Return of the Fire Witch\" and \"The Dance of the Puppets\""
-        ],
-        "score": 9.43
+        ]
     },
     "Tenet (Original Motion Picture Soundtrack) [Deluxe Edition]": {
         "artists": "Ludwig Goransson",
@@ -544,9 +633,13 @@
         "total_tracks": 20,
         "uri": "spotify:album:3XVZnD9SKNPcN3YJvho9Y7",
         "image": "https://i.scdn.co/image/ab67616d0000b27390e0df2bbc53b15ea320e30e",
+        "score": 8.1,
+        "algo_score": 8.2,
+        "asboyer_score": 8,
         "top_tracks": [
             "RAINY NIGHT IN TALLINN",
             "WINDMILLS",
+            "MEETING NEIL",
             "FREEPORT",
             "747",
             "FROM MUMBAI TO AMALFI",
@@ -555,17 +648,17 @@
             "THE ALGORITHM",
             "POSTERITY"
         ],
+        "mid_tracks": [],
         "good_tracks": [
-            "MEETING NEIL",
             "PRIYA",
             "BETRAYAL",
+            "SATOR",
             "TRUCKS IN PLACE",
             "THE PROTAGONIST",
             "THE PLAN",
             "FAST CARS - BONUS TRACK",
             "TURNSTILE - BONUS TRACK"
-        ],
-        "score": 7.36
+        ]
     },
     "Illmatic": {
         "artists": "Nas",
@@ -576,6 +669,9 @@
         "total_tracks": 10,
         "uri": "spotify:album:3kEtdS2pH6hKcMU9Wioob1",
         "image": "https://i.scdn.co/image/ab67616d0000b273045fc920ecf4f8094888ec26",
+        "score": 10.0,
+        "algo_score": 10.0,
+        "asboyer_score": 10,
         "top_tracks": [
             "The Genesis",
             "N.Y. State of Mind",
@@ -588,8 +684,8 @@
             "Memory Lane (Sittin' in da Park)",
             "One Time 4 Your Mind"
         ],
-        "good_tracks": [],
-        "score": 10.0
+        "mid_tracks": [],
+        "good_tracks": []
     },
     "The Low End Theory": {
         "artists": "A Tribe Called Quest",
@@ -600,6 +696,9 @@
         "total_tracks": 14,
         "uri": "spotify:album:1p12OAWwudgMqfMzjMvl2a",
         "image": "https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7",
+        "score": 10.0,
+        "algo_score": 10.0,
+        "asboyer_score": 10,
         "top_tracks": [
             "Excursions",
             "Buggin' Out",
@@ -613,12 +712,11 @@
             "Everything Is Fair",
             "Jazz (We've Got)",
             "What?",
-            "Scenario - LP Mix"
-        ],
-        "good_tracks": [
+            "Scenario - LP Mix",
             "Skypager"
         ],
-        "score": 9.8
+        "mid_tracks": [],
+        "good_tracks": []
     },
     "KIDS SEE GHOSTS": {
         "artists": "KIDS SEE GHOSTS, Kanye West, Kid Cudi",
@@ -629,6 +727,9 @@
         "total_tracks": 7,
         "uri": "spotify:album:6pwuKxMUkNg673KETsXPUV",
         "image": "https://i.scdn.co/image/ab67616d0000b273013c00ee367dd85396f79c82",
+        "score": 10.0,
+        "algo_score": 10.0,
+        "asboyer_score": 10,
         "top_tracks": [
             "Feel The Love",
             "Fire",
@@ -638,8 +739,8 @@
             "Kids See Ghosts",
             "Cudi Montage"
         ],
-        "good_tracks": [],
-        "score": 10.0
+        "mid_tracks": [],
+        "good_tracks": []
     },
     "Eternal Atake": {
         "artists": "Lil Uzi Vert",
@@ -650,6 +751,9 @@
         "total_tracks": 18,
         "uri": "spotify:album:7IyoGB8J31fvQDwGtHAq9m",
         "image": "https://i.scdn.co/image/ab67616d0000b273d5f1bbe527fa685633339add",
+        "score": 8.28,
+        "algo_score": 8.56,
+        "asboyer_score": 8,
         "top_tracks": [
             "Baby Pluto",
             "Lo Mein",
@@ -657,20 +761,22 @@
             "You Better Move",
             "Homecoming",
             "Celebration Station",
-            "Bigger Than Life",
-            "Bust Me",
             "Prices",
             "Venetia",
             "P2",
             "Futsal Shuffle 2020 - Bonus Track",
             "That Way - Bonus Track"
         ],
-        "good_tracks": [
-            "POP",
-            "I'm Sorry",
+        "mid_tracks": [
+            "Chrome Heart Tags",
             "Secure The Bag"
         ],
-        "score": 8.78
+        "good_tracks": [
+            "POP",
+            "Bust Me",
+            "Bigger Than Life",
+            "I'm Sorry"
+        ]
     },
     "The Piano Guys": {
         "artists": "The Piano Guys",
@@ -681,6 +787,9 @@
         "total_tracks": 16,
         "uri": "spotify:album:6P2EwTc87RwLx2ANZVr1JY",
         "image": "/static/img/music/albums/piano_guys.png",
+        "score": 10.0,
+        "algo_score": 10.0,
+        "asboyer_score": 10,
         "top_tracks": [
             "Titanium / Pavane",
             "Peponi (Paradise)",
@@ -699,8 +808,8 @@
             "Without You",
             "Nearer My God to Thee"
         ],
-        "good_tracks": [],
-        "score": 10.0
+        "mid_tracks": [],
+        "good_tracks": []
     },
     "T R A P S O U L": {
         "artists": "Bryson Tiller",
@@ -711,6 +820,9 @@
         "total_tracks": 14,
         "uri": "spotify:album:6eZdwrhB97A3EYx9QppGfl",
         "image": "https://i.scdn.co/image/ab67616d0000b273d5f3cea8affdca01a0dc754f",
+        "score": 9.68,
+        "algo_score": 9.86,
+        "asboyer_score": 9.5,
         "top_tracks": [
             "Intro (Difference)",
             "Let Em' Know",
@@ -726,10 +838,10 @@
             "Overtime",
             "Right My Wrongs"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "The Sequence"
-        ],
-        "score": 9.88
+        ]
     },
     "Future & Juice WRLD Present... WRLD ON DRUGS": {
         "artists": "Future, Juice WRLD",
@@ -740,6 +852,9 @@
         "total_tracks": 16,
         "uri": "spotify:album:6P9PZjWXoCRF5b66BafPKY",
         "image": "https://i.scdn.co/image/ab67616d0000b273644c510e8d4c02ae69028297",
+        "score": 7.5,
+        "algo_score": 7.0,
+        "asboyer_score": 8,
         "top_tracks": [
             "Jet Lag (feat. Young Scooter)",
             "Fine China",
@@ -748,16 +863,17 @@
             "Ain't Livin Right (feat. Gunna)",
             "Hard Work Pays Off"
         ],
-        "good_tracks": [
+        "mid_tracks": [
             "Red Bentley (feat. Young Thug)",
+            "Afterlife"
+        ],
+        "good_tracks": [
             "7 Am Freestyle",
             "Different",
-            "Afterlife",
             "Astronauts",
             "Shorty",
             "WRLD On Drugs"
-        ],
-        "score": 7.84
+        ]
     },
     "The Search": {
         "artists": "NF",
@@ -765,34 +881,37 @@
         "name": "The Search",
         "popularity": 78,
         "release_date": "2019-07-26",
-        "total_tracks": 20,
+        "total_tracks": 19,
         "uri": "spotify:album:46xdC4Qcvscfs3Ai2RIHcv",
         "image": "https://i.scdn.co/image/ab67616d0000b273942a0c9ac8f1def7c8805044",
+        "score": 9.13,
+        "algo_score": 9.26,
+        "asboyer_score": 9,
         "top_tracks": [
             "The Search",
             "Leave Me Alone",
             "Change",
             "My Stress",
-            "Nate",
             "Time",
-            "Returns",
-            "Let Me Go",
             "When I Grow Up",
             "Only",
-            "-Interlude-",
             "Hate Myself",
-            "I Miss The Days",
             "No Excuses",
             "Like This",
             "Options",
             "WHY",
-            "Thinking",
-            "Time - Edit"
+            "Thinking"
         ],
-        "good_tracks": [
+        "mid_tracks": [
             "Trauma"
         ],
-        "score": 9.86
+        "good_tracks": [
+            "Nate",
+            "Let Me Go",
+            "Returns",
+            "-Interlude-",
+            "I Miss The Days"
+        ]
     },
     "F*CK LOVE (SAVAGE)": {
         "artists": "The Kid LAROI",
@@ -803,6 +922,9 @@
         "total_tracks": 7,
         "uri": "spotify:album:3YjfdLdpQcVI72uKhooZst",
         "image": "https://i.scdn.co/image/ab67616d0000b273df16d539f508603bfb1efe02",
+        "score": 9.07,
+        "algo_score": 9.14,
+        "asboyer_score": 9,
         "top_tracks": [
             "PIKACHU",
             "SO DONE",
@@ -810,11 +932,12 @@
             "F*CK YOU, GOODBYE (feat. Machine Gun Kelly)",
             "WITHOUT YOU"
         ],
-        "good_tracks": [
-            "TRAGIC (feat. Youngboy Never Broke Again & Internet Money)",
+        "mid_tracks": [
             "FEEL SOMETHING (feat. Marshmello)"
         ],
-        "score": 9.18
+        "good_tracks": [
+            "TRAGIC (feat. Youngboy Never Broke Again & Internet Money)"
+        ]
     },
     "Don't Look Back": {
         "artists": "Boston",
@@ -825,6 +948,9 @@
         "total_tracks": 8,
         "uri": "spotify:album:2bJalk1WMed8Z2CZca2zKp",
         "image": "https://i.scdn.co/image/ab67616d0000b27380aee3216dbae96c8d21c452",
+        "score": 9.62,
+        "algo_score": 9.75,
+        "asboyer_score": 9.5,
         "top_tracks": [
             "Don't Look Back",
             "It's Easy",
@@ -834,10 +960,10 @@
             "Used to Bad News",
             "Don't Be Afraid"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "The Journey"
-        ],
-        "score": 9.64
+        ]
     },
     "Graduation": {
         "artists": "Kanye West",
@@ -848,6 +974,9 @@
         "total_tracks": 13,
         "uri": "spotify:album:5fPglEDz9YEwRgbLRvhCZy",
         "image": "https://i.scdn.co/image/ab67616d0000b2739bbd79106e510d13a9a5ec33",
+        "score": 9.21,
+        "algo_score": 8.92,
+        "asboyer_score": 9.5,
         "top_tracks": [
             "Good Morning",
             "Champion",
@@ -861,11 +990,10 @@
             "Homecoming",
             "Big Brother"
         ],
-        "good_tracks": [
-            "Barry Bonds",
-            "Good Night"
+        "mid_tracks": [
+            "Barry Bonds"
         ],
-        "score": 9.74
+        "good_tracks": []
     },
     "Death Race For Love": {
         "artists": "Juice WRLD",
@@ -876,6 +1004,9 @@
         "total_tracks": 22,
         "uri": "spotify:album:1GYVNOzwhx1nMcIJDogSNp",
         "image": "https://i.scdn.co/image/ab67616d0000b273af149eb4002f65f83afc63c4",
+        "score": 9.28,
+        "algo_score": 9.55,
+        "asboyer_score": 9,
         "top_tracks": [
             "Empty",
             "Maze",
@@ -890,19 +1021,20 @@
             "Syphilis",
             "Who Shot Cupid?",
             "Ring Ring (with Rvssian feat. Clever)",
-            "Desire",
             "Out My Way",
             "The Bees Knees",
-            "10 Feet",
             "She's The One",
             "Rider",
             "Make Believe"
         ],
-        "good_tracks": [
-            "ON GOD (feat. Young Thug)",
-            "Won't Let Go"
+        "mid_tracks": [
+            "ON GOD (feat. Young Thug)"
         ],
-        "score": 9.74
+        "good_tracks": [
+            "Desire",
+            "10 Feet",
+            "Won't Let Go"
+        ]
     },
     "If You're Reading This It's Too Late": {
         "artists": "Drake",
@@ -913,6 +1045,9 @@
         "total_tracks": 17,
         "uri": "spotify:album:0ptlfJfwGTy0Yvrk14JK1I",
         "image": "https://i.scdn.co/image/ab67616d0000b2732090f4f6cc406e6d3c306733",
+        "score": 10.0,
+        "algo_score": 10.0,
+        "asboyer_score": 10,
         "top_tracks": [
             "Legend",
             "Energy",
@@ -928,13 +1063,12 @@
             "Company",
             "Used To",
             "Now & Forever",
-            "You & The 6"
-        ],
-        "good_tracks": [
+            "You & The 6",
             "Wednesday Night Interlude",
             "6PM In New York"
         ],
-        "score": 9.8
+        "mid_tracks": [],
+        "good_tracks": []
     },
     "good kid, m.A.A.d city": {
         "artists": "Kendrick Lamar",
@@ -945,6 +1079,9 @@
         "total_tracks": 12,
         "uri": "spotify:album:6PBZN8cbwkqm1ERj2BGXJ1",
         "image": "https://i.scdn.co/image/ab67616d0000b273d28d2ebdedb220e479743797",
+        "score": 9.59,
+        "algo_score": 9.67,
+        "asboyer_score": 9.5,
         "top_tracks": [
             "Sherane a.k.a Master Splinter\u2019s Daughter",
             "Bitch, Don\u2019t Kill My Vibe",
@@ -952,16 +1089,16 @@
             "The Art of Peer Pressure",
             "Money Trees",
             "Poetic Justice",
-            "m.A.A.d city",
-            "Swimming Pools (Drank) - Extended Version"
-        ],
-        "good_tracks": [
             "good kid",
-            "Sing About Me, I'm Dying Of Thirst",
+            "m.A.A.d city",
+            "Swimming Pools (Drank) - Extended Version",
+            "Sing About Me, I'm Dying Of Thirst"
+        ],
+        "mid_tracks": [],
+        "good_tracks": [
             "Real",
             "Compton"
-        ],
-        "score": 9.44
+        ]
     },
     "True 2 Myself": {
         "artists": "Lil Tjay",
@@ -972,11 +1109,12 @@
         "total_tracks": 17,
         "uri": "spotify:album:1bCBZ8LedqwVYOLDLrRbbY",
         "image": "https://i.scdn.co/image/ab67616d0000b273d2fe0b3a495888636cbed083",
+        "score": 8.41,
+        "algo_score": 8.82,
+        "asboyer_score": 8,
         "top_tracks": [
-            "One Take",
             "F.N",
             "Hold On",
-            "Dream That I Had",
             "Post To Be (feat. Rileyy Lanez)",
             "Ruthless (feat. Jay Critch)",
             "Mixed Emotions",
@@ -988,10 +1126,14 @@
             "Brothers (feat. Lil Durk) - Remix",
             "Leaked (feat. Lil Wayne) - Remix"
         ],
-        "good_tracks": [
-            "Top of My Game"
+        "mid_tracks": [
+            "Sex Sounds"
         ],
-        "score": 8.66
+        "good_tracks": [
+            "One Take",
+            "Dream That I Had",
+            "Top of My Game"
+        ]
     },
     "CLOUDS (THE MIXTAPE)": {
         "artists": "NF",
@@ -1002,21 +1144,24 @@
         "total_tracks": 10,
         "uri": "spotify:album:7eQGtkzCgrIWDOe76E9F8t",
         "image": "https://i.scdn.co/image/ab67616d0000b273e0783b9378aa3857b8a9d24d",
+        "score": 9.1,
+        "algo_score": 9.2,
+        "asboyer_score": 9,
         "top_tracks": [
             "CLOUDS",
             "THAT'S A JOKE",
-            "JUST LIKE YOU",
-            "STORY",
             "LOST",
             "LAYERS",
             "TRUST",
             "PAID MY DUES"
         ],
+        "mid_tracks": [],
         "good_tracks": [
+            "JUST LIKE YOU",
+            "STORY",
             "PRIDEFUL",
             "DRIFTING"
-        ],
-        "score": 9.43
+        ]
     },
     "Because the Internet": {
         "artists": "Childish Gambino",
@@ -1027,6 +1172,9 @@
         "total_tracks": 19,
         "uri": "spotify:album:4GNIhgEGXzWGAefgN5qjdU",
         "image": "https://i.scdn.co/image/ab67616d0000b273fce23dadb51975ebf2e9d75c",
+        "score": 10.0,
+        "algo_score": 10.0,
+        "asboyer_score": 10,
         "top_tracks": [
             "The Library - Intro",
             "I.Crawl",
@@ -1048,8 +1196,8 @@
             "II. Earth: The Oldest Computer (The Last Night)",
             "III. Life: The Biggest Troll [Andrew Auernheimer]"
         ],
-        "good_tracks": [],
-        "score": 10.0
+        "mid_tracks": [],
+        "good_tracks": []
     },
     "Yeezus": {
         "artists": "Kanye West",
@@ -1060,21 +1208,24 @@
         "total_tracks": 10,
         "uri": "spotify:album:7D2NdGvBHIavgLhmcwhluK",
         "image": "https://i.scdn.co/image/ab67616d0000b2731dacfbc31cc873d132958af9",
+        "score": 9.3,
+        "algo_score": 9.6,
+        "asboyer_score": 9,
         "top_tracks": [
             "On Sight",
             "I Am A God",
             "Hold My Liquor",
             "Black Skinhead",
             "New Slaves",
-            "I'm In It",
             "Blood On The Leaves",
             "Bound 2",
             "Send It Up"
         ],
+        "mid_tracks": [],
         "good_tracks": [
+            "I'm In It",
             "Guilt Trip"
-        ],
-        "score": 9.83
+        ]
     },
     "Gentle Boy": {
         "artists": "Elijah Who",
@@ -1085,6 +1236,9 @@
         "total_tracks": 14,
         "uri": "spotify:album:2Ap5vMlN2HZQjTyohlapPA",
         "image": "https://i.scdn.co/image/ab67616d0000b27347c706b16454dcf9985ad29e",
+        "score": 9.29,
+        "algo_score": 9.57,
+        "asboyer_score": 9,
         "top_tracks": [
             "crush on you",
             "it's finally raining again",
@@ -1098,12 +1252,12 @@
             "my new love",
             "gn bump"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "bittersweet",
             "wintersadness",
             "i_hear_it_in_my_sleep - instrumental"
-        ],
-        "score": 9.39
+        ]
     },
     "The Lost Boy": {
         "artists": "Cordae",
@@ -1114,24 +1268,29 @@
         "total_tracks": 15,
         "uri": "spotify:album:6Pb7PMZtW0fuEM1lCGvCDu",
         "image": "https://i.scdn.co/image/ab67616d0000b273e6d6d392a66a7f9172fe57c8",
+        "score": 8.0,
+        "algo_score": 8.0,
+        "asboyer_score": 8,
         "top_tracks": [
             "Wintertime",
             "Have Mercy",
             "Bad Idea (feat. Chance the Rapper)",
             "RNP (feat. Anderson .Paak)",
-            "Thousand Words",
+            "Broke As Fuck",
             "Way Back Home (feat. Ty Dolla $ign)",
-            "Been Around",
+            "Been Around"
+        ],
+        "mid_tracks": [
+            "Family Matters (feat. Arin Ray)",
+            "We Gon Make It (feat. Meek Mill)",
             "Nightmares Are Real (feat. Pusha T)"
         ],
         "good_tracks": [
             "Sweet Lawd - Skit",
             "Thanksgiving",
-            "Family Matters (feat. Arin Ray)",
-            "We Gon Make It (feat. Meek Mill)",
+            "Thousand Words",
             "Lost & Found"
-        ],
-        "score": 7.71
+        ]
     },
     "No Pressure": {
         "artists": "Logic",
@@ -1142,6 +1301,9 @@
         "total_tracks": 15,
         "uri": "spotify:album:5pF05wJrbrIvqunE41vWP8",
         "image": "https://i.scdn.co/image/ab67616d0000b2731c76e29153f29cc1e1b2b434",
+        "score": 9.23,
+        "algo_score": 9.47,
+        "asboyer_score": 9,
         "top_tracks": [
             "No Pressure Intro",
             "Hit My Line",
@@ -1156,12 +1318,13 @@
             "Amen",
             "Obediently Yours"
         ],
+        "mid_tracks": [
+            "Dark Place"
+        ],
         "good_tracks": [
-            "Dark Place",
             "A2Z",
             "GP4"
-        ],
-        "score": 9.43
+        ]
     },
     "F*CK LOVE": {
         "artists": "The Kid LAROI",
@@ -1172,6 +1335,9 @@
         "total_tracks": 11,
         "uri": "spotify:album:6RuwGwQcAureaOraKJNFQG",
         "image": "https://i.scdn.co/image/ab67616d0000b273891f0552bed344dc2bfe322f",
+        "score": 10.0,
+        "algo_score": 10.0,
+        "asboyer_score": 10,
         "top_tracks": [
             "MAYBE",
             "WRONG (feat. Lil Mosey)",
@@ -1185,8 +1351,8 @@
             "NEED YOU MOST (So Sick)",
             "SELFISH"
         ],
-        "good_tracks": [],
-        "score": 10.0
+        "mid_tracks": [],
+        "good_tracks": []
     },
     "Loose": {
         "artists": "Jack Harlow",
@@ -1197,20 +1363,25 @@
         "total_tracks": 13,
         "uri": "spotify:album:50UV94JhFbWhF37n74Jhk3",
         "image": "https://i.scdn.co/image/ab67616d0000b2733ca9954e7b2b7ef7fa8bbd78",
+        "score": 6.38,
+        "algo_score": 6.77,
+        "asboyer_score": 6,
         "top_tracks": [
             "SUNDOWN",
             "PICKYOURPHONEUP (feat. K CAMP)",
             "SYLVIA (feat. 2forwOyNE)",
-            "LIKE THIS",
-            "KNACK FOR IT"
+            "KNACK FOR IT",
+            "9TH GRADE",
+            "LIKE THIS"
+        ],
+        "mid_tracks": [
+            "NUN FREE",
+            "DRIP DROP (feat. Cyhi The Prynce)"
         ],
         "good_tracks": [
             "SLIDE FOR ME",
-            "CODY BANKS",
-            "9TH GRADE",
-            "DRIP DROP (feat. Cyhi The Prynce)"
-        ],
-        "score": 6.41
+            "CODY BANKS"
+        ]
     },
     "Thats What They All Say": {
         "artists": "Jack Harlow",
@@ -1221,11 +1392,12 @@
         "total_tracks": 15,
         "uri": "spotify:album:5g2INX6dnMIJG0xKygXwF3",
         "image": "https://i.scdn.co/image/ab67616d0000b273aeb14ead136118a987246b63",
+        "score": 8.2,
+        "algo_score": 8.4,
+        "asboyer_score": 8,
         "top_tracks": [
-            "Rendezvous",
             "21C/Delta",
             "Funny Seeing You Here",
-            "Keep It Light",
             "Same Guy (feat. Adam Levine)",
             "Route 66 (feat. EST Gee)",
             "Tyler Herro",
@@ -1234,11 +1406,15 @@
             "Baxter Avenue",
             "Whats Poppin (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix] - Bonus Track"
         ],
+        "mid_tracks": [
+            "Already Best Friends",
+            "Way Out"
+        ],
         "good_tracks": [
-            "Way Out",
+            "Rendezvous",
+            "Keep It Light",
             "Creme"
         ],
-        "score": 8.44,
         "tracks": []
     },
     "Sweet Action": {
@@ -1250,6 +1426,9 @@
         "total_tracks": 7,
         "uri": "spotify:album:7AaqMMiYMvnMB3RcS8u3EY",
         "image": "https://i.scdn.co/image/ab67616d0000b27305a448540b069450ccfba889",
+        "score": 7.89,
+        "algo_score": 8.29,
+        "asboyer_score": 7.5,
         "top_tracks": [
             "WHATS POPPIN",
             "2STYLISH",
@@ -1257,11 +1436,10 @@
             "OUT FRONT",
             "ONCE MAY COMES"
         ],
+        "mid_tracks": [],
         "good_tracks": [
-            "HEY BIG HEAD",
             "SMELLS LIKE INCENSE"
-        ],
-        "score": 9.18
+        ]
     },
     "Confetti": {
         "artists": "Jack Harlow",
@@ -1272,6 +1450,9 @@
         "total_tracks": 12,
         "uri": "spotify:album:7xfcihbsBamUi6sezd0oOG",
         "image": "https://i.scdn.co/image/ab67616d0000b27357c38b379fbaa7bfef03934d",
+        "score": 9.25,
+        "algo_score": 9.5,
+        "asboyer_score": 9,
         "top_tracks": [
             "GHOST",
             "ROTTEN (feat. EST Gee)",
@@ -1283,12 +1464,12 @@
             "HEAVY HITTER",
             "RIVER ROAD"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "ICE",
             "GOIN BACK DOWN",
             "SUNDAY NIGHT"
-        ],
-        "score": 9.29
+        ]
     },
     "Pray For Haiti": {
         "artists": "Mach-Hommy",
@@ -1299,6 +1480,9 @@
         "total_tracks": 14,
         "uri": "spotify:album:7doW9YWOtpmqHBqAUuBaKO",
         "image": "https://i.scdn.co/image/ab67616d0000b273c43b3a9459cadcf6f68867cd",
+        "score": 7.5,
+        "algo_score": 8.0,
+        "asboyer_score": 7,
         "top_tracks": [
             "The 26th Letter",
             "No Blood No Sweat",
@@ -1307,16 +1491,45 @@
             "Pen Rale",
             "Magnum Band (feat. Tha God Fahim)",
             "Rami (feat. Westside Gunn)",
-            "Au Revoir (feat. Melanie Charles)",
-            "Blockchain",
-            "Ten Boxes - Sin Eater"
+            "Blockchain"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Makrel Jaxon",
+            "Ten Boxes - Sin Eater",
             "The Stellar Ray Theory",
-            "Murder Czn (feat. Westside Gunn)"
+            "Au Revoir (feat. Melanie Charles)"
         ],
-        "score": 8.67,
+        "tracks": []
+    },
+    "10": {
+        "artists": "Westside Gunn",
+        "id": "138M0lORis5tDxurpIbd7V",
+        "name": "10",
+        "popularity": 62,
+        "release_date": "2022-10-28",
+        "total_tracks": 12,
+        "uri": "spotify:album:138M0lORis5tDxurpIbd7V",
+        "image": "https://i.scdn.co/image/ab67616d0000b273db90972fc5ebdf05c7cce910",
+        "top_tracks": [
+            "FlyGod Jr (feat. DJ Drama)",
+            "Shootouts In Soho (feat. A$AP Rocky & Stove God Cooks)",
+            "Science Class (feat. Busta Rhymes, Raekwon, Ghostface Killah & Stove God Cooks)",
+            "Red Death (feat. Benny The Butcher, Stove God Cooks, Rome Streetz, Armani Caesar, Jay Worthy, Conway the Machine & Robby Takac)"
+        ],
+        "mid_tracks": [
+            "Nigo Louis (feat. Westside Pootie)",
+            "BDP (feat. Rome Streetz & Stove God Cooks)",
+            "Peppas (feat. Black Star)",
+            "Super Kick Party",
+            "Switches On Everything",
+            "God Is Love (feat. Estee Nack, Stove God Cooks & Keisha Plum)",
+            "Mac Don't Stop"
+        ],
+        "good_tracks": [],
+        "score": 6.42,
+        "algo_score": 6.83,
+        "asboyer_score": 6,
         "tracks": []
     },
     "Honestly, Nevermind": {
@@ -1328,6 +1541,9 @@
         "total_tracks": 14,
         "uri": "spotify:album:3cf4iSSKd8ffTncbtKljXw",
         "image": "https://i.scdn.co/image/ab67616d0000b2730e947a2cb9bcf7dedd966f22",
+        "score": 6.43,
+        "algo_score": 6.86,
+        "asboyer_score": 6,
         "top_tracks": [
             "Intro",
             "Falling Back",
@@ -1335,14 +1551,14 @@
             "Flight's Booked",
             "Overdrive",
             "Jimmy Cook's (feat. 21 Savage)",
-            "Liability"
-        ],
-        "good_tracks": [
-            "A Keeper",
-            "Texts Go Green",
+            "Liability",
             "Sticky"
         ],
-        "score": 6.53,
+        "mid_tracks": [],
+        "good_tracks": [
+            "A Keeper",
+            "Texts Go Green"
+        ],
         "tracks": []
     },
     "Smoke + Mirrors": {
@@ -1354,6 +1570,9 @@
         "total_tracks": 13,
         "uri": "spotify:album:0gmsXcmrcnxdZBrD5EyJEL",
         "image": "https://i.scdn.co/image/ab67616d0000b2736a6a889eef62af7b190ec713",
+        "score": 9.34,
+        "algo_score": 9.69,
+        "asboyer_score": 9,
         "top_tracks": [
             "Shots",
             "Gold",
@@ -1363,15 +1582,15 @@
             "Polaroid",
             "Friction",
             "It Comes Back To You",
-            "Dream",
             "Summer",
-            "Hopeless Opus"
+            "Hopeless Opus",
+            "Trouble"
         ],
+        "mid_tracks": [],
         "good_tracks": [
-            "Trouble",
+            "Dream",
             "The Fall"
-        ],
-        "score": 9.56
+        ]
     },
     "Industry Plant": {
         "artists": "iann dior",
@@ -1382,6 +1601,9 @@
         "total_tracks": 15,
         "uri": "spotify:album:5UuzudgFxwLkxC1LFajC5e",
         "image": "https://i.scdn.co/image/ab67616d0000b273665f08f4717d16f352208569",
+        "score": 8.7,
+        "algo_score": 8.4,
+        "asboyer_score": 9,
         "top_tracks": [
             "Darkside",
             "gone girl",
@@ -1391,17 +1613,17 @@
             "Searching",
             "Never Is Enough",
             "Feel It Coming",
-            "what is real",
-            "Problems",
             "Flowers"
+        ],
+        "mid_tracks": [
+            "Needed",
+            "Lately"
         ],
         "good_tracks": [
             "WYA",
-            "Lately",
-            "Needed",
-            "Stay For A While"
-        ],
-        "score": 9.24
+            "Problems",
+            "what is real"
+        ]
     },
     "Thriller": {
         "artists": "Michael Jackson",
@@ -1412,6 +1634,9 @@
         "total_tracks": 9,
         "uri": "spotify:album:2ANVost0y2y52ema1E9xAZ",
         "image": "https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97",
+        "score": 10.0,
+        "algo_score": 10.0,
+        "asboyer_score": 10,
         "top_tracks": [
             "Wanna Be Startin' Somethin'",
             "Baby Be Mine",
@@ -1423,8 +1648,8 @@
             "P.Y.T. (Pretty Young Thing)",
             "The Lady in My Life"
         ],
-        "good_tracks": [],
-        "score": 10.0
+        "mid_tracks": [],
+        "good_tracks": []
     },
     "4 Your Eyez Only": {
         "artists": "J. Cole",
@@ -1435,21 +1660,24 @@
         "total_tracks": 10,
         "uri": "spotify:album:3CCnGldVQ90c26aFATC1PW",
         "image": "https://i.scdn.co/image/ab67616d0000b273f4ca75192df162f78a24023e",
+        "score": 9.0,
+        "algo_score": 9.0,
+        "asboyer_score": 9,
         "top_tracks": [
+            "Immortal",
             "Deja Vu",
             "Change",
             "Neighbors",
-            "Foldin Clothes",
             "4 Your Eyez Only"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "For Whom The Bell Tolls",
-            "Immortal",
+            "Foldin Clothes",
             "Ville Mentality",
             "She's Mine Pt. 1",
             "She's Mine Pt. 2"
-        ],
-        "score": 9.17
+        ]
     },
     "The College Dropout": {
         "artists": "Kanye West",
@@ -1460,6 +1688,9 @@
         "total_tracks": 21,
         "uri": "spotify:album:4Uv86qWpGTxf7fU7lG5X6F",
         "image": "https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78",
+        "score": 10.0,
+        "algo_score": 10.0,
+        "asboyer_score": 10,
         "top_tracks": [
             "Intro",
             "We Don't Care",
@@ -1483,8 +1714,8 @@
             "Family Business",
             "Last Call"
         ],
-        "good_tracks": [],
-        "score": 10.0
+        "mid_tracks": [],
+        "good_tracks": []
     },
     "Limitless": {
         "artists": "The Piano Guys",
@@ -1495,8 +1726,12 @@
         "total_tracks": 13,
         "uri": "spotify:album:4PPZ216h9xlTOsjXPUMlPw",
         "image": "https://i.scdn.co/image/ab67616d0000b27337b7fdcdaa4b21107db25aa9",
+        "score": 9.12,
+        "algo_score": 9.23,
+        "asboyer_score": 9,
         "top_tracks": [
             "Something Just Like This / Hungarian Rhapsody",
+            "Rewrite the Stars",
             "In My Blood / Swan Lake",
             "Walking the Wire / Largo",
             "Limitless",
@@ -1504,15 +1739,14 @@
             "Epiphany",
             "A Million Dreams"
         ],
+        "mid_tracks": [],
         "good_tracks": [
-            "Rewrite the Stars",
             "Perfect",
             "Flicker",
             "North Cape",
             "First Dance",
             "Miracles"
-        ],
-        "score": 8.68
+        ]
     },
     "Evolve": {
         "artists": "Imagine Dragons",
@@ -1523,8 +1757,10 @@
         "total_tracks": 12,
         "uri": "spotify:album:33pt9HBdGlAbRGBHQgsZsU",
         "image": "https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a",
+        "score": 9.41,
+        "algo_score": 9.83,
+        "asboyer_score": 9,
         "top_tracks": [
-            "Next To Me",
             "I Don't Know Why",
             "Whatever It Takes",
             "Believer",
@@ -1532,14 +1768,15 @@
             "Rise Up",
             "I'll Make It Up To You",
             "Yesterday",
-            "Thunder"
-        ],
-        "good_tracks": [
+            "Thunder",
             "Mouth Of The River",
             "Start Over",
             "Dancing In The Dark"
         ],
-        "score": 9.29
+        "mid_tracks": [],
+        "good_tracks": [
+            "Next To Me"
+        ]
     },
     "The Life Of Pablo": {
         "artists": "Kanye West",
@@ -1550,6 +1787,9 @@
         "total_tracks": 20,
         "uri": "spotify:album:7gsWAHLeT0w7es6FofOXk1",
         "image": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
+        "score": 9.4,
+        "algo_score": 9.3,
+        "asboyer_score": 9.5,
         "top_tracks": [
             "Ultralight Beam",
             "Father Stretch My Hands Pt. 1",
@@ -1567,12 +1807,13 @@
             "Facts (Charlie Heat Version)",
             "Fade",
             "Saint Pablo",
-            "FML",
-            "No More Parties In LA",
-            "Siiiiiiiiilver Surffffeeeeer Intermission"
+            "No More Parties In LA"
         ],
-        "good_tracks": [],
-        "score": 9.5
+        "mid_tracks": [],
+        "good_tracks": [
+            "FML",
+            "Siiiiiiiiilver Surffffeeeeer Intermission"
+        ]
     },
     "Summer Solstice": {
         "artists": "Apollo1027",
@@ -1583,17 +1824,20 @@
         "total_tracks": 6,
         "uri": "spotify:album:1O5iE0FwzZqagBkI5QThWm",
         "image": "https://i.scdn.co/image/ab67616d0000b273e3ff8620b28b124052beb324",
+        "score": 9.0,
+        "algo_score": 9.0,
+        "asboyer_score": 9,
         "top_tracks": [
             "D.N.A.",
             "Grave",
             "Ksubi"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Birthday",
             "Poolside Queen",
             "Under My Skin"
-        ],
-        "score": 8.57
+        ]
     },
     "Subluxe": {
         "artists": "Healy",
@@ -1604,10 +1848,14 @@
         "total_tracks": 12,
         "uri": "spotify:album:2UvJlbWPpItxxSrlQGrXAt",
         "image": "https://i.scdn.co/image/ab67616d0000b273a172f60f5608561ec9b9abbd",
+        "score": 3.17,
+        "algo_score": 6.33,
+        "asboyer_score": 0,
         "top_tracks": [
             "Reckless",
             "Unwind"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Build",
             "Slalom",
@@ -1616,8 +1864,7 @@
             "Grape Soda",
             "Chaparral",
             "Python"
-        ],
-        "score": 6.53
+        ]
     },
     "Heaven Or Hell": {
         "artists": "Don Toliver",
@@ -1628,6 +1875,9 @@
         "total_tracks": 12,
         "uri": "spotify:album:7z4GhRfLqfSkqrj5F3Yt2B",
         "image": "https://i.scdn.co/image/ab67616d0000b27345190a074bef3e8ce868b60c",
+        "score": 4.58,
+        "algo_score": 9.17,
+        "asboyer_score": 0,
         "top_tracks": [
             "Heaven Or Hell",
             "Euphoria (feat. Travis Scott & Kaash Paige)",
@@ -1637,14 +1887,14 @@
             "Had Enough (feat. Quavo & Offset)",
             "No Idea"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Wasted",
             "Company",
             "Spaceship (feat. Sheck Wes)",
             "No Photos",
             "Candy"
-        ],
-        "score": 9.31
+        ]
     },
     "ASTROWORLD": {
         "artists": "Travis Scott",
@@ -1655,6 +1905,9 @@
         "total_tracks": 17,
         "uri": "spotify:album:41GuZcammIkupMPKH2OJ6I",
         "image": "https://i.scdn.co/image/ab67616d0000b273072e9faef2ef7b6db63834a3",
+        "score": 5.0,
+        "algo_score": 10.0,
+        "asboyer_score": 0,
         "top_tracks": [
             "STARGAZING",
             "CAROUSEL",
@@ -1674,8 +1927,8 @@
             "WAKE UP",
             "5% TINT"
         ],
-        "good_tracks": [],
-        "score": 10.0
+        "mid_tracks": [],
+        "good_tracks": []
     },
     "Birds In The Trap Sing McKnight": {
         "artists": "Travis Scott",
@@ -1686,6 +1939,9 @@
         "total_tracks": 14,
         "uri": "spotify:album:42WVQWuf1teDysXiOupIZt",
         "image": "https://i.scdn.co/image/ab67616d0000b273f54b99bf27cda88f4a7403ce",
+        "score": 4.29,
+        "algo_score": 8.57,
+        "asboyer_score": 0,
         "top_tracks": [
             "the ends",
             "way back",
@@ -1700,8 +1956,8 @@
             "outside",
             "beibs in the trap"
         ],
-        "good_tracks": [],
-        "score": 8.57
+        "mid_tracks": [],
+        "good_tracks": []
     },
     "Rodeo": {
         "artists": "Travis Scott",
@@ -1712,6 +1968,9 @@
         "total_tracks": 14,
         "uri": "spotify:album:4PWBTB6NYSKQwfo79I3prg",
         "image": "https://i.scdn.co/image/ab67616d0000b2737433176f037e0ba14190c34f",
+        "score": 4.79,
+        "algo_score": 9.57,
+        "asboyer_score": 0,
         "top_tracks": [
             "Pornography",
             "Oh My Dis Side (feat. Quavo)",
@@ -1725,12 +1984,12 @@
             "Apple Pie",
             "Impossible"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Wasted (feat. Juicy J)",
             "Flying High (feat. Toro y Moi)",
             "I Can Tell"
-        ],
-        "score": 9.64
+        ]
     },
     "JESUS IS KING": {
         "artists": "Kanye West",
@@ -1741,6 +2000,9 @@
         "total_tracks": 11,
         "uri": "spotify:album:0FgZKfoU2Br5sHOfvZKTI9",
         "image": "https://i.scdn.co/image/ab67616d0000b2731bb797bbfe2480650b6c2964",
+        "score": 4.91,
+        "algo_score": 9.82,
+        "asboyer_score": 0,
         "top_tracks": [
             "Every Hour",
             "Selah",
@@ -1753,10 +2015,10 @@
             "Use This Gospel",
             "Jesus Is Lord"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Closed On Sunday"
-        ],
-        "score": 9.29
+        ]
     },
     "Sensational": {
         "artists": "Yung Gravy",
@@ -1767,6 +2029,9 @@
         "total_tracks": 13,
         "uri": "spotify:album:6xd9phTkcEIsi1JWhbxZM3",
         "image": "https://i.scdn.co/image/ab67616d0000b27315353ebee04814bb8153aa74",
+        "score": 4.84,
+        "algo_score": 9.69,
+        "asboyer_score": 0,
         "top_tracks": [
             "Gravy For Pope",
             "Buttered Up",
@@ -1780,11 +2045,11 @@
             "Pizzazz",
             "1 Thot 2 Thot Red Thot Blue Thot"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Daddy Aioli Interlude",
             "Gravy Train"
-        ],
-        "score": 9.56
+        ]
     },
     "Therapy Session": {
         "artists": "NF",
@@ -1795,6 +2060,9 @@
         "total_tracks": 14,
         "uri": "spotify:album:75fT8UQEDnekHNhRnbdpNI",
         "image": "https://i.scdn.co/image/ab67616d0000b27314c95b3975386061f46f3983",
+        "score": 4.36,
+        "algo_score": 8.71,
+        "asboyer_score": 0,
         "top_tracks": [
             "Therapy Session",
             "Real",
@@ -1802,6 +2070,7 @@
             "Grindin'",
             "Statement"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Intro 2",
             "I Just Wanna Know",
@@ -1812,8 +2081,7 @@
             "Wish You Wouldn't",
             "All I Do",
             "Lost In The Moment"
-        ],
-        "score": 8.16
+        ]
     },
     "Late Registration": {
         "artists": "Kanye West",
@@ -1824,6 +2092,9 @@
         "total_tracks": 17,
         "uri": "spotify:album:5ll74bqtkcXlKE7wwkMq4g",
         "image": "/static/img/music/albums/late.png",
+        "score": 4.59,
+        "algo_score": 9.18,
+        "asboyer_score": 0,
         "top_tracks": [
             "Wake Up Mr. West",
             "Heard 'Em Say",
@@ -1836,6 +2107,7 @@
             "We Major",
             "Hey Mama"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Gone",
             "Addiction",
@@ -1844,8 +2116,7 @@
             "Crack Music",
             "Diamonds From Sierra Leone - Bonus Track",
             "Late"
-        ],
-        "score": 9.31
+        ]
     },
     "?": {
         "artists": "XXXTENTACION",
@@ -1856,6 +2127,9 @@
         "total_tracks": 18,
         "uri": "spotify:album:2Ti79nwTsont5ZHfdxIzAm",
         "image": "https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c",
+        "score": 3.56,
+        "algo_score": 7.11,
+        "asboyer_score": 0,
         "top_tracks": [
             "Moonlight",
             "SAD!",
@@ -1866,6 +2140,7 @@
             "changes",
             "Hope"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Introduction (instructions)",
             "ALONE, PART 3",
@@ -1873,8 +2148,7 @@
             "$$$ - with Matt Ox",
             "SMASH! - feat. PnB Rock",
             "before I close my eyes"
-        ],
-        "score": 7.22
+        ]
     },
     "Bad (Remastered)": {
         "artists": "Michael Jackson",
@@ -1885,6 +2159,9 @@
         "total_tracks": 11,
         "uri": "spotify:album:3Us57CjssWnHjTUIXBuIeH",
         "image": "https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5",
+        "score": 3.73,
+        "algo_score": 7.45,
+        "asboyer_score": 0,
         "top_tracks": [
             "Bad - 2012 Remaster",
             "The Way You Make Me Feel - 2012 Remaster",
@@ -1892,13 +2169,13 @@
             "Smooth Criminal - 2012 Remaster",
             "Leave Me Alone - 2012 Remaster"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "I Just Can't Stop Loving You (feat. Siedah Garrett) - 2012 Remaster",
             "Just Good Friends - 2012 Remaster",
             "Another Part of Me - 2012 Remaster",
             "Dirty Diana - 2012 Remaster"
-        ],
-        "score": 7.58
+        ]
     },
     "Coloring Book": {
         "artists": "Chance the Rapper",
@@ -1909,6 +2186,9 @@
         "total_tracks": 14,
         "uri": "spotify:album:71QyofYesSsRMwFOTafnhB",
         "image": "https://i.scdn.co/image/ab67616d0000b273e71dd15fc5bdefd5bff70452",
+        "score": 4.36,
+        "algo_score": 8.71,
+        "asboyer_score": 0,
         "top_tracks": [
             "All We Got (feat. Kanye West & Chicago Children's Choir)",
             "No Problem (feat. Lil Wayne & 2 Chainz)",
@@ -1916,6 +2196,7 @@
             "Juke Jam (feat. Justin Bieber & Towkio)",
             "All Night (feat. Knox Fortune)"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Summer Friends (feat. Jeremih & Francis & The Lights)",
             "D.R.A.M. Sings Special",
@@ -1926,8 +2207,7 @@
             "Smoke Break (feat. Future)",
             "Finish Line / Drown (feat. T-Pain, Kirk Franklin, Eryn Allen Kane & Noname)",
             "Blessings (feat. Ty Dolla $ign, Anderson .Paak, BJ The Chicago Kid, Raury & Jamila Woods)"
-        ],
-        "score": 8.16
+        ]
     },
     "1027": {
         "artists": "Apollo1027",
@@ -1938,6 +2218,9 @@
         "total_tracks": 19,
         "uri": "spotify:album:5rE1s0kdPddRUVwTY6eWMw",
         "image": "https://i.scdn.co/image/ab67616d0000b273ea35e360638d33805c9621c0",
+        "score": 4.16,
+        "algo_score": 8.32,
+        "asboyer_score": 0,
         "top_tracks": [
             "Riot",
             "9 to 5",
@@ -1951,6 +2234,7 @@
             "Wit Da Set!",
             "Stay"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Ontario",
             "Azulado",
@@ -1958,8 +2242,7 @@
             "Madagascar",
             "Head in the Clouds",
             "This Way"
-        ],
-        "score": 8.05
+        ]
     },
     "SAVAGE MODE II": {
         "artists": "21 Savage, Metro Boomin",
@@ -1970,6 +2253,9 @@
         "total_tracks": 15,
         "uri": "spotify:album:6wTyGUWGCilBFZ837k5aRi",
         "image": "https://i.scdn.co/image/ab67616d0000b273aa57907bf0cb2ca0c8cc74bc",
+        "score": 4.46,
+        "algo_score": 8.93,
+        "asboyer_score": 0,
         "top_tracks": [
             "Intro",
             "Runnin",
@@ -1983,12 +2269,12 @@
             "RIP Luv",
             "Said N Done"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "My Dawg",
             "Brand New Draco",
             "No Opp Left Behind"
-        ],
-        "score": 9.0
+        ]
     },
     "Boston": {
         "artists": "Boston",
@@ -1999,6 +2285,9 @@
         "total_tracks": 8,
         "uri": "spotify:album:2QLp07RO6anZHmtcKTEvSC",
         "image": "/static/img/music/albums/boston.png",
+        "score": 4.88,
+        "algo_score": 9.75,
+        "asboyer_score": 0,
         "top_tracks": [
             "More Than a Feeling",
             "Peace of Mind",
@@ -2008,10 +2297,10 @@
             "Something About You",
             "Let Me Take You Home Tonight"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Smokin'"
-        ],
-        "score": 9.79
+        ]
     },
     "The Piano Guys 2": {
         "artists": "The Piano Guys",
@@ -2022,6 +2311,9 @@
         "total_tracks": 13,
         "uri": "spotify:album:16XHqNSRVWUSLbMPotZqUc",
         "image": "https://i.scdn.co/image/ab67616d0000b2730ab1bb93fb373ae4a68dc9fc",
+        "score": 4.46,
+        "algo_score": 8.92,
+        "asboyer_score": 0,
         "top_tracks": [
             "Begin Again",
             "Rockelbel's Canon (Pachelbel Canon in D)",
@@ -2034,11 +2326,11 @@
             "More Than Words",
             "All of Me"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Charlie Brown Medley",
             "Can't Help Falling in Love"
-        ],
-        "score": 8.79
+        ]
     },
     "Uncharted": {
         "artists": "The Piano Guys",
@@ -2049,6 +2341,9 @@
         "total_tracks": 12,
         "uri": "spotify:album:6nNCnm0zCnx2CF033KpEVd",
         "image": "https://i.scdn.co/image/ab67616d0000b273fd3dacf1acf5b0682569aa52",
+        "score": 4.67,
+        "algo_score": 9.33,
+        "asboyer_score": 0,
         "top_tracks": [
             "A Sky Full of Stars",
             "Hello / Lacrimosa",
@@ -2059,13 +2354,13 @@
             "Indiana Jones and the Arabian Nights",
             "Holding On"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Fight Song / Amazing Grace",
             "The Jungle Book / Sarabande",
             "Can't Stop the Feeling",
             "Tour de France"
         ],
-        "score": 9.05,
         "tracks": []
     },
     "808s & Heartbreak": {
@@ -2077,6 +2372,9 @@
         "total_tracks": 12,
         "uri": "spotify:album:3WFTGIO6E3Xh4paEOBY9OU",
         "image": "https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18",
+        "score": 4.42,
+        "algo_score": 8.83,
+        "asboyer_score": 0,
         "top_tracks": [
             "Say You Will",
             "Welcome To Heartbreak",
@@ -2084,6 +2382,7 @@
             "Amazing",
             "Love Lockdown"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Paranoid",
             "RoboCop",
@@ -2092,8 +2391,7 @@
             "See You In My Nightmares",
             "Coldest Winter",
             "Pinocchio Story"
-        ],
-        "score": 9.03
+        ]
     },
     "After Hours": {
         "artists": "The Weekend",
@@ -2104,6 +2402,9 @@
         "total_tracks": 14,
         "uri": "spotify:album:4yP0hdKOZPNshxUOjY0cZj",
         "image": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
+        "score": 4.5,
+        "algo_score": 9.0,
+        "asboyer_score": 0,
         "top_tracks": [
             "Alone Again",
             "Heartless",
@@ -2117,11 +2418,11 @@
             "After Hours",
             "Hardest To Love"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Snowchild",
             "Until I Bleed Out"
-        ],
-        "score": 9.19
+        ]
     },
     "JuiceWRLD 9 9 9": {
         "artists": "Juice WRLD",
@@ -2132,18 +2433,21 @@
         "total_tracks": 8,
         "uri": "",
         "image": "https://i1.sndcdn.com/artworks-000228669079-ozma1v-t500x500.jpg",
+        "score": 4.0,
+        "algo_score": 8.0,
+        "asboyer_score": 0,
         "top_tracks": [
             "moonlight",
             "Lucid Dreams",
             "eye contact (look me in my eyes)",
             "Let Me Know (I WonderWhy Freestyle)"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "rainbow",
             "two cups (everything's going my way)",
             "until it's over (closure)"
         ],
-        "score": 7.68,
         "tracks": []
     },
     "Blonde": {
@@ -2155,6 +2459,9 @@
         "total_tracks": 17,
         "uri": "spotify:album:3mH6qwIy9crq0I9YQbOuDf",
         "image": "https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526",
+        "score": 4.76,
+        "algo_score": 9.53,
+        "asboyer_score": 0,
         "top_tracks": [
             "Nikes",
             "Ivy",
@@ -2170,13 +2477,13 @@
             "Godspeed",
             "Pretty Sweet"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Solo (Reprise)",
             "Facebook Story",
             "Close To You",
             "Futura Free"
-        ],
-        "score": 9.33
+        ]
     },
     "Perception": {
         "artists": "NF",
@@ -2187,6 +2494,9 @@
         "total_tracks": 16,
         "uri": "spotify:album:1KOmHyNLuOe5YrPhD3Juuf",
         "image": "https://i.scdn.co/image/ab67616d0000b273cd733919ee57d0cc466e152f",
+        "score": 4.12,
+        "algo_score": 8.25,
+        "asboyer_score": 0,
         "top_tracks": [
             "Outcast",
             "Let You Down",
@@ -2195,6 +2505,7 @@
             "Lie",
             "3 A.M."
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Intro III",
             "Green Lights",
@@ -2205,8 +2516,7 @@
             "Remember This",
             "One Hundred",
             "Outro"
-        ],
-        "score": 7.77
+        ]
     },
     "American Teen": {
         "artists": "Khalid",
@@ -2217,6 +2527,9 @@
         "total_tracks": 15,
         "uri": "spotify:album:6kf46HbnYCZzP6rjvQHYzg",
         "image": "https://i.scdn.co/image/ab67616d0000b273988ede5e1276e758b5f9e577",
+        "score": 3.27,
+        "algo_score": 6.53,
+        "asboyer_score": 0,
         "top_tracks": [
             "American Teen",
             "Young Dumb & Broke",
@@ -2224,6 +2537,7 @@
             "Another Sad Love Song",
             "Coaster"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Saved",
             "8TEEN",
@@ -2231,8 +2545,7 @@
             "Cold Blooded",
             "Winter",
             "Keep Me"
-        ],
-        "score": 6.67
+        ]
     },
     "My Beautiful Dark Twisted Fantasy": {
         "artists": "Kanye West",
@@ -2243,6 +2556,9 @@
         "total_tracks": 13,
         "uri": "spotify:album:20r762YmB5HeofjMCiPMLv",
         "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
+        "score": 4.0,
+        "algo_score": 8.0,
+        "asboyer_score": 0,
         "top_tracks": [
             "Dark Fantasy",
             "Gorgeous",
@@ -2253,12 +2569,12 @@
             "Devil In A New Dress",
             "Runaway"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Monster",
             "Blame Game",
             "Lost In The World"
-        ],
-        "score": 9.25
+        ]
     },
     "I'm Gone": {
         "artists": "iann dior",
@@ -2269,6 +2585,9 @@
         "total_tracks": 9,
         "uri": "spotify:album:4Wb5bU9FkmZ84WkkL37rKA",
         "image": "https://i.scdn.co/image/ab67616d0000b27316f00890f319eaccf4dd1570",
+        "score": 4.55,
+        "algo_score": 9.11,
+        "asboyer_score": 0,
         "top_tracks": [
             "Shameless",
             "Sick and Tired (ft. Machine Gun Kelly and Travis Barker)",
@@ -2276,13 +2595,13 @@
             "Good Day",
             "Prospect (ft. Lil Baby)"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Sickness",
             "Paradise",
             "Pretty Girls",
             "Psycho"
-        ],
-        "score": 8.73
+        ]
     },
     "Goodbye & Good Riddance": {
         "artists": "Juice WRLD",
@@ -2293,6 +2612,9 @@
         "total_tracks": 14,
         "uri": "spotify:album:6tkjU4Umpo79wwkgPMV3nZ",
         "image": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
+        "score": 4.71,
+        "algo_score": 9.43,
+        "asboyer_score": 0,
         "top_tracks": [
             "All Girls Are The Same",
             "Lucid Dreams",
@@ -2305,13 +2627,13 @@
             "Candles",
             "Hurt Me"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Used To",
             "I'm Still",
             "End Of The Road",
             "Scared Of Love"
-        ],
-        "score": 9.18
+        ]
     },
     "Happy Endings": {
         "artists": "Old Dominion",
@@ -2322,12 +2644,16 @@
         "total_tracks": 12,
         "uri": "spotify:album:66Y5XaoFSoa0A4P0u56s8V",
         "image": "https://i.scdn.co/image/ab67616d0000b273d25f1f1f93036cc3b5abf4e8",
+        "score": 3.67,
+        "algo_score": 7.33,
+        "asboyer_score": 0,
         "top_tracks": [
             "No Such Thing as a Broken Heart",
             "Be with Me",
             "Written in the Sand",
             "Stars in the City (feat. Little Big Town)"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Shoe Shopping",
             "Not Everything's About You",
@@ -2335,8 +2661,7 @@
             "New York at Night",
             "A Girl Is a Gun",
             "Still Writing Songs About You"
-        ],
-        "score": 7.5
+        ]
     },
     "In Between Dreams": {
         "artists": "Jack Johnson",
@@ -2347,6 +2672,9 @@
         "total_tracks": 14,
         "uri": "spotify:album:7tTc46dNdE6GGuiQsssWxo",
         "image": "/static/img/music/albums/dreams.png",
+        "score": 3.93,
+        "algo_score": 7.86,
+        "asboyer_score": 0,
         "top_tracks": [
             "Better Together",
             "Never Know",
@@ -2356,14 +2684,14 @@
             "Staple It Together",
             "Breakdown"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Situations",
             "Crying Shame",
             "Belle",
             "Do You Remember",
             "Constellations"
-        ],
-        "score": 7.98
+        ]
     },
     "Wonders": {
         "artists": "The Piano Guys",
@@ -2374,6 +2702,9 @@
         "total_tracks": 12,
         "uri": "spotify:album:1ezYUAyMAoiOnAu80UVzcS",
         "image": "https://i.scdn.co/image/ab67616d0000b2739090491b7692f055a8bee64a",
+        "score": 4.75,
+        "algo_score": 9.5,
+        "asboyer_score": 0,
         "top_tracks": [
             "Story of My Life",
             "Ants Marching / Ode to Joy",
@@ -2385,12 +2716,12 @@
             "Because of You",
             "Summer Jam"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Let It Go",
             "Home",
             "The Mission / How Great Thou Art"
-        ],
-        "score": 9.29
+        ]
     },
     "Off the Wall": {
         "artists": "Michael Jackson",
@@ -2401,6 +2732,9 @@
         "total_tracks": 10,
         "uri": "spotify:album:2ZytN2cY4Zjrr9ukb2rqTP",
         "image": "https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac",
+        "score": 4.6,
+        "algo_score": 9.2,
+        "asboyer_score": 0,
         "top_tracks": [
             "Don't Stop 'Til You Get Enough",
             "Rock with You - Single Version",
@@ -2409,13 +2743,13 @@
             "Off the Wall",
             "Burn This Disco Out"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Girlfriend",
             "She's Out of My Life - Single Version",
             "I Can't Help It",
             "It's the Falling in Love"
-        ],
-        "score": 9.33
+        ]
     },
     "From Me To You": {
         "artists": "Quadeca",
@@ -2426,6 +2760,9 @@
         "total_tracks": 18,
         "uri": "spotify:album:6USIVqn1qiNAsRYtWo2CSa",
         "image": "https://i.scdn.co/image/ab67616d0000b27342bd0f416ad3a6c9f0f28c3e",
+        "score": 4.55,
+        "algo_score": 9.11,
+        "asboyer_score": 0,
         "top_tracks": [
             "Sisyphus",
             "Candles on Fire!",
@@ -2438,6 +2775,7 @@
             "It's All a Game",
             "Where'd You Go?"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Couloir (Intro)",
             "Shades of Us",
@@ -2447,8 +2785,7 @@
             "Hallstatt (Interlude)",
             "Summit, Pt. 1",
             "Summit, Pt. 2 (Outro)"
-        ],
-        "score": 8.73
+        ]
     },
     "Donda": {
         "artists": "Kanye West",
@@ -2459,6 +2796,9 @@
         "total_tracks": 27,
         "uri": "spotify:album:340MjPcVdiQRnMigrPybZA",
         "image": "https://i.scdn.co/image/ab67616d0000b2736ba1cffc9b2c5469503430b3",
+        "score": 4.71,
+        "algo_score": 9.41,
+        "asboyer_score": 0,
         "top_tracks": [
             "Jail",
             "God Breathed",
@@ -2484,12 +2824,12 @@
             "Jail pt 2",
             "Jesus Lord pt 2"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Donda Chant",
             "Donda",
             "Tell The Vision"
-        ],
-        "score": 9.44
+        ]
     },
     "Die Lit": {
         "artists": "Playboi Carti",
@@ -2500,6 +2840,9 @@
         "total_tracks": 19,
         "uri": "spotify:album:7dAm8ShwJLFm9SaJ6Yc58O",
         "image": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
+        "score": 4.53,
+        "algo_score": 9.05,
+        "asboyer_score": 0,
         "top_tracks": [
             "Long Time - Intro",
             "R.I.P",
@@ -2512,6 +2855,7 @@
             "FlatBed Freestyle",
             "R.I.P. Fredo (feat. Young Nudy) - Notice Me"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Right Now (feat. Pi'erre Bourne)",
             "Poke It Out (with Nicki Minaj)",
@@ -2522,8 +2866,7 @@
             "Top (feat. Pi'erre Bourne)",
             "No Time",
             "Middle of the summer"
-        ],
-        "score": 9.21
+        ]
     },
     "Gazebo": {
         "artists": "Jack Harlow",
@@ -2534,18 +2877,21 @@
         "total_tracks": 10,
         "uri": "spotify:album:2zoomJlGAESmLkAzCrJdS5",
         "image": "https://i.scdn.co/image/ab67616d0000b2732665b12bfde0a14eb80278f3",
+        "score": 3.1,
+        "algo_score": 6.2,
+        "asboyer_score": 0,
         "top_tracks": [
             "Dark Knight",
             "Wasted Youth",
             "Routine"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Eastern Parkway",
             "OnnaWay",
             "Detox",
             "Used To Be"
-        ],
-        "score": 5.86
+        ]
     },
     "Night Visions": {
         "artists": "Imagine Dragons",
@@ -2556,6 +2902,9 @@
         "total_tracks": 12,
         "uri": "spotify:album:6htgf3qv7vGcsdxLCDxKp8",
         "image": "https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a",
+        "score": 5.0,
+        "algo_score": 10.0,
+        "asboyer_score": 0,
         "top_tracks": [
             "Radioactive",
             "Tiptoe",
@@ -2570,8 +2919,8 @@
             "Nothing Left To Say / Rocks",
             "Cha-Ching (Till We Grow Older)"
         ],
-        "good_tracks": [],
-        "score": 10.0
+        "mid_tracks": [],
+        "good_tracks": []
     },
     "Kind Of Blue": {
         "artists": "Miles Davis",
@@ -2582,6 +2931,9 @@
         "total_tracks": 5,
         "uri": "spotify:album:1weenld61qoidwYuZ1GESA",
         "image": "https://i.scdn.co/image/ab67616d0000b2737ab89c25093ea3787b1995b4",
+        "score": 5.0,
+        "algo_score": 10.0,
+        "asboyer_score": 0,
         "top_tracks": [
             "So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
             "Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers)",
@@ -2589,8 +2941,8 @@
             "Flamenco Sketches (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
             "All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans)"
         ],
-        "good_tracks": [],
-        "score": 10.0
+        "mid_tracks": [],
+        "good_tracks": []
     },
     "Whole Lotta Red": {
         "artists": "Playboi Carti",
@@ -2601,6 +2953,9 @@
         "total_tracks": 24,
         "uri": "spotify:album:2QRedhP5RmKJiJ1i8VgDGR",
         "image": "https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb",
+        "score": 4.62,
+        "algo_score": 9.25,
+        "asboyer_score": 0,
         "top_tracks": [
             "Rockstar Made",
             "Go2DaMoon (feat. Kanye West)",
@@ -2622,13 +2977,13 @@
             "Die4Guy",
             "Beno!"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Meh",
             "King Vamp",
             "F33l Lik3 Dyin",
             "Control"
-        ],
-        "score": 9.48
+        ]
     },
     "The 3rd Generation": {
         "artists": "Freddy Leone, Apollo1027",
@@ -2639,14 +2994,17 @@
         "total_tracks": 3,
         "uri": "spotify:album:7pzW2cbHZKHYmkhZc3ZUeI",
         "image": "https://i.scdn.co/image/ab67616d0000b273574859fd5957622373183727",
+        "score": 4.33,
+        "algo_score": 8.67,
+        "asboyer_score": 0,
         "top_tracks": [
             "Freak Show"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "What It's Like",
             "Best of Me"
-        ],
-        "score": 8.1
+        ]
     },
     "IGOR": {
         "artists": "Tyler, The Creator",
@@ -2657,6 +3015,9 @@
         "total_tracks": 12,
         "uri": "spotify:album:5zi7WsKlIiUXv09tbGLKsE",
         "image": "https://i.scdn.co/image/ab67616d0000b2737005885df706891a3c182a57",
+        "score": 4.58,
+        "algo_score": 9.17,
+        "asboyer_score": 0,
         "top_tracks": [
             "IGOR'S THEME",
             "EARFQUAKE",
@@ -2666,14 +3027,14 @@
             "PUPPET",
             "GONE, GONE / THANK YOU"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "I THINK",
             "WHAT'S GOOD",
             "I DON'T LOVE YOU ANYMORE",
             "ARE WE STILL FRIENDS?",
             "EXACTLY WHAT YOU RUN FROM YOU END UP CHASING"
-        ],
-        "score": 9.31
+        ]
     },
     "Flower Boy": {
         "artists": "Tyler, The Creator",
@@ -2684,12 +3045,16 @@
         "total_tracks": 14,
         "uri": "spotify:album:2nkto6YNI4rUYTLqEwWJ3o",
         "image": "https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3",
+        "score": 4.0,
+        "algo_score": 8.0,
+        "asboyer_score": 0,
         "top_tracks": [
             "See You Again (feat. Kali Uchis)",
             "Who Dat Boy (feat. A$AP Rocky)",
             "Boredom (feat. Rex Orange County & Anna of the North)",
             "911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy)"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Foreword (feat. Rex Orange County)",
             "Where This Flower Blooms (feat. Frank Ocean)",
@@ -2700,8 +3065,7 @@
             "November",
             "Glitter",
             "Enjoy Right Now, Today"
-        ],
-        "score": 8.21
+        ]
     },
     "The Incredible True Story": {
         "artists": "Logic",
@@ -2712,6 +3076,9 @@
         "total_tracks": 18,
         "uri": "spotify:album:5dOpbgAmJeyoakKQ0QLWkR",
         "image": "https://i.scdn.co/image/ab67616d0000b273f0f7649257d4b99460929ced",
+        "score": 4.28,
+        "algo_score": 8.56,
+        "asboyer_score": 0,
         "top_tracks": [
             "Fade Away",
             "Upgrade",
@@ -2723,6 +3090,7 @@
             "The Incredible True Story",
             "Stainless"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Young Jesus",
             "Contact",
@@ -2732,8 +3100,7 @@
             "Babel - Scene",
             "Never Been",
             "Lucidity - Scene"
-        ],
-        "score": 8.7
+        ]
     },
     "DAYTONA": {
         "artists": "Pusha T",
@@ -2744,6 +3111,9 @@
         "total_tracks": 7,
         "uri": "spotify:album:07bIdDDe3I3hhWpxU6tuBp",
         "image": "https://i.scdn.co/image/ab67616d0000b273263555eebbe2b375593aa31e",
+        "score": 4.71,
+        "algo_score": 9.43,
+        "asboyer_score": 0,
         "top_tracks": [
             "If You Know You Know",
             "Hard Piano",
@@ -2751,11 +3121,11 @@
             "What Would Meek Do?",
             "Infrared"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "The Games We Play",
             "Come Back Baby"
-        ],
-        "score": 9.18
+        ]
     },
     "Rumours": {
         "artists": "Fleetwood Mac",
@@ -2766,6 +3136,9 @@
         "total_tracks": 11,
         "uri": "spotify:album:1bt6q2SruMsBtcerNVtpZB",
         "image": "https://i.scdn.co/image/ab67616d0000b2730001af4f80be77069fc8fd41",
+        "score": 4.18,
+        "algo_score": 8.36,
+        "asboyer_score": 0,
         "top_tracks": [
             "Second Hand News - 2004 Remaster",
             "Dreams - 2004 Remaster",
@@ -2774,13 +3147,13 @@
             "The Chain - 2004 Remaster",
             "You Make Loving Fun - 2004 Remaster"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Never Going Back Again - 2004 Remaster",
             "I Don't Want to Know - 2004 Remaster",
             "Oh Daddy - 2004 Remaster",
             "Gold Dust Woman - 2004 Remaster"
         ],
-        "score": 8.48,
         "tracks": []
     },
     "2014 Forest Hills Drive": {
@@ -2792,6 +3165,9 @@
         "total_tracks": 13,
         "uri": "spotify:album:7viNUmZZ8ztn2UB4XB3jIL",
         "image": "https://i.scdn.co/image/ab67616d0000b2736aca031ccc27d2e4dd829d14",
+        "score": 3.46,
+        "algo_score": 6.92,
+        "asboyer_score": 0,
         "top_tracks": [
             "Wet Dreamz",
             "03' Adolescence",
@@ -2799,14 +3175,14 @@
             "No Role Modelz",
             "Apparently"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "January 28th",
             "Fire Squad",
             "St. Tropez",
             "G.O.M.D.",
             "Love Yourz"
-        ],
-        "score": 7.44
+        ]
     },
     "beerbongs & bentleys": {
         "artists": "Post Malone",
@@ -2817,6 +3193,9 @@
         "total_tracks": 18,
         "uri": "spotify:album:6trNtQUgC8cgbWcqoMYkOR",
         "image": "https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268",
+        "score": 4.05,
+        "algo_score": 8.11,
+        "asboyer_score": 0,
         "top_tracks": [
             "Rich & Sad",
             "rockstar (feat. 21 Savage)",
@@ -2828,6 +3207,7 @@
             "Spoil My Night (feat. Swae Lee)",
             "Psycho (feat. Ty Dolla $ign)"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Paranoid",
             "Takin' Shots",
@@ -2836,8 +3216,7 @@
             "Zack And Codeine",
             "Otherside",
             "Blame It On Me"
-        ],
-        "score": 8.24
+        ]
     },
     "My Everything (Deluxe)": {
         "artists": "Ariana Grande",
@@ -2848,6 +3227,9 @@
         "total_tracks": 15,
         "uri": "spotify:album:6EVYTRG1drKdO8OnIQBeEj",
         "image": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+        "score": 3.73,
+        "algo_score": 7.47,
+        "asboyer_score": 0,
         "top_tracks": [
             "Problem",
             "One Last Time",
@@ -2858,13 +3240,13 @@
             "Love Me Harder",
             "Bang Bang"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Intro",
             "Best Mistake",
             "Just A Little Bit Of Your Heart",
             "My Everything"
-        ],
-        "score": 7.56
+        ]
     },
     "JACKBOYS": {
         "artists": "JACKBOYS, Travis Scott",
@@ -2875,17 +3257,20 @@
         "total_tracks": 7,
         "uri": "spotify:album:1Sf8GsXG32t0jNrX11xqWx",
         "image": "https://i.scdn.co/image/ab67616d0000b273dfc2f59568272de50a257f2f",
+        "score": 4.0,
+        "algo_score": 8.0,
+        "asboyer_score": 0,
         "top_tracks": [
             "GANG GANG",
             "HAD ENOUGH (feat. Quavo & Offset)",
             "OUT WEST (feat. Young Thug)",
             "WHAT TO DO? (feat. Don Toliver)"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "HIGHEST IN THE ROOM (feat. ROSAL\u00cdA & Lil Baby) - REMIX",
             "GATTI"
-        ],
-        "score": 7.76
+        ]
     },
     "Back In Black": {
         "artists": "AC/DC",
@@ -2896,20 +3281,23 @@
         "total_tracks": 10,
         "uri": "spotify:album:6mUdeDZCsExyJLMdAfDuwh",
         "image": "https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae",
+        "score": 4.0,
+        "algo_score": 8.0,
+        "asboyer_score": 0,
         "top_tracks": [
             "Hells Bells",
             "Shoot to Thrill",
             "Back In Black",
             "You Shook Me All Night Long"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "What Do You Do for Money Honey",
             "Givin the Dog a Bone",
             "Let Me Put My Love Into You",
             "Have a Drink on Me",
             "Rock and Roll Ain't Noise Pollution"
-        ],
-        "score": 8.17
+        ]
     },
     "Die A Legend": {
         "artists": "Polo G",
@@ -2920,6 +3308,9 @@
         "total_tracks": 14,
         "uri": "spotify:album:26ztFK3E69j5THJQdyxC5w",
         "image": "https://i.scdn.co/image/ab67616d0000b273ae8b07ecdcf7aadefe00264f",
+        "score": 3.35,
+        "algo_score": 6.71,
+        "asboyer_score": 0,
         "top_tracks": [
             "Through Da Storm",
             "Effortless",
@@ -2929,12 +3320,12 @@
             "Deep Wounds",
             "Chosen 1"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Lost Files",
             "BST",
             "Pop Out Again (feat. Lil Baby & Gunna)"
-        ],
-        "score": 6.79
+        ]
     },
     "nothings ever good enough": {
         "artists": "iann dior",
@@ -2945,17 +3336,20 @@
         "total_tracks": 8,
         "uri": "spotify:album:5UHC2JN3ck4XPYPjngia2G",
         "image": "https://i.scdn.co/image/ab67616d0000b2739fc7b0fa3ee822614a14dd2e",
+        "score": 3.5,
+        "algo_score": 7.0,
+        "asboyer_score": 0,
         "top_tracks": [
             "romance361",
             "molly",
             "emotions",
             "crash my whip"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "18",
             "don't want to fall"
-        ],
-        "score": 6.79
+        ]
     },
     "Origins (Deluxe)": {
         "artists": "Imagine Dragons",
@@ -2966,6 +3360,9 @@
         "total_tracks": 15,
         "uri": "spotify:album:3JfSxDfmwS5OeHPwLSkrfr",
         "image": "https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd",
+        "score": 3.6,
+        "algo_score": 7.2,
+        "asboyer_score": 0,
         "top_tracks": [
             "Natural",
             "Cool Out",
@@ -2974,6 +3371,7 @@
             "Zero - From the Original Motion Picture \"Ralph Breaks The Internet\"",
             "Bullet In A Gun"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Boomerang",
             "Only",
@@ -2981,8 +3379,7 @@
             "Love",
             "Birds",
             "Real Life"
-        ],
-        "score": 6.86
+        ]
     },
     "Snow Cougar": {
         "artists": "Yung Gravy",
@@ -2993,17 +3390,20 @@
         "total_tracks": 7,
         "uri": "spotify:album:5JzxLWdYLLpZTE6kaBLooY",
         "image": "https://i.scdn.co/image/ab67616d0000b2735ca7079fad6246966d57dc2c",
+        "score": 4.0,
+        "algo_score": 8.0,
+        "asboyer_score": 0,
         "top_tracks": [
             "Knockout",
             "1 Thot 2 Thot Red Thot Blue Thot",
             "Kathleen",
             "Mr. Clean"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Early Afternoon Stroll",
             "Clock"
-        ],
-        "score": 7.76
+        ]
     },
     "We Love You Tecca": {
         "artists": "Lil Tecca",
@@ -3014,6 +3414,9 @@
         "total_tracks": 18,
         "uri": "spotify:album:1I6FpscJIfwf4T56VxGVsB",
         "image": "https://i.scdn.co/image/ab67616d0000b273bd69bbde4aeee723d6d08058",
+        "score": 3.56,
+        "algo_score": 7.11,
+        "asboyer_score": 0,
         "top_tracks": [
             "Ransom",
             "Shots",
@@ -3028,10 +3431,10 @@
             "Count Me Out",
             "Ransom (with Juice WRLD) - Remix"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Sidenote"
-        ],
-        "score": 7.06
+        ]
     },
     "Northsbest": {
         "artists": "Lil Mosey",
@@ -3042,6 +3445,9 @@
         "total_tracks": 12,
         "uri": "spotify:album:6lggWd5q9Rh66OkDE1eNDr",
         "image": "https://i.scdn.co/image/ab67616d0000b273db953460d6de87c6d6788cb5",
+        "score": 4.33,
+        "algo_score": 8.67,
+        "asboyer_score": 0,
         "top_tracks": [
             "Kamikaze",
             "Noticed",
@@ -3052,12 +3458,12 @@
             "Rarri",
             "Fu shit"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Yoppa (with BlocBoy JB)",
             "Trapstar",
             "Bust Down Cartier"
-        ],
-        "score": 8.45
+        ]
     },
     "Changes": {
         "artists": "Justin Bieber",
@@ -3068,10 +3474,14 @@
         "total_tracks": 17,
         "uri": "spotify:album:63iWSELt9V1kV6RSMxN7Ii",
         "image": "https://i.scdn.co/image/ab67616d0000b2737fe4a82a08c4f0decbeddbc6",
+        "score": 3.65,
+        "algo_score": 7.29,
+        "asboyer_score": 0,
         "top_tracks": [
             "Intentions (feat. Quavo)",
             "Yummy"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "All Around Me",
             "Habitual",
@@ -3086,8 +3496,7 @@
             "Second Emotion (feat. Travis Scott)",
             "Changes",
             "That's What Love Is"
-        ],
-        "score": 6.64
+        ]
     },
     "Dear Loneliness, Leave Me Alone.": {
         "artists": "Apollo1027",
@@ -3098,15 +3507,18 @@
         "total_tracks": 5,
         "uri": "spotify:album:5HyM5Z1dnEsL27VHDr8sQR",
         "image": "https://i.scdn.co/image/ab67616d0000b273d6399ee334a1171ee87db8d8",
+        "score": 3.8,
+        "algo_score": 7.6,
+        "asboyer_score": 0,
         "top_tracks": [
             "702 Steelo Flip",
             "Sweetheart",
             "Midnight / Pull Up"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Friend"
-        ],
-        "score": 7.43
+        ]
     },
     "V": {
         "artists": "Maroon 5",
@@ -3117,6 +3529,9 @@
         "total_tracks": 12,
         "uri": "spotify:album:2Auw0pTT6EcQdvHNimhLQI",
         "image": "https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c",
+        "score": 4.17,
+        "algo_score": 8.33,
+        "asboyer_score": 0,
         "top_tracks": [
             "Maps",
             "Animals",
@@ -3125,14 +3540,14 @@
             "Coming Back For You",
             "Feelings"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "It Was Always You",
             "Unkiss Me",
             "Leaving California",
             "My Heart Is Open",
             "This Summer"
-        ],
-        "score": 8.47
+        ]
     },
     "More Life": {
         "artists": "Drake",
@@ -3143,6 +3558,9 @@
         "total_tracks": 22,
         "uri": "spotify:album:1lXY618HWkwYKJWBRYR4MK",
         "image": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+        "score": 3.73,
+        "algo_score": 7.45,
+        "asboyer_score": 0,
         "top_tracks": [
             "Free Smoke",
             "No Long Talk",
@@ -3155,6 +3573,7 @@
             "Do Not Disturb",
             "Teenage Fever"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Jorja Interlude",
             "Get It Together",
@@ -3164,8 +3583,7 @@
             "Can't Have Everything",
             "Ice Melts",
             "Since Way Back"
-        ],
-        "score": 7.58
+        ]
     },
     "TRON: Legacy": {
         "artists": "Daft Punk",
@@ -3176,6 +3594,9 @@
         "total_tracks": 22,
         "uri": "spotify:album:4US3nmuLIKELhVZdBPiKxx",
         "image": "https://i.scdn.co/image/ab67616d0000b27366919acb93950333962467f8",
+        "score": 4.63,
+        "algo_score": 9.27,
+        "asboyer_score": 0,
         "top_tracks": [
             "Overture - From \"TRON: Legacy\"/Score",
             "The Grid - From \"TRON: Legacy\"/Score",
@@ -3192,6 +3613,7 @@
             "Flynn Lives - From \"TRON: Legacy\"/Score",
             "TRON Legacy (End Titles) - From \"TRON: Legacy\"/Score"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Outlands - From \"TRON: Legacy\"/Score",
             "Adagio For TRON - From \"TRON: Legacy\"/Score",
@@ -3201,8 +3623,7 @@
             "Disc Wars - From \"TRON: Legacy\"/Score",
             "Arrival - From \"TRON: Legacy\"/Score",
             "Finale - From \"TRON: Legacy\"/Score"
-        ],
-        "score": 8.96
+        ]
     },
     "Kauai": {
         "artists": "Childish Gambino",
@@ -3213,18 +3634,21 @@
         "total_tracks": 7,
         "uri": "spotify:album:5dVKggb6Nvfp7JJdLfHPof",
         "image": "https://i.scdn.co/image/ab67616d0000b2738d2c4d1fa63ca708307a5308",
+        "score": 4.57,
+        "algo_score": 9.14,
+        "asboyer_score": 0,
         "top_tracks": [
             "Sober",
             "Retro (Rough)",
             "The Palisades",
             "V. 3005 - Beach Picnic Version"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Pop Thieves (Make It Feel Good)",
             "Poke",
             "Late Night In Kauai"
-        ],
-        "score": 9.29
+        ]
     },
     "What A Time To Be Alive": {
         "artists": "Drake, Future",
@@ -3235,6 +3659,9 @@
         "total_tracks": 11,
         "uri": "spotify:album:1ozpmkWcCHwsQ4QTnxOOdT",
         "image": "https://i.scdn.co/image/ab67616d0000b273d6adfbd3f091d6f2b9af6507",
+        "score": 4.37,
+        "algo_score": 8.73,
+        "asboyer_score": 0,
         "top_tracks": [
             "Digital Dash",
             "Big Rings",
@@ -3245,11 +3672,11 @@
             "Jumpman",
             "Jersey"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "I'm The Plug",
             "Change Locations"
-        ],
-        "score": 8.57
+        ]
     },
     "1989": {
         "artists": "Taylor Swift",
@@ -3260,6 +3687,9 @@
         "total_tracks": 13,
         "uri": "spotify:album:2QJmrSgbdM35R67eoGQo4j",
         "image": "https://i.scdn.co/image/ab67616d0000b273c79b600289a80aaef74d155d",
+        "score": 4.08,
+        "algo_score": 8.15,
+        "asboyer_score": 0,
         "top_tracks": [
             "Blank Space",
             "Style",
@@ -3267,6 +3697,7 @@
             "Bad Blood",
             "Wildest Dreams"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "All You Had To Do Was Stay",
             "Welcome To New York",
@@ -3275,8 +3706,7 @@
             "How You Get The Girl",
             "I Know Places",
             "Clean"
-        ],
-        "score": 7.69
+        ]
     },
     "Red": {
         "artists": "Taylor Swift",
@@ -3287,12 +3717,16 @@
         "total_tracks": 16,
         "uri": "spotify:album:1EoDsNmgTLtmwe1BDAVxV5",
         "image": "https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5",
+        "score": 3.75,
+        "algo_score": 7.5,
+        "asboyer_score": 0,
         "top_tracks": [
             "I Knew You Were Trouble.",
             "22",
             "We Are Never Ever Getting Back Together",
             "Begin Again"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "State Of Grace",
             "Red",
@@ -3304,8 +3738,7 @@
             "Everything Has Changed",
             "The Lucky One",
             "Starlight"
-        ],
-        "score": 6.96
+        ]
     },
     "To Pimp A Butterfly": {
         "artists": "Kendrick Lamar",
@@ -3316,6 +3749,9 @@
         "total_tracks": 16,
         "uri": "spotify:album:7ycBtnsMtyVbbwTfJwRjSP",
         "image": "https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1",
+        "score": 4.44,
+        "algo_score": 8.88,
+        "asboyer_score": 0,
         "top_tracks": [
             "Wesley's Theory",
             "King Kunta",
@@ -3325,6 +3761,7 @@
             "Mortal Man",
             "How Much A Dollar Cost"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "For Free? - Interlude",
             "Institutionalized",
@@ -3335,8 +3772,7 @@
             "The Blacker The Berry",
             "You Ain't Gotta Lie (Momma Said)",
             "u"
-        ],
-        "score": 9.2
+        ]
     },
     "Inception (Music From The Motion Picture)": {
         "artists": "Hans Zimmer",
@@ -3347,6 +3783,9 @@
         "total_tracks": 12,
         "uri": "spotify:album:2qvA7HmSg1iM6XMiFF76dp",
         "image": "https://i.scdn.co/image/ab67616d0000b273bb53ecc4d4e007f8c0464753",
+        "score": 4.17,
+        "algo_score": 8.33,
+        "asboyer_score": 0,
         "top_tracks": [
             "Dream Is Collapsing",
             "528491",
@@ -3355,14 +3794,14 @@
             "Dream Within a Dream",
             "Time"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Half Remembered Dream",
             "Radical Notion",
             "Old Souls",
             "Waiting for a Train",
             "Paradox"
-        ],
-        "score": 7.98
+        ]
     },
     "\"Awaken, My Love!\"": {
         "artists": "Childish Gambino",
@@ -3373,6 +3812,9 @@
         "total_tracks": 11,
         "uri": "spotify:album:4Carzsnpd6yvuHZ49I0oz8",
         "image": "https://i.scdn.co/image/ab67616d0000b273b08b996d08001270adc8b555",
+        "score": 4.54,
+        "algo_score": 9.09,
+        "asboyer_score": 0,
         "top_tracks": [
             "Me and Your Mama",
             "Boogieman",
@@ -3381,14 +3823,14 @@
             "Redbone",
             "Terrified"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Have Some Love",
             "California",
             "Baby Boy",
             "The Night Me and Your Mama Met",
             "Stand Tall"
-        ],
-        "score": 9.24
+        ]
     },
     "GINGER": {
         "artists": "BROCKHAMPTON",
@@ -3399,20 +3841,23 @@
         "total_tracks": 12,
         "uri": "spotify:album:1jToVugwBEzcak8gJNZG2f",
         "image": "https://i.scdn.co/image/ab67616d0000b27346f07fa4f28bf824840ddacb",
+        "score": 3.33,
+        "algo_score": 6.67,
+        "asboyer_score": 0,
         "top_tracks": [
             "NO HALO",
             "SUGAR",
             "BOY BYE",
             "DEARLY DEPARTED"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "HEAVEN BELONGS TO YOU",
             "ST. PERCY",
             "IF YOU PRAY RIGHT",
             "I BEEN BORN AGAIN",
             "LOVE ME FOR LIFE"
-        ],
-        "score": 6.81
+        ]
     },
     "Revenge Of The Dreamers III": {
         "artists": "Dreamville, J. Cole",
@@ -3423,6 +3868,9 @@
         "total_tracks": 18,
         "uri": "spotify:album:2n3quCZ0anEa46j2IveacI",
         "image": "https://i.scdn.co/image/ab67616d0000b273c0ae820e3b64854de4642101",
+        "score": 4.05,
+        "algo_score": 8.11,
+        "asboyer_score": 0,
         "top_tracks": [
             "Under The Sun (with J. Cole & Lute feat. DaBaby)",
             "Down Bad (feat. JID, Bas, J. Cole, EARTHGANG & Young Nudy)",
@@ -3430,6 +3878,7 @@
             "MIDDLE CHILD",
             "Costa Rica (with Bas & JID feat. Guapdad 4000, Reese LAFLARE, Jace, Mez, Smokepurpp, Buddy & Ski Mask The Slump God)"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "LamboTruck (with Cozz feat. REASON & Childish Major)",
             "Swivel (with EARTHGANG) - From The Album \"Mirrorland\"",
@@ -3444,7 +3893,6 @@
             "Sunset (with J. Cole feat. Young Nudy)",
             "Sacrifices (with EARTHGANG & J. Cole feat. Smino & Saba)"
         ],
-        "score": 7.54,
         "tracks": []
     },
     "Continuum": {
@@ -3456,6 +3904,9 @@
         "total_tracks": 12,
         "uri": "spotify:album:1Xsprdt1q9rOzTic7b9zYM",
         "image": "https://i.scdn.co/image/ab67616d0000b2737af5fdc5ef048a68db62b85f",
+        "score": 3.75,
+        "algo_score": 7.5,
+        "asboyer_score": 0,
         "top_tracks": [
             "Waiting On the World to Change",
             "Belief",
@@ -3463,6 +3914,7 @@
             "The Heart of Life",
             "Slow Dancing in a Burning Room"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "I Don't Trust Myself (With Loving You)",
             "Vultures",
@@ -3470,7 +3922,6 @@
             "Dreaming with a Broken Heart",
             "I'm Gonna Find Another You"
         ],
-        "score": 7.14,
         "tracks": []
     },
     "Love & Hate": {
@@ -3482,15 +3933,18 @@
         "total_tracks": 5,
         "uri": "spotify:album:1soMuhbTov2yEGBgYYNhJb",
         "image": "https://i.scdn.co/image/ab67616d0000b273fe6b21f560324ed40679ae6f",
+        "score": 3.6,
+        "algo_score": 7.2,
+        "asboyer_score": 0,
         "top_tracks": [
             "The 90s",
             "Wanchu Back"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Until The End",
             "Kid's Play"
         ],
-        "score": 7.33,
         "tracks": []
     },
     "i am > i was": {
@@ -3502,6 +3956,9 @@
         "total_tracks": 15,
         "uri": "spotify:album:007DWn799UWvfY1wwZeENR",
         "image": "https://i.scdn.co/image/ab67616d0000b273280689ecc5e4b2038bb5e4bd",
+        "score": 3.4,
+        "algo_score": 6.8,
+        "asboyer_score": 0,
         "top_tracks": [
             "a lot",
             "out for the night",
@@ -3511,13 +3968,13 @@
             "can't leave without it",
             "monster"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "break da law",
             "a&t",
             "gun smoke",
             "asmr"
         ],
-        "score": 6.57,
         "tracks": []
     },
     "Without Warning": {
@@ -3529,6 +3986,9 @@
         "total_tracks": 10,
         "uri": "spotify:album:0MV1yCXcNNQBfwApqAVkH0",
         "image": "https://i.scdn.co/image/ab67616d0000b2730f206fe737d46f2f2d826d83",
+        "score": 4.4,
+        "algo_score": 8.8,
+        "asboyer_score": 0,
         "top_tracks": [
             "Ghostface Killers",
             "Rap Saved Me",
@@ -3539,10 +3999,10 @@
             "Disrespectful",
             "Run Up the Racks"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Nightmare"
         ],
-        "score": 8.94,
         "tracks": []
     },
     "Views": {
@@ -3554,6 +4014,9 @@
         "total_tracks": 20,
         "uri": "spotify:album:40GMAhriYJRO1rsY4YdrZb",
         "image": "https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c",
+        "score": 3.7,
+        "algo_score": 7.4,
+        "asboyer_score": 0,
         "top_tracks": [
             "Hype",
             "Still Here",
@@ -3566,6 +4029,7 @@
             "Grammys",
             "Weston Road Flows"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Keep The Family Close",
             "9",
@@ -3574,7 +4038,6 @@
             "With You",
             "U With Me?"
         ],
-        "score": 7.5,
         "tracks": []
     },
     "SKINS": {
@@ -3586,18 +4049,21 @@
         "total_tracks": 10,
         "uri": "spotify:album:1qsQOC4Jn0fnaUZLAbs4dz",
         "image": "https://i.scdn.co/image/ab67616d0000b273da9e59639a9759d8952890c6",
+        "score": 3.2,
+        "algo_score": 6.4,
+        "asboyer_score": 0,
         "top_tracks": [
             "whoa (mind in awe)",
             "BAD!",
             "I don\u2019t let go",
             "One Minute (feat. Kanye West & Travis Barker)"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Guardian angel",
             "difference (interlude)",
             "what are you so afraid of"
         ],
-        "score": 6.14,
         "tracks": []
     },
     "Please Excuse Me for Being Antisocial": {
@@ -3609,6 +4075,9 @@
         "total_tracks": 15,
         "uri": "spotify:album:52u4anZbHd6UInnmHRFzba",
         "image": "https://i.scdn.co/image/ab67616d0000b273600adbc750285ea1a8da249f",
+        "score": 3.87,
+        "algo_score": 7.73,
+        "asboyer_score": 0,
         "top_tracks": [
             "The Box",
             "Start Wit Me (feat. Gunna)",
@@ -3617,6 +4086,7 @@
             "High Fashion (feat. Mustard)",
             "Tip Toe (feat. A Boogie Wit da Hoodie)"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Intro",
             "God's Eyes",
@@ -3625,8 +4095,7 @@
             "Roll Dice",
             "Prayers to the Trap God",
             "War Baby"
-        ],
-        "score": 7.33
+        ]
     },
     "Lil Pump": {
         "artists": "Lil Pump",
@@ -3637,19 +4106,22 @@
         "total_tracks": 15,
         "uri": "spotify:album:2VVvm4zJlUQm9XmBCvGN6z",
         "image": "https://i.scdn.co/image/ab67616d0000b273d52ef190ae5253eb2c3c764c",
+        "score": 2.4,
+        "algo_score": 4.8,
+        "asboyer_score": 0,
         "top_tracks": [
             "Gucci Gang",
             "D Rose",
             "Iced Out (feat. 2 Chainz)",
             "Boss"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "What U Sayin' (feat. Smokepurpp)",
             "Crazy",
             "Back (feat. Lil Yachty)",
             "At the Door"
-        ],
-        "score": 4.57
+        ]
     },
     "Hotel Diablo": {
         "artists": "Machine Gun Kelly",
@@ -3660,19 +4132,22 @@
         "total_tracks": 12,
         "uri": "spotify:album:0bJIHF1Or1YBLFBMwv53K2",
         "image": "https://i.scdn.co/image/ab67616d0000b273cfc4b1939aba562fc97159c5",
+        "score": 2.92,
+        "algo_score": 5.83,
+        "asboyer_score": 0,
         "top_tracks": [
             "el Diablo",
             "Candy (feat. Trippie Redd)",
             "Waste Love (feat. Madison Love)"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Glass House (feat. Naomi Wild)",
             "Burning Memories (feat. Lil Skies)",
             "FLOOR 13",
             "Roulette",
             "I Think I'm OKAY (with YUNGBLUD & Travis Barker)"
-        ],
-        "score": 5.48
+        ]
     },
     "Not A Moment Too Soon": {
         "artists": "Tim McGraw",
@@ -3683,19 +4158,22 @@
         "total_tracks": 10,
         "uri": "spotify:album:18eJ4H4smFp29lRMsLygUc",
         "image": "https://i.scdn.co/image/ab67616d0000b27380abb42139a2464c7783ef2e",
+        "score": 3.5,
+        "algo_score": 7.0,
+        "asboyer_score": 0,
         "top_tracks": [
             "Down On The Farm",
             "Indian Outlaw",
             "Don't Take The Girl"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "It Doesn't Get Any Countrier Than This",
             "Give It To Me Strait",
             "Not A Moment Too Soon",
             "Refried Dreams",
             "Ain't That Just Like A Dream"
-        ],
-        "score": 7.17
+        ]
     },
     "Slime Season 3": {
         "artists": "Young Thug",
@@ -3706,17 +4184,20 @@
         "total_tracks": 8,
         "uri": "spotify:album:2z4c8M8aVzl7CTobIp36KF",
         "image": "https://i.scdn.co/image/ab67616d0000b273a875c3ec944b4f164ab5c350",
+        "score": 3.38,
+        "algo_score": 6.75,
+        "asboyer_score": 0,
         "top_tracks": [
             "With Them",
             "Memo",
             "Digits"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Drippin'",
             "Tattoos",
             "Problem"
-        ],
-        "score": 6.88
+        ]
     },
     "Confessions of a Dangerous Mind": {
         "artists": "Logic",
@@ -3727,6 +4208,9 @@
         "total_tracks": 16,
         "uri": "spotify:album:0XLwImzaZEtqHE4NHAepDz",
         "image": "https://i.scdn.co/image/ab67616d0000b27341c0ad3e39388ab332ffb023",
+        "score": 2.38,
+        "algo_score": 4.75,
+        "asboyer_score": 0,
         "top_tracks": [
             "Confessions of a Dangerous Mind",
             "Homicide (feat. Eminem)",
@@ -3735,11 +4219,11 @@
             "Keanu Reeves",
             "Lost In Translation"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Mama/Show Love (feat. YBN Cordae)",
             "COMMANDO (feat. G-Eazy)"
-        ],
-        "score": 4.79
+        ]
     },
     "Hoodie SZN": {
         "artists": "A Boogie Wit da Hoodie",
@@ -3750,12 +4234,16 @@
         "total_tracks": 20,
         "uri": "spotify:album:3r5hf3Cj3EMh1C2saQ8jyt",
         "image": "https://i.scdn.co/image/ab67616d0000b273dcfadea246002a5c0fd7b1b8",
+        "score": 2.6,
+        "algo_score": 5.2,
+        "asboyer_score": 0,
         "top_tracks": [
             "Swervin (feat. 6ix9ine)",
             "Demons and Angels (feat. Juice WRLD)",
             "Look Back at It",
             "The Reaper"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Voices in My Head",
             "Beasty",
@@ -3765,8 +4253,7 @@
             "Savage",
             "Come Closer (feat. Queen Naija)",
             "Uptown / Bustdown (feat. PnB Rock and Lil Durk)"
-        ],
-        "score": 5.33
+        ]
     },
     "17": {
         "artists": "XXXTENTACION",
@@ -3777,19 +4264,22 @@
         "total_tracks": 11,
         "uri": "spotify:album:5VdyJkLe3yvOs0l4xXbWp0",
         "image": "https://i.scdn.co/image/ab67616d0000b273203c89bd4391468eea4cc3f5",
+        "score": 3.18,
+        "algo_score": 6.36,
+        "asboyer_score": 0,
         "top_tracks": [
             "Jocelyn Flores",
             "Everybody Dies In Their Nightmares",
             "Fuck Love (feat. Trippie Redd)"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Depression & Obsession",
             "Revenge",
             "Save Me",
             "Carry On",
             "Ayala (Outro)"
-        ],
-        "score": 5.97
+        ]
     },
     "Revenge": {
         "artists": "XXXTENTACION",
@@ -3800,17 +4290,20 @@
         "total_tracks": 7,
         "uri": "spotify:album:3vpXJ54S3MXLyzysw8qq7c",
         "image": "https://i.scdn.co/image/ab67616d0000b2735485ea186d6971e18fabcc2f",
+        "score": 3.85,
+        "algo_score": 7.71,
+        "asboyer_score": 0,
         "top_tracks": [
             "Look At Me!",
             "YuNg BrAtZ",
             "RIP Roach"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "I Don't Wanna Do This Anymore",
             "Looking for a Star",
             "Slipknot"
-        ],
-        "score": 7.35
+        ]
     },
     "DUMMY BOY": {
         "artists": "6ix9ine",
@@ -3821,6 +4314,9 @@
         "total_tracks": 13,
         "uri": "spotify:album:4f8pX9Vjs9uU5aKjqDNcDO",
         "image": "https://i.scdn.co/image/ab67616d0000b2737b4d2b0d46fc5ed7f771329b",
+        "score": 2.92,
+        "algo_score": 5.85,
+        "asboyer_score": 0,
         "top_tracks": [
             "STOOPID",
             "FEFE",
@@ -3829,11 +4325,11 @@
             "MAMA",
             "WAKA"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "KANGA",
             "DUMMY"
-        ],
-        "score": 5.71
+        ]
     },
     "So Much Fun": {
         "artists": "Young Thug",
@@ -3844,6 +4340,9 @@
         "total_tracks": 19,
         "uri": "spotify:album:1bnHPO4dKK7IjvgrtVBcQh",
         "image": "https://i.scdn.co/image/ab67616d0000b2736fcd1b6e205d0d19d9efa0cc",
+        "score": 3.79,
+        "algo_score": 7.58,
+        "asboyer_score": 0,
         "top_tracks": [
             "Hot (feat. Gunna)",
             "Surf (feat. Gunna)",
@@ -3854,6 +4353,7 @@
             "The London (feat. J. Cole & Travis Scott)",
             "Light It Up"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Just How It Is",
             "Sup Mate (feat. Future)",
@@ -3863,8 +4363,7 @@
             "I'm Scared (feat. 21 Savage & Doe Boy)",
             "Big Tipper (feat. Lil Keed)",
             "Boy Back (feat. NAV)"
-        ],
-        "score": 7.72
+        ]
     },
     "Pi\u00f1ata": {
         "artists": "Freddie Gibbs, Madlib",
@@ -3875,6 +4374,9 @@
         "total_tracks": 17,
         "uri": "spotify:album:43uErencdmuTRFZPG3zXL1",
         "image": "https://i.scdn.co/image/ab67616d0000b273d844f6b7311a69b9a08e7a0f",
+        "score": 4.53,
+        "algo_score": 9.06,
+        "asboyer_score": 0,
         "top_tracks": [
             "Scarface",
             "Deeper",
@@ -3890,12 +4392,12 @@
             "Shame (feat. BJ The Chicago Kid)",
             "Pi\u00f1ata (feat. Domo Genesis, G-Wiz, Casey Veggies, Sulaiman, Meechy Darko, Mac Miller)"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Supplier",
             "High (feat. Danny Brown)",
             "Shitsville"
         ],
-        "score": 8.91,
         "tracks": []
     },
     "Luv Is Rage 2 (Deluxe)": {
@@ -3907,6 +4409,9 @@
         "total_tracks": 20,
         "uri": "spotify:album:0zicd2mBV8HTzSubByj4vP",
         "image": "https://i.scdn.co/image/ab67616d0000b2730d5a84e4e47399d2726c330c",
+        "score": 4.45,
+        "algo_score": 8.9,
+        "asboyer_score": 0,
         "top_tracks": [
             "Two\u00ae",
             "444+222",
@@ -3919,18 +4424,18 @@
             "How to Talk",
             "Dark Queen",
             "XO Tour Llif3",
-            "Loaded",
-            "Diamonds All on My Wrist",
-            "20 Min"
+            "20 Min",
+            "Diamonds All on My Wrist"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Skir Skirr",
             "No Sleep Leak",
             "Feelings Mutual",
             "UnFazed (feat. The Weeknd)",
-            "X"
+            "X",
+            "Loaded"
         ],
-        "score": 9.08,
         "tracks": []
     },
     "A Love Supreme": {
@@ -3942,15 +4447,18 @@
         "total_tracks": 4,
         "uri": "spotify:album:7Eoz7hJvaX1eFkbpQxC5PA",
         "image": "https://i.scdn.co/image/ab67616d0000b273ea42191f549dce4d9c8ecd1a",
+        "score": 4.75,
+        "algo_score": 9.5,
+        "asboyer_score": 0,
         "top_tracks": [
             "A Love Supreme, Pt. I \u2013 Acknowledgement",
             "A Love Supreme, Pt. II - Resolution",
             "A Love Supreme, Pt. III - Pursuance"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "A Love Supreme, Pt. IV - Psalm"
-        ],
-        "score": 9.29
+        ]
     },
     "Currents": {
         "artists": "Tame Impala",
@@ -3961,6 +4469,9 @@
         "total_tracks": 13,
         "uri": "spotify:album:79dL7FLiJFOO0EoehUHQBv",
         "image": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
+        "score": 5.0,
+        "algo_score": 10.0,
+        "asboyer_score": 0,
         "top_tracks": [
             "Let It Happen",
             "Nangs",
@@ -3976,8 +4487,8 @@
             "Love/Paranoia",
             "New Person, Same Old Mistakes"
         ],
+        "mid_tracks": [],
         "good_tracks": [],
-        "score": 10.0,
         "tracks": []
     },
     "Stone Flower (CTI Records 40th Anniversary Edition)": {
@@ -3989,6 +4500,9 @@
         "total_tracks": 9,
         "uri": "spotify:album:2dsmGxE74ufKZgSFpEMxel",
         "image": "/static/img/music/albums/stone_flower.png",
+        "score": 4.89,
+        "algo_score": 9.78,
+        "asboyer_score": 0,
         "top_tracks": [
             "Tereza My Love",
             "Children's Games",
@@ -3999,10 +4513,10 @@
             "God and the Devil In the Land of the Sun",
             "Sabi\u00e1"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Andorinha"
         ],
-        "score": 9.68,
         "tracks": []
     },
     "Soy Pablo": {
@@ -4014,17 +4528,20 @@
         "total_tracks": 7,
         "uri": "spotify:album:1lESM5Y1VAvrCLEgLmyfOw",
         "image": "https://i.scdn.co/image/ab67616d0000b2738d7d3584e5220d0cd406eea4",
+        "score": 3.71,
+        "algo_score": 7.43,
+        "asboyer_score": 0,
         "top_tracks": [
             "Feeling Lonely",
             "Losing You"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "wtf",
             "Sick Feeling",
             "t-shirt",
             "tkm"
         ],
-        "score": 6.94,
         "tracks": []
     },
     "Fuzzybrain": {
@@ -4036,6 +4553,9 @@
         "total_tracks": 10,
         "uri": "spotify:album:5PFzbdbZRNaoGLCHFPnmv3",
         "image": "https://i.scdn.co/image/ab67616d0000b273ccd63af052f7e438c05f6c94",
+        "score": 4.3,
+        "algo_score": 8.6,
+        "asboyer_score": 0,
         "top_tracks": [
             "False Direction",
             "Can I Call You Tonight?",
@@ -4045,11 +4565,11 @@
             "Fuzzybrain",
             "Listerine"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Junior Varsity",
             "Nicknames"
         ],
-        "score": 8.43,
         "tracks": []
     },
     "LoVE me NOw": {
@@ -4061,6 +4581,9 @@
         "total_tracks": 15,
         "uri": "spotify:album:4QSsoW3XoitQA1NrfoCjwr",
         "image": "https://i.scdn.co/image/ab67616d0000b2738ae490339c5157e9835c797f",
+        "score": 4.33,
+        "algo_score": 8.67,
+        "asboyer_score": 0,
         "top_tracks": [
             "SHE tOLd Me",
             "TAlk tO Me (with Rich The Kid)",
@@ -4068,6 +4591,7 @@
             "FeRRis WhEEL (feat. Trippie Redd)",
             "YoU ThouGHt WrONg"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Why DON'T You LOVE me?",
             "DucK my Ex (feat. Chris Brown & 2 Chainz)",
@@ -4080,7 +4604,6 @@
             "S.w.I.n.G (feat. PnB Rock & Trey Songz)",
             "KJm"
         ],
-        "score": 8.1,
         "tracks": []
     },
     "Scorpion": {
@@ -4092,6 +4615,9 @@
         "total_tracks": 25,
         "uri": "spotify:album:1ATL5GLyefJaxhQzSPVrLX",
         "image": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
+        "score": 4.48,
+        "algo_score": 8.96,
+        "asboyer_score": 0,
         "top_tracks": [
             "Survival",
             "Nonstop",
@@ -4114,12 +4640,12 @@
             "Final Fantasy",
             "Peak"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Talk Up (feat. Jay-Z)",
             "After Dark (feat. Static Major & Ty Dolla $ign)",
             "March 14"
-        ],
-        "score": 9.12
+        ]
     },
     "OK Computer": {
         "artists": "Radiohead",
@@ -4130,6 +4656,9 @@
         "total_tracks": 12,
         "uri": "spotify:album:6dVIqQ8qmQ5GBnJ9shOYGE",
         "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+        "score": 5.0,
+        "algo_score": 10.0,
+        "asboyer_score": 0,
         "top_tracks": [
             "Airbag",
             "Paranoid Android",
@@ -4144,8 +4673,8 @@
             "Fitter Happier",
             "Electioneering"
         ],
-        "good_tracks": [],
-        "score": 10.0
+        "mid_tracks": [],
+        "good_tracks": []
     },
     "An Evening With Silk Sonic": {
         "artists": "Bruno Mars, Anderson .Paak, Silk Sonic",
@@ -4156,19 +4685,22 @@
         "total_tracks": 9,
         "uri": "spotify:album:0S0r2RFucaW9kVjBtcBOV1",
         "image": "https://i.scdn.co/image/ab67616d0000b27310f084209eab3dfecf7d5f8e",
+        "score": 3.89,
+        "algo_score": 7.78,
+        "asboyer_score": 0,
         "top_tracks": [
             "Leave The Door Open",
             "Smokin Out The Window",
             "Skate"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "After Last Night (with Thundercat & Bootsy Collins)",
             "Silk Sonic Intro",
             "Fly As Me",
             "Blast Off",
             "Put On A Smile"
-        ],
-        "score": 7.3
+        ]
     },
     "Minecraft - Volume Alpha": {
         "artists": "C418",
@@ -4179,6 +4711,9 @@
         "total_tracks": 24,
         "uri": "spotify:album:3Gt7rOjcZQoHCfnKl5AkK7",
         "image": "https://i.scdn.co/image/ab67616d0000b273aaeb5c9fb6131977995b7f0e",
+        "score": 3.83,
+        "algo_score": 7.67,
+        "asboyer_score": 0,
         "top_tracks": [
             "Key",
             "Door",
@@ -4197,12 +4732,12 @@
             "Sweden",
             "Danny"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Death",
             "Excuse",
             "Beginning"
-        ],
-        "score": 7.56
+        ]
     },
     "Yours Truly": {
         "artists": "Ariana Grande",
@@ -4213,11 +4748,15 @@
         "total_tracks": 12,
         "uri": "spotify:album:5xSvNPstcxHtR4ap2vvN8A",
         "image": "https://i.scdn.co/image/ab67616d0000b2734bb9f35da9ff34b1e2314d8e",
+        "score": 3.25,
+        "algo_score": 6.5,
+        "asboyer_score": 0,
         "top_tracks": [
             "Honeymoon Avenue",
             "Right There",
             "The Way"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Baby I",
             "Lovin' It",
@@ -4226,7 +4765,6 @@
             "Better Left Unsaid",
             "Popular Song"
         ],
-        "score": 6.67,
         "tracks": []
     },
     "The Bends": {
@@ -4238,6 +4776,9 @@
         "total_tracks": 12,
         "uri": "spotify:album:35UJLpClj5EDrhpNIi4DFg",
         "image": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
+        "score": 4.83,
+        "algo_score": 9.67,
+        "asboyer_score": 0,
         "top_tracks": [
             "Planet Telex",
             "The Bends",
@@ -4250,11 +4791,11 @@
             "My Iron Lung",
             "Street Spirit (Fade Out)"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Sulk",
             "Bones"
         ],
-        "score": 9.72,
         "tracks": []
     },
     "Dawn FM": {
@@ -4266,6 +4807,9 @@
         "total_tracks": 16,
         "uri": "spotify:album:2nLOHgzXzwFEpl62zAgCEC",
         "image": "https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d",
+        "score": 4.19,
+        "algo_score": 8.38,
+        "asboyer_score": 0,
         "top_tracks": [
             "Dawn FM",
             "Gasoline",
@@ -4279,12 +4823,12 @@
             "Don\u2019t Break My Heart",
             "Less Than Zero"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Starry Eyes",
             "Every Angel is Terrifying",
             "Phantom Regret by Jim"
-        ],
-        "score": 8.63
+        ]
     },
     "Blue Train": {
         "artists": "John Coltrane",
@@ -4295,16 +4839,19 @@
         "total_tracks": 5,
         "uri": "spotify:album:2Z11cXWEa2qqYQBGkJrCga",
         "image": "https://i.scdn.co/image/ab67616d0000b273611ea3fb281f7956ffd33b77",
+        "score": 4.8,
+        "algo_score": 9.6,
+        "asboyer_score": 0,
         "top_tracks": [
             "Blue Train",
             "Moment's Notice",
             "I'm Old Fashioned",
             "Lazy Bird"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Locomotion - Remastered"
         ],
-        "score": 9.43,
         "tracks": []
     },
     "Certified Lover Boy": {
@@ -4316,6 +4863,9 @@
         "total_tracks": 21,
         "uri": "spotify:album:3SpBlxme9WbeQdI9kx7KAV",
         "image": "https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f",
+        "score": 3.9,
+        "algo_score": 7.81,
+        "asboyer_score": 0,
         "top_tracks": [
             "Champagne Poetry",
             "Papi\u2019s Home",
@@ -4328,6 +4878,7 @@
             "IMY2 (with Kid Cudi)",
             "Fair Trade (with Travis Scott)"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Love All (with JAY-Z)",
             "Pipe Down",
@@ -4338,7 +4889,6 @@
             "Get Along Better",
             "You Only Live Twice"
         ],
-        "score": 7.94,
         "tracks": []
     },
     "DAMN.": {
@@ -4350,6 +4900,9 @@
         "total_tracks": 14,
         "uri": "spotify:album:4eLPsYPBmXABThSJ821sqY",
         "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+        "score": 3.71,
+        "algo_score": 7.43,
+        "asboyer_score": 0,
         "top_tracks": [
             "DNA.",
             "ELEMENT.",
@@ -4360,12 +4913,12 @@
             "XXX. FEAT. U2.",
             "DUCKWORTH."
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "BLOOD.",
             "LUST.",
             "FEAR."
         ],
-        "score": 7.5,
         "tracks": []
     },
     "Legends Never Die": {
@@ -4377,6 +4930,9 @@
         "total_tracks": 18,
         "uri": "spotify:album:6n9DKpOxwifT5hOXtgLZSL",
         "image": "https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb",
+        "score": 3.83,
+        "algo_score": 7.67,
+        "asboyer_score": 0,
         "top_tracks": [
             "Conversations",
             "Smile (with The Weeknd)",
@@ -4388,6 +4944,7 @@
             "Screw Juice",
             "Fighting Demons"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Titanic",
             "Righteous",
@@ -4396,7 +4953,6 @@
             "Can't Die",
             "Man Of The Year"
         ],
-        "score": 7.38,
         "tracks": []
     },
     "Lil Boat 2": {
@@ -4408,6 +4964,9 @@
         "total_tracks": 17,
         "uri": "spotify:album:4nHOF3neSo6Y7OG5OAflkC",
         "image": "https://i.scdn.co/image/ab67616d0000b2732dd3f11b04f31d9acd49015b",
+        "score": 4.17,
+        "algo_score": 8.35,
+        "asboyer_score": 0,
         "top_tracks": [
             "SELF MADE",
             "BOOM!",
@@ -4417,6 +4976,7 @@
             "FLEX",
             "66"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "OOPS",
             "she ready",
@@ -4428,7 +4988,6 @@
             "FWM",
             "WHOLE lotta GUAP"
         ],
-        "score": 8.53,
         "tracks": []
     },
     "Funk Wav Bounces Vol.1": {
@@ -4440,6 +4999,9 @@
         "total_tracks": 10,
         "uri": "spotify:album:2HaqChIDc5go3qxVunBDK0",
         "image": "https://i.scdn.co/image/ab67616d0000b2734d3fa5ce7ba599f4fd7803ef",
+        "score": 3.8,
+        "algo_score": 7.6,
+        "asboyer_score": 0,
         "top_tracks": [
             "Slide (feat. Frank Ocean & Migos)",
             "Cash Out (feat. ScHoolboy Q, PARTYNEXTDOOR & D.R.A.M.)",
@@ -4448,11 +5010,11 @@
             "Holiday (feat. Snoop Dogg, John Legend & Takeoff)",
             "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Prayers Up (feat. Travis Scott & A-Trak)",
             "Faking It (feat. Kehlani & Lil Yachty)"
         ],
-        "score": 7.67,
         "tracks": []
     },
     "Motion": {
@@ -4464,12 +5026,16 @@
         "total_tracks": 15,
         "uri": "spotify:album:48zisMeiXniWLzOQghbPqS",
         "image": "https://i.scdn.co/image/ab67616d0000b273063c048e9ef6bd021b744756",
+        "score": 2.94,
+        "algo_score": 5.87,
+        "asboyer_score": 0,
         "top_tracks": [
             "Under Control (feat. Hurts)",
             "Blame (feat. John Newman)",
             "Outside (feat. Ellie Goulding)",
             "Summer"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Overdrive",
             "Slow Acid",
@@ -4478,7 +5044,6 @@
             "Together (feat. Gwen Stefani)",
             "Burnin"
         ],
-        "score": 6.0,
         "tracks": []
     },
     "Parachutes": {
@@ -4490,19 +5055,22 @@
         "total_tracks": 10,
         "uri": "spotify:album:6ZG5lRT77aJ3btmArcykra",
         "image": "https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0",
+        "score": 3.6,
+        "algo_score": 7.2,
+        "asboyer_score": 0,
         "top_tracks": [
             "Don't Panic",
             "Yellow",
             "Trouble",
             "Sparks"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Shiver",
             "Spies",
             "Parachutes",
             "High Speed"
         ],
-        "score": 6.86,
         "tracks": []
     },
     "Dark Lane Demo Tapes": {
@@ -4514,6 +5082,9 @@
         "total_tracks": 14,
         "uri": "spotify:album:6OQ9gBfg5EXeNAEwGSs6jK",
         "image": "https://i.scdn.co/image/ab67616d0000b273bba7cfaf7c59ff0898acba1f",
+        "score": 4.14,
+        "algo_score": 8.29,
+        "asboyer_score": 0,
         "top_tracks": [
             "Chicago Freestyle (feat. Giveon)",
             "Toosie Slide",
@@ -4526,11 +5097,11 @@
             "Landed",
             "From Florida With Love"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Deep Pockets",
             "When To Say When"
         ],
-        "score": 8.33,
         "tracks": []
     },
     "LIFE'S A TRIP": {
@@ -4542,6 +5113,9 @@
         "total_tracks": 14,
         "uri": "spotify:album:214f4uAY0p2KgY7Fl4fBgk",
         "image": "https://i.scdn.co/image/ab67616d0000b273d959c12f4de683c39a1bafe3",
+        "score": 3.79,
+        "algo_score": 7.57,
+        "asboyer_score": 0,
         "top_tracks": [
             "Taking A Walk",
             "Wish - Trippie Mix",
@@ -4549,6 +5123,7 @@
             "Dark Knight Dummo",
             "Shake It Up"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Together",
             "Forever Ever",
@@ -4558,7 +5133,6 @@
             "Gore",
             "Underwater FlyZone"
         ],
-        "score": 7.74,
         "tracks": []
     },
     "The Social Network": {
@@ -4570,9 +5144,12 @@
         "total_tracks": 19,
         "uri": "spotify:album:1ijkFiMeHopKkHyvQCWxUa",
         "image": "https://i.scdn.co/image/ab67616d0000b273897cd4eeff3174110aa6230b",
-        "top_tracks": [],
-        "good_tracks": [],
         "score": 0.0,
+        "algo_score": 0.0,
+        "asboyer_score": 0,
+        "top_tracks": [],
+        "mid_tracks": [],
+        "good_tracks": [],
         "tracks": [
             "Hand Covers Bruise",
             "In Motion",
@@ -4604,19 +5181,22 @@
         "total_tracks": 9,
         "uri": "spotify:album:7mgdTKTCdfnLoa1HXHvLYM",
         "image": "https://i.scdn.co/image/ab67616d0000b2738be07181aa935225a6f25d56",
+        "score": 4.0,
+        "algo_score": 8.0,
+        "asboyer_score": 0,
         "top_tracks": [
             "Canadian Goose",
             "Money Longer",
             "You Was Right",
             "Ps & Qs"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Hi Roller",
             "Grab the Wheel",
             "Baby Are You Home",
             "Scott and Ramona"
         ],
-        "score": 7.62,
         "tracks": []
     },
     "A Love Letter To You 3": {
@@ -4628,12 +5208,16 @@
         "total_tracks": 16,
         "uri": "spotify:album:6qRbGZqJ3aQY8N8bcHc1ug",
         "image": "https://i.scdn.co/image/ab67616d0000b27392bb8047753d97ff274b2f5f",
+        "score": 3.25,
+        "algo_score": 6.5,
+        "asboyer_score": 0,
         "top_tracks": [
             "Love Scars 3",
             "Loyalty Before Royalty",
             "1400 / 999 Freestyle",
             "Diamond Minds"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Topanga",
             "Fire Starter",
@@ -4644,7 +5228,6 @@
             "Wicked",
             "So Alive"
         ],
-        "score": 6.67,
         "tracks": []
     },
     "PARTYMOBILE": {
@@ -4656,6 +5239,9 @@
         "total_tracks": 15,
         "uri": "spotify:album:2T8UlI17u5hwTqu6zkpkW7",
         "image": "https://i.scdn.co/image/ab67616d0000b273d8082097058d4c44739b17dd",
+        "score": 3.27,
+        "algo_score": 6.53,
+        "asboyer_score": 0,
         "top_tracks": [
             "THE NEWS",
             "SHOWING YOU",
@@ -4663,6 +5249,7 @@
             "BELIEVE IT",
             "PGT"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "NOTHING LESS",
             "TURN UP",
@@ -4671,7 +5258,6 @@
             "NEVER AGAIN",
             "SAVAGE ANTHEM"
         ],
-        "score": 6.19,
         "tracks": []
     },
     "NOT ALL HEROES WEAR CAPES": {
@@ -4683,6 +5269,9 @@
         "total_tracks": 13,
         "uri": "spotify:album:1zNr37qd3iZJ899byrTkcj",
         "image": "https://i.scdn.co/image/ab67616d0000b273184cc62dccee251dafefefee",
+        "score": 3.38,
+        "algo_score": 6.77,
+        "asboyer_score": 0,
         "top_tracks": [
             "Overdue (with Travis Scott)",
             "Don't Come Out The House (with 21 Savage)",
@@ -4693,10 +5282,10 @@
             "Up To Something (feat. Travis Scott & Young Thug)",
             "Lesbian (feat. Gunna & Young Thug)"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Dreamcatcher (feat. Swae Lee & Travis Scott)"
         ],
-        "score": 6.7,
         "tracks": []
     },
     "Hollywood's Bleeding": {
@@ -4708,6 +5297,9 @@
         "total_tracks": 17,
         "uri": "spotify:album:4g1ZRSobMefqF6nelkgibi",
         "image": "https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02",
+        "score": 4.12,
+        "algo_score": 8.24,
+        "asboyer_score": 0,
         "top_tracks": [
             "Saint-Tropez",
             "Enemies (feat. DaBaby)",
@@ -4716,6 +5308,7 @@
             "Sunflower - Spider-Man: Into the Spider-Verse",
             "I Know"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Hollywood's Bleeding",
             "Allergic",
@@ -4728,7 +5321,6 @@
             "Goodbyes (feat. Young Thug)",
             "Wow."
         ],
-        "score": 8.43,
         "tracks": []
     },
     "Culture": {
@@ -4740,6 +5332,9 @@
         "total_tracks": 13,
         "uri": "spotify:album:4JTOxuvM2jcSqAvEZtZsOO",
         "image": "https://i.scdn.co/image/ab67616d0000b2736275aeac316378b0dd4f31fd",
+        "score": 3.46,
+        "algo_score": 6.92,
+        "asboyer_score": 0,
         "top_tracks": [
             "T-Shirt",
             "Call Casting",
@@ -4747,6 +5342,7 @@
             "Get Right Witcha",
             "Slippery (feat. Gucci Mane)"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Culture (feat. DJ Khaled)",
             "What the Price",
@@ -4754,7 +5350,6 @@
             "Kelly Price (feat. Travis Scott)",
             "Out Yo Way"
         ],
-        "score": 7.44,
         "tracks": []
     },
     "Culture II": {
@@ -4766,11 +5361,15 @@
         "total_tracks": 24,
         "uri": "spotify:album:7fd7SEK25VS3gJAUgSwL6y",
         "image": "https://i.scdn.co/image/ab67616d0000b2739c188c494d8bfaf895411890",
+        "score": 2.79,
+        "algo_score": 5.58,
+        "asboyer_score": 0,
         "top_tracks": [
             "Narcos",
             "Walk It Talk It",
             "Stir Fry"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Higher We Go - Intro",
             "Supastars",
@@ -4786,7 +5385,6 @@
             "Notice Me",
             "Made Men"
         ],
-        "score": 5.76,
         "tracks": []
     },
     "2 Aliv\u00eb": {
@@ -4798,6 +5396,9 @@
         "total_tracks": 20,
         "uri": "spotify:album:0d1BFY8z15vye3KjtLvF3u",
         "image": "https://i.scdn.co/image/ab67616d0000b27372b69f1f356613717909d6db",
+        "score": 3.75,
+        "algo_score": 7.5,
+        "asboyer_score": 0,
         "top_tracks": [
             "Poppin",
             "Still countin",
@@ -4811,6 +5412,7 @@
             "Jump",
             "Rollin"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Doubl\u00eb",
             "Dnt li\u00eb",
@@ -4818,7 +5420,6 @@
             "Kant di\u00eb",
             "Smooktob\u00ebr"
         ],
-        "score": 7.29,
         "tracks": []
     },
     "Baby On Baby": {
@@ -4830,6 +5431,9 @@
         "total_tracks": 13,
         "uri": "spotify:album:0O1PJ0t69iTO5yWrIeIga0",
         "image": "https://i.scdn.co/image/ab67616d0000b27374d72ebd51dd5781d5f83ffd",
+        "score": 3.92,
+        "algo_score": 7.85,
+        "asboyer_score": 0,
         "top_tracks": [
             "Taking It Out",
             "Suge",
@@ -4839,13 +5443,13 @@
             "Tupac",
             "Joggers (feat. Stunna 4 Vegas)"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Pony",
             "Deal Wit It",
             "Backend",
             "Celebrate (feat. Rich Homie Quan)"
         ],
-        "score": 7.95,
         "tracks": []
     },
     "DS2 (Deluxe)": {
@@ -4857,12 +5461,16 @@
         "total_tracks": 18,
         "uri": "spotify:album:0fUy6IdLHDpGNwavIlhEsl",
         "image": "https://i.scdn.co/image/ab67616d0000b273b2592bea12d840fd096ef965",
+        "score": 2.89,
+        "algo_score": 5.78,
+        "asboyer_score": 0,
         "top_tracks": [
             "Thought It Was a Drought",
             "I Serve the Base",
             "Where Ya At (feat. Drake)",
             "F*ck Up Some Commas"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Groupies",
             "Lil One",
@@ -4873,7 +5481,6 @@
             "Blood On the Money",
             "Trap Niggas"
         ],
-        "score": 5.4,
         "tracks": []
     },
     "Harder Than Ever": {
@@ -4885,6 +5492,9 @@
         "total_tracks": 17,
         "uri": "spotify:album:7yf9ZJyHRbp8sHtpDKfPpt",
         "image": "https://i.scdn.co/image/ab67616d0000b2736cab41f8c84d6164976400d4",
+        "score": 4.29,
+        "algo_score": 8.59,
+        "asboyer_score": 0,
         "top_tracks": [
             "Intro",
             "Spazz",
@@ -4900,11 +5510,11 @@
             "Transporter",
             "Never Needed No Help"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "First Class",
             "Fit In"
         ],
-        "score": 8.63,
         "tracks": []
     },
     "LUV vs. The World 2": {
@@ -4916,6 +5526,9 @@
         "total_tracks": 14,
         "uri": "spotify:album:0fEO7g2c5onkaXsybEtuD2",
         "image": "https://i.scdn.co/image/ab67616d0000b273dea510881ec1e506485303e4",
+        "score": 3.93,
+        "algo_score": 7.86,
+        "asboyer_score": 0,
         "top_tracks": [
             "Myron",
             "Bean (Kobe) [feat. Chief Keef]",
@@ -4925,6 +5538,7 @@
             "Strawberry Peels (feat. Young Thug & Gunna)",
             "I Can Show You"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Lotus",
             "Come This Way",
@@ -4932,7 +5546,6 @@
             "Moon Relate",
             "Money Spread (feat. Young Nudy)"
         ],
-        "score": 7.55,
         "tracks": []
     },
     "Future Nostalgia": {
@@ -4944,11 +5557,15 @@
         "total_tracks": 13,
         "uri": "spotify:album:5lKlFlReHOLShQKyRv6AL9",
         "image": "https://i.scdn.co/image/ab67616d0000b273d4daf28d55fe4197ede848be",
+        "score": 3.31,
+        "algo_score": 6.62,
+        "asboyer_score": 0,
         "top_tracks": [
             "Don't Start Now",
             "Levitating",
             "Levitating (feat. DaBaby)"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Future Nostalgia",
             "Physical",
@@ -4958,7 +5575,6 @@
             "Break My Heart",
             "Fever"
         ],
-        "score": 6.15,
         "tracks": []
     },
     "Lil Boat": {
@@ -4970,11 +5586,15 @@
         "total_tracks": 13,
         "uri": "spotify:album:4bJqW1SBOvsfcEzZwsjdjx",
         "image": "https://i.scdn.co/image/ab67616d0000b27314d1a203158bed18a4ea7375",
+        "score": 3.31,
+        "algo_score": 6.62,
+        "asboyer_score": 0,
         "top_tracks": [
             "Intro",
             "Wanna Be Us",
             "One Night"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Minnesota",
             "Not My Bro",
@@ -4984,7 +5604,6 @@
             "Fucked Over",
             "We Did It"
         ],
-        "score": 6.79,
         "tracks": []
     },
     "Lil Boat 3": {
@@ -4996,6 +5615,9 @@
         "total_tracks": 19,
         "uri": "spotify:album:2CYr9450iYkEWq4IWL8plY",
         "image": "https://i.scdn.co/image/ab67616d0000b2735ee839f6415e0d02fc4f2b49",
+        "score": 3.21,
+        "algo_score": 6.42,
+        "asboyer_score": 0,
         "top_tracks": [
             "T.D (Lil Yachty & Tierra Whack feat. A$AP Rocky & Tyler, The Creator)",
             "Pardon Me (Lil Yachty feat. Future & Mike WiLL Made-It)",
@@ -5003,6 +5625,7 @@
             "Oprah's Bank Account (Lil Yachty & DaBaby feat. Drake)",
             "Range Rover Sports Truck (Lil Yachty & Lil Keed)"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Top Down",
             "Split/Whole Time",
@@ -5014,7 +5637,6 @@
             "Westside",
             "Concrete Boys"
         ],
-        "score": 6.58,
         "tracks": []
     },
     "Lil Boat 3.5": {
@@ -5026,17 +5648,20 @@
         "total_tracks": 8,
         "uri": "spotify:album:6ufaA5YvSGK3E9KnRFYvvo",
         "image": "https://i.scdn.co/image/ab67616d0000b273789e7bbd2cc0ae4085b4d59f",
+        "score": 3.38,
+        "algo_score": 6.75,
+        "asboyer_score": 0,
         "top_tracks": [
             "Coffin",
             "Just How I'm Feelin' (feat. Lil Baby)",
             "In My Stussy's (feat. Vince Staples)"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Lil Diamond Boy",
             "Flex Up (feat. Future & Playboi Carti)",
             "Asshole (feat. Oliver Tree)"
         ],
-        "score": 6.88,
         "tracks": []
     },
     "The Sunset Tapes: A Cool Tape Story": {
@@ -5048,17 +5673,20 @@
         "total_tracks": 11,
         "uri": "spotify:album:5SEBhuhm9MbbRg3YOOuaCR",
         "image": "https://i.scdn.co/image/ab67616d0000b2736bc4b0abc90292b207799266",
+        "score": 2.54,
+        "algo_score": 5.09,
+        "asboyer_score": 0,
         "top_tracks": [
             "SOHO",
             "Plastic",
             "Better Things",
             "Ten Ten"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "A Calabasas Freestyle",
             "FALLEN Part 2"
         ],
-        "score": 4.94,
         "tracks": []
     },
     "Wide Open Spaces": {
@@ -5070,11 +5698,15 @@
         "total_tracks": 12,
         "uri": "spotify:album:11Rni6y5dnNo6NRVuxltIj",
         "image": "https://i.scdn.co/image/ab67616d0000b2737c2a9c9ce2e9016223cdb74a",
+        "score": 3.58,
+        "algo_score": 7.17,
+        "asboyer_score": 0,
         "top_tracks": [
             "I Can Love You Better",
             "Wide Open Spaces",
             "There's Your Trouble"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Loving Arms",
             "You Were Mine",
@@ -5084,7 +5716,6 @@
             "Am I the Only One (Who's Ever Felt This Way)",
             "Give It Up or Let Me Go"
         ],
-        "score": 6.67,
         "tracks": []
     },
     "Life Changes": {
@@ -5096,6 +5727,9 @@
         "total_tracks": 14,
         "uri": "spotify:album:4w5Jvreahp3yvLqc4vCr9I",
         "image": "https://i.scdn.co/image/ab67616d0000b273a005bf5c526a44272ef20c79",
+        "score": 3.21,
+        "algo_score": 6.43,
+        "asboyer_score": 0,
         "top_tracks": [
             "Craving You",
             "Unforgettable",
@@ -5103,6 +5737,7 @@
             "Life Changes",
             "Renegades"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Sixteen",
             "Leave Right Now",
@@ -5110,7 +5745,6 @@
             "Sweetheart",
             "Grave"
         ],
-        "score": 6.55,
         "tracks": []
     },
     "F*CK LOVE 3+: OVER YOU": {
@@ -5122,6 +5756,9 @@
         "total_tracks": 13,
         "uri": "spotify:album:576UTio7xgY7YUxrHMzxeI",
         "image": "https://i.scdn.co/image/ab67616d0000b273b4d59e6fa7e5e7cbc57ac33a",
+        "score": 3.69,
+        "algo_score": 7.38,
+        "asboyer_score": 0,
         "top_tracks": [
             "STAY (with Justin Bieber)",
             "SAME ENERGY",
@@ -5132,11 +5769,11 @@
             "BEST FOR ME",
             "I DON'T KNOW"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "OVER YOU",
             "STILL CHOSE YOU (feat. Mustard)"
         ],
-        "score": 7.25,
         "tracks": []
     },
     "Kanye West Presents Good Music Cruel Summer": {
@@ -5148,18 +5785,21 @@
         "total_tracks": 12,
         "uri": "spotify:album:0bcOGgwJpwBjfFBTApoqSn",
         "image": "https://i.scdn.co/image/ab67616d0000b2733a2d2b9621ef645380c63c16",
+        "score": 2.58,
+        "algo_score": 5.17,
+        "asboyer_score": 0,
         "top_tracks": [
             "Mercy.1",
             "New God Flow.1",
             "Don't Like.1"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Clique",
             "Cold.1",
             "To The World",
             "The Morning"
         ],
-        "score": 5.28,
         "tracks": []
     },
     "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)": {
@@ -5171,10 +5811,14 @@
         "total_tracks": 13,
         "uri": "spotify:album:35s58BRTGAEWztPo9WqCIs",
         "image": "https://i.scdn.co/image/ab67616d0000b273e2e352d89826aef6dbd5ff8f",
+        "score": 2.31,
+        "algo_score": 4.62,
+        "asboyer_score": 0,
         "top_tracks": [
             "Sunflower - Spider-Man: Into the Spider-Verse",
             "Hide (feat. Seezyn)"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Invincible",
             "Start a Riot",
@@ -5182,7 +5826,6 @@
             "Elevate (feat. Denzel Curry, YBN Cordae, SwaVay, Trevor Rich)",
             "Home"
         ],
-        "score": 4.74,
         "tracks": []
     },
     "Mingus Ah Um": {
@@ -5194,6 +5837,9 @@
         "total_tracks": 9,
         "uri": "spotify:album:4Z8nWz3dGybOP7lhMZpcOo",
         "image": "https://m.media-amazon.com/images/I/81DmDMv-VzL._SL1500_.jpg",
+        "score": 4.33,
+        "algo_score": 8.67,
+        "asboyer_score": 0,
         "top_tracks": [
             "Better Get Hit In Your Soul - Instrumental",
             "Goodbye Pork Pie Hat",
@@ -5203,10 +5849,10 @@
             "Pussy Cat Dues",
             "Jelly Roll"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Boogie Stop Shuffle"
         ],
-        "score": 8.7,
         "tracks": []
     },
     "Bobby Tarantino II": {
@@ -5218,6 +5864,9 @@
         "total_tracks": 13,
         "uri": "spotify:album:4F87p1aiFwHeU4uu65MaPV",
         "image": "https://i.scdn.co/image/ab67616d0000b273e19b1b51cdd35051e17cf6dc",
+        "score": 4.38,
+        "algo_score": 8.77,
+        "asboyer_score": 0,
         "top_tracks": [
             "Grandpa's Space Ship",
             "Overnight",
@@ -5229,12 +5878,12 @@
             "Everyday",
             "44 More"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Indica Badu",
             "State Of Emergency",
             "Warm It Up"
         ],
-        "score": 8.57,
         "tracks": []
     },
     "Everybody": {
@@ -5246,18 +5895,21 @@
         "total_tracks": 13,
         "uri": "spotify:album:1HiN2YXZcc3EjmVZ4WjfBk",
         "image": "https://i.scdn.co/image/ab67616d0000b273cfdf40cf325b609a52457805",
+        "score": 2.38,
+        "algo_score": 4.77,
+        "asboyer_score": 0,
         "top_tracks": [
             "Everybody",
             "1-800-273-8255",
             "Black SpiderMan"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Confess",
             "Hallelujah",
             "Take It Back",
             "Mos Definitely"
         ],
-        "score": 4.87,
         "tracks": []
     },
     "Bobby Tarantino": {
@@ -5269,6 +5921,9 @@
         "total_tracks": 11,
         "uri": "spotify:album:0WMr3ulx5Mzi1B3C8LsHVA",
         "image": "https://i.scdn.co/image/ab67616d0000b273b497e0b2e0c08b470ee70648",
+        "score": 3.82,
+        "algo_score": 7.64,
+        "asboyer_score": 0,
         "top_tracks": [
             "Flexicution",
             "The Jam",
@@ -5277,12 +5932,12 @@
             "Super Mario World",
             "44 Bars"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "illuminatro",
             "A Word From Our Sponsor",
             "Slave"
         ],
-        "score": 7.4,
         "tracks": []
     },
     "Under Pressure": {
@@ -5294,6 +5949,9 @@
         "total_tracks": 12,
         "uri": "spotify:album:3mmsiTfdurVQwtBCO9MDD5",
         "image": "https://i.scdn.co/image/ab67616d0000b2735d349db0ade7b17f7c60b049",
+        "score": 4.25,
+        "algo_score": 8.5,
+        "asboyer_score": 0,
         "top_tracks": [
             "Soul Food",
             "Gang Related",
@@ -5303,13 +5961,13 @@
             "Under Pressure",
             "Till The End"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Intro",
             "I'm Gone",
             "Growing Pains III",
             "Metropolis"
         ],
-        "score": 8.21,
         "tracks": []
     },
     "Man On The Moon: The End Of Day": {
@@ -5321,12 +5979,16 @@
         "total_tracks": 15,
         "uri": "spotify:album:47y3PbX8oIDCkYAFylCJz0",
         "image": "https://i.scdn.co/image/ab67616d0000b273aab2c3c3f1f3207137d915c9",
+        "score": 3.2,
+        "algo_score": 6.4,
+        "asboyer_score": 0,
         "top_tracks": [
             "Soundtrack 2 My Life",
             "Solo Dolo (Nightmare)",
             "Day 'N' Nite (nightmare)",
             "Pursuit Of Happiness (Nightmare)"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "In My Dreams (Cudder Anthem)",
             "My World",
@@ -5336,7 +5998,6 @@
             "Hyyerr",
             "Up Up & Away"
         ],
-        "score": 6.0,
         "tracks": []
     },
     "Painted": {
@@ -5348,11 +6009,15 @@
         "total_tracks": 13,
         "uri": "spotify:album:0sxfu0XUwHOtnKiZgkTQwk",
         "image": "https://i.scdn.co/image/ab67616d0000b273fe1c22315738dd6e313e400f",
+        "score": 3.31,
+        "algo_score": 6.62,
+        "asboyer_score": 0,
         "top_tracks": [
             "Roll Some Mo",
             "Late Night",
             "Real Games"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Extra",
             "Concentrate",
@@ -5362,7 +6027,6 @@
             "Try Your Fire",
             "Love You Too Much"
         ],
-        "score": 6.15,
         "tracks": []
     },
     "Sacred Hearts Club": {
@@ -5374,11 +6038,15 @@
         "total_tracks": 12,
         "uri": "spotify:album:5lFvZh6pCTJzr9UStebyCF",
         "image": "https://i.scdn.co/image/ab67616d0000b273ca02f2ecba4a803b191c7eab",
+        "score": 3.58,
+        "algo_score": 7.17,
+        "asboyer_score": 0,
         "top_tracks": [
             "Sit Next to Me",
             "I Love My Friends",
             "Lotus Eater"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Pay the Man",
             "Doing It for the Money",
@@ -5388,7 +6056,6 @@
             "Harden the Paint",
             "III"
         ],
-        "score": 6.67,
         "tracks": []
     },
     "Savage Mode": {
@@ -5400,18 +6067,21 @@
         "total_tracks": 9,
         "uri": "spotify:album:4I3EcXD4e3KcEoDJfFEZ5b",
         "image": "https://i.scdn.co/image/ab67616d0000b2732dd1ac4a61495080ef8f78ca",
+        "score": 3.56,
+        "algo_score": 7.11,
+        "asboyer_score": 0,
         "top_tracks": [
             "No Heart",
             "X (feat. Future)",
             "Ocean Drive",
             "Savage Mode"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "No Advance",
             "Real Nigga",
             "Feel It"
         ],
-        "score": 7.22,
         "tracks": []
     },
     "Scary Hours 2": {
@@ -5423,14 +6093,17 @@
         "total_tracks": 3,
         "uri": "spotify:album:5LuoozUhs2pl3glZeAJl89",
         "image": "https://i.scdn.co/image/ab67616d0000b2738b20e4631fa15d3953528bbc",
+        "score": 4.67,
+        "algo_score": 9.33,
+        "asboyer_score": 0,
         "top_tracks": [
             "What\u2019s Next",
             "Wants and Needs (feat. Lil Baby)"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Lemon Pepper Freestyle (feat. Rick Ross)"
         ],
-        "score": 9.05,
         "tracks": []
     },
     "So Much Fun (Deluxe)": {
@@ -5442,6 +6115,9 @@
         "total_tracks": 24,
         "uri": "spotify:album:24jAbLMFzCTlIv3kQ94HwK",
         "image": "https://i.scdn.co/image/ab67616d0000b273540db9d6bae7e57baecf8b49",
+        "score": 4.0,
+        "algo_score": 8.0,
+        "asboyer_score": 0,
         "top_tracks": [
             "Diamonds (feat. Gunna)",
             "Hop Off A Jet (feat. Travis Scott)",
@@ -5456,6 +6132,7 @@
             "Light It Up",
             "Die Today"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Millions",
             "Just How It Is",
@@ -5467,7 +6144,6 @@
             "Big Tipper (feat. Lil Keed)",
             "Boy Back (feat. NAV)"
         ],
-        "score": 8.12,
         "tracks": []
     },
     "In the Aeroplane Over the Sea": {
@@ -5479,19 +6155,22 @@
         "total_tracks": 11,
         "uri": "spotify:album:0vVekV45lOaVKs6RZQQNob",
         "image": "https://i.scdn.co/image/ab67616d0000b273589ce9a911c6e65b1f80c558",
+        "score": 3.27,
+        "algo_score": 6.55,
+        "asboyer_score": 0,
         "top_tracks": [
             "King of Carrot Flowers Pt. 1",
             "In the Aeroplane Over the Sea",
             "Two-Headed Boy",
             "Communist Daughter"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "The Fool",
             "Holland, 1945",
             "Ghost",
             "Two-Headed Boy Pt. 2"
         ],
-        "score": 6.23,
         "tracks": []
     },
     "Mr. Morale & The Big Steppers": {
@@ -5503,6 +6182,9 @@
         "total_tracks": 18,
         "uri": "spotify:album:1atjqOZTCdrjxjMyCPZc2g",
         "image": "https://i.scdn.co/image/ab67616d0000b273f30764d5fa1e439ad6a7742f",
+        "score": 3.78,
+        "algo_score": 7.56,
+        "asboyer_score": 0,
         "top_tracks": [
             "N95",
             "Die Hard",
@@ -5513,6 +6195,7 @@
             "Savior",
             "Mr. Morale"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "United In Grief",
             "We Cry Together",
@@ -5522,7 +6205,6 @@
             "Mirror",
             "Rich Spirit"
         ],
-        "score": 7.69,
         "tracks": []
     },
     "The Velvet Underground & Nico 45th Anniversary": {
@@ -5534,6 +6216,9 @@
         "total_tracks": 11,
         "uri": "spotify:album:4xwx0x7k6c5VuThz5qVqmV",
         "image": "https://i.scdn.co/image/ab67616d0000b27398260c528e6eec9dd431c1d7",
+        "score": 4.0,
+        "algo_score": 8.0,
+        "asboyer_score": 0,
         "top_tracks": [
             "Sunday Morning",
             "I'm Waiting For The Man",
@@ -5544,10 +6229,10 @@
             "I'll Be Your Mirror",
             "All Tomorrow's Parties"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "There She Goes Again"
         ],
-        "score": 7.92,
         "tracks": []
     },
     "In Rainbows": {
@@ -5559,6 +6244,9 @@
         "total_tracks": 10,
         "uri": "spotify:album:5vkqYmiPBYLaalcmjujWxK",
         "image": "https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9",
+        "score": 4.8,
+        "algo_score": 9.6,
+        "asboyer_score": 0,
         "top_tracks": [
             "15 Step",
             "Bodysnatchers",
@@ -5569,11 +6257,11 @@
             "House Of Cards",
             "Jigsaw Falling Into Place"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Faust Arp",
             "Videotape"
         ],
-        "score": 9.43,
         "tracks": []
     },
     "The Life Of Pi'erre 4": {
@@ -5585,6 +6273,9 @@
         "total_tracks": 16,
         "uri": "spotify:album:0agALBMd2a8cnpbpukTg03",
         "image": "https://i.scdn.co/image/ab67616d0000b27346fe2968c4c6f8f82ab4eb5b",
+        "score": 3.56,
+        "algo_score": 7.12,
+        "asboyer_score": 0,
         "top_tracks": [
             "Poof",
             "Try Again",
@@ -5596,12 +6287,12 @@
             "Racer",
             "Guillotine"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Stereotypes",
             "Doublemint",
             "Juice"
         ],
-        "score": 6.96,
         "tracks": []
     },
     "A Family Christmas": {
@@ -5613,6 +6304,9 @@
         "total_tracks": 12,
         "uri": "spotify:album:1NrV9Ijb8Dk4yWv5LdYT09",
         "image": "https://i.scdn.co/image/ab67616d0000b2731be4bb6e48c76d8ad6172bf9",
+        "score": 4.17,
+        "algo_score": 8.33,
+        "asboyer_score": 0,
         "top_tracks": [
             "Angels We Have Heard on High",
             "O Come, O Come, Emmanuel",
@@ -5625,8 +6319,8 @@
             "Winter Wind",
             "Silent Night"
         ],
+        "mid_tracks": [],
         "good_tracks": [],
-        "score": 8.33,
         "tracks": []
     },
     "Bobby Tarantino III": {
@@ -5638,12 +6332,16 @@
         "total_tracks": 12,
         "uri": "spotify:album:5gJDUpoOlZxxgk2SDsTa6h",
         "image": "https://i.scdn.co/image/ab67616d0000b2732bae728759d1d51e672b2637",
+        "score": 3.33,
+        "algo_score": 6.67,
+        "asboyer_score": 0,
         "top_tracks": [
             "Vaccine",
             "Get Up",
             "Inside",
             "God Might Judge"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "introll",
             "See You Space Cowboy...",
@@ -5651,7 +6349,6 @@
             "untitled",
             "My Way"
         ],
-        "score": 6.31,
         "tracks": []
     },
     "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?": {
@@ -5663,6 +6360,9 @@
         "total_tracks": 14,
         "uri": "spotify:album:0S0KGZnfBGSIssfF54WSJh",
         "image": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce",
+        "score": 3.79,
+        "algo_score": 7.57,
+        "asboyer_score": 0,
         "top_tracks": [
             "bad guy",
             "you should see me in a crown",
@@ -5670,6 +6370,7 @@
             "wish you were gay",
             "bury a friend"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "xanny",
             "8",
@@ -5679,7 +6380,6 @@
             "i love you",
             "goodbye"
         ],
-        "score": 7.74,
         "tracks": []
     },
     "SOUR": {
@@ -5691,12 +6391,16 @@
         "total_tracks": 11,
         "uri": "spotify:album:6s84u2TUpR3wdUv4NgKA2j",
         "image": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
+        "score": 3.63,
+        "algo_score": 7.27,
+        "asboyer_score": 0,
         "top_tracks": [
             "brutal",
             "traitor",
             "deja vu",
             "good 4 u"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "1 step forward, 3 steps back",
             "enough for you",
@@ -5704,7 +6408,6 @@
             "jealousy, jealousy",
             "favorite crime"
         ],
-        "score": 6.88,
         "tracks": []
     },
     "TA13OO": {
@@ -5716,6 +6419,9 @@
         "total_tracks": 13,
         "uri": "spotify:album:6idVoBWP2mt1qoMtASm3gc",
         "image": "https://i.scdn.co/image/ab67616d0000b2737d05dd3ebb77cc048d66b294",
+        "score": 4.92,
+        "algo_score": 9.85,
+        "asboyer_score": 0,
         "top_tracks": [
             "TABOO | TA13OO",
             "BLACK BALLOONS | 13LACK 13ALLOONZ",
@@ -5728,11 +6434,12 @@
             "VENGEANCE | VENGEANCE",
             "BLACK METAL TERRORIST | 13 M T",
             "CASH MANIAC | CAZH MAN1AC [FEAT. NYYJERYA]",
-            "SWITCH IT UP | ZWITCH 1T UP",
+            "SWITCH IT UP | ZWITCH 1T UP"
+        ],
+        "mid_tracks": [],
+        "good_tracks": [
             "MAD I GOT IT | MAD 1 GOT 1T"
         ],
-        "good_tracks": [],
-        "score": 10.0,
         "tracks": []
     },
     "Doo-Wops & Hooligans": {
@@ -5744,6 +6451,9 @@
         "total_tracks": 10,
         "uri": "spotify:album:1uyf3l2d4XYwiEqAb7t7fX",
         "image": "https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b",
+        "score": 3.8,
+        "algo_score": 7.6,
+        "asboyer_score": 0,
         "top_tracks": [
             "Grenade",
             "Just the Way You Are",
@@ -5752,11 +6462,11 @@
             "Talking to the Moon",
             "Count on Me"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Runaway Baby",
             "Liquor Store Blues (feat. Damian Marley)"
         ],
-        "score": 7.43,
         "tracks": []
     },
     "Death of a Bachelor": {
@@ -5768,6 +6478,9 @@
         "total_tracks": 11,
         "uri": "spotify:album:6twKQ0EsUJHVlAr6XBylrj",
         "image": "https://i.scdn.co/image/ab67616d0000b27323152d9337d6c57b116ed13a",
+        "score": 3.46,
+        "algo_score": 6.91,
+        "asboyer_score": 0,
         "top_tracks": [
             "Don't Threaten Me with a Good Time",
             "Hallelujah",
@@ -5776,11 +6489,11 @@
             "The Good, the Bad and the Dirty",
             "House of Memories"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Victorious",
             "Emperor's New Clothes"
         ],
-        "score": 6.75,
         "tracks": []
     },
     "Life of a DON": {
@@ -5792,6 +6505,9 @@
         "total_tracks": 16,
         "uri": "spotify:album:2WmJ5wp5wKBlIJE6FDAIBJ",
         "image": "https://i.scdn.co/image/ab67616d0000b273ab738b25b86bf02f0346c53d",
+        "score": 3.44,
+        "algo_score": 6.88,
+        "asboyer_score": 0,
         "top_tracks": [
             "XSCAPE",
             "5X",
@@ -5801,6 +6517,7 @@
             "Company Pt 2",
             "You (feat. Travis Scott)"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Flocky Flocky (feat. Travis Scott)",
             "What You Need",
@@ -5808,7 +6525,6 @@
             "OUTERSPACE (feat. Baby Keem)",
             "Smoke (feat. HVN & SoFaygo)"
         ],
-        "score": 6.98,
         "tracks": []
     },
     "CALL ME IF YOU GET LOST": {
@@ -5820,6 +6536,9 @@
         "total_tracks": 16,
         "uri": "spotify:album:45ba6QAtNrdv6Ke4MFOKk9",
         "image": "https://i.scdn.co/image/ab67616d0000b273696b4e67423edd64784bfbb4",
+        "score": 4.62,
+        "algo_score": 9.25,
+        "asboyer_score": 0,
         "top_tracks": [
             "SIR BAUDELAIRE (feat. DJ Drama)",
             "CORSO",
@@ -5836,10 +6555,10 @@
             "HOT WIND BLOWS (feat. Lil Wayne)",
             "SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues)"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "BLESSED"
         ],
-        "score": 9.27,
         "tracks": []
     },
     "WUNNA": {
@@ -5851,6 +6570,9 @@
         "total_tracks": 18,
         "uri": "spotify:album:0gA0nZrZ55PLUp7ARfrICu",
         "image": "https://i.scdn.co/image/ab67616d0000b273d7547a7624116ac5f8a51fd2",
+        "score": 4.17,
+        "algo_score": 8.33,
+        "asboyer_score": 0,
         "top_tracks": [
             "ARGENTINA",
             "MOTW",
@@ -5868,8 +6590,8 @@
             "ROCKSTAR BIKERS & CHAINS",
             "ADDYS (feat. Nechie)"
         ],
+        "mid_tracks": [],
         "good_tracks": [],
-        "score": 8.33,
         "tracks": []
     },
     "DS4EVER": {
@@ -5881,6 +6603,9 @@
         "total_tracks": 20,
         "uri": "spotify:album:02uWB8Kekadkl3yGBoOOcx",
         "image": "https://i.scdn.co/image/ab67616d0000b27314d91ebdd6d7e2931322cc1a",
+        "score": 4.25,
+        "algo_score": 8.5,
+        "asboyer_score": 0,
         "top_tracks": [
             "private island",
             "pushin P (feat. Young Thug)",
@@ -5900,8 +6625,8 @@
             "die alone (feat. Yung Bleu)",
             "too easy (Remix) [feat. Future & Roddy Ricch]"
         ],
+        "mid_tracks": [],
         "good_tracks": [],
-        "score": 8.5,
         "tracks": []
     },
     "Drip Harder": {
@@ -5913,6 +6638,9 @@
         "total_tracks": 13,
         "uri": "spotify:album:2yXnY2NiaZk9QiJJittS81",
         "image": "https://i.scdn.co/image/ab67616d0000b273ce159a3ba2096e13fa9d4b4c",
+        "score": 4.46,
+        "algo_score": 8.92,
+        "asboyer_score": 0,
         "top_tracks": [
             "Off White VLONE (Lil Baby & Gunna feat. Lil Durk & NAV)",
             "Business Is Business (Lil Baby & Gunna)",
@@ -5925,11 +6653,11 @@
             "Drip Too Hard (Lil Baby & Gunna)",
             "Never Recover (Lil Baby & Gunna, Drake)"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "World Is Yours (Lil Baby & Gunna)",
             "My Jeans (Lil Baby & Gunna feat. Young Thug)"
         ],
-        "score": 8.97,
         "tracks": []
     },
     "WUNNA (Deluxe)": {
@@ -5941,6 +6669,9 @@
         "total_tracks": 26,
         "uri": "spotify:album:6FfYIKA59pCFs2d1FB79Pq",
         "image": "https://i.scdn.co/image/ab67616d0000b273fae944bd93dd1e47591a0df9",
+        "score": 4.42,
+        "algo_score": 8.85,
+        "asboyer_score": 0,
         "top_tracks": [
             "200 FOR LUNCH",
             "WUNNA FLO (feat. Yak Gotti)",
@@ -5966,8 +6697,8 @@
             "ADDYS (feat. Nechie)",
             "DIRTY DIANA"
         ],
+        "mid_tracks": [],
         "good_tracks": [],
-        "score": 8.85,
         "tracks": []
     },
     "Baby Talk 5": {
@@ -5979,6 +6710,9 @@
         "total_tracks": 10,
         "uri": "spotify:album:2xcjel0O71jyzfflIel2Dm",
         "image": "https://i.scdn.co/image/ab67616d0000b2733d1c4100a02fde1638760474",
+        "score": 3.9,
+        "algo_score": 7.8,
+        "asboyer_score": 0,
         "top_tracks": [
             "Today - Intro",
             "Itch",
@@ -5988,10 +6722,10 @@
             "Up The Street",
             "Tax Time"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "No Love"
         ],
-        "score": 7.83,
         "tracks": []
     },
     "Blank Blank": {
@@ -6003,6 +6737,9 @@
         "total_tracks": 10,
         "uri": "spotify:album:6L2X9oAs6pLMweH6pSpfTT",
         "image": "https://i.scdn.co/image/ab67616d0000b27322d036951a7d3cef1468c252",
+        "score": 3.8,
+        "algo_score": 7.6,
+        "asboyer_score": 0,
         "top_tracks": [
             "Next Song",
             "Blank Blank",
@@ -6011,11 +6748,11 @@
             "Milli",
             "Walker Texas Ranger"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "No Tears",
             "Beeper"
         ],
-        "score": 7.67,
         "tracks": []
     },
     "KIRK": {
@@ -6027,6 +6764,9 @@
         "total_tracks": 13,
         "uri": "spotify:album:1NsTSXjVNE7XmZ8PmyW0wl",
         "image": "https://i.scdn.co/image/ab67616d0000b273f2b94b2fda4f08836d6371ba",
+        "score": 3.77,
+        "algo_score": 7.54,
+        "asboyer_score": 0,
         "top_tracks": [
             "INTRO",
             "OFF THE RIP",
@@ -6038,10 +6778,10 @@
             "THERE HE GO",
             "XXL"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "POP STAR (feat. Kevin Gates)"
         ],
-        "score": 7.56,
         "tracks": []
     },
     "Street Gossip": {
@@ -6053,6 +6793,9 @@
         "total_tracks": 13,
         "uri": "spotify:album:4iF44RCCybJtkBkMoqrLW2",
         "image": "https://i.scdn.co/image/ab67616d0000b2737cb0c4f7761f6dd66aaca065",
+        "score": 4.54,
+        "algo_score": 9.08,
+        "asboyer_score": 0,
         "top_tracks": [
             "Global",
             "Pure Cocaine",
@@ -6066,10 +6809,10 @@
             "Anyway (feat. 2 Chainz & Gucci Mane)",
             "Chastised"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Dreams 2 Reality (feat. NoCap)"
         ],
-        "score": 9.1,
         "tracks": []
     },
     "Too Hard": {
@@ -6081,6 +6824,9 @@
         "total_tracks": 16,
         "uri": "spotify:album:750APP0eKVlcgOxaZnBnVt",
         "image": "https://i.scdn.co/image/ab67616d0000b2735067cc9332e2fdc69ea7b7a9",
+        "score": 3.75,
+        "algo_score": 7.5,
+        "asboyer_score": 0,
         "top_tracks": [
             "To The Top",
             "Money",
@@ -6091,6 +6837,7 @@
             "Freestyle",
             "Dive In"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Best Of Me",
             "Ride My Wave",
@@ -6098,7 +6845,6 @@
             "Slow Mo",
             "Vision Clear"
         ],
-        "score": 7.6,
         "tracks": []
     },
     "The Melodic Blue": {
@@ -6110,6 +6856,9 @@
         "total_tracks": 16,
         "uri": "spotify:album:3r46DPIQeBQbjvjjV5mXGg",
         "image": "https://i.scdn.co/image/ab67616d0000b2731bfa23b13d0504fb90c37b39",
+        "score": 3.94,
+        "algo_score": 7.88,
+        "asboyer_score": 0,
         "top_tracks": [
             "trademark usa",
             "range brothers (with Kendrick Lamar)",
@@ -6123,11 +6872,11 @@
             "vent",
             "16"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "gorgeous",
             "scars"
         ],
-        "score": 7.92,
         "tracks": []
     },
     "Nuthin' 2 Prove": {
@@ -6139,6 +6888,9 @@
         "total_tracks": 15,
         "uri": "spotify:album:4qplno3lbet8WvuTGdDG3T",
         "image": "https://i.scdn.co/image/ab67616d0000b273fc62848680948acaa7d0305d",
+        "score": 3.94,
+        "algo_score": 7.87,
+        "asboyer_score": 0,
         "top_tracks": [
             "Gimmie My Respect - Intro",
             "Get Dripped (feat. Playboi Carti)",
@@ -6152,10 +6904,10 @@
             "Forever World (feat. Trippie Redd)",
             "Fallin' In Luv (feat. Gunna)"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Worth It"
         ],
-        "score": 7.89,
         "tracks": []
     },
     "Rage Against The Machine": {
@@ -6167,6 +6919,9 @@
         "total_tracks": 10,
         "uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
         "image": "https://i.scdn.co/image/ab67616d0000b27324f31a0a281320f0cec6f86f",
+        "score": 4.5,
+        "algo_score": 9.0,
+        "asboyer_score": 0,
         "top_tracks": [
             "Bombtrack",
             "Killing In the Name",
@@ -6178,8 +6933,8 @@
             "Fistful of Steel",
             "Freedom"
         ],
+        "mid_tracks": [],
         "good_tracks": [],
-        "score": 9.0,
         "tracks": []
     },
     "Lyf\u00eb": {
@@ -6191,6 +6946,9 @@
         "total_tracks": 12,
         "uri": "spotify:album:6Xo2PDEoQKzCndIbks2kvu",
         "image": "https://i.scdn.co/image/ab67616d0000b273ac3b479d910453e58b24f8b7",
+        "score": 4.42,
+        "algo_score": 8.83,
+        "asboyer_score": 0,
         "top_tracks": [
             "Flawl\u00ebss (feat. Lil Uzi Vert)",
             "Up off X",
@@ -6202,11 +6960,11 @@
             "Com\u00eb on",
             "Syst\u00ebm"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Got it all",
             "Killin \u00ebm"
         ],
-        "score": 8.69,
         "tracks": []
     },
     "NAV": {
@@ -6218,6 +6976,9 @@
         "total_tracks": 11,
         "uri": "spotify:album:4JR29CNW14Zc4Z5vflxkoJ",
         "image": "https://i.scdn.co/image/ab67616d0000b27309641cc11bfab19e890bbf58",
+        "score": 4.09,
+        "algo_score": 8.18,
+        "asboyer_score": 0,
         "top_tracks": [
             "Myself",
             "NAV",
@@ -6229,8 +6990,8 @@
             "Some Way",
             "TTD"
         ],
+        "mid_tracks": [],
         "good_tracks": [],
-        "score": 8.18,
         "tracks": []
     },
     "Drip Season 3 (Deluxe)": {
@@ -6242,6 +7003,9 @@
         "total_tracks": 17,
         "uri": "spotify:album:5xtAAHr59ozJ2PQ67utEmi",
         "image": "https://i.scdn.co/image/ab67616d0000b273d00a36fea0639c48eb0ee312",
+        "score": 4.41,
+        "algo_score": 8.82,
+        "asboyer_score": 0,
         "top_tracks": [
             "Helluva Price",
             "Drippin'",
@@ -6259,8 +7023,8 @@
             "Spending Addiction",
             "Drip or Drown Remix (feat. Lil Yachty)"
         ],
+        "mid_tracks": [],
         "good_tracks": [],
-        "score": 8.82,
         "tracks": []
     },
     "Her Loss": {
@@ -6272,6 +7036,9 @@
         "total_tracks": 16,
         "uri": "spotify:album:5MS3MvWHJ3lOZPLiMxzOU6",
         "image": "https://i.scdn.co/image/ab67616d0000b27302dd500610becbe0a6e24f94",
+        "score": 4.56,
+        "algo_score": 9.12,
+        "asboyer_score": 0,
         "top_tracks": [
             "Rich Flex",
             "Major Distribution",
@@ -6287,11 +7054,11 @@
             "Jumbotron Shit Poppin",
             "Treacherous Twins"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "3AM on Glenwood",
             "I Guess It's Fuck Me"
         ],
-        "score": 9.02,
         "tracks": []
     },
     "Chillhop Essentials Fall 2019": {
@@ -6303,6 +7070,9 @@
         "total_tracks": 24,
         "uri": "spotify:album:23iavtkZyk6Nep7V9B0kpD",
         "image": "https://i.scdn.co/image/ab67616d0000b273f2683d1a8bb445535d952676",
+        "score": 4.17,
+        "algo_score": 8.33,
+        "asboyer_score": 0,
         "top_tracks": [
             "Cypress",
             "Woodnot",
@@ -6321,6 +7091,7 @@
             "Angel Eyes",
             "Save Your Love"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Haze",
             "Pale Ale",
@@ -6328,7 +7099,6 @@
             "Bonfire",
             "On Holly"
         ],
-        "score": 8.4,
         "tracks": []
     },
     "I Didn't Mean To Haunt You": {
@@ -6340,6 +7110,9 @@
         "total_tracks": 11,
         "uri": "spotify:album:3c0NHNo2Gn0X7uARad3hGv",
         "image": "https://i.scdn.co/image/ab67616d0000b27345f6c58341c281d50d622c5c",
+        "score": 4.63,
+        "algo_score": 9.27,
+        "asboyer_score": 0,
         "top_tracks": [
             "sorry4dying",
             "tell me a joke",
@@ -6349,13 +7122,13 @@
             "knots",
             "fractions of infinity"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "picking up hands",
             "the memories we lost in translation",
             "fantasyworld",
             "cassini's division"
         ],
-        "score": 8.96,
         "tracks": []
     },
     "HEROES & VILLAINS": {
@@ -6367,6 +7140,9 @@
         "total_tracks": 15,
         "uri": "spotify:album:7txGsnDSqVMoRl6RQ9XyZP",
         "image": "https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2",
+        "score": 4.54,
+        "algo_score": 9.07,
+        "asboyer_score": 0,
         "top_tracks": [
             "Superhero (Heroes & Villains) [with Future & Chris Brown]",
             "Too Many Nights (feat. Don Toliver & with Future)",
@@ -6381,11 +7157,11 @@
             "Lock On Me (with Travis Scott & Future)",
             "All The Money (with Gunna) [Bonus]"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Feel The Fiyaaaah (with A$AP Rocky & feat. Takeoff)",
             "Walk Em Down (Don't Kill Civilians) [with 21 Savage & feat. Mustafa]"
         ],
-        "score": 8.95,
         "tracks": []
     },
     "Up 2 M\u00eb": {
@@ -6397,6 +7173,9 @@
         "total_tracks": 22,
         "uri": "spotify:album:1x55Z0fYARLdeJVjG2UESs",
         "image": "https://i.scdn.co/image/ab67616d0000b273b20fdc3ee4c262693cfdf005",
+        "score": 4.46,
+        "algo_score": 8.91,
+        "asboyer_score": 0,
         "top_tracks": [
             "Cmon",
             "Morning mudd",
@@ -6417,11 +7196,11 @@
             "D\u00ebserve it",
             "Lying 4 fun"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "L\u00ebt ya know",
             "Stay\u00ebd tha same"
         ],
-        "score": 8.83,
         "tracks": []
     },
     "Rocky IV": {
@@ -6433,12 +7212,16 @@
         "total_tracks": 11,
         "uri": "spotify:album:3t3BbpFJiGcXl4jI5CRLLA",
         "image": "/static/img/music/albums/rocky.png",
+        "score": 4.0,
+        "algo_score": 8.0,
+        "asboyer_score": 0,
         "top_tracks": [
             "Burning Heart - From \"Rocky IV\" Soundtrack",
             "Eye of the Tiger",
             "No Easy Way Out - From \"Rocky IV\" Soundtrack",
             "Training Montage - From \"Rocky IV\" Soundtrack"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Double or Nothing - From \"Rocky IV\" Soundtrack",
             "War/Fanfare from Rocky IV",
@@ -6447,7 +7230,6 @@
             "The Sweetest Victory - From \"Rocky IV\" Soundtrack",
             "Man Against the World"
         ],
-        "score": 8.18,
         "tracks": []
     },
     "Demons Protected By Angels": {
@@ -6459,6 +7241,9 @@
         "total_tracks": 19,
         "uri": "spotify:album:29NWnawJBetVB3lOM9Sbp6",
         "image": "https://i.scdn.co/image/ab67616d0000b2737da6f8edfd0404b5c52de3eb",
+        "score": 3.79,
+        "algo_score": 7.58,
+        "asboyer_score": 0,
         "top_tracks": [
             "Baby",
             "One Time (with Don Toliver feat. Future)",
@@ -6473,12 +7258,12 @@
             "Destiny",
             "Ball in Peace (Outro)"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Count on Me (Intro)",
             "Never Sleep (with Lil Baby feat. Travis Scott)",
             "Playa (with Gunna)"
         ],
-        "score": 7.44,
         "tracks": []
     },
     "Perfect Timing": {
@@ -6490,6 +7275,9 @@
         "total_tracks": 15,
         "uri": "spotify:album:6VFETcEfjilkAng073KLt9",
         "image": "https://i.scdn.co/image/ab67616d0000b273000d429a820f8d8501f861ed",
+        "score": 4.0,
+        "algo_score": 8.0,
+        "asboyer_score": 0,
         "top_tracks": [
             "Perfect Timing (Intro)",
             "Hit",
@@ -6500,6 +7288,7 @@
             "Call Me",
             "Need Some"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "A$AP Ferg",
             "Held Me Down",
@@ -6507,7 +7296,6 @@
             "I Am",
             "NAVUZIMETRO#PT2"
         ],
-        "score": 7.71,
         "tracks": []
     },
     "RECKLESS": {
@@ -6519,14 +7307,17 @@
         "total_tracks": 12,
         "uri": "spotify:album:1hTrdWpdPEeXHQWc9GmpxZ",
         "image": "https://i.scdn.co/image/ab67616d0000b2730231368c38cf69a722ed1d0b",
+        "score": 1.67,
+        "algo_score": 3.33,
+        "asboyer_score": 0,
         "top_tracks": [
             "Champion (feat. Travis Scott)",
             "Wanted You (feat. Lil Uzi Vert)",
             "Faith (feat. Quavo)",
             "EAT (feat. Gunna)"
         ],
+        "mid_tracks": [],
         "good_tracks": [],
-        "score": 3.33,
         "tracks": []
     },
     "Meet The Woo": {
@@ -6538,6 +7329,9 @@
         "total_tracks": 9,
         "uri": "spotify:album:6d1vGZsr6Uy3h9IigBpPAf",
         "image": "https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5",
+        "score": 3.78,
+        "algo_score": 7.56,
+        "asboyer_score": 0,
         "top_tracks": [
             "Meet the Woo",
             "Welcome To The Party",
@@ -6546,10 +7340,10 @@
             "Dior",
             "Feeling"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Better Have Your Gun"
         ],
-        "score": 7.46,
         "tracks": []
     },
     "Playboi Carti": {
@@ -6561,6 +7355,9 @@
         "total_tracks": 15,
         "uri": "spotify:album:4rJgzzfFHAVFhCSt2P4I3j",
         "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
+        "score": 3.0,
+        "algo_score": 6.0,
+        "asboyer_score": 0,
         "top_tracks": [
             "Location",
             "Magnolia",
@@ -6572,8 +7369,8 @@
             "Other Shit",
             "NO. 9"
         ],
+        "mid_tracks": [],
         "good_tracks": [],
-        "score": 6.0,
         "tracks": [
             "dothatshit!",
             "Lame Niggaz",
@@ -6592,6 +7389,9 @@
         "total_tracks": 16,
         "uri": "spotify:album:4rJDCELWL0fjdmN9Gn4f4g",
         "image": "https://i.scdn.co/image/ab67616d0000b273cae6e44dcc84e2035c3ad092",
+        "score": 4.44,
+        "algo_score": 8.88,
+        "asboyer_score": 0,
         "top_tracks": [
             "Galaxy",
             "Raydar",
@@ -6605,13 +7405,13 @@
             "Lauder Too (feat. Ravyn Lenae & Eryn Allen Kane)",
             "2007"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Can\u2019t Punk Me (feat. EARTHGANG)",
             "Can\u2019t Make U Change (feat. Ari Lennox)",
             "Money",
             "Better Days (feat. Johnta Austin)"
         ],
-        "score": 8.66,
         "tracks": []
     },
     "ZUU": {
@@ -6623,6 +7423,9 @@
         "total_tracks": 12,
         "uri": "spotify:album:6PkSBdx19zarn4ae1D08gA",
         "image": "https://i.scdn.co/image/ab67616d0000b2735d46e4578c8e1adad9206480",
+        "score": 4.83,
+        "algo_score": 9.67,
+        "asboyer_score": 0,
         "top_tracks": [
             "ZUU",
             "RICKY",
@@ -6630,16 +7433,16 @@
             "BIRDZ FEAT. RICK ROSS",
             "AUTOMATIC",
             "SPEEDBOAT",
-            "BUSHY B INTERLUDE",
             "SHAKE 88 FEAT. SAM SNEAK",
-            "P.A.T. FEAT. PLAYTHATBOIZAY"
+            "P.A.T. FEAT. PLAYTHATBOIZAY",
+            "BUSHY B INTERLUDE",
+            "CAROLMART FEAT. ICE BILLION BERG"
         ],
+        "mid_tracks": [],
         "good_tracks": [
-            "CAROLMART FEAT. ICE BILLION BERG",
             "BLACKLAND 66.6",
             "YOO"
         ],
-        "score": 9.29,
         "tracks": []
     },
     "Imperial": {
@@ -6651,8 +7454,10 @@
         "total_tracks": 10,
         "uri": "spotify:album:42fyKPanos0Q3woi848ktg",
         "image": "https://i.scdn.co/image/ab67616d0000b273166442984ba98f0a2dcaea5e",
+        "score": 4.6,
+        "algo_score": 9.2,
+        "asboyer_score": 0,
         "top_tracks": [
-            "ULT",
             "Gook",
             "Sick & Tired",
             "Knotty Head",
@@ -6660,12 +7465,13 @@
             "Story: No Title",
             "This Life"
         ],
+        "mid_tracks": [],
         "good_tracks": [
+            "ULT",
             "Zenith",
             "Good Night",
             "If Tomorrow's Not Here"
         ],
-        "score": 9.14,
         "tracks": []
     },
     "UNLOCKED": {
@@ -6677,19 +7483,22 @@
         "total_tracks": 8,
         "uri": "spotify:album:5LsyqeWryTmxsmda4xkm5a",
         "image": "https://i.scdn.co/image/ab67616d0000b273922a12ba0b5a66f034dc9959",
+        "score": 4.88,
+        "algo_score": 9.75,
+        "asboyer_score": 0,
         "top_tracks": [
+            "Track 01",
             "Take_it_Back_v2",
             "Lay_Up.m4a",
             "Pyro (leak 2019)",
-            "DIET_",
             "So.Incredible.pkg",
-            "Track07",
-            "\ua78cCosmic\ua78c.m4a"
+            "\ua78cCosmic\ua78c.m4a",
+            "Track07"
         ],
+        "mid_tracks": [],
         "good_tracks": [
-            "Track 01"
+            "DIET_"
         ],
-        "score": 9.64,
         "tracks": []
     },
     "Melt My Eyez See Your Future": {
@@ -6701,6 +7510,9 @@
         "total_tracks": 14,
         "uri": "spotify:album:7KtyUeiJidoZO0ybxBXw0Q",
         "image": "https://i.scdn.co/image/ab67616d0000b2735b924aa009b61b6b9d831eec",
+        "score": 4.86,
+        "algo_score": 9.71,
+        "asboyer_score": 0,
         "top_tracks": [
             "Melt Session #1 [Feat. Robert Glasper]",
             "Walkin",
@@ -6712,14 +7524,14 @@
             "Angelz [Feat. Karriem Riggins]",
             "Sanjuro",
             "Zatoichi [Feat. slowthai]",
-            "The Ills"
-        ],
-        "good_tracks": [
-            "Worst Comes To Worst",
-            "John Wayne [Feat. Buzzy Lee]",
+            "The Ills",
             "The Smell Of Death"
         ],
-        "score": 9.39,
+        "mid_tracks": [],
+        "good_tracks": [
+            "Worst Comes To Worst",
+            "John Wayne [Feat. Buzzy Lee]"
+        ],
         "tracks": []
     }
 }

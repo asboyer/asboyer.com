@@ -98,7 +98,11 @@ def clean_result(result):
 
     result['top_tracks'] = []
     result['good_tracks'] = []
+    result['mid_tracks'] = []
     result['score'] = 0.0
+    result['asboyer_score'] = 0.0
+    result['algo_score'] = 0.0
+
 
     tracks = result["tracks"]["items"]
     del result["tracks"]

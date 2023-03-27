@@ -9,6 +9,9 @@
         "total_tracks": 20,
         "uri": "spotify:album:2Q2TRdT994vTzGE3Grmmht",
         "image": "https://i.scdn.co/image/ab67616d0000b273f5e27c2aa0b110c2b6611577",
+        "score": 7.1,
+        "algo_score": 6.2,
+        "asboyer_score": 8,
         "top_tracks": [
             "Embarrassed (feat. Travis Scott)",
             "Leather Coat",
@@ -17,6 +20,7 @@
             "If I Had (feat. Charlie Wilson)",
             "Time Heals All"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "Geronimo",
             "Luckily I\u2019m Having (feat. Teezo Touchdown)",
@@ -27,7 +31,6 @@
             "Honeymoon",
             "Encouragement"
         ],
-        "score": 6.33,
         "tracks": []
     },
     "Aft\u00ebrLyfe": {
@@ -40,6 +43,9 @@
         "total_tracks": 22,
         "uri": "spotify:album:25Uddgldy3slnChqKqHsIM",
         "image": "https://i.scdn.co/image/ab67616d0000b2733f560650c583444498c214f0",
+        "score": 5.87,
+        "algo_score": 6.73,
+        "asboyer_score": 5,
         "top_tracks": [
             "No mor\u00eb talk",
             "Shmunk (feat. YoungBoy Never Broke Again)",
@@ -52,6 +58,7 @@
             "Shhhh",
             "Mys\u00eblf"
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "B\u00ebttr 0ff",
             "Rav3 p4rty (feat. Kranky Kranky)",
@@ -60,7 +67,6 @@
             "Split",
             "Back hom\u00eb"
         ],
-        "score": 6.49,
         "tracks": []
     },
     "Let\u2019s Start Here.": {
@@ -73,6 +79,9 @@
         "total_tracks": 14,
         "uri": "spotify:album:6Per97deaWqrJlKQNX8RGK",
         "image": "https://i.scdn.co/image/ab67616d0000b2736f578b21bce56056473da7e6",
+        "score": 7.43,
+        "algo_score": 7.86,
+        "asboyer_score": 7,
         "top_tracks": [
             "the BLACK seminole.",
             "the ride-",
@@ -82,6 +91,7 @@
             "sAy sOMETHINg",
             "REACH THE SUNSHINE."
         ],
+        "mid_tracks": [],
         "good_tracks": [
             "running out of time",
             ":(failure(:",
@@ -89,61 +99,6 @@
             "paint THE sky",
             "sHouLd i B?"
         ],
-        "score": 7.98,
-        "tracks": []
-    },
-    "ZUU": {
-        "artists": "Denzel Curry",
-        "id": "6PkSBdx19zarn4ae1D08gA",
-        "name": "ZUU",
-        "popularity": 62,
-        "release_date": "2019-05-31",
-        "total_tracks": 12,
-        "uri": "spotify:album:6PkSBdx19zarn4ae1D08gA",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735d46e4578c8e1adad9206480",
-        "top_tracks": [
-            "ZUU",
-            "RICKY",
-            "WISH FEAT. KIDDO MARV",
-            "BIRDZ FEAT. RICK ROSS",
-            "AUTOMATIC",
-            "SPEEDBOAT",
-            "BUSHY B INTERLUDE",
-            "SHAKE 88 FEAT. SAM SNEAK",
-            "P.A.T. FEAT. PLAYTHATBOIZAY"
-        ],
-        "good_tracks": [
-            "CAROLMART FEAT. ICE BILLION BERG",
-            "BLACKLAND 66.6",
-            "YOO"
-        ],
-        "score": 9.29,
-        "tracks": []
-    },
-    "Imperial": {
-        "artists": "Denzel Curry",
-        "id": "42fyKPanos0Q3woi848ktg",
-        "name": "Imperial",
-        "popularity": 59,
-        "release_date": "2016-10-14",
-        "total_tracks": 10,
-        "uri": "spotify:album:42fyKPanos0Q3woi848ktg",
-        "image": "https://i.scdn.co/image/ab67616d0000b273166442984ba98f0a2dcaea5e",
-        "top_tracks": [
-            "ULT",
-            "Gook",
-            "Sick & Tired",
-            "Knotty Head",
-            "Me Now",
-            "Story: No Title",
-            "This Life"
-        ],
-        "good_tracks": [
-            "Zenith",
-            "Good Night",
-            "If Tomorrow's Not Here"
-        ],
-        "score": 9.14,
         "tracks": []
     },
     "UNLOCKED": {
@@ -155,49 +110,88 @@
         "total_tracks": 8,
         "uri": "spotify:album:5LsyqeWryTmxsmda4xkm5a",
         "image": "https://i.scdn.co/image/ab67616d0000b273922a12ba0b5a66f034dc9959",
+        "score": 9.38,
+        "algo_score": 9.75,
+        "asboyer_score": 9,
         "top_tracks": [
+            "Track 01",
+            "Track07",
             "Take_it_Back_v2",
             "Lay_Up.m4a",
             "Pyro (leak 2019)",
-            "DIET_",
             "So.Incredible.pkg",
-            "Track07",
             "\ua78cCosmic\ua78c.m4a"
         ],
+        "mid_tracks": [],
         "good_tracks": [
-            "Track 01"
+            "DIET_"
         ],
-        "score": 9.64,
         "tracks": []
     },
-    "Melt My Eyez See Your Future": {
-        "artists": "Denzel Curry",
-        "id": "7KtyUeiJidoZO0ybxBXw0Q",
-        "name": "Melt My Eyez See Your Future",
-        "popularity": 72,
-        "release_date": "2022-03-25",
+    "SCARING THE HOES": {
+        "artists": "JPEGMAFIA, Danny Brown",
+        "id": "3u20OXh03DjCUzbf8XcGTq",
+        "name": "SCARING THE HOES",
+        "popularity": 42,
+        "release_date": "2023-03-24",
         "total_tracks": 14,
-        "uri": "spotify:album:7KtyUeiJidoZO0ybxBXw0Q",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735b924aa009b61b6b9d831eec",
+        "uri": "spotify:album:3u20OXh03DjCUzbf8XcGTq",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738cf4c85912fdeb106707fb4c",
+        "score": 8.14,
+        "algo_score": 8.29,
+        "asboyer_score": 8,
         "top_tracks": [
-            "Melt Session #1 [Feat. Robert Glasper]",
-            "Walkin",
-            "The Last",
-            "Mental [Feat. Saul Williams & Bridget Perez]",
-            "Troubles [Feat. T-Pain]",
-            "Ain't No Way [Feat. 6LACK, Rico Nasty, J.I.D, Jasiah, Kitty Ca$h]",
-            "X-Wing",
-            "Angelz [Feat. Karriem Riggins]",
-            "Sanjuro",
-            "Zatoichi [Feat. slowthai]",
-            "The Ills"
+            "Lean Beef Patty",
+            "Steppa Pig",
+            "SCARING THE HOES",
+            "Garbage Pale Kids",
+            "Fentanyl Tester",
+            "Burfict!",
+            "Kingdom Hearts Key (feat. redveil)",
+            "God Loves You",
+            "Jack Harlow Combo Meal",
+            "Shut Yo Bitch Ass Up / Muddy Waters"
         ],
+        "mid_tracks": [],
         "good_tracks": [
-            "Worst Comes To Worst",
-            "John Wayne [Feat. Buzzy Lee]",
-            "The Smell Of Death"
+            "Orange Juice Jones",
+            "HOE (Heaven on Earth)"
         ],
-        "score": 9.39,
         "tracks": []
+    },
+    "LOUIE": {
+        "artists": "Kenny Beats",
+        "id": "3SKVtzmihlnGFylW5nC5kj",
+        "name": "LOUIE",
+        "popularity": 68,
+        "release_date": "2022-08-31",
+        "total_tracks": 17,
+        "uri": "spotify:album:3SKVtzmihlnGFylW5nC5kj",
+        "image": "https://i.scdn.co/image/ab67616d0000b27363af9bcfdea6df60f73d2ade",
+        "top_tracks": [],
+        "good_tracks": [],
+        "mid_tracks": [],
+        "score": 0.0,
+        "asboyer_score": 0.0,
+        "algo_score": 0.0,
+        "tracks": [
+            "Leonard",
+            "Parenthesis",
+            "Hold My Head",
+            "So They Say",
+            "Family Tree",
+            "Hooper",
+            "Still",
+            "Moire",
+            "Get Around",
+            "Eternal",
+            "Last Words",
+            "Drop 10",
+            "The Perch",
+            "Really Really",
+            "That Third Thing",
+            "Rotten",
+            "Hot Hand"
+        ]
     }
 }
