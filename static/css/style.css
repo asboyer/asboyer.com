@@ -2891,15 +2891,20 @@ blockquote p::after {
 }
 
 
-@media (min-width: 1221px) {
+
+
+
+
+
+@media (min-width: 822px) and (max-width: 1221px) {
     #special-cont {
         display: none;
     }
 }
 
-
-@media (max-width: 822px) {
-    #special-cont {
+@media (max-width: 1221px)
+{
+    #soon_blog {
         display: none;
     }
 }
