@@ -239,7 +239,18 @@ def blog_post(name):
                 break
         return render_template("soon.html", value=title, date_string=d, subs=sub_str, blurb=blurb)
     elif os.path.exists(f'templates/blog/{name}.html'):
-        return render_template(f"blog/{name}.html")
+        for post in posts:
+            if posts[post]['id'] == int(name):
+                title = posts[post]["title"]
+                d = posts[post]["date"]
+                subs = posts[post]["subjects"]
+                sub_str = ""
+                for sub in subs:
+                    if subs[len(subs) - 1] == sub:
+                        sub_str += sub
+                    else:    
+                        sub_str += sub + ", "
+        return render_template(f"blog/{name}.html", title=title, date_string=d, subs=sub_str)
     else:
         # make error page
         return render_template("error.html")

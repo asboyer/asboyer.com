@@ -127,6 +127,12 @@ label.form-control-label {
     padding-bottom: 0px
 }
 
+#topics_b {
+    color: #B6F29D;
+    font-size: 12px;
+
+}
+
 .form_message {
     letter-spacing: 0em;
     font-family: monospace
@@ -2430,6 +2436,16 @@ header {
     font-family: monospace;
     font-weight: initial;
 }
+.post-subs {
+    margin-top: 5px;
+    font-size: 12px;
+    text-align: center;
+    font-family: monospace;
+    font-weight: initial;
+    color: #B6F29D;
+
+}
+
 
 .post-content {
     margin: 0 auto;
