@@ -154,5 +154,12 @@
         "image": "http://image.tmdb.org/t/p/original/iB6x0bA9XdP4MH3i1zXjMzvTNSY.jpg",
         "rating": 8.9,
         "creator": "Peter Gould, Vince Gilligan"
+    },
+    "The Boys": {
+        "id": "1190634",
+        "title": "The Boys",
+        "image": "http://image.tmdb.org/t/p/original/ut4PhX7OP2l2oJhrIUYWnt9pnQU.jpg",
+        "rating": 8.7,
+        "creator": "Garth Ennis"
     }
 }

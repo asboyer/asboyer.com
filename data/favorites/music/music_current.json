@@ -1,197 +1,197 @@
 {
-    "Love Sick (Deluxe)": {
-        "artists": "Don Toliver",
-        "id": "2Q2TRdT994vTzGE3Grmmht",
-        "is_playable": true,
-        "name": "Love Sick (Deluxe)",
-        "popularity": 65,
-        "release_date": "2023-02-28",
-        "total_tracks": 20,
-        "uri": "spotify:album:2Q2TRdT994vTzGE3Grmmht",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f5e27c2aa0b110c2b6611577",
-        "score": 7.1,
-        "algo_score": 6.2,
-        "asboyer_score": 8,
-        "top_tracks": [
-            "Embarrassed (feat. Travis Scott)",
-            "Leather Coat",
-            "Company Pt. 3",
-            "Slow Motion (feat. Wizkid)",
-            "If I Had (feat. Charlie Wilson)",
-            "Time Heals All"
-        ],
-        "mid_tracks": [],
-        "good_tracks": [
-            "Geronimo",
-            "Luckily I\u2019m Having (feat. Teezo Touchdown)",
-            "4 Me (feat. Kali Uchis)",
-            "Private Landing (feat. Justin Bieber & Future)",
-            "Do It Right",
-            "Go Down (feat. TisaKorean)",
-            "Honeymoon",
-            "Encouragement"
-        ],
-        "tracks": []
-    },
     "Aft\u00ebrLyfe": {
         "artists": "Yeat",
         "id": "25Uddgldy3slnChqKqHsIM",
-        "is_playable": true,
         "name": "Aft\u00ebrLyfe",
-        "popularity": 84,
+        "popularity": 86,
         "release_date": "2023-02-24",
         "total_tracks": 22,
         "uri": "spotify:album:25Uddgldy3slnChqKqHsIM",
         "image": "https://i.scdn.co/image/ab67616d0000b2733f560650c583444498c214f0",
-        "score": 5.87,
-        "algo_score": 6.73,
-        "asboyer_score": 5,
         "top_tracks": [
-            "No mor\u00eb talk",
             "Shmunk (feat. YoungBoy Never Broke Again)",
             "Nun id change",
-            "Slamm",
             "How it go",
+            "Split",
+            "Mys\u00eblf"
+        ],
+        "good_tracks": [
+            "No mor\u00eb talk",
+            "Woa...!",
+            "Slamm",
+            "7 nightz",
+            "M\u00eban feen (feat. Kranky Kranky)",
             "Sum 2 do",
             "Back up",
             "Watch",
-            "Shhhh",
-            "Mys\u00eblf"
-        ],
-        "mid_tracks": [],
-        "good_tracks": [
-            "B\u00ebttr 0ff",
-            "Rav3 p4rty (feat. Kranky Kranky)",
-            "7 nightz",
-            "Woa...!",
-            "Split",
             "Back hom\u00eb"
         ],
-        "tracks": []
-    },
-    "Let\u2019s Start Here.": {
-        "artists": "Lil Yachty",
-        "id": "6Per97deaWqrJlKQNX8RGK",
-        "is_playable": true,
-        "name": "Let\u2019s Start Here.",
-        "popularity": 81,
-        "release_date": "2023-01-27",
-        "total_tracks": 14,
-        "uri": "spotify:album:6Per97deaWqrJlKQNX8RGK",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736f578b21bce56056473da7e6",
-        "score": 7.43,
-        "algo_score": 7.86,
-        "asboyer_score": 7,
-        "top_tracks": [
-            "the BLACK seminole.",
-            "the ride-",
-            "THE zone~",
-            "WE SAW THE SUN!",
-            "IVE OFFICIALLY LOST ViSiON!!!!",
-            "sAy sOMETHINg",
-            "REACH THE SUNSHINE."
+        "mid_tracks": [
+            "B\u00ebttr 0ff",
+            "Rav3 p4rty (feat. Kranky Kranky)",
+            "H\u00ebavyweight",
+            "Shhhh"
         ],
-        "mid_tracks": [],
-        "good_tracks": [
-            "running out of time",
-            ":(failure(:",
-            "drive ME crazy!",
-            "paint THE sky",
-            "sHouLd i B?"
-        ],
-        "tracks": []
-    },
-    "UNLOCKED": {
-        "artists": "Denzel Curry, Kenny Beats",
-        "id": "5LsyqeWryTmxsmda4xkm5a",
-        "name": "UNLOCKED",
-        "popularity": 58,
-        "release_date": "2020-02-07",
-        "total_tracks": 8,
-        "uri": "spotify:album:5LsyqeWryTmxsmda4xkm5a",
-        "image": "https://i.scdn.co/image/ab67616d0000b273922a12ba0b5a66f034dc9959",
-        "score": 9.38,
-        "algo_score": 9.75,
-        "asboyer_score": 9,
-        "top_tracks": [
-            "Track 01",
-            "Track07",
-            "Take_it_Back_v2",
-            "Lay_Up.m4a",
-            "Pyro (leak 2019)",
-            "So.Incredible.pkg",
-            "\ua78cCosmic\ua78c.m4a"
-        ],
-        "mid_tracks": [],
-        "good_tracks": [
-            "DIET_"
-        ],
+        "score": 6.32,
+        "asboyer_score": 6.0,
+        "algo_score": 6.64,
         "tracks": []
     },
     "SCARING THE HOES": {
         "artists": "JPEGMAFIA, Danny Brown",
         "id": "3u20OXh03DjCUzbf8XcGTq",
         "name": "SCARING THE HOES",
-        "popularity": 42,
+        "popularity": 77,
         "release_date": "2023-03-24",
         "total_tracks": 14,
         "uri": "spotify:album:3u20OXh03DjCUzbf8XcGTq",
         "image": "https://i.scdn.co/image/ab67616d0000b2738cf4c85912fdeb106707fb4c",
-        "score": 8.14,
-        "algo_score": 8.29,
-        "asboyer_score": 8,
         "top_tracks": [
             "Lean Beef Patty",
             "Steppa Pig",
             "SCARING THE HOES",
             "Garbage Pale Kids",
-            "Fentanyl Tester",
             "Burfict!",
-            "Kingdom Hearts Key (feat. redveil)",
             "God Loves You",
-            "Jack Harlow Combo Meal",
-            "Shut Yo Bitch Ass Up / Muddy Waters"
+            "Jack Harlow Combo Meal"
         ],
-        "mid_tracks": [],
         "good_tracks": [
             "Orange Juice Jones",
+            "Shut Yo Bitch Ass Up / Muddy Waters",
+            "Kingdom Hearts Key (feat. redveil)",
+            "Fentanyl Tester",
             "HOE (Heaven on Earth)"
         ],
+        "mid_tracks": [
+            "Where Ya Get Ya Coke From?"
+        ],
+        "score": 8.29,
+        "asboyer_score": 9.0,
+        "algo_score": 8.29,
         "tracks": []
     },
-    "LOUIE": {
-        "artists": "Kenny Beats",
-        "id": "3SKVtzmihlnGFylW5nC5kj",
-        "name": "LOUIE",
-        "popularity": 68,
-        "release_date": "2022-08-31",
-        "total_tracks": 17,
-        "uri": "spotify:album:3SKVtzmihlnGFylW5nC5kj",
-        "image": "https://i.scdn.co/image/ab67616d0000b27363af9bcfdea6df60f73d2ade",
-        "top_tracks": [],
-        "good_tracks": [],
-        "mid_tracks": [],
-        "score": 0.0,
-        "asboyer_score": 0.0,
-        "algo_score": 0.0,
-        "tracks": [
-            "Leonard",
-            "Parenthesis",
-            "Hold My Head",
-            "So They Say",
-            "Family Tree",
-            "Hooper",
-            "Still",
-            "Moire",
-            "Get Around",
-            "Eternal",
-            "Last Words",
-            "Drop 10",
-            "The Perch",
-            "Really Really",
-            "That Third Thing",
-            "Rotten",
-            "Hot Hand"
-        ]
+    "UNLOCKED": {
+        "artists": "Denzel Curry, Kenny Beats",
+        "id": "5LsyqeWryTmxsmda4xkm5a",
+        "name": "UNLOCKED",
+        "popularity": 59,
+        "release_date": "2020-02-07",
+        "total_tracks": 8,
+        "uri": "spotify:album:5LsyqeWryTmxsmda4xkm5a",
+        "image": "https://i.scdn.co/image/ab67616d0000b273922a12ba0b5a66f034dc9959",
+        "top_tracks": [
+            "Take_it_Back_v2",
+            "Pyro (leak 2019)",
+            "So.Incredible.pkg",
+            "\ua78cCosmic\ua78c.m4a"
+        ],
+        "good_tracks": [
+            "Track 01",
+            "Lay_Up.m4a",
+            "Track07"
+        ],
+        "mid_tracks": [
+            "DIET_"
+        ],
+        "score": 8.38,
+        "asboyer_score": 8.0,
+        "algo_score": 8.75,
+        "tracks": []
+    },
+    "Let\u2019s Start Here.": {
+        "artists": "Lil Yachty",
+        "id": "6Per97deaWqrJlKQNX8RGK",
+        "name": "Let\u2019s Start Here.",
+        "popularity": 78,
+        "release_date": "2023-01-27",
+        "total_tracks": 14,
+        "uri": "spotify:album:6Per97deaWqrJlKQNX8RGK",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736f578b21bce56056473da7e6",
+        "top_tracks": [
+            "the BLACK seminole.",
+            "WE SAW THE SUN!",
+            "drive ME crazy!",
+            "IVE OFFICIALLY LOST ViSiON!!!!"
+        ],
+        "good_tracks": [
+            "running out of time",
+            "the ride-",
+            "THE zone~",
+            "sAy sOMETHINg",
+            "paint THE sky",
+            "sHouLd i B?",
+            "REACH THE SUNSHINE."
+        ],
+        "mid_tracks": [
+            "pRETTy",
+            ":(failure(:"
+        ],
+        "score": 7.36,
+        "asboyer_score": 7.0,
+        "algo_score": 7.71,
+        "tracks": []
+    },
+    "Love Sick (Deluxe)": {
+        "artists": "Don Toliver",
+        "id": "2Q2TRdT994vTzGE3Grmmht",
+        "name": "Love Sick (Deluxe)",
+        "popularity": 79,
+        "release_date": "2023-02-28",
+        "total_tracks": 20,
+        "uri": "spotify:album:2Q2TRdT994vTzGE3Grmmht",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f5e27c2aa0b110c2b6611577",
+        "top_tracks": [
+            "Embarrassed (feat. Travis Scott)",
+            "Time Heals All",
+            "Leather Coat",
+            "Slow Motion (feat. Wizkid)",
+            "If I Had (feat. Charlie Wilson)",
+            "Company Pt. 3"
+        ],
+        "good_tracks": [
+            "Luckily I\u2019m Having (feat. Teezo Touchdown)",
+            "Go Down (feat. TisaKorean)",
+            "Honeymoon",
+            "Private Landing (feat. Justin Bieber & Future)",
+            "Do It Right"
+        ],
+        "mid_tracks": [
+            "Geronimo",
+            "LoveSickness",
+            "Cinderella (feat. Toro y Moi)",
+            "Bus Stop (feat. Brent Faiyaz)",
+            "Encouragement"
+        ],
+        "score": 6.75,
+        "asboyer_score": 7.0,
+        "algo_score": 6.5,
+        "tracks": []
+    },
+    "CALL ME IF YOU GET LOST: The Estate Sale": {
+        "artists": "Tyler, The Creator",
+        "id": "1GG6U2SSJPHO6XsFiBzxYv",
+        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
+        "popularity": 0,
+        "release_date": "2023-03-31",
+        "total_tracks": 8,
+        "uri": "spotify:album:1GG6U2SSJPHO6XsFiBzxYv",
+        "image": "https://i.scdn.co/image/ab67616d0000b273aa95a399fd30fbb4f6f59fca",
+        "top_tracks": [
+            "WHAT A DAY",
+            "WHARF TALK (feat. A$AP Rocky)"
+        ],
+        "good_tracks": [
+            "SORRY NOT SORRY",
+            "EVERYTHING MUST GO",
+            "HEAVEN TO ME"
+        ],
+        "mid_tracks": [
+            "STUNTMAN (feat. Vince Staples)",
+            "BOYFRIEND, GIRLFRIEND (2020 Demo) (feat. YG)"
+        ],
+        "score": 6.5,
+        "asboyer_score": 6.0,
+        "algo_score": 7.0,
+        "tracks": []
     }
 }

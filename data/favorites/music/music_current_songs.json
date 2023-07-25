@@ -1,16 +1,4 @@
 {
-    "SCARING THE HOES": {
-        "artists": "JPEGMAFIA, Danny Brown",
-        "duration_ms": 142842,
-        "explicit": true,
-        "id": "5L0QxWi5Jo4gjw4yHR0kP1",
-        "name": "SCARING THE HOES",
-        "popularity": 0,
-        "preview_url": "https://p.scdn.co/mp3-preview/07d499008d8be9c18fedd13925a3c2e7d7c77a62?cid=b04b339b8d7b436f8e46e51b221cf9dd",
-        "track_number": 1,
-        "uri": "spotify:track:5L0QxWi5Jo4gjw4yHR0kP1",
-        "image": "https://i.scdn.co/image/ab67616d0000b273d967bdcba42e1ce50d892b52"
-    },
     "Check Yes Or No": {
         "artists": "George Strait",
         "duration_ms": 200666,
@@ -179,18 +167,6 @@
         "uri": "spotify:track:4336Bwzy1TUIGZeO7YKfxG",
         "image": "https://i.scdn.co/image/ab67616d0000b2731fc8329a749ca8a61c2d05a6"
     },
-    "Lean Beef Patty": {
-        "artists": "JPEGMAFIA, Danny Brown",
-        "duration_ms": 107567,
-        "explicit": true,
-        "id": "1qbADMsKCFmu08MhWPTZpb",
-        "name": "Lean Beef Patty",
-        "popularity": 65,
-        "preview_url": "https://p.scdn.co/mp3-preview/b98ff50ba34b1b2c25faa970192cd6919b4a1e75?cid=b04b339b8d7b436f8e46e51b221cf9dd",
-        "track_number": 1,
-        "uri": "spotify:track:1qbADMsKCFmu08MhWPTZpb",
-        "image": "https://i.scdn.co/image/ab67616d0000b273bed396ed8c51de6bd63495b0"
-    },
     "BALD! REMIX": {
         "artists": "JPEGMAFIA, Denzel Curry",
         "duration_ms": 153127,
@@ -238,5 +214,53 @@
         "track_number": 1,
         "uri": "spotify:track:2PWVxWymGDZKj5BZJB7dAR",
         "image": "https://i.scdn.co/image/ab67616d0000b273632256808cfff32df450f159"
+    },
+    "HAZARD DUTY PAY!": {
+        "artists": "JPEGMAFIA",
+        "duration_ms": 157169,
+        "explicit": true,
+        "id": "2EMWP3NJeivpl0Seic7Oqz",
+        "name": "HAZARD DUTY PAY!",
+        "popularity": 59,
+        "preview_url": "https://p.scdn.co/mp3-preview/89aade98ae7fe974e9b8a198e484b97bd0cfb48d?cid=b04b339b8d7b436f8e46e51b221cf9dd",
+        "track_number": 1,
+        "uri": "spotify:track:2EMWP3NJeivpl0Seic7Oqz",
+        "image": "https://i.scdn.co/image/ab67616d0000b27367af98b42c7915ac9064b2e2"
+    },
+    "Rapp Snitch Knishes feat. Mr. Fantastik": {
+        "artists": "MF DOOM",
+        "duration_ms": 172893,
+        "explicit": true,
+        "id": "5KUNwkaNf8l5A9sXZhiCgI",
+        "name": "Rapp Snitch Knishes feat. Mr. Fantastik",
+        "popularity": 76,
+        "preview_url": "https://p.scdn.co/mp3-preview/c95692c16a296cde37cd35d8a44503e691174511?cid=b04b339b8d7b436f8e46e51b221cf9dd",
+        "track_number": 13,
+        "uri": "spotify:track:5KUNwkaNf8l5A9sXZhiCgI",
+        "image": "https://i.scdn.co/image/ab67616d0000b27352f194d02c39909d1b284799"
+    },
+    "Veridis Quo": {
+        "artists": "Daft Punk",
+        "duration_ms": 345186,
+        "explicit": false,
+        "id": "6fSXNDuKucAxQGPz1CHUrg",
+        "name": "Veridis Quo",
+        "popularity": 33,
+        "preview_url": "https://p.scdn.co/mp3-preview/9ce7b8a64cb0f8a87e6822e78ae825ecd3a9ec71?cid=b04b339b8d7b436f8e46e51b221cf9dd",
+        "track_number": 2,
+        "uri": "spotify:track:6fSXNDuKucAxQGPz1CHUrg",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a38db29b862a0fe44d95d384"
+    },
+    "No Complaints (feat. Offset & Drake) (Bonus)": {
+        "artists": "Metro Boomin, Offset, Drake",
+        "duration_ms": 265480,
+        "explicit": true,
+        "id": "156LzfvMNKuXuiot4uzhGD",
+        "name": "No Complaints (feat. Offset & Drake) (Bonus)",
+        "popularity": 66,
+        "preview_url": null,
+        "track_number": 13,
+        "uri": "spotify:track:156LzfvMNKuXuiot4uzhGD",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732887f8c05b5a9f1cb105be29"
     }
 }
