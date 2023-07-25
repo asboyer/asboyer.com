@@ -72,7 +72,10 @@ $(document).ready(function(){
                 </a>
             </div>
             `
+            if (values.id != 0) {
             $('#posts').append(post)
+                
+            }
         });
 
     });

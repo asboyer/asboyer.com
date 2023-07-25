@@ -68,6 +68,8 @@ $(document).ready(function(){
         var posts = Object.values(json)
         posts.sort((a,b) => (a.id < b.id) ? 1 : ((b.id < a.id) ? -1 : 0))
 
+
+
         if(posts.length == 2){
             document.getElementById('posts').style.maxWidth = "1000px"
         }   
@@ -82,14 +84,14 @@ $(document).ready(function(){
             }
         }
 
-        soon_posts.sort((a,b) => (a.id > b.id) ? 1 : ((b.id > a.id) ? -1 : 0))  
+        soon_posts.sort((a,b) => (a.id < b.id) ? 1 : ((b.id < a.id) ? -1 : 0))  
 
         // if (posts.length > 3){
         //     posts = posts.splice(0, 3)
         //     soon_posts.splice(0, soon_posts.length)
         // }
         // else if (posts.length == 2) {
-        soon_posts = soon_posts.splice(0, 1)
+        soon_posts = soon_posts.splice(0, 2)
         // }
 
         $.each(soon_posts, function(title, values){
@@ -108,10 +110,13 @@ $(document).ready(function(){
                 }
             }
 
-            var date_string = values.date
+            var date_string;
 
-            if (date_string == "") {
+            if (values.date == "") {
                 date_string = "Coming Soon"
+            }
+            else {
+                date_string = values.date
             }
                             
 //<p class="date">${date_string}</p>
@@ -119,23 +124,36 @@ $(document).ready(function(){
 // <p class="date" style="font-size: 12px; font-weight: bold">${date_string}</p>
 // <p class="title">${values.title}</p>
 
+            var clocked = ""
+            var sty = ""
+            var text = ""
+            if (date_string != "Coming Soon") {
+                clocked = "clock"
+            } 
+            else {
+                text = "COMING SOON"
+                sty = "soon_blog"
+            }
 
             var post = 
             `
-            <div class="blog__container">
+            <div class="blog__container" id="${sty}">
                 <a href="/blog/${values.id}" class="blog__item">
                     <img src="/static/img/l.png" alt="${values.title}" class="blog__img">
                     <div class="overlay">
                         <div class="text">
-                            <p class="date" style="font-family: monospace" id="clock"></p>
+                            <p class="date" style="font-family: monospace" id="${clocked}">${text}</p>
                         </div>
                     </div>
                 </a>
             </div>
             `
+            if (values.id != 0) {
             $('#posts').append(post)
-            if(date_string != "Coming Soon")
+            }
+            if(date_string != "Coming Soon"){
                 countd(date_string.split('.')[0], date_string.split('.')[1], "20" + date_string.split('.')[2], "8:00")
+            }
         });
 
         // if width between 1221px and 821px, show three posts
@@ -160,8 +178,8 @@ $(document).ready(function(){
         $.each(posts, function(title, values){
 
             var style = ""
-            if (post_counter == 2) {
-                style = "special-cont"
+            if (post_counter >= 1) {
+                style = "special-cont";
             }
             var subject_str = ""
 
@@ -194,8 +212,11 @@ $(document).ready(function(){
                 </a>
             </div>
             `
+            if (values.id != 0) {
             $('#posts').append(post)
             post_counter += 1
+
+            }
         });
 
     });
