@@ -239,7 +239,10 @@ def blog_post(name):
                 break
         return render_template("soon.html", value=title, date_string=d, subs=sub_str, blurb=blurb)
     elif os.path.exists(f'templates/blog/{name}.html'):
+
         for post in posts:
+            if not posts[post]['live'] and int(name) == posts[post]['id']:
+                return render_template("coming_soon.html") 
             if posts[post]['id'] == int(name):
                 title = posts[post]["title"]
                 d = posts[post]["date"]
