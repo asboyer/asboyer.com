@@ -5727,12 +5727,13 @@
             "PERCS | PERCZ",
             "VENGEANCE | VENGEANCE",
             "BLACK METAL TERRORIST | 13 M T",
-            "CASH MANIAC | CAZH MAN1AC [FEAT. NYYJERYA]",
+            "CASH MANIAC | CAZH MAN1AC [FEAT. NYYJERYA]"
+        ],
+        "good_tracks": [
             "SWITCH IT UP | ZWITCH 1T UP",
             "MAD I GOT IT | MAD 1 GOT 1T"
         ],
-        "good_tracks": [],
-        "score": 10.0,
+        "score": 9.56,
         "tracks": []
     },
     "Doo-Wops & Hooligans": {
