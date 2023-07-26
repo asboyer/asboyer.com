@@ -36,7 +36,7 @@ $(document).ready(function(){
 
         var jobs = Object.values(json)
         jobs.sort((a,b) => (a.start_date < b.start_date) ? 1 : ((b.start_date < a.start_date) ? -1 : 0))
-        jobs = jobs.slice(0, 3)
+        jobs = jobs.slice(1, 4)
 
         jobs.sort(function(a, b) {
             if(a.end_date.toLowerCase() == "present") return -1;
