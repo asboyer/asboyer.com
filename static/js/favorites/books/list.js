@@ -44,9 +44,17 @@ $(document).ready(function(){
 
             $.each(books, function(title, values){
 
+                var half_star = false
+                if (parseInt(values.stars) < values.stars) {
+                    half_star = true;
+                }
+
                 var star_string = ""
-                for (var i = 0; i < values.stars; i++) {
+                for (var i = 0; i < parseInt(values.stars); i++) {
                     star_string += `<i class="fas fa-star"></i>`
+                }
+                if (half_star) {
+                    star_string += `<i class="fas fa-star-half"></i>`
                 }
 
 
