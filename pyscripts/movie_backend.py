@@ -91,7 +91,7 @@ def update_movie_database(spec):
                 new_movies[movie]['creator'] = creators_list(new_movies[movie]['id'], ia)
             else:
                 new_movies[movie]['director'] = directors_list(new_movies[movie]['id'], ia)
-
+            new_movies[movie]['stars'] = 0.0
     data.update(new_movies)        
 
     with open(f'./data/favorites/films/{spec}.json', 'w') as json_file: 

@@ -26,8 +26,24 @@ $(document).ready(function(){
         var shows = Object.values(json)
         shows.sort((a,b) => (a.rating < b.rating) ? 1 : ((b.rating < a.rating) ? -1 : 0))
         shuffle(shows)
+        shows.sort((a,b) => (a.stars < b.stars) ? 1 : ((b.stars < a.stars) ? -1 : 0))
+
 
         $.each(shows, function(title, values){
+
+            var half_star = false
+            if (parseInt(values.stars) < values.stars) {
+                half_star = true;
+            }
+
+            var star_string = ""
+            for (var i = 0; i < parseInt(values.stars); i++) {
+                star_string += `<i class="fas fa-star"></i>`
+            }
+            if (half_star) {
+                star_string += `<i class="fas fa-star-half"></i>`
+            }
+
             var movie_div = 
             `
             <div class="movie__container">
@@ -36,6 +52,7 @@ $(document).ready(function(){
                 <div class="movie_overlay">
                     <div class="movie-text">
                         <p class="movie-title">${values.title}</p>
+                        <p class="author">${star_string}</p>
                     </div>
                 </div>
                 </a>
