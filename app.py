@@ -261,9 +261,9 @@ def blog_post(name):
 # favorites
 
 
-@app.route("/pics")
-def gallery():
-    return render_template("gallery.html")
+# @app.route("/pics")
+# def gallery():
+#     return render_template("gallery.html")
 
 @app.route("/goatgrade")
 def goatgrade():
