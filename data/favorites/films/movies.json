@@ -5,7 +5,7 @@
         "image": "http://image.tmdb.org/t/p/original/kWWAt2FMRbqLFFy8o5R4Zr8cMAb.jpg",
         "rating": 8.5,
         "director": "Martin Scorsese",
-        "stars": 4.0
+        "stars": 5.0
     },
     "Dead Poets Society": {
         "id": "0097165",
@@ -13,7 +13,7 @@
         "image": "http://image.tmdb.org/t/p/original/ai40gM7SUaGA6fthvsd87o8IQq4.jpg",
         "rating": 8.1,
         "director": "Peter Weir",
-        "stars": 4.0
+        "stars": 5.0
     },
     "Indiana Jones and the Raiders of the Lost Ark": {
         "id": "0082971",
@@ -21,7 +21,7 @@
         "image": "http://image.tmdb.org/t/p/original/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
         "rating": 8.4,
         "director": "Steven Spielberg",
-        "stars": 4.0
+        "stars": 4.5
     },
     "For a Few Dollars More": {
         "id": "0059578",
@@ -29,7 +29,7 @@
         "image": "http://image.tmdb.org/t/p/original/vVUIAVsh2lMzweyrbdsOgiZoQuy.jpg",
         "rating": 8.2,
         "director": "Sergio Leone",
-        "stars": 4.0
+        "stars": 4.5
     },
     "Catch Me If You Can": {
         "id": "0264464",
@@ -37,7 +37,7 @@
         "image": "http://image.tmdb.org/t/p/original/sdYgEkKCDPWNU6KnoL4qd8xZ4w7.jpg",
         "rating": 8.1,
         "director": "Steven Spielberg",
-        "stars": 4.0
+        "stars": 5.0
     },
     "Pulp Fiction": {
         "id": "0110912",
@@ -45,7 +45,7 @@
         "image": "http://image.tmdb.org/t/p/original/fIE3lAGcZDV1G6XM5KmuWnNsPp1.jpg",
         "rating": 8.9,
         "director": "Quentin Tarantino",
-        "stars": 4.0
+        "stars": 5.0
     },
     "Good Will Hunting": {
         "id": "0119217",
@@ -61,7 +61,7 @@
         "image": "http://image.tmdb.org/t/p/original/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
         "rating": 7.8,
         "director": "David Fincher",
-        "stars": 4.0
+        "stars": 5.0
     },
     "The Shawshank Redemption": {
         "id": "0111161",
@@ -69,7 +69,7 @@
         "image": "http://image.tmdb.org/t/p/original/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
         "rating": 9.3,
         "director": "Frank Darabont",
-        "stars": 4.0
+        "stars": 5.0
     },
     "Se7en": {
         "id": "0114369",
@@ -77,7 +77,7 @@
         "image": "http://image.tmdb.org/t/p/original/69Sns8WoET6CfaYlIkHbla4l7nC.jpg",
         "rating": 8.6,
         "director": "David Fincher",
-        "stars": 4.0
+        "stars": 4.5
     },
     "The Dark Knight": {
         "id": "0468569",
@@ -85,7 +85,7 @@
         "image": "http://image.tmdb.org/t/p/original/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
         "rating": 9.0,
         "director": "Christopher Nolan",
-        "stars": 4.0
+        "stars": 5.0
     },
     "The Dark Knight Rises": {
         "id": "1345836",
@@ -93,7 +93,7 @@
         "image": "http://image.tmdb.org/t/p/original/85cWkCVftiVs0BVey6pxX8uNmLt.jpg",
         "rating": 8.4,
         "director": "Christopher Nolan",
-        "stars": 4.0
+        "stars": 4.5
     },
     "La La Land": {
         "id": "3783958",
@@ -101,7 +101,7 @@
         "image": "http://image.tmdb.org/t/p/original/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
         "rating": 8.0,
         "director": "Damien Chazelle",
-        "stars": 4.0
+        "stars": 5.0
     },
     "TRON: Legacy": {
         "id": "1104001",
@@ -109,7 +109,7 @@
         "image": "http://image.tmdb.org/t/p/original/vuifSABRpSnxCAOxEnWpNbZSXpp.jpg",
         "rating": 6.8,
         "director": "Joseph Kosinski",
-        "stars": 4.0
+        "stars": 5.0
     },
     "WarGames": {
         "id": "0086567",
@@ -117,7 +117,7 @@
         "image": "http://image.tmdb.org/t/p/original/ndORBCvw8TJaQYvBgkYGg0IWrRM.jpg",
         "rating": 7.1,
         "director": "John Badham",
-        "stars": 4.0
+        "stars": 3.5
     },
     "The Pursuit of Happyness": {
         "id": "0454921",
@@ -141,7 +141,7 @@
         "image": "http://image.tmdb.org/t/p/original/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
         "rating": 8.6,
         "director": "Christopher Nolan",
-        "stars": 4.0
+        "stars": 5.0
     },
     "Ocean's Eleven": {
         "id": "0240772",
@@ -149,7 +149,7 @@
         "image": "http://image.tmdb.org/t/p/original/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
         "rating": 7.7,
         "director": "Steven Soderbergh",
-        "stars": 4.0
+        "stars": 5.0
     },
     "Ocean's Twelve": {
         "id": "0349903",
@@ -165,7 +165,7 @@
         "image": "http://image.tmdb.org/t/p/original/pBsZs4zYUiUTemqbikTZ76iQRaU.jpg",
         "rating": 6.9,
         "director": "Steven Soderbergh",
-        "stars": 4.0
+        "stars": 4.5
     },
     "Star Wars: Episode V - The Empire Strikes Back": {
         "id": "0080684",
@@ -181,7 +181,7 @@
         "image": "http://image.tmdb.org/t/p/original/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
         "rating": 8.6,
         "director": "George Lucas",
-        "stars": 4.0
+        "stars": 4.5
     },
     "Star Wars: Episode III - Revenge of the Sith": {
         "id": "0121766",
@@ -189,7 +189,7 @@
         "image": "http://image.tmdb.org/t/p/original/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
         "rating": 7.6,
         "director": "George Lucas",
-        "stars": 4.0
+        "stars": 5.0
     },
     "Rogue One: A Star Wars Story": {
         "id": "3748528",
@@ -205,7 +205,7 @@
         "image": "http://image.tmdb.org/t/p/original/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
         "rating": 8.4,
         "director": "Anthony Russo, Joe Russo",
-        "stars": 4.0
+        "stars": 4.5
     },
     "Captain America: The Winter Soldier": {
         "id": "1843866",
@@ -213,7 +213,7 @@
         "image": "http://image.tmdb.org/t/p/original/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
         "rating": 7.8,
         "director": "Anthony Russo",
-        "stars": 4.0
+        "stars": 5.0
     },
     "Spider-Man: Into the Spider-Verse": {
         "id": "4633694",
@@ -229,7 +229,7 @@
         "image": "http://image.tmdb.org/t/p/original/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg",
         "rating": 6.6,
         "director": "Marc Webb",
-        "stars": 4.0
+        "stars": 5.0
     },
     "The Lord of the Rings: The Fellowship of the Ring": {
         "id": "0120737",
@@ -237,7 +237,7 @@
         "image": "http://image.tmdb.org/t/p/original/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
         "rating": 8.8,
         "director": "Peter Jackson",
-        "stars": 4.0
+        "stars": 4.5
     },
     "The Lord of the Rings: The Two Towers": {
         "id": "0167261",
@@ -245,7 +245,7 @@
         "image": "http://image.tmdb.org/t/p/original/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
         "rating": 8.8,
         "director": "Peter Jackson",
-        "stars": 4.0
+        "stars": 4.5
     },
     "The Lord of the Rings: The Return of the King": {
         "id": "0167260",
@@ -253,7 +253,7 @@
         "image": "http://image.tmdb.org/t/p/original/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
         "rating": 9.0,
         "director": "Peter Jackson",
-        "stars": 4.0
+        "stars": 5.0
     },
     "Back to the Future": {
         "id": "0088763",
@@ -261,7 +261,7 @@
         "image": "http://image.tmdb.org/t/p/original/7lyBcpYB0Qt8gYhXYaEZUNlNQAv.jpg",
         "rating": 8.5,
         "director": "Robert Zemeckis",
-        "stars": 4.0
+        "stars": 4.5
     },
     "Back to the Future Part III": {
         "id": "0099088",
@@ -277,7 +277,7 @@
         "image": "http://image.tmdb.org/t/p/original/9wSbe4CwObACCQvaUVhWQyLR5Vz.jpg",
         "rating": 7.7,
         "director": "Chris Columbus",
-        "stars": 4.0
+        "stars": 4.5
     },
     "Monsters University": {
         "id": "1453405",
@@ -293,7 +293,7 @@
         "image": "http://image.tmdb.org/t/p/original/qa6HCwP4Z15l3hpsASz3auugEW6.jpg",
         "rating": 7.2,
         "director": "John Lasseter, Joe Ranft",
-        "stars": 4.0
+        "stars": 4.5
     },
     "Cars 2": {
         "id": "1216475",
@@ -301,7 +301,7 @@
         "image": "http://image.tmdb.org/t/p/original/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg",
         "rating": 6.2,
         "director": "John Lasseter, Bradford Lewis",
-        "stars": 4.0
+        "stars": 5.0
     },
     "21": {
         "id": "0478087",
@@ -309,7 +309,7 @@
         "image": "http://image.tmdb.org/t/p/original/efG8Po57alqSlhqHU1lXJ3duG6t.jpg",
         "rating": 6.8,
         "director": "Robert Luketic",
-        "stars": 4.0
+        "stars": 3.5
     },
     "Whiplash": {
         "id": "2582802",
@@ -317,7 +317,7 @@
         "image": "http://image.tmdb.org/t/p/original/6uSPcdGNA2A6vJmCagXkvnutegs.jpg",
         "rating": 8.5,
         "director": "Damien Chazelle",
-        "stars": 4.0
+        "stars": 5.0
     },
     "Inception": {
         "id": "1375666",
@@ -325,7 +325,7 @@
         "image": "http://image.tmdb.org/t/p/original/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg",
         "rating": 8.8,
         "director": "Christopher Nolan",
-        "stars": 4.0
+        "stars": 5.0
     },
     "The Martian": {
         "id": "3659388",
@@ -333,7 +333,7 @@
         "image": "http://image.tmdb.org/t/p/original/5BHuvQ6p9kfc091Z8RiFNhCwL4b.jpg",
         "rating": 8.0,
         "director": "Ridley Scott",
-        "stars": 4.0
+        "stars": 4.5
     },
     "Tenet": {
         "id": "6723592",
@@ -341,7 +341,7 @@
         "image": "http://image.tmdb.org/t/p/original/k68nPLbIST6NP96JmTxmZijEvCA.jpg",
         "rating": 7.3,
         "director": "Christopher Nolan",
-        "stars": 4.0
+        "stars": 4.5
     },
     "The Godfather: Part II": {
         "id": "0071562",
@@ -349,7 +349,7 @@
         "image": "http://image.tmdb.org/t/p/original/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
         "rating": 9.0,
         "director": "Francis Ford Coppola",
-        "stars": 4.0
+        "stars": 5.0
     },
     "The Godfather": {
         "id": "0068646",
@@ -357,7 +357,7 @@
         "image": "http://image.tmdb.org/t/p/original/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
         "rating": 9.2,
         "director": "Francis Ford Coppola",
-        "stars": 4.0
+        "stars": 5.0
     },
     "Pirates of the Caribbean: The Curse of the Black Pearl": {
         "id": "0325980",
@@ -373,7 +373,7 @@
         "image": "http://image.tmdb.org/t/p/original/8RW2runSEc34IwKN2D1aPcJd2UL.jpg",
         "rating": 8.2,
         "director": "Christopher Nolan",
-        "stars": 4.0
+        "stars": 4.5
     },
     "500 Days of Summer": {
         "id": "1022603",
@@ -397,7 +397,7 @@
         "image": "http://image.tmdb.org/t/p/original/bdN3gXuIZYaJP7ftKK2sU0nPtEA.jpg",
         "rating": 8.5,
         "director": "Christopher Nolan",
-        "stars": 4.0
+        "stars": 4.5
     },
     "Dune": {
         "id": "1160419",
@@ -413,7 +413,7 @@
         "image": "http://image.tmdb.org/t/p/original/8Gv1dylImVuoj3bZtEWoL1TLl2q.jpg",
         "rating": 8.0,
         "director": "Martin Campbell",
-        "stars": 4.0
+        "stars": 3.5
     },
     "Fight Club": {
         "id": "0137523",
@@ -421,7 +421,7 @@
         "image": "/static/img/movies/fight_club.jpg",
         "rating": 8.8,
         "director": "David Fincher",
-        "stars": 4.0
+        "stars": 4.5
     },
     "Goodfellas": {
         "id": "0099685",
@@ -429,7 +429,7 @@
         "image": "http://image.tmdb.org/t/p/original/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
         "rating": 8.7,
         "director": "Martin Scorsese",
-        "stars": 4.0
+        "stars": 4.5
     },
     "Django Unchained": {
         "id": "1853728",
@@ -445,7 +445,7 @@
         "image": "http://image.tmdb.org/t/p/original/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
         "rating": 8.3,
         "director": "Martin Scorsese",
-        "stars": 4.0
+        "stars": 4.5
     },
     "12 Angry Men": {
         "id": "0050083",
@@ -453,7 +453,7 @@
         "image": "http://image.tmdb.org/t/p/original/6PlhouMCYktJmdFwS9XtqRZaTqc.jpg",
         "rating": 9.0,
         "director": "Sidney Lumet",
-        "stars": 4.0
+        "stars": 5.0
     },
     "The Matrix": {
         "id": "0133093",
@@ -461,7 +461,7 @@
         "image": "http://image.tmdb.org/t/p/original/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
         "rating": 8.7,
         "director": "Lana Wachowski",
-        "stars": 4.0
+        "stars": 3.5
     },
     "The Good, the Bad and the Ugly": {
         "id": "0060196",
@@ -469,7 +469,7 @@
         "image": "http://image.tmdb.org/t/p/original/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
         "rating": 8.8,
         "director": "Sergio Leone",
-        "stars": 4.0
+        "stars": 5.0
     },
     "The Great Escape": {
         "id": "0057115",
@@ -477,7 +477,7 @@
         "image": "http://image.tmdb.org/t/p/original/gBH4H8UMFxl139HaLz6lRuvsel8.jpg",
         "rating": 8.2,
         "director": "John Sturges",
-        "stars": 4.0
+        "stars": 5.0
     },
     "A Fistful of Dollars": {
         "id": "0058461",
@@ -506,7 +506,7 @@
     "Ferris Bueller's Day Off": {
         "id": "0091042",
         "title": "Ferris Bueller's Day Off",
-        "image": "https://m.media-amazon.com/images/M/MV5BMDA0NjZhZWUtNmI2NC00MmFjLTgwZDYtYzVjZmNhMDVmOTBkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+        "image": "https://m.media-amazon.com/images/I/61azmcuN4mL._AC_UF894,1000_QL80_.jpg",
         "rating": 7.8,
         "director": "John Hughes",
         "stars": 3.5
@@ -518,5 +518,85 @@
         "rating": 8.8,
         "director": "Christopher Nolan",
         "stars": 4.5
+    },
+    "Three Amigos!": {
+        "id": "0092086",
+        "title": "Three Amigos!",
+        "image": "http://image.tmdb.org/t/p/original/keQ4ra50w1nktSPRPauxpLaAM2F.jpg",
+        "rating": 6.5,
+        "director": "John Landis",
+        "stars": 4.0
+    },
+    "Gattaca": {
+        "id": "0119177",
+        "title": "Gattaca",
+        "image": "http://image.tmdb.org/t/p/original/eSKr5Fl1MEC7zpAXaLWBWSBjgJq.jpg",
+        "rating": 7.8,
+        "director": "Andrew Niccol",
+        "stars": 4.0
+    },
+    "Iron Man": {
+        "id": "0371746",
+        "title": "Iron Man",
+        "image": "http://image.tmdb.org/t/p/original/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+        "rating": 7.9,
+        "director": "Jon Favreau",
+        "stars": 3.5
+    },
+    "Dunkirk": {
+        "id": "5013056",
+        "title": "Dunkirk",
+        "image": "http://image.tmdb.org/t/p/original/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+        "rating": 7.8,
+        "director": "Christopher Nolan",
+        "stars": 4.0
+    },
+    "Indiana Jones and the Temple of Doom": {
+        "id": "0087469",
+        "title": "Indiana Jones and the Temple of Doom",
+        "image": "http://image.tmdb.org/t/p/original/t7Pv44sBcxhc47kNNDDafNAgr7Y.jpg",
+        "rating": 7.5,
+        "director": "Steven Spielberg",
+        "stars": 4.0
+    },
+    "Indiana Jones and the Last Crusade": {
+        "id": "0097576",
+        "title": "Indiana Jones and the Last Crusade",
+        "image": "http://image.tmdb.org/t/p/original/npUCnxl1fqgt3aQiMQq0iJdZMZp.jpg",
+        "rating": 8.2,
+        "director": "Steven Spielberg",
+        "stars": 4.0
+    },
+    "Spider-Man: Across the Spider-Verse": {
+        "id": "9362722",
+        "title": "Spider-Man: Across the Spider-Verse",
+        "image": "http://image.tmdb.org/t/p/original/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+        "rating": 8.9,
+        "director": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",
+        "stars": 4.0
+    },
+    "Air": {
+        "id": "16419074",
+        "title": "Air",
+        "image": "http://image.tmdb.org/t/p/original/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg",
+        "rating": 7.5,
+        "director": "Ben Affleck",
+        "stars": 3.5
+    },
+    "A Beautiful Mind": {
+        "id": "0268978",
+        "title": "A Beautiful Mind",
+        "image": "http://image.tmdb.org/t/p/original/zwzWCmH72OSC9NA0ipoqw5Zjya8.jpg",
+        "rating": 8.2,
+        "director": "Ron Howard",
+        "stars": 3.5
+    },
+    "The Batman": {
+        "id": "1877830",
+        "title": "The Batman",
+        "image": "http://image.tmdb.org/t/p/original/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+        "rating": 7.8,
+        "director": "Matt Reeves",
+        "stars": 3.5
     }
 }

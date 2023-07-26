@@ -4,42 +4,42 @@
         "image": "http://image.tmdb.org/t/p/original/l5BERaKn3ozRTLhoylIiNwMDvax.jpg",
         "rating": 7.7,
         "title": "Limitless",
-        "stars": 4.0
+        "stars": 3.5
     },
     "Silicon Valley": {
         "id": "2575988",
         "title": "Silicon Valley",
         "image": "http://image.tmdb.org/t/p/original/a154rIMzbTyefodNp4NY8qjOEfC.jpg",
         "rating": 8.5,
-        "stars": 4.0
+        "stars": 4.5
     },
     "Psych": {
         "id": "0491738",
         "image": "http://image.tmdb.org/t/p/original/fDI15gTVbtW5Sbv5QenqecRxWKJ.jpg",
         "rating": 8.3,
         "title": "Psych",
-        "stars": 4.0
+        "stars": 4.5
     },
     "Mr. Robot": {
         "id": "4158110",
         "image": "http://image.tmdb.org/t/p/original/oKIBhzZzDX07SoE2bOLhq2EE8rf.jpg",
         "rating": 8.6,
         "title": "Mr. Robot",
-        "stars": 4.0
+        "stars": 4.5
     },
     "Black Mirror": {
         "id": "2085059",
         "title": "Black Mirror",
         "image": "http://image.tmdb.org/t/p/original/7PRddO7z7mcPi21nZTCMGShAyy1.jpg",
         "rating": 8.8,
-        "stars": 4.0
+        "stars": 3.5
     },
     "Mad Men": {
         "id": "0804503",
         "title": "Mad Men",
         "image": "https://m.media-amazon.com/images/M/MV5BNTgxNDZlODQtNDcwOC00NWQ5LTljNWMtMDhjY2U5YTUzMTc4XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",
         "rating": 8.7,
-        "stars": 4.0
+        "stars": 5.0
     },
     "Jeen-yuhs: A Kanye Trilogy": {
         "id": "14599438",
@@ -53,14 +53,14 @@
         "title": "Granite Flats",
         "image": "http://image.tmdb.org/t/p/original/v8F7SitvRjWU4puDIZ0eb9ycXC6.jpg",
         "rating": 8.1,
-        "stars": 4.0
+        "stars": 3.5
     },
     "Studio C": {
         "id": "2445666",
         "title": "Studio C",
         "image": "http://image.tmdb.org/t/p/original/2dhfFEidQPdoP8L9YKhI8ZndD4C.jpg",
         "rating": 8.6,
-        "stars": 4.0
+        "stars": 3.5
     },
     "The Last Dance": {
         "id": "8420184",
@@ -83,7 +83,7 @@
         "image": "http://image.tmdb.org/t/p/original/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
         "rating": 8.9,
         "creator": "Larry David",
-        "stars": 4.0
+        "stars": 5.0
     },
     "Breaking Bad": {
         "id": "0903747",
@@ -91,7 +91,7 @@
         "image": "http://image.tmdb.org/t/p/original/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
         "rating": 9.5,
         "creator": "Vince Gilligan, Peter Gould",
-        "stars": 4.0
+        "stars": 5.0
     },
     "Suits": {
         "id": "1632701",
@@ -104,10 +104,10 @@
     "Good Luck Charlie": {
         "id": "1415889",
         "title": "Good Luck Charlie",
-        "image": "http://image.tmdb.org/t/p/original/5PgRxNk2do0UajyZ4YKkbOCnZx3.jpg",
+        "image": "https://www.themoviedb.org/t/p/original/cyYwkXW1vd3YpiFVlb7y0hgIzuu.jpg",
         "rating": 7.1,
         "creator": "Phil Baker",
-        "stars": 4.0
+        "stars": 3.0
     },
     "The Terminal List": {
         "id": "11743610",
@@ -115,7 +115,7 @@
         "image": "http://image.tmdb.org/t/p/original/71f3JHlJCP6V7LhHHiKZgjtFxZw.jpg",
         "rating": 8.1,
         "creator": "Jack Carr, Tolu Awosika",
-        "stars": 4.0
+        "stars": 3.5
     },
     "The Sopranos": {
         "id": "0141842",
@@ -123,7 +123,7 @@
         "image": "http://image.tmdb.org/t/p/original/u7dlARwP2zsqHaMNL5HtHhaEPea.jpg",
         "rating": 9.2,
         "creator": "David Chase",
-        "stars": 4.0
+        "stars": 4.5
     },
     "Better Call Saul": {
         "id": "3032476",
@@ -131,14 +131,14 @@
         "image": "http://image.tmdb.org/t/p/original/iB6x0bA9XdP4MH3i1zXjMzvTNSY.jpg",
         "rating": 8.9,
         "creator": "Peter Gould, Vince Gilligan",
-        "stars": 4.0
+        "stars": 5.0
     },
-    "Beef": {
-        "id": "14403178",
-        "title": "Beef",
-        "image": "http://image.tmdb.org/t/p/original/5sPPUbeHytbTnaIVBNcCQ4p6XYY.jpg",
-        "rating": 8.1,
-        "creator": "Lee Sung Jin, Jean Kyoung Frazier",
-        "stars": 0.0
+    "The Boys": {
+        "id": "1190634",
+        "title": "The Boys",
+        "image": "http://image.tmdb.org/t/p/original/7Ns6tO3aYjppI5bFhyYZurOYGBT.jpg",
+        "rating": 8.7,
+        "creator": "Garth Ennis",
+        "stars": 3.5
     }
 }
