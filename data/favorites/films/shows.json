@@ -140,5 +140,13 @@
         "rating": 8.7,
         "creator": "Garth Ennis",
         "stars": 3.5
+    },
+    "True Detective": {
+        "id": "2356777/episodes?season=1&ref_=tt_eps_sn_1",
+        "title": "True Detective: Season One",
+        "image": "https://m.media-amazon.com/images/M/MV5BNWIxMjA0ZWUtMDY1MS00NzFkLTkxOTQtYWE2YjFmZjE4NDJjXkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_.jpg",
+        "rating": 8.9,
+        "creator": "Nic Pizzolatto",
+        "stars": 5.0
     }
 }
