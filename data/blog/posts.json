@@ -25,12 +25,12 @@
         "live": false
     },
     "A Review: Oppenheimer": {
-        "title": "Film Review: Oppenheimer",
+        "title": "20 Years Old: 20 life lessons",
         "id": 2,
-        "date": "8.20.23",
-        "subjects": ["Review", "Film"],
+        "date": "9.21.23",
+        "subjects": ["Life", "Philosophy"],
         "cover_img": "/static/img/blog/stoicism/marcus.jpg",
-        "blurb": "A review of Christopher Nolan's newest film: Oppenheimer",
+        "blurb": "20 life lessons for a twenty year old.",
         "live": false
     }    
 }
