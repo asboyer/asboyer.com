@@ -11,6 +11,7 @@
         "image": "https://i.scdn.co/image/ab67616d0000b273f5e27c2aa0b110c2b6611577",
         "top_tracks": [
             "Embarrassed (feat. Travis Scott)",
+            "Luckily I\u2019m Having (feat. Teezo Touchdown)",
             "Leather Coat",
             "Company Pt. 3",
             "Slow Motion (feat. Wizkid)",
@@ -19,15 +20,15 @@
         ],
         "good_tracks": [
             "Geronimo",
-            "Luckily I\u2019m Having (feat. Teezo Touchdown)",
             "4 Me (feat. Kali Uchis)",
             "Private Landing (feat. Justin Bieber & Future)",
             "Do It Right",
             "Go Down (feat. TisaKorean)",
             "Honeymoon",
-            "Encouragement"
+            "Encouragement",
+            "Bus Stop"
         ],
-        "score": 6.33,
+        "score": 6.83,
         "tracks": []
     },
     "Aft\u00ebrLyfe": {
@@ -41,26 +42,26 @@
         "uri": "spotify:album:25Uddgldy3slnChqKqHsIM",
         "image": "https://i.scdn.co/image/ab67616d0000b2733f560650c583444498c214f0",
         "top_tracks": [
-            "No mor\u00eb talk",
             "Shmunk (feat. YoungBoy Never Broke Again)",
             "Nun id change",
-            "Slamm",
             "How it go",
             "Sum 2 do",
-            "Back up",
-            "Watch",
-            "Shhhh",
             "Mys\u00eblf"
         ],
         "good_tracks": [
+            "No mor\u00eb talk",
             "B\u00ebttr 0ff",
             "Rav3 p4rty (feat. Kranky Kranky)",
-            "7 nightz",
             "Woa...!",
+            "Slamm",
+            "7 nightz",
+            "Watch",
+            "Back up",
             "Split",
+            "Shhhh",
             "Back hom\u00eb"
         ],
-        "score": 6.49,
+        "score": 6.44,
         "tracks": []
     },
     "Let\u2019s Start Here.": {
@@ -520,6 +521,40 @@
             "Sprinter",
             "Our 25th Birthday",
             "UK Rap"
+        ]
+    },
+    "UTOPIA": {
+        "artists": "Travis Scott",
+        "id": "18NOKLkZETa4sWwLMIm0UZ",
+        "name": "UTOPIA",
+        "popularity": 0,
+        "release_date": "2023-07-28",
+        "total_tracks": 19,
+        "uri": "spotify:album:18NOKLkZETa4sWwLMIm0UZ",
+        "image": "https://i.scdn.co/image/ab67616d0000b273881d8d8378cd01099babcd44",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "HYAENA",
+            "THANK GOD",
+            "MODERN JAM",
+            "MY EYES",
+            "GOD'S COUNTRY",
+            "SIRENS",
+            "MELTDOWN",
+            "FE!N",
+            "DELRESTO (ECHOES)",
+            "I KNOW ?",
+            "TOPIA TWINS",
+            "CIRCUS MAXIMUS",
+            "PARASAIL",
+            "SKITZO",
+            "LOST FOREVER",
+            "LOOOVE",
+            "K-POP",
+            "TELEKINESIS",
+            "TIL FURTHER NOTICE"
         ]
     }
 }
