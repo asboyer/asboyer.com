@@ -134,7 +134,7 @@ def bring_album_from_all_to_current():
     with open(f'./data/favorites/music/music_current.json', 'r') as json_file: 
         current_data = json.load(json_file)
 
-    with open(f'./data/favorites/music/music_all_time.json', 'r') as json_file: 
+    with open(f'./data/archive/music/all_time/music_all_time.json', 'r') as json_file: 
         all_time_data = json.load(json_file)
 
     for name in names:
@@ -152,6 +152,9 @@ def build_database(uri_list):
     return final
 
 def update_database(spec):
+    if spec == "all_time":
+        with open(f'./data/archive/music/all_time/music_all_time.json', 'r') as json_file: 
+            data = json.load(json_file) 
     with open(f'./data/favorites/music/music_{spec}.json', 'r') as json_file: 
         data = json.load(json_file)
     data.update(build_database(
@@ -160,6 +163,9 @@ def update_database(spec):
                 )
                 )
                 )
+    if spec == "all_time":
+        with open(f'./data/archive/music/all_time/music_all_time.json', 'w') as json_file: 
+            json.dump(data, json_file, indent=4) 
     with open(f'./data/favorites/music/music_{spec}.json', 'w') as json_file: 
         json.dump(data, json_file, indent=4)
 

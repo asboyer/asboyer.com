@@ -121,6 +121,10 @@ def page_not_found(e):
 #     else:
 #         return render_template("error.html")
 
+@app.route("/music/all_time_backup")
+def music_all_time_backup():
+    return render_template()
+
 @app.route("/press")
 def press():
     return render_template("about/news.html")
@@ -781,4 +785,23 @@ def load_music_current_songs_1232022():
 def music_archive_1232022():
 
     return render_template("archive/music/1232022.html")
+    
+#####################11/15/2023 music backup here#####################
+
+@app.route("/data/archive/music/11152023/music_current.json")
+def load_music_current_11152023():
+    f = open('data/archive/music/11152023/music_current.json')
+    data = json.load(f)
+    return data
+
+@app.route("/data/archive/music/11152023/music_current_songs.json")
+def load_music_current_songs_11152023():
+    f = open('data/archive/music/11152023/music_current_songs.json')
+    data = json.load(f)
+    return data
+
+@app.route("/archive/music/17")
+def music_archive_11152023():
+
+    return render_template("archive/music/11152023.html")
     

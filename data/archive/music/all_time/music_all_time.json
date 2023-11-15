@@ -6753,5 +6753,32 @@
         ],
         "score": 7.63,
         "tracks": []
+    },
+    "It's Almost Dry": {
+        "artists": "Pusha T",
+        "id": "6o38CdD7CUlZDCFhjZYLDH",
+        "name": "It's Almost Dry",
+        "popularity": 62,
+        "release_date": "2022-04-22",
+        "total_tracks": 12,
+        "uri": "spotify:album:6o38CdD7CUlZDCFhjZYLDH",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e27dfef438562f2ecb98a642",
+        "top_tracks": [],
+        "good_tracks": [],
+        "score": 0.0,
+        "tracks": [
+            "Brambleton",
+            "Let The Smokers Shine The Coupes",
+            "Dreamin Of The Past (feat. Kanye West)",
+            "Neck & Wrist (feat. JAY-Z & Pharrell Williams)",
+            "Just So You Remember",
+            "Diet Coke",
+            "Rock N Roll (feat. Kanye West & Kid Cudi)",
+            "Call My Bluff",
+            "Scrape It Off (feat. Lil Uzi Vert & Don Toliver)",
+            "Hear Me Clearly (feat. Nigo)",
+            "Open Air",
+            "I Pray For You (feat. Labrinth & MALICE)"
+        ]
     }
 }
