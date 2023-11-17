@@ -598,5 +598,13 @@
         "rating": 7.8,
         "director": "Matt Reeves",
         "stars": 3.5
+    },
+    "Good Time": {
+        "id": "4846232",
+        "title": "Good Time",
+        "image": "http://image.tmdb.org/t/p/original/yE1c9hj5Hf8a9KplAdRdhADqUro.jpg",
+        "rating": 7.3,
+        "director": "Benny Safdie, Josh Safdie",
+        "stars": 4.0
     }
 }
