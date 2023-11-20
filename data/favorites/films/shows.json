@@ -147,6 +147,14 @@
         "image": "https://m.media-amazon.com/images/M/MV5BNWIxMjA0ZWUtMDY1MS00NzFkLTkxOTQtYWE2YjFmZjE4NDJjXkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_.jpg",
         "rating": 8.9,
         "creator": "Nic Pizzolatto",
-        "stars": 5.0
+        "stars": 4.5
+    },
+    "Chernobyl": {
+        "id": "7366338",
+        "title": "Chernobyl",
+        "image": "http://image.tmdb.org/t/p/original/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+        "rating": 9.3,
+        "creator": "Craig Mazin",
+        "stars": 4.5
     }
 }

@@ -373,7 +373,7 @@
         "image": "http://image.tmdb.org/t/p/original/8RW2runSEc34IwKN2D1aPcJd2UL.jpg",
         "rating": 8.2,
         "director": "Christopher Nolan",
-        "stars": 4.5
+        "stars": 4.0
     },
     "500 Days of Summer": {
         "id": "1022603",
@@ -397,7 +397,7 @@
         "image": "http://image.tmdb.org/t/p/original/bdN3gXuIZYaJP7ftKK2sU0nPtEA.jpg",
         "rating": 8.5,
         "director": "Christopher Nolan",
-        "stars": 4.5
+        "stars": 4.0
     },
     "Dune": {
         "id": "1160419",
@@ -517,23 +517,23 @@
         "image": "http://image.tmdb.org/t/p/original/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
         "rating": 8.8,
         "director": "Christopher Nolan",
-        "stars": 4.5
+        "stars": 4.0
     },
     "Three Amigos!": {
         "id": "0092086",
         "title": "Three Amigos!",
-        "image": "http://image.tmdb.org/t/p/original/keQ4ra50w1nktSPRPauxpLaAM2F.jpg",
+        "image": "http://image.tmdb.org/t/p/original/gw8A3GW7BPPdkt71KkjiHXZBKl8.jpg",
         "rating": 6.5,
         "director": "John Landis",
-        "stars": 4.0
+        "stars": 3.5
     },
     "Gattaca": {
         "id": "0119177",
         "title": "Gattaca",
         "image": "http://image.tmdb.org/t/p/original/eSKr5Fl1MEC7zpAXaLWBWSBjgJq.jpg",
-        "rating": 7.8,
+        "rating": 7.7,
         "director": "Andrew Niccol",
-        "stars": 4.0
+        "stars": 3.5
     },
     "Iron Man": {
         "id": "0371746",
@@ -573,14 +573,6 @@
         "image": "http://image.tmdb.org/t/p/original/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
         "rating": 8.9,
         "director": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",
-        "stars": 4.0
-    },
-    "Air": {
-        "id": "16419074",
-        "title": "Air",
-        "image": "http://image.tmdb.org/t/p/original/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg",
-        "rating": 7.5,
-        "director": "Ben Affleck",
         "stars": 3.5
     },
     "A Beautiful Mind": {
@@ -597,6 +589,54 @@
         "image": "http://image.tmdb.org/t/p/original/74xTEgt7R36Fpooo50r9T25onhq.jpg",
         "rating": 7.8,
         "director": "Matt Reeves",
+        "stars": 3.5
+    },
+    "Good Time": {
+        "id": "4846232",
+        "title": "Good Time",
+        "image": "http://image.tmdb.org/t/p/original/yE1c9hj5Hf8a9KplAdRdhADqUro.jpg",
+        "rating": 7.3,
+        "director": "Benny Safdie, Josh Safdie",
+        "stars": 4.0
+    },
+    "Her": {
+        "id": "1798709",
+        "title": "Her",
+        "image": "http://image.tmdb.org/t/p/original/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg",
+        "rating": 8.0,
+        "director": "Spike Jonze",
+        "stars": 4.0
+    },
+    "Megamind": {
+        "id": "1001526",
+        "title": "Megamind",
+        "image": "http://image.tmdb.org/t/p/original/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg",
+        "rating": 7.3,
+        "director": "Tom McGrath",
+        "stars": 4.0
+    },
+    "Uncut Gems": {
+        "id": "5727208",
+        "title": "Uncut Gems",
+        "image": "http://image.tmdb.org/t/p/original/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+        "rating": 7.4,
+        "director": "Benny Safdie, Josh Safdie",
+        "stars": 3.5
+    },
+    "Rounders": {
+        "id": "0128442",
+        "title": "Rounders",
+        "image": "http://image.tmdb.org/t/p/original/7JfFYnOLWi2X4TZXJ7qQ7xO1D2x.jpg",
+        "rating": 7.3,
+        "director": "John Dahl",
+        "stars": 3.5
+    },
+    "The Impossible": {
+        "id": "1649419",
+        "title": "The Impossible",
+        "image": "http://image.tmdb.org/t/p/original/k0DLCiDbnYywOHiISALbl2EH2NE.jpg",
+        "rating": 7.5,
+        "director": "J.A. Bayona",
         "stars": 3.5
     }
 }
