@@ -148,5 +148,13 @@
         "rating": 8.9,
         "creator": "Nic Pizzolatto",
         "stars": 4.5
+    },
+    "Chernobyl": {
+        "id": "7366338",
+        "title": "Chernobyl",
+        "image": "http://image.tmdb.org/t/p/original/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+        "rating": 9.3,
+        "creator": "Craig Mazin",
+        "stars": 4.5
     }
 }
