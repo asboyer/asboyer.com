@@ -27,7 +27,7 @@ $(document).ready(function(){
 
         var albums = Object.values(json)
         shuffle(albums)
-        albums.sort((a,b) => (a.score < b.score) ? 1 : ((b.score < a.score) ? -1 : 0))
+        albums.sort((a,b) => (a.stars < b.stars) ? 1 : ((b.stars < a.stars) ? -1 : 0))
 
         $.each(albums, function(title, values){
 
@@ -50,6 +50,20 @@ $(document).ready(function(){
                 link = values.id
             }
 
+
+            var half_star = false
+            if (parseInt(values.stars) < values.stars) {
+                half_star = true;
+            }
+
+            var star_string = ""
+            for (var i = 0; i < parseInt(values.stars); i++) {
+                star_string += `<i class="fas fa-star"></i>`
+            }
+            if (half_star) {
+                star_string += `<i class="fas fa-star-half"></i>`
+            }
+
             var album_div = 
             `
         <div class="all-album__container">
@@ -59,13 +73,12 @@ $(document).ready(function(){
                 <div class="album-text">
                     <p class="title" style="${styles}">${values.name.split("(O")[0].split("(2")[0].split("(M")[0].split("(T")[0].split("(C")[0].split("(E")[0].replace("- The Complete Edition", "").replace(" [Deluxe Edition]", "").replace("(Deluxe)", "").replace("(Remastered)", "").replace("(Original Motion Picture Soundtrack)", "").replace("(Legacy Edition)", "") + special}</p>
                     <p class="artist">${values.artists}</p>
-                    <p class="artist" style="font-size: 10px">${values.score}</p>
+                    <p class="author">${star_string}</p>
                 </div>
             </div>
             </a>
         </div>
             `
-        if(values.score > 4)
             music_div = music_div + album_div
         });
         music_div = music_div + `

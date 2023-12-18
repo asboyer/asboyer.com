@@ -1,1 +1,24 @@
-{}
+{
+    "When The Silence Is Speaking": {
+        "artists": "Koan",
+        "id": "71GOZHzmxXkwfhY902zJk1",
+        "name": "When The Silence Is Speaking",
+        "popularity": 30,
+        "release_date": "2010-02-02",
+        "total_tracks": 9,
+        "uri": "spotify:album:71GOZHzmxXkwfhY902zJk1",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733d9cfd1fb2191b905645e14c",
+        "stars": 4.0,
+        "tracks": [
+            "Back To the Silent Lagoon",
+            "Selena`s Song",
+            "After the Guiding Venus",
+            "The Island Of Deceased Ships",
+            "Dance The Nereids",
+            "Odysseus Under The Old Tree",
+            "Underwater Moonlight",
+            "When The Silence Is Speaking",
+            "Dolphin And Eos"
+        ]
+    }
+}

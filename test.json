@@ -1,0 +1,482 @@
+{
+    "href": "https://api.spotify.com/v1/albums/1p12OAWwudgMqfMzjMvl2a/tracks?offset=0&limit=50",
+    "items": [
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+                    "id": "09hVIj6vWgoCDtT03h8ZCa",
+                    "name": "A Tribe Called Quest",
+                    "type": "artist",
+                    "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 234626,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/4tEaytMs86hIaOSsiGoLcP"
+            },
+            "href": "https://api.spotify.com/v1/tracks/4tEaytMs86hIaOSsiGoLcP",
+            "id": "4tEaytMs86hIaOSsiGoLcP",
+            "is_local": false,
+            "name": "Excursions",
+            "preview_url": "https://p.scdn.co/mp3-preview/fabdbad2e8a50f042a043aacd2aff95a0cfeb56d?cid=b04b339b8d7b436f8e46e51b221cf9dd",
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:4tEaytMs86hIaOSsiGoLcP"
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+                    "id": "09hVIj6vWgoCDtT03h8ZCa",
+                    "name": "A Tribe Called Quest",
+                    "type": "artist",
+                    "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 217466,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6GAemDMWAXa8wZOBkO1gar"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6GAemDMWAXa8wZOBkO1gar",
+            "id": "6GAemDMWAXa8wZOBkO1gar",
+            "is_local": false,
+            "name": "Buggin' Out",
+            "preview_url": "https://p.scdn.co/mp3-preview/3fb44de89514c17fd4f5818aa1cf527fd2519c57?cid=b04b339b8d7b436f8e46e51b221cf9dd",
+            "track_number": 2,
+            "type": "track",
+            "uri": "spotify:track:6GAemDMWAXa8wZOBkO1gar"
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+                    "id": "09hVIj6vWgoCDtT03h8ZCa",
+                    "name": "A Tribe Called Quest",
+                    "type": "artist",
+                    "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 133000,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6CCIqr8xROr3jTnXf4GI3B"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6CCIqr8xROr3jTnXf4GI3B",
+            "id": "6CCIqr8xROr3jTnXf4GI3B",
+            "is_local": false,
+            "name": "Rap Promoter",
+            "preview_url": "https://p.scdn.co/mp3-preview/0068c3306902624d460f928e37d4d7720c9b83cd?cid=b04b339b8d7b436f8e46e51b221cf9dd",
+            "track_number": 3,
+            "type": "track",
+            "uri": "spotify:track:6CCIqr8xROr3jTnXf4GI3B"
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+                    "id": "09hVIj6vWgoCDtT03h8ZCa",
+                    "name": "A Tribe Called Quest",
+                    "type": "artist",
+                    "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 218773,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/758mQT4zzlvBhy9PvNePwC"
+            },
+            "href": "https://api.spotify.com/v1/tracks/758mQT4zzlvBhy9PvNePwC",
+            "id": "758mQT4zzlvBhy9PvNePwC",
+            "is_local": false,
+            "name": "Butter",
+            "preview_url": "https://p.scdn.co/mp3-preview/8ca060b3fa2f75ce0f1889f38fdc8562a763b801?cid=b04b339b8d7b436f8e46e51b221cf9dd",
+            "track_number": 4,
+            "type": "track",
+            "uri": "spotify:track:758mQT4zzlvBhy9PvNePwC"
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+                    "id": "09hVIj6vWgoCDtT03h8ZCa",
+                    "name": "A Tribe Called Quest",
+                    "type": "artist",
+                    "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1vsWTWAvfdqNeFmXq72SlC",
+                    "id": "1vsWTWAvfdqNeFmXq72SlC",
+                    "name": "Vinia Mojica",
+                    "type": "artist",
+                    "uri": "spotify:artist:1vsWTWAvfdqNeFmXq72SlC"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4wnzivx3OQ3vjrySAdTdJP",
+                    "id": "4wnzivx3OQ3vjrySAdTdJP",
+                    "name": "Ron Carter",
+                    "type": "artist",
+                    "uri": "spotify:artist:4wnzivx3OQ3vjrySAdTdJP"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 238893,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6zrsmzrMoxNkXEQLubCWtA"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6zrsmzrMoxNkXEQLubCWtA",
+            "id": "6zrsmzrMoxNkXEQLubCWtA",
+            "is_local": false,
+            "name": "Verses from the Abstract (feat. Vinia Mojica & Ron Carter)",
+            "preview_url": "https://p.scdn.co/mp3-preview/0a9c4e40021d3f87e6a3cba15cab4e97baf79c14?cid=b04b339b8d7b436f8e46e51b221cf9dd",
+            "track_number": 5,
+            "type": "track",
+            "uri": "spotify:track:6zrsmzrMoxNkXEQLubCWtA"
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+                    "id": "09hVIj6vWgoCDtT03h8ZCa",
+                    "name": "A Tribe Called Quest",
+                    "type": "artist",
+                    "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1YypK4ExBm4UY1TRAOur8M"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1YypK4ExBm4UY1TRAOur8M",
+                    "id": "1YypK4ExBm4UY1TRAOur8M",
+                    "name": "Diamond D",
+                    "type": "artist",
+                    "uri": "spotify:artist:1YypK4ExBm4UY1TRAOur8M"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2WSnJlJ0uGTjye4jGSN1GG"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2WSnJlJ0uGTjye4jGSN1GG",
+                    "id": "2WSnJlJ0uGTjye4jGSN1GG",
+                    "name": "Lord Jamar",
+                    "type": "artist",
+                    "uri": "spotify:artist:2WSnJlJ0uGTjye4jGSN1GG"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7fDLDq2weBagiAFD2j17Al"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7fDLDq2weBagiAFD2j17Al",
+                    "id": "7fDLDq2weBagiAFD2j17Al",
+                    "name": "Sadat X",
+                    "type": "artist",
+                    "uri": "spotify:artist:7fDLDq2weBagiAFD2j17Al"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 233440,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/2wS1PObRyCywHdmog5eOWW"
+            },
+            "href": "https://api.spotify.com/v1/tracks/2wS1PObRyCywHdmog5eOWW",
+            "id": "2wS1PObRyCywHdmog5eOWW",
+            "is_local": false,
+            "name": "Show Business (feat. Diamond D, Lord Jamar & Sadat X)",
+            "preview_url": "https://p.scdn.co/mp3-preview/e40eae7bf490942be6686583cc2ddfefb8e7ff12?cid=b04b339b8d7b436f8e46e51b221cf9dd",
+            "track_number": 6,
+            "type": "track",
+            "uri": "spotify:track:2wS1PObRyCywHdmog5eOWW"
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+                    "id": "09hVIj6vWgoCDtT03h8ZCa",
+                    "name": "A Tribe Called Quest",
+                    "type": "artist",
+                    "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 257825,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/4MdEYuoGhG2RTG3erOiu2H"
+            },
+            "href": "https://api.spotify.com/v1/tracks/4MdEYuoGhG2RTG3erOiu2H",
+            "id": "4MdEYuoGhG2RTG3erOiu2H",
+            "is_local": false,
+            "name": "Vibes and Stuff",
+            "preview_url": "https://p.scdn.co/mp3-preview/9680ed7ea411af6b84cc97e597e0be46bdb98550?cid=b04b339b8d7b436f8e46e51b221cf9dd",
+            "track_number": 7,
+            "type": "track",
+            "uri": "spotify:track:4MdEYuoGhG2RTG3erOiu2H"
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+                    "id": "09hVIj6vWgoCDtT03h8ZCa",
+                    "name": "A Tribe Called Quest",
+                    "type": "artist",
+                    "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 173573,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/4hozY0uWh4hxvH2mP6EmSL"
+            },
+            "href": "https://api.spotify.com/v1/tracks/4hozY0uWh4hxvH2mP6EmSL",
+            "id": "4hozY0uWh4hxvH2mP6EmSL",
+            "is_local": false,
+            "name": "Infamous Date Rape",
+            "preview_url": "https://p.scdn.co/mp3-preview/58f38535c754b48b6a7a628c2dd1bb6c1f2ae53f?cid=b04b339b8d7b436f8e46e51b221cf9dd",
+            "track_number": 8,
+            "type": "track",
+            "uri": "spotify:track:4hozY0uWh4hxvH2mP6EmSL"
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+                    "id": "09hVIj6vWgoCDtT03h8ZCa",
+                    "name": "A Tribe Called Quest",
+                    "type": "artist",
+                    "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 216693,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/4HfxDJ0uLHTLe0fZrx0MbQ"
+            },
+            "href": "https://api.spotify.com/v1/tracks/4HfxDJ0uLHTLe0fZrx0MbQ",
+            "id": "4HfxDJ0uLHTLe0fZrx0MbQ",
+            "is_local": false,
+            "name": "Check the Rhime",
+            "preview_url": "https://p.scdn.co/mp3-preview/8e0153aa9b7fa5642fd3ffeea4a1d037428349e6?cid=b04b339b8d7b436f8e46e51b221cf9dd",
+            "track_number": 9,
+            "type": "track",
+            "uri": "spotify:track:4HfxDJ0uLHTLe0fZrx0MbQ"
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+                    "id": "09hVIj6vWgoCDtT03h8ZCa",
+                    "name": "A Tribe Called Quest",
+                    "type": "artist",
+                    "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 178333,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/33d7n0d2Ou4wQ5AcLrLTav"
+            },
+            "href": "https://api.spotify.com/v1/tracks/33d7n0d2Ou4wQ5AcLrLTav",
+            "id": "33d7n0d2Ou4wQ5AcLrLTav",
+            "is_local": false,
+            "name": "Everything Is Fair",
+            "preview_url": "https://p.scdn.co/mp3-preview/c5f8b4d5912b33d673d29dc03180dc4d656ec9de?cid=b04b339b8d7b436f8e46e51b221cf9dd",
+            "track_number": 10,
+            "type": "track",
+            "uri": "spotify:track:33d7n0d2Ou4wQ5AcLrLTav"
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+                    "id": "09hVIj6vWgoCDtT03h8ZCa",
+                    "name": "A Tribe Called Quest",
+                    "type": "artist",
+                    "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 250240,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/7AgMX97ljLm9BzszyyXEYZ"
+            },
+            "href": "https://api.spotify.com/v1/tracks/7AgMX97ljLm9BzszyyXEYZ",
+            "id": "7AgMX97ljLm9BzszyyXEYZ",
+            "is_local": false,
+            "name": "Jazz (We've Got)",
+            "preview_url": "https://p.scdn.co/mp3-preview/c8f57722357f0c69044271cb2ec988939854999a?cid=b04b339b8d7b436f8e46e51b221cf9dd",
+            "track_number": 11,
+            "type": "track",
+            "uri": "spotify:track:7AgMX97ljLm9BzszyyXEYZ"
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+                    "id": "09hVIj6vWgoCDtT03h8ZCa",
+                    "name": "A Tribe Called Quest",
+                    "type": "artist",
+                    "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 132226,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/1ora7jNRx7tv7yjANfGu1u"
+            },
+            "href": "https://api.spotify.com/v1/tracks/1ora7jNRx7tv7yjANfGu1u",
+            "id": "1ora7jNRx7tv7yjANfGu1u",
+            "is_local": false,
+            "name": "Skypager",
+            "preview_url": "https://p.scdn.co/mp3-preview/8b23fa03217546d8ccf97cc942dacb4e1373fe66?cid=b04b339b8d7b436f8e46e51b221cf9dd",
+            "track_number": 12,
+            "type": "track",
+            "uri": "spotify:track:1ora7jNRx7tv7yjANfGu1u"
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+                    "id": "09hVIj6vWgoCDtT03h8ZCa",
+                    "name": "A Tribe Called Quest",
+                    "type": "artist",
+                    "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 148706,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/2ZCwz8omYluRWa9QyznFAy"
+            },
+            "href": "https://api.spotify.com/v1/tracks/2ZCwz8omYluRWa9QyznFAy",
+            "id": "2ZCwz8omYluRWa9QyznFAy",
+            "is_local": false,
+            "name": "What?",
+            "preview_url": "https://p.scdn.co/mp3-preview/5fa92a20af55e5edb9f7e660cfc3a000e6491b95?cid=b04b339b8d7b436f8e46e51b221cf9dd",
+            "track_number": 13,
+            "type": "track",
+            "uri": "spotify:track:2ZCwz8omYluRWa9QyznFAy"
+        },
+        {
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/09hVIj6vWgoCDtT03h8ZCa",
+                    "id": "09hVIj6vWgoCDtT03h8ZCa",
+                    "name": "A Tribe Called Quest",
+                    "type": "artist",
+                    "uri": "spotify:artist:09hVIj6vWgoCDtT03h8ZCa"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+                    "id": "1YfEcTuGvBQ8xSD1f53UnK",
+                    "name": "Busta Rhymes",
+                    "type": "artist",
+                    "uri": "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2cS6wbmG3wMYrzJperKqaa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2cS6wbmG3wMYrzJperKqaa",
+                    "id": "2cS6wbmG3wMYrzJperKqaa",
+                    "name": "Dinco D",
+                    "type": "artist",
+                    "uri": "spotify:artist:2cS6wbmG3wMYrzJperKqaa"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/23eGWtGneElWXARaabR0Dk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/23eGWtGneElWXARaabR0Dk",
+                    "id": "23eGWtGneElWXARaabR0Dk",
+                    "name": "Charlie Brown",
+                    "type": "artist",
+                    "uri": "spotify:artist:23eGWtGneElWXARaabR0Dk"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 250133,
+            "explicit": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/0301nLjG0ti26rx5ZmfqtP"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0301nLjG0ti26rx5ZmfqtP",
+            "id": "0301nLjG0ti26rx5ZmfqtP",
+            "is_local": false,
+            "name": "Scenario (feat. Busta Rhymes, Dinco D & Charlie Brown) - LP Mix",
+            "preview_url": "https://p.scdn.co/mp3-preview/60d3c2f6b3f609b3426f812fc250c04d14331901?cid=b04b339b8d7b436f8e46e51b221cf9dd",
+            "track_number": 14,
+            "type": "track",
+            "uri": "spotify:track:0301nLjG0ti26rx5ZmfqtP"
+        }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 14
+}

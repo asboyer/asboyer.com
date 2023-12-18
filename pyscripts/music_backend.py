@@ -96,9 +96,18 @@ def clean_result(result):
                 artists_string += f'{artist_list[i]}, '
         track['artists'] = artists_string
 
-    result['top_tracks'] = []
-    result['good_tracks'] = []
-    result['score'] = 0.0
+    # result['top_tracks'] = []
+    # result['good_tracks'] = []
+    # result['score'] = 0.0
+
+    result['stars'] = 0.0
+    result[album]['review'] = ""
+    result[album]['tracks_temp'] = {}
+    for i in range(data[album]['total_tracks']):
+        data[album]['tracks_temp'][f'track_{i + 1}'] = {}
+        data[album]['tracks_temp'][f'track_{i + 1}']['score'] = 0.0
+        data[album]['tracks_temp'][f'track_{i + 1}']['name'] = ""
+        data[album]['tracks_temp'][f'track_{i + 1}']['uri'] = ""
 
     tracks = result["tracks"]["items"]
     del result["tracks"]
@@ -223,7 +232,26 @@ def data_base_clean():
 
     # data operation
     for album in data:
-        del data[album]['genres']
+
+        del data[album]['tracks']
+        del data[album]['review']
+
+        data[album]['review'] = ""
+        data[album]['tracks'] = {}
+        for i in range(data[album]['total_tracks']):
+            data[album]['tracks'][f'track_{i + 1}'] = {}
+            data[album]['tracks'][f'track_{i + 1}']['score'] = 0.0
+            data[album]['tracks'][f'track_{i + 1}']['name'] = ""
+            data[album]['tracks'][f'track_{i + 1}']['uri'] = ""
+            data[album]['tracks'][f'track_{i + 1}']['preview_url'] = ""
+            data[album]['tracks'][f'track_{i + 1}']["duration_ms"] = 0.0
+            data[album]['tracks'][f'track_{i + 1}']["explicit"] = False
+
+    # for album in data:
+    #     data[album]['stars'] = 0.0
+    #     del data[album]['score']
+    #     del data[album]['top_tracks']
+    #     del data[album]['good_tracks']
 
     with open('./data/favorites/music/music_all_time.json', 'w') as json_file:
         json.dump(data, json_file, indent=4)
