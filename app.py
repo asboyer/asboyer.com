@@ -147,12 +147,12 @@ def store_emails(emails):
     with open('./emails.json', 'w') as json_file:
         json.dump(emails, json_file, indent=4)
 
-def send_email(reciever, subject, body):
-    server = smtplib.SMTP('smtp.gmail.com', 587)
-    server.starttls()
-    server.login(EMAIL_ADDRESS, EMAIL_PASS)
-    msg = f'Subject: {subject}\n\n{body}'
-    return server.sendmail(EMAIL_ADDRESS, reciever, msg)
+# def send_email(reciever, subject, body):
+#     server = smtplib.SMTP('smtp.gmail.com', 587)
+#     server.starttls()
+#     server.login(EMAIL_ADDRESS, EMAIL_PASS)
+#     msg = f'Subject: {subject}\n\n{body}'
+#     return server.sendmail(EMAIL_ADDRESS, reciever, msg)
     
 def confirm_email(email):
     #Step 1: Check email
@@ -178,11 +178,11 @@ def confirm_email(email):
     # else:
     #     return "this email does not exist!"
 
-def add_email(email, emails):
-    emails[email] = {
-        'date': datetime.now(timezone('US/Eastern')).strftime("%d/%m/%Y %I:%M:%S")
-    }
-    store_emails(emails)
+# def add_email(email, emails):
+#     emails[email] = {
+#         'date': datetime.now(timezone('US/Eastern')).strftime("%d/%m/%Y %I:%M:%S")
+#     }
+#     store_emails(emails)
 
 
 @app.route("/", methods=['GET', 'POST'])
@@ -191,14 +191,14 @@ def index():
     # 'form' is the variable name used in this template: index.html
     form = NameForm()
     message = ""
-    if form.validate_on_submit():
-        email = form.name.data.lower()
-        message = confirm_email(email.strip())
-        if message == True:
-            # send_email(email, 'Welcome to asboyer.com!', 'You are signed on for future updates regarding asboyer.com and Boyer\'s Blog!')
-            form.name.data = ""
-            add_email(email, get_emails())
-            message = "thanks, you are signed up for updates!"
+    # if form.validate_on_submit():
+    #     email = form.name.data.lower()
+    #     message = confirm_email(email.strip())
+    #     if message == True:
+    #         # send_email(email, 'Welcome to asboyer.com!', 'You are signed on for future updates regarding asboyer.com and Boyer\'s Blog!')
+    #         form.name.data = ""
+    #         add_email(email, get_emails())
+    #         message = "thanks, you are signed up for updates!"
 
     return render_template("index.html", age=age_string, grade=grade, form=form, school=school, message=message)
 
@@ -209,14 +209,14 @@ def blog():
     # 'form' is the variable name used in this template: index.html
     form = NameForm()
     message = ""
-    if form.validate_on_submit():
-        email = form.name.data.lower()
-        message = confirm_email(email.strip())
-        if message == True:
-            # send_email(email, 'Welcome to asboyer.com!', 'You are signed on for future updates regarding asboyer.com and Boyer\'s Blog!')
-            form.name.data = ""
-            add_email(email, get_emails())
-            message = "thanks, you are signed up for updates!"
+    # if form.validate_on_submit():
+    #     email = form.name.data.lower()
+    #     message = confirm_email(email.strip())
+    #     if message == True:
+    #         # send_email(email, 'Welcome to asboyer.com!', 'You are signed on for future updates regarding asboyer.com and Boyer\'s Blog!')
+    #         form.name.data = ""
+    #         add_email(email, get_emails())
+    #         message = "thanks, you are signed up for updates!"
 
     return render_template("blog/blog.html", form=form, message=message)
 
