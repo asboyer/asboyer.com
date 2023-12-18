@@ -48,48 +48,48 @@ soon_posts.sort()
 soon_posts = soon_posts[0:1]
 soon_posts[0] = str(soon_posts[0])
 
-f = open('data/favorites/music/music_all_time.json')
-all_time_music = json.load(f)
-f.close()
-albums = len(all_time_music.keys())
-total_score = 0
-tens = 0
-for album in all_time_music:
-    total_score += all_time_music[album]['score']
-    if all_time_music[album]['score'] == 10.0:
-        tens += 1
-avg_score = total_score/albums
+# f = open('data/favorites/music/music_all_time.json')
+# all_time_music = json.load(f)
+# f.close()
+# albums = len(all_time_music.keys())
+# total_score = 0
+# tens = 0
+# for album in all_time_music:
+#     total_score += all_time_music[album]['score']
+#     if all_time_music[album]['score'] == 10.0:
+#         tens += 1
+# avg_score = total_score/albums
 
-f = open('data/favorites/music/music_current.json')
-current_albums = json.load(f)
-f.close()
+# f = open('data/favorites/music/music_current.json')
+# current_albums = json.load(f)
+# f.close()
 
-f = open('data/favorites/music/music_current_songs.json')
-current_tracks = json.load(f)
-f.close()
+# f = open('data/favorites/music/music_current_songs.json')
+# current_tracks = json.load(f)
+# f.close()
 
-current_albums_len = len(current_albums.keys())
-total_current_score = 0
-tracks = 0
-for t in current_tracks:
-    tracks += 1
+# current_albums_len = len(current_albums.keys())
+# total_current_score = 0
+# tracks = 0
+# for t in current_tracks:
+#     tracks += 1
 
-zero_scores = 0
-for title in current_albums:
-    if current_albums[title]['score'] == 0:
-        zero_scores += 1
-    total_current_score += current_albums[title]['score']
-    tracks += len(current_albums[title]['top_tracks'])
+# zero_scores = 0
+# for title in current_albums:
+#     if current_albums[title]['score'] == 0:
+#         zero_scores += 1
+#     total_current_score += current_albums[title]['score']
+#     tracks += len(current_albums[title]['top_tracks'])
 
-avg_current_score = 0
-current_albums_len -= zero_scores
-if current_albums_len != 0:
-    avg_current_score = round(total_current_score/current_albums_len, 2)
+# avg_current_score = 0
+# current_albums_len -= zero_scores
+# if current_albums_len != 0:
+#     avg_current_score = round(total_current_score/current_albums_len, 2)
 
-if avg_current_score == 0:
-    avg_current_score = "no scores yet"
-else:
-    avg_current_score = "avg score: " + str(avg_current_score) + "/10"
+# if avg_current_score == 0:
+#     avg_current_score = "no scores yet"
+# else:
+#     avg_current_score = "avg score: " + str(avg_current_score) + "/10"
 
 app = Flask(__name__)
 app.debug = True
@@ -147,16 +147,16 @@ def qban2():
     return "01110101 01100111 01100111 01100011 01100110 00111010 00101111 00101111 01110001 01100101 01110110 01101001 01110010 00101110 01110100 01100010 01100010 01110100 01111001 01110010 00101110 01110000 01100010 01111010 00101111 01110001 01100101 01110110 01101001 01110010 00101111 01101000 00101111 00110000 00101111 01110011 01100010 01111001 01110001 01110010 01100101 01100110 00101111 00110001 01011111 01100110 01100110 01001100 01100110 01001010 01110100 01100011 01000110 00101101 01101000 01111010 01000110 01100101 01000111 00111000 01110101 01010010 01110011 01011001 01110101 01010000 01100001 01001101 00101101 01000110 01000111 00110011 01100101 01010110 01101011 01011010"
 
 
-def store_emails(emails):
-    with open('./emails.json', 'w') as json_file:
-        json.dump(emails, json_file, indent=4)
+# def store_emails(emails):
+#     with open('./emails.json', 'w') as json_file:
+#         json.dump(emails, json_file, indent=4)
 
-def send_email(reciever, subject, body):
-    server = smtplib.SMTP('smtp.gmail.com', 587)
-    server.starttls()
-    server.login(EMAIL_ADDRESS, EMAIL_PASS)
-    msg = f'Subject: {subject}\n\n{body}'
-    return server.sendmail(EMAIL_ADDRESS, reciever, msg)
+# def send_email(reciever, subject, body):
+#     server = smtplib.SMTP('smtp.gmail.com', 587)
+#     server.starttls()
+#     server.login(EMAIL_ADDRESS, EMAIL_PASS)
+#     msg = f'Subject: {subject}\n\n{body}'
+#     return server.sendmail(EMAIL_ADDRESS, reciever, msg)
     
 def confirm_email(email):
     #Step 1: Check email
@@ -182,11 +182,11 @@ def confirm_email(email):
     # else:
     #     return "this email does not exist!"
 
-def add_email(email, emails):
-    emails[email] = {
-        'date': datetime.now(timezone('US/Eastern')).strftime("%d/%m/%Y %I:%M:%S")
-    }
-    store_emails(emails)
+# def add_email(email, emails):
+#     emails[email] = {
+#         'date': datetime.now(timezone('US/Eastern')).strftime("%d/%m/%Y %I:%M:%S")
+#     }
+#     store_emails(emails)
 
 
 @app.route("/", methods=['GET', 'POST'])
@@ -195,14 +195,14 @@ def index():
     # 'form' is the variable name used in this template: index.html
     form = NameForm()
     message = ""
-    if form.validate_on_submit():
-        email = form.name.data.lower()
-        message = confirm_email(email.strip())
-        if message == True:
-            # send_email(email, 'Welcome to asboyer.com!', 'You are signed on for future updates regarding asboyer.com and Boyer\'s Blog!')
-            form.name.data = ""
-            add_email(email, get_emails())
-            message = "thanks, you are signed up for updates!"
+    # if form.validate_on_submit():
+    #     email = form.name.data.lower()
+    #     message = confirm_email(email.strip())
+    #     if message == True:
+    #         # send_email(email, 'Welcome to asboyer.com!', 'You are signed on for future updates regarding asboyer.com and Boyer\'s Blog!')
+    #         form.name.data = ""
+    #         add_email(email, get_emails())
+    #         message = "thanks, you are signed up for updates!"
 
     return render_template("index.html", age=age_string, grade=grade, form=form, school=school, message=message)
 
@@ -213,14 +213,14 @@ def blog():
     # 'form' is the variable name used in this template: index.html
     form = NameForm()
     message = ""
-    if form.validate_on_submit():
-        email = form.name.data.lower()
-        message = confirm_email(email.strip())
-        if message == True:
-            # send_email(email, 'Welcome to asboyer.com!', 'You are signed on for future updates regarding asboyer.com and Boyer\'s Blog!')
-            form.name.data = ""
-            add_email(email, get_emails())
-            message = "thanks, you are signed up for updates!"
+    # if form.validate_on_submit():
+    #     email = form.name.data.lower()
+    #     message = confirm_email(email.strip())
+    #     if message == True:
+    #         # send_email(email, 'Welcome to asboyer.com!', 'You are signed on for future updates regarding asboyer.com and Boyer\'s Blog!')
+    #         form.name.data = ""
+    #         add_email(email, get_emails())
+    #         message = "thanks, you are signed up for updates!"
 
     return render_template("blog/blog.html", form=form, message=message)
 
@@ -283,7 +283,7 @@ def gallery_json():
 # music
 @app.route("/music")
 def music():
-    return render_template("favorites/music/music.html", albums=albums, avg_score=round(avg_score, 2), tens=p.number_to_words(tens), tracks=tracks, current_albums=current_albums_len, avg_current_score=avg_current_score)
+    return render_template("favorites/music/music.html")
 
 @app.route("/music/<name>")
 def music_path(name):
