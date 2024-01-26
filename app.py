@@ -263,11 +263,11 @@ def blog():
 
 @app.route("/blog/1")
 def post_1():
-    return render_template("blog/1.html", title="Predicting the NBA MVP with Python", date_string="2.7.22", subs=["Programming", "Sports"])
+    return render_template("blog/1.html", title="Predicting the NBA MVP with Python", date_string="2.7.22", subs="Programming, Sports")
 
 @app.route("/blog/0")
 def post_0():
-    return render_template("blog/0.html", title="Kanye West is my role model", date_string="8.13.21", subs=["Life", "Music"])
+    return render_template("blog/0.html", title="Kanye West is my role model", date_string="8.13.21", subs="Life, Music")
 # @app.route("/pics")
 # def gallery():
 #     return render_template("gallery.html")
