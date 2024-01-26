@@ -37,16 +37,16 @@ age_string = " " + age_string
 
 soon_posts = []
 
-f = open('data/blog/posts.json')
-posts = json.load(f)
-f.close()
-for post in posts:
-    if not posts[post]['live']:
-        soon_posts.append(int(posts[post]['id']))
+# f = open('data/blog/posts.json')
+# posts = json.load(f)
+# f.close()
+# for post in posts:
+#     if not posts[post]['live']:
+#         soon_posts.append(int(posts[post]['id']))
 
-soon_posts.sort()
-soon_posts = soon_posts[0:1]
-soon_posts[0] = str(soon_posts[0])
+# soon_posts.sort()
+# soon_posts = soon_posts[0:1]
+# soon_posts[0] = str(soon_posts[0])
 
 f = open('data/favorites/music/music_all_time.json')
 all_time_music = json.load(f)
@@ -269,11 +269,11 @@ def blog_post(name):
 def goatgrade():
     return render_template("projects/index.html")
 
-@app.route("/data/gallery/pics.json")
-def gallery_json():
-    f = open('data/gallery/pics.json')
-    data = json.load(f)
-    return data
+# @app.route("/data/gallery/pics.json")
+# def gallery_json():
+#     f = open('data/gallery/pics.json')
+#     data = json.load(f)
+#     return data
 
 
 # music
