@@ -27,7 +27,7 @@
     "A Review: Oppenheimer": {
         "title": "20 Years Old: 20 life lessons",
         "id": 2,
-        "date": "12.21.23",
+        "date": "",
         "subjects": ["Life", "Philosophy"],
         "cover_img": "/static/img/blog/stoicism/marcus.jpg",
         "blurb": "20 life lessons for a twenty year old.",
