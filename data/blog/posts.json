@@ -14,23 +14,5 @@
         "subjects": ["Programming", "Sports"],
         "cover_img": "/static/img/blog/python-mvp/jokic.png",
         "live": true
-    },
-    "Become unstoppable with Stoicism": {
-        "title": "Become Unstoppable with Stoicism",
-        "id": 3,
-        "date": "",
-        "subjects": ["Life", "Philosophy", "Self-improvement"],
-        "cover_img": "/static/img/blog/stoicism/marcus.jpg",
-        "blurb": "My guide to using the philosophy of Stoicism to enhance mental strength",
-        "live": false
-    },
-    "A Review: Oppenheimer": {
-        "title": "20 Years Old: 20 life lessons",
-        "id": 2,
-        "date": "12.21.23",
-        "subjects": ["Life", "Philosophy"],
-        "cover_img": "/static/img/blog/stoicism/marcus.jpg",
-        "blurb": "20 life lessons for a twenty year old.",
-        "live": false
-    }    
+    }
 }

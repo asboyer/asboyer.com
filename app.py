@@ -37,16 +37,16 @@ age_string = " " + age_string
 
 soon_posts = []
 
-f = open('data/blog/posts.json')
-posts = json.load(f)
-f.close()
-for post in posts:
-    if not posts[post]['live']:
-        soon_posts.append(int(posts[post]['id']))
+# f = open('data/blog/posts.json')
+# posts = json.load(f)
+# f.close()
+# for post in posts:
+#     if not posts[post]['live']:
+#         soon_posts.append(int(posts[post]['id']))
 
-soon_posts.sort()
-soon_posts = soon_posts[0:1]
-soon_posts[0] = str(soon_posts[0])
+# soon_posts.sort()
+# soon_posts = soon_posts[0:1]
+# soon_posts[0] = str(soon_posts[0])
 
 f = open('data/favorites/music/music_all_time.json')
 all_time_music = json.load(f)
@@ -220,6 +220,7 @@ def blog():
 
     return render_template("blog/blog.html", form=form, message=message)
 
+<<<<<<< HEAD
 @app.route("/blog/<name>")
 def blog_post(name):
     if name in soon_posts:
@@ -258,9 +259,54 @@ def blog_post(name):
         # make error page
         return render_template("error.html")
 
+# @app.route("/blog/<name>")
+# def blog_post(name):
+#     if name in soon_posts:
+#         title = "t"
+#         for post in posts:
+#             if posts[post]['id'] == int(name):
+#                 title = posts[post]["title"]
+#                 d = posts[post]["date"]
+#                 subs = posts[post]["subjects"]
+#                 blurb = posts[post]["blurb"]
+#                 sub_str = ""
+#                 for sub in subs:
+#                     if subs[len(subs) - 1] == sub:
+#                         sub_str += sub
+#                     else:    
+#                         sub_str += sub + ", "
+#                 break
+#         return render_template("soon.html", value=title, date_string=d, subs=sub_str, blurb=blurb)
+#     elif os.path.exists(f'templates/blog/{name}.html'):
+
+#         for post in posts:
+#             if not posts[post]['live'] and int(name) == posts[post]['id']:
+#                 return render_template("coming_soon.html") 
+#             if posts[post]['id'] == int(name):
+#                 title = posts[post]["title"]
+#                 d = posts[post]["date"]
+#                 subs = posts[post]["subjects"]
+#                 sub_str = ""
+#                 for sub in subs:
+#                     if subs[len(subs) - 1] == sub:
+#                         sub_str += sub
+#                     else:    
+#                         sub_str += sub + ", "
+#         return render_template(f"blog/{name}.html", title=title, date_string=d, subs=sub_str)
+#     else:
+#         # make error page
+#         return render_template("error.html")
+
 # favorites
 
 
+@app.route("/blog/1")
+def post_1():
+    return render_template("blog/1.html", title="Predicting the NBA MVP with Python", date_string="2.7.22", subs="Programming, Sports")
+
+@app.route("/blog/0")
+def post_0():
+    return render_template("blog/0.html", title="Kanye West is my role model", date_string="8.13.21", subs="Life, Music")
 # @app.route("/pics")
 # def gallery():
 #     return render_template("gallery.html")
@@ -269,11 +315,11 @@ def blog_post(name):
 def goatgrade():
     return render_template("projects/index.html")
 
-@app.route("/data/gallery/pics.json")
-def gallery_json():
-    f = open('data/gallery/pics.json')
-    data = json.load(f)
-    return data
+# @app.route("/data/gallery/pics.json")
+# def gallery_json():
+#     f = open('data/gallery/pics.json')
+#     data = json.load(f)
+#     return data
 
 
 # music
