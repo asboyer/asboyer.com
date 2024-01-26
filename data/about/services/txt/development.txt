@@ -1,4 +1,4 @@
-Development
+of Development
 Since the summer of my freshman year of high school, I've self taught myself the fundamentals of development and programming.
 I am passionate about creating with code and bringing ideas to life with software. 
 Not only am I passionate about teaching myself, but I love to teach others how to leverage software for good. 
