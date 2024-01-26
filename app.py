@@ -22,7 +22,7 @@ school = "Wayland High School"
 def calculateAge(birthDate):
     today = date.today()
     age = today.year - birthDate.year - ((today.month, today.day) < (birthDate.month, birthDate.day))
- 
+
     return age
 
 birthday = date(2003, 9, 21)
@@ -100,7 +100,7 @@ Bootstrap(app)
 
 class NameForm(FlaskForm):
     name = StringField('your favorite email: ', validators=[DataRequired()])
-    submit = SubmitField('Submit')    
+    submit = SubmitField('Submit')
 
 
 @app.route("/404")
@@ -153,7 +153,7 @@ def store_emails(emails):
 #     server.login(EMAIL_ADDRESS, EMAIL_PASS)
 #     msg = f'Subject: {subject}\n\n{body}'
 #     return server.sendmail(EMAIL_ADDRESS, reciever, msg)
-    
+
 def confirm_email(email):
     #Step 1: Check email
     #Check using Regex that an email meets minimum requirements, throw an error if not
@@ -186,7 +186,7 @@ def confirm_email(email):
 
 
 @app.route("/", methods=['GET', 'POST'])
-def index(): 
+def index():
     # you must tell the variable 'form' what you named the class, above
     # 'form' is the variable name used in this template: index.html
     form = NameForm()
@@ -234,7 +234,7 @@ def blog_post(name):
                 for sub in subs:
                     if subs[len(subs) - 1] == sub:
                         sub_str += sub
-                    else:    
+                    else:
                         sub_str += sub + ", "
                 break
         return render_template("soon.html", value=title, date_string=d, subs=sub_str, blurb=blurb)
@@ -242,7 +242,7 @@ def blog_post(name):
 
         for post in posts:
             if not posts[post]['live'] and int(name) == posts[post]['id']:
-                return render_template("coming_soon.html") 
+                return render_template("coming_soon.html")
             if posts[post]['id'] == int(name):
                 title = posts[post]["title"]
                 d = posts[post]["date"]
@@ -251,7 +251,7 @@ def blog_post(name):
                 for sub in subs:
                     if subs[len(subs) - 1] == sub:
                         sub_str += sub
-                    else:    
+                    else:
                         sub_str += sub + ", "
         return render_template(f"blog/{name}.html", title=title, date_string=d, subs=sub_str)
     else:
@@ -422,19 +422,19 @@ def load_skills():
 def load_blog_posts():
     f = open('data/blog/posts.json')
     data = json.load(f)
-    return data    
+    return data
 
 @app.route("/data/tools.json")
 def load_tools():
     f = open('data/tools/index.json')
     data = json.load(f)
-    return data  
+    return data
 
 @app.route("/data/midnight/specs.json")
 def load_midnight_parts():
     f = open('data/midnight/parts.json')
     data = json.load(f)
-    return data      
+    return data
 
 @app.route("/midnight")
 def midnight_parts():
@@ -460,7 +460,7 @@ def bball_2022():
 def load_bball_2022():
     f = open('data/highlights/bball_2022.json')
     data = json.load(f)
-    return data  
+    return data
 
 @app.route("/data/quotes.json")
 def load_quotes():
@@ -491,13 +491,13 @@ def load_music_current_712021():
     f = open('data/archive/music/712021/music_current.json')
     data = json.load(f)
     return data
-        
+
 @app.route("/data/archive/music/712021/music_current_songs.json")
 def load_music_current_songs_712021():
     f = open('data/archive/music/712021/music_current_songs.json')
     data = json.load(f)
     return data
-        
+
 @app.route("/archive/music/1")
 def music_archive_712021():
     return render_template("archive/music/712021.html")
@@ -520,7 +520,7 @@ def load_music_current_songs_8252021():
 @app.route("/archive/music/2")
 def music_archive_8252021():
     return render_template("archive/music/8252021.html")
-    
+
 #####################9/10/2021 music backup here#####################
 
 @app.route("/data/archive/music/9102021/music_current.json")
@@ -538,7 +538,7 @@ def load_music_current_songs_9102021():
 @app.route("/archive/music/3")
 def music_archive_9102021():
     return render_template("archive/music/9102021.html")
-    
+
 #####################9/16/2021 music backup here#####################
 
 @app.route("/data/archive/music/9162021/music_current.json")
@@ -556,7 +556,7 @@ def load_music_current_songs_9162021():
 @app.route("/archive/music/4")
 def music_archive_9162021():
     return render_template("archive/music/9162021.html")
-    
+
 #####################10/3/2021 music backup here#####################
 
 @app.route("/data/archive/music/1032021/music_current.json")
@@ -574,7 +574,7 @@ def load_music_current_songs_1032021():
 @app.route("/archive/music/5")
 def music_archive_1032021():
     return render_template("archive/music/1032021.html")
-    
+
 #####################10/12/2021 music backup here#####################
 
 @app.route("/data/archive/music/10122021/music_current.json")
@@ -592,7 +592,7 @@ def load_music_current_songs_10122021():
 @app.route("/archive/music/6")
 def music_archive_10122021():
     return render_template("archive/music/10122021.html")
-    
+
 #####################10/27/2021 music backup here#####################
 
 @app.route("/data/archive/music/10272021/music_current.json")
@@ -610,7 +610,7 @@ def load_music_current_songs_10272021():
 @app.route("/archive/music/7")
 def music_archive_10272021():
     return render_template("archive/music/10272021.html")
-    
+
 #####################2/4/2022 music backup here#####################
 
 @app.route("/data/archive/music/242022/music_current.json")
@@ -628,7 +628,7 @@ def load_music_current_songs_242022():
 @app.route("/archive/music/8")
 def music_archive_242022():
     return render_template("archive/music/242022.html")
-    
+
 #####################3/27/2022 music backup here#####################
 
 @app.route("/data/archive/music/3272022/music_current.json")
@@ -646,7 +646,7 @@ def load_music_current_songs_3272022():
 @app.route("/archive/music/9")
 def music_archive_3272022():
     return render_template("archive/music/3272022.html")
-    
+
 #####################3/27/2022 music backup here#####################
 
 #####################4/10/2022 music backup here#####################
@@ -666,7 +666,7 @@ def load_music_current_songs_4102022():
 @app.route("/archive/music/10")
 def music_archive_4102022():
     return render_template("archive/music/4102022.html")
-    
+
 #####################5/8/2022 music backup here#####################
 
 @app.route("/data/archive/music/582022/music_current.json")
@@ -684,7 +684,7 @@ def load_music_current_songs_582022():
 @app.route("/archive/music/11")
 def music_archive_582022():
     return render_template("archive/music/582022.html")
-    
+
 #####################6/6/2022 music backup here#####################
 
 @app.route("/data/archive/music/662022/music_current.json")
@@ -702,7 +702,7 @@ def load_music_current_songs_662022():
 @app.route("/archive/music/12")
 def music_archive_662022():
     return render_template("archive/music/662022.html")
-    
+
 #####################6/23/2022 music backup here#####################
 
 @app.route("/data/archive/music/6232022/music_current.json")
@@ -720,7 +720,7 @@ def load_music_current_songs_6232022():
 @app.route("/archive/music/13")
 def music_archive_6232022():
     return render_template("archive/music/6232022.html")
-    
+
 #####################8/5/2022 music backup here#####################
 
 @app.route("/data/archive/music/852022/music_current.json")
@@ -741,7 +741,7 @@ def music_archive_852022():
     total_tracks = 156
     total_albums = 11
     return render_template("archive/music/852022.html", avg_score=avg_score, total_tracks=total_tracks, total_albums=total_albums)
-    
+
 #####################9/22/2022 music backup here#####################
 
 @app.route("/data/archive/music/9222022/music_current.json")
@@ -762,7 +762,7 @@ def music_archive_9222022():
     total_tracks = 84
     total_albums = 5
     return render_template("archive/music/9222022.html", avg_score=avg_score, total_tracks=total_tracks, total_albums=total_albums)
-    
+
 #####################12/3/2022 music backup here#####################
 
 @app.route("/data/archive/music/1232022/music_current.json")
@@ -781,4 +781,3 @@ def load_music_current_songs_1232022():
 def music_archive_1232022():
 
     return render_template("archive/music/1232022.html")
-    
