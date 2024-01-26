@@ -220,45 +220,6 @@ def blog():
 
     return render_template("blog/blog.html", form=form, message=message)
 
-<<<<<<< HEAD
-@app.route("/blog/<name>")
-def blog_post(name):
-    if name in soon_posts:
-        title = "t"
-        for post in posts:
-            if posts[post]['id'] == int(name):
-                title = posts[post]["title"]
-                d = posts[post]["date"]
-                subs = posts[post]["subjects"]
-                blurb = posts[post]["blurb"]
-                sub_str = ""
-                for sub in subs:
-                    if subs[len(subs) - 1] == sub:
-                        sub_str += sub
-                    else:
-                        sub_str += sub + ", "
-                break
-        return render_template("soon.html", value=title, date_string=d, subs=sub_str, blurb=blurb)
-    elif os.path.exists(f'templates/blog/{name}.html'):
-
-        for post in posts:
-            if not posts[post]['live'] and int(name) == posts[post]['id']:
-                return render_template("coming_soon.html")
-            if posts[post]['id'] == int(name):
-                title = posts[post]["title"]
-                d = posts[post]["date"]
-                subs = posts[post]["subjects"]
-                sub_str = ""
-                for sub in subs:
-                    if subs[len(subs) - 1] == sub:
-                        sub_str += sub
-                    else:
-                        sub_str += sub + ", "
-        return render_template(f"blog/{name}.html", title=title, date_string=d, subs=sub_str)
-    else:
-        # make error page
-        return render_template("error.html")
-
 # @app.route("/blog/<name>")
 # def blog_post(name):
 #     if name in soon_posts:
