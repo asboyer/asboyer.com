@@ -248,13 +248,12 @@ h3 { font-size: var(--fs-h3) }
 /* header */
 
 header {
-/*    display: flex;*/
+    display: flex;
     justify-content: space-between;
-    /*padding: 1em;*/
+/*    padding: 3em;*/
     padding-right: 25px;
     background: var(--clr-darker);
     border: #111 1px solid;
-    display: none;
 }
 
 .logo {
